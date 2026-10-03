@@ -32,7 +32,7 @@ from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 from zoneinfo import ZoneInfo
 
-COLLECTOR_VERSION = 8
+COLLECTOR_VERSION = 9
 ET_TZ = ZoneInfo("America/New_York")
 UA = "MorningBriefingCollector/2.0 (personal use; one run per day)"
 NOW = datetime.now(timezone.utc)
@@ -528,6 +528,10 @@ def find_espn_team(sport, league, name, groups=None):
     return str(pick["id"]), pick.get("displayName") or name
 
 
+INJURY_WORDS = re.compile(r"injur|knee|ankle|hamstring|foot|calf|groin|shoulder|concussion|hip|back|oblique|illness|questionable|doubtful|"
+                          r"ruled out|designation|surgery|strain|sprain|day-to-day|out for|sidelined|limited", re.I)
+
+
 def shape_injury(inj):
     ath = inj.get("athlete") or {}
     pos = (ath.get("position") or {}).get("abbreviation") if isinstance(ath.get("position"), dict) else ath.get("position")
@@ -542,7 +546,7 @@ def collect_teams(cfg, status):
     cutoff = NOW - timedelta(days=days)
     for t in cfg.get("espn_teams", []):
         label = t.get("label") or t.get("name", "team")
-        rec = {"label": label, "team": None, "team_id": None, "news": [], "injuries": [], "injuries_checked": False}
+        rec = {"label": label, "team": None, "team_id": None, "news": [], "injuries": [], "injuries_checked": False, "injuries_total": 0}
         st = {"name": label, "ok": False, "news_items": 0, "injuries": 0}
         try:
             tid, tname = find_espn_team(t["sport"], t["league"], t["name"], t.get("groups"))
@@ -558,9 +562,22 @@ def collect_teams(cfg, status):
         news_url = f"{base}/news?team={tid}&limit=20"
         try:
             data = json.loads(fetch(news_url))
+            nick = (tname or t["name"]).split()[-1].lower()
             for a in data.get("articles", []):
                 pub = parse_iso(a.get("published") or a.get("lastModified"))
                 if not pub or pub < cutoff:
+                    continue
+                # ESPN's news endpoint ignores the team filter and returns league-wide stories, so keep only stories tagged
+                # with this team or that mention its name.
+                cat_ids = set()
+                for c in a.get("categories") or []:
+                    if isinstance(c, dict):
+                        if c.get("teamId") is not None:
+                            cat_ids.add(str(c["teamId"]))
+                        if isinstance(c.get("team"), dict) and c["team"].get("id") is not None:
+                            cat_ids.add(str(c["team"]["id"]))
+                text = ((a.get("headline") or "") + " " + (a.get("description") or "")).lower()
+                if tid not in cat_ids and nick not in text:
                     continue
                 link = ((a.get("links") or {}).get("web") or {}).get("href") or ""
                 rec["news"].append({"title": clean(a.get("headline") or "", 300), "published": pub, "link": link,
@@ -579,7 +596,10 @@ def collect_teams(cfg, status):
                     inj_cache[inj_url] = json.loads(fetch(inj_url)).get("injuries", [])
                 for block in inj_cache[inj_url]:
                     if str(block.get("id")) == tid or (block.get("displayName") or "").lower() == (tname or "").lower():
-                        rec["injuries"] = [shape_injury(i) for i in block.get("injuries", [])]
+                        allinj = [shape_injury(i) for i in block.get("injuries", [])]
+                        # ESPN's list is a player-news feed: drop 'Active' entries that are just stat lines or signings
+                        rec["injuries"] = [i for i in allinj if (i["status"] or "").strip().lower() not in ("active", "") or INJURY_WORDS.search(i["comment"] or "")]
+                        rec["injuries_total"] = len(allinj)
                         break
                 rec["injuries_checked"] = True
                 st["injuries"] = len(rec["injuries"])
@@ -595,9 +615,10 @@ def collect_teams(cfg, status):
 
 def render_teams(teams):
     lines = ["# Team digest (generated %s)" % et_str(NOW), "",
-             "News headlines and injury lists for my teams from ESPN's unofficial endpoints. The injury list can lag the team's or league's "
-             "official report, so confirm status with a second source before stating it. An empty list can mean 'no injuries listed' or "
-             "'the endpoint returned nothing'; check the 'injuries checked' note.", ""]
+             "News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. "
+             "ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the "
+             "official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. "
+             "'none listed' can mean no injuries or that the endpoint returned nothing.", ""]
     for r in teams:
         lines.append(f"## {r['label']}" + (f" (ESPN team id {r['team_id']})" if r.get("team_id") else " (team not found)"))
         if r["news"]:
@@ -609,7 +630,7 @@ def render_teams(teams):
             lines.append("News: none returned")
         if r["injuries_checked"]:
             if r["injuries"]:
-                lines.append("Injuries (ESPN list):")
+                lines.append(f"Injuries / player notes (ESPN; {len(r['injuries'])} of {r['injuries_total']} entries shown):")
                 for i in r["injuries"]:
                     lines.append(f"- {i['player']} ({i['position']}) | {i['status']} | {i['date']} | {i['comment']}")
             else:

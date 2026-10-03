@@ -415,12 +415,6 @@
    "url": "https://www.theguardian.com/football/chelsea/rss",
    "category": "Sports",
    "note": "added Oct 3, untested"
-  },
-  {
-   "name": "MMA Fighting",
-   "url": "https://www.mmafighting.com/rss/current",
-   "category": "Sports",
-   "note": "added Oct 3, untested"
   }
  ],
  "espn_leagues": [
