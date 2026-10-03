@@ -1,6 +1,6 @@
-# Team digest (generated Sat Oct 3, 1:52 PM ET)
+# Team digest (generated Sat Oct 3, 1:59 PM ET)
 
-News headlines and injury lists for my teams from ESPN's unofficial endpoints. The injury list can lag the team's or league's official report, so confirm status with a second source before stating it. An empty list can mean 'no injuries listed' or 'the endpoint returned nothing'; check the 'injuries checked' note.
+News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
@@ -16,32 +16,16 @@ News (last days, newest first):
 - NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy' | Thu Oct 1, 7:54 PM ET | https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms | Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.
 - Brian Flores and his dominant Vikings defense take on the winless Dolphins, the team he once coached | Thu Oct 1, 7:01 PM ET | http://www.espn.com/nfl/preview?gameId=401872974 | — Brian Flores has become one of the most impactful and prominent assistant coaches in the
 - Here's why NFL players risk CTE despite knowing the dangers | Wed Sep 30, 2:49 PM ET | https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks | We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.
-Injuries (ESPN list):
-- Carlos Washington Jr. (RB) | Active | Sat Oct 3, 11:35 AM ET | The Dolphins signed Washington from the practice squad to the active roster Saturday, Barry Jackson of the Miami Herald reports.
+Injuries / player notes (ESPN; 9 of 25 entries shown):
 - Robert Beal Jr. (DE) | Out | Fri Oct 2, 9:01 PM ET | Beal (hamstring) has been ruled out ahead of Sunday's game against the Vikings, Marcel Louis-Jacques of ESPN.com reports.
 - Chris Bell (WR) | Active | Fri Oct 2, 4:10 PM ET | Bell (knee) doesn't have an injury designation for Sunday's game against the Vikings, David Furones of the South Florida Sun Sentinel reports.
-- Aaron Brewer (C) | Active | Fri Oct 2, 3:58 PM ET | 
-- Tucker Addington (LS) | Active | Fri Oct 2, 3:57 PM ET | 
 - Kenneth Grant (DT) | Injured Reserve | Fri Oct 2, 11:37 AM ET | Head coach Jeff Hafley said Friday that Grant (leg) could begin practicing next week, C. Isaiah Smalls II of the Miami Herald reports.
 - Caleb Douglas (WR) | Out | Fri Oct 2, 11:08 AM ET | Douglas (ankle) has been ruled out for Sunday's game against the Vikings, Marcel Louis-Jacques of ESPN.com reports.
 - Jaylen Wright (RB) | Active | Thu Oct 1, 5:21 PM ET | Wright (foot/stinger) was a full participant in Thursday's practice, Emily Leiker of The Minnesota Star Tribune reports.
 - Storm Duck (CB) | Out | Wed Sep 30, 9:21 PM ET | The Dolphins opened Duck's (knee) 21-day practice window Wednesday, David Furones of the South Florida Sun Sentinel reports.
-- Jordyn Brooks (LB) | Active | Wed Sep 30, 12:02 AM ET | Brooks made 10 tackles (three solo) in the Dolphins' 24-10 loss to the Chiefs on Sunday.
-- Jacob Rodriguez (LB) | Active | Tue Sep 29, 11:59 PM ET | Rodriguez logged six tackles (four solo) and one pass defensed for an interception in the Dolphins' 24-10 loss to the Chiefs on Sunday.
-- Malik Washington (WR) | Active | Tue Sep 29, 10:17 PM ET | Washington caught five of 10 targets for 56 yards in Sunday's 24-10 loss to Kansas City. He gained five rushing yards on two carries.
-- Greg Dulcich (TE) | Active | Tue Sep 29, 12:39 AM ET | Dulcich caught five of seven targets for 55 yards in the Dolphins' 24-10 loss to the Chiefs on Sunday.
-- Riley Patterson (PK) | Active | Mon Sep 28, 7:27 PM ET | Patterson made his only field-goal attempt and sole extra-point try during Sunday's 24-10 loss to the Chiefs.
 - De'Von Achane (RB) | Injured Reserve | Mon Sep 28, 4:10 PM ET | The Dolphins placed Achane (knee) on injured reserve Monday.
-- Marcellas Dial Jr. (CB) | Active | Mon Sep 28, 2:41 PM ET | 
-- DJ Campbell (G) | Active | Mon Sep 28, 2:41 PM ET | 
-- Brady Cook (QB) | Active | Mon Sep 28, 2:41 PM ET | 
-- Chukwuebuka Godrick (OT) | Active | Mon Sep 28, 2:41 PM ET | 
-- Malik Willis (QB) | Active | Sun Sep 27, 5:05 PM ET | Willis completed 20 of 36 passes for 210 yards, no touchdowns and one interception in Sunday's 24-10 loss to the Chiefs. He also rushed nine times for 56 yards and lost a fumble.
-- Ollie Gordon II (RB) | Active | Sun Sep 27, 5:03 PM ET | Gordon rushed 17 times for 41 yards and a touchdown while catching all three of his targets for 14 yards in Sunday's 24-10 loss to the Chiefs.
 - Ryan Miller (WR) | Active | Sun Sep 27, 12:29 PM ET | Miller (hip/back) is active for Sunday's game against the Chiefs.
-- JuJu Brents (CB) | Active | Sun Sep 27, 11:37 AM ET | 
 - Chop Robinson (LB) | Active | Thu Sep 24, 10:07 PM ET | Robinson has cleared the concussion protocol and is available to play in Sunday's matchup with the Chiefs, Marcel Louis-Jacques of ESPN.com reports.
-- Kevin Coleman Jr. (WR) | Active | Wed Sep 23, 12:17 AM ET | Coleman played 27 offensive snaps and saw no targets in Sunday's 35-13 loss to the 49ers.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
@@ -53,7 +37,7 @@ News (last days, newest first):
 - New-look 76ers top NBA media day 2026 highlights | Mon Sep 28, 6:39 PM ET | https://www.espn.com/nba/story/_/id/50023689/nba-2026-media-day-sights-sounds-highlights | The 2026-27 NBA season is approaching with media days ending Monday. Here are the top scenes from around the league.
 - NBA preview 2026-27: Stacking the 8 most intriguing newcomers | Mon Sep 28, 2:14 PM ET | https://www.espn.com/nba/story/_/id/50048228/nba-preview-2026-27-lebron-kawhi-giannis-morant-ranking-most-intriguing-newcomers | A full roster's worth of NBA stars changed teams this past summer. The storylines surrounding eight will help define the league's journey to spring.
 - Giannis confident in what he can offer to overhauled Heat | Mon Sep 28, 12:32 PM ET | https://www.espn.com/nba/story/_/id/50052354/giannis-confident-offer-overhauled-heat | Giannis Antetokounmpo has no doubt about his potential as he enters the next stage of his career following a blockbuster trade to the Heat, saying he can still "dominate the game" as one of the best players in the world.
-Injuries (ESPN list):
+Injuries / player notes (ESPN; 2 of 2 entries shown):
 - Keshad Johnson (F) | Out | Fri Oct 2, 1:05 PM ET | Johnson will be sidelined a few weeks with a right hamstring strain, Anthony Chiang of the Miami Herald reports.
 - Dru Smith (G) | Day-To-Day | Thu Oct 1, 12:15 PM ET | Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.
 
@@ -71,7 +55,7 @@ News (last days, newest first):
 - Best fits from NHL opening night arrivals | Tue Sep 29, 10:44 PM ET | https://www.espn.com/nhl/story/_/id/50058720/nhl-opening-night-best-fits-outfits-style-fashion | Players rocked some fierce looks before the first games of the NHL's 2026-27 season.
 - Panthers win in overtime, spoil Hurricanes' banner night | Tue Sep 29, 9:42 PM ET | https://www.espn.com/nhl/story/_/id/50062937/panthers-win-spoil-hurricanes-banner-night | On a night when the NHL's last three title winners were on display, Gustav Forsling fired a shot past Brandon Bussi with 4.3 seconds left in OT, lifting the Florida Panthers past the Stanley Cup champion Carolina Hurric…
 - Florida Panthers vs. Carolina Hurricanes: Game Highlights | Tue Sep 29, 8:21 PM ET | https://www.espn.com/video/clip/_/id/50062863/game-highlights | Florida Panthers vs. Carolina Hurricanes: Game Highlights
-Injuries (ESPN list):
+Injuries / player notes (ESPN; 5 of 5 entries shown):
 - Aleksander Barkov (C) | Day-To-Day | Fri Oct 2, 9:26 AM ET | Barkov (knee) is scheduled to have an MRI on Friday, Pierre LeBrun of TSN reports.
 - Gustav Forsling (D) | Day-To-Day | Fri Oct 2, 9:24 AM ET | day-to-day
 - Brad Marchand (LW) | Injured Reserve | Wed Sep 30, 5:02 PM ET | Marchand (lower body) might be able to play before the end of October, Max Miller of NHL.com reports Wednesday.
@@ -112,7 +96,7 @@ News (last days, newest first):
 - What to watch during MLB's final day of the 2026 season | Sun Sep 27, 11:20 AM ET | https://www.espn.com/mlb/story/_/id/50015050/mlb-2026-regular-season-final-weekend-guide-watch-playoffs-october | There's still much to play for entering the final day of the regular season. We have your guide to the last few games of baseball before October.
 - Harris leads Braves against the Marlins after 4-hit outing | Sun Sep 27, 4:02 AM ET | http://www.espn.com/mlb/preview?gameId=401817102 | Atlanta Braves (94-67, first in the NL East) vs. Miami Marlins (79-82, third in the NL East)
 - Harris' 4 hits lift Braves to 8-3 win, assures Marlins 15th losing season in 17 years | Sat Sep 26, 7:04 PM ET | http://www.espn.com/mlb/recap?gameId=401817087 | — Michael Harris II had two doubles and a pair of singles, leading the Atlanta Braves to an 8-3 win Saturday that assured the Miami Marlins of their third straight losing season and 15th in 17 years.
-Injuries (ESPN list):
+Injuries / player notes (ESPN; 11 of 11 entries shown):
 - Robby Snelling (SP) | 60-Day-IL | Tue Sep 29, 12:23 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Snelling (elbow) is expected to be throwing off a mound during spring training and should be game-ready by May or June, Isaac A…
 - Adam Mazur (SP) | 60-Day-IL | Tue Sep 29, 12:17 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.
 - Tyler Zuber (RP) | 15-Day-IL | Tue Sep 29, 11:47 AM ET | Zuber (elbow) is slated to visit Dr. Keith Meister, Isaac Azout of FishOnFirst.com reports.

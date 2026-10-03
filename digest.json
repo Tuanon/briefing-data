@@ -1,11 +1,11 @@
 {
- "generated_utc": "2026-10-03T17:52:43.153847+00:00",
+ "generated_utc": "2026-10-03T17:59:45.182091+00:00",
  "health": {
   "level": "OK",
   "reasons": [],
-  "feeds_ok": 68,
+  "feeds_ok": 69,
   "sports_ok": 26,
-  "news_items": 1214
+  "news_items": 1229
  },
  "status": {
   "feeds": [
@@ -27,7 +27,7 @@
     "name": "ABC News",
     "ok": true,
     "items_in_window": 19,
-    "newest": "Sat Oct 3, 1:05 PM ET",
+    "newest": "Sat Oct 3, 1:58 PM ET",
     "url": "https://abcnews.go.com/abcnews/topstories"
    },
    {
@@ -69,7 +69,7 @@
     "name": "CNBC (top news)",
     "ok": true,
     "items_in_window": 30,
-    "newest": "Sat Oct 3, 1:51 PM ET",
+    "newest": "Sat Oct 3, 1:57 PM ET",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
    },
    {
@@ -111,7 +111,7 @@
     "name": "CBS Sports",
     "ok": true,
     "items_in_window": 36,
-    "newest": "Sat Oct 3, 1:48 PM ET",
+    "newest": "Sat Oct 3, 1:54 PM ET",
     "url": "https://www.cbssports.com/rss/headlines/"
    },
    {
@@ -215,7 +215,7 @@
    {
     "name": "The Guardian (US)",
     "ok": true,
-    "items_in_window": 31,
+    "items_in_window": 29,
     "newest": "Sat Oct 3, 1:09 PM ET",
     "url": "https://www.theguardian.com/us-news/rss"
    },
@@ -229,8 +229,8 @@
    {
     "name": "Deutsche Welle",
     "ok": true,
-    "items_in_window": 31,
-    "newest": "Sat Oct 3, 1:16 PM ET",
+    "items_in_window": 30,
+    "newest": "Sat Oct 3, 1:56 PM ET",
     "url": "https://rss.dw.com/rdf/rss-en-all"
    },
    {
@@ -243,15 +243,15 @@
    {
     "name": "New York Post",
     "ok": true,
-    "items_in_window": 24,
-    "newest": "Sat Oct 3, 1:51 PM ET",
+    "items_in_window": 23,
+    "newest": "Sat Oct 3, 1:59 PM ET",
     "url": "https://nypost.com/feed/"
    },
    {
     "name": "Newsweek",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Sat Oct 3, 1:43 PM ET",
+    "newest": "Sat Oct 3, 1:57 PM ET",
     "url": "https://www.newsweek.com/rss"
    },
    {
@@ -381,8 +381,9 @@
    },
    {
     "name": "Middle East Eye",
-    "ok": false,
-    "error": "PARSE_ERROR : invalid XML: not well-formed (invalid token): line 1, column 0",
+    "ok": true,
+    "items_in_window": 20,
+    "newest": "Sat Oct 3, 1:55 PM ET",
     "url": "https://www.middleeasteye.net/rss"
    },
    {
@@ -396,7 +397,7 @@
     "name": "Yahoo Sports",
     "ok": true,
     "items_in_window": 50,
-    "newest": "Sat Oct 3, 1:48 PM ET",
+    "newest": "Sat Oct 3, 1:54 PM ET",
     "url": "https://sports.yahoo.com/rss/"
    },
    {
@@ -417,7 +418,7 @@
     "name": "The Guardian (football)",
     "ok": true,
     "items_in_window": 18,
-    "newest": "Sat Oct 3, 1:44 PM ET",
+    "newest": "Sat Oct 3, 1:49 PM ET",
     "url": "https://www.theguardian.com/football/rss"
    },
    {
@@ -465,8 +466,8 @@
    {
     "name": "CBS Sports (college football)",
     "ok": true,
-    "items_in_window": 34,
-    "newest": "Sat Oct 3, 1:48 PM ET",
+    "items_in_window": 33,
+    "newest": "Sat Oct 3, 1:54 PM ET",
     "url": "https://www.cbssports.com/rss/headlines/college-football/"
    },
    {
@@ -508,12 +509,6 @@
     "items_in_window": 1,
     "newest": "Sat Oct 3, 1:00 AM ET",
     "url": "https://www.theguardian.com/football/chelsea/rss"
-   },
-   {
-    "name": "MMA Fighting",
-    "ok": false,
-    "error": "HTTP_ERROR 404: 404 Not Found",
-    "url": "https://www.mmafighting.com/rss/current"
    }
   ],
   "sports": [
@@ -705,7 +700,7 @@
     "name": "Miami Dolphins (NFL)",
     "ok": true,
     "news_items": 20,
-    "injuries": 25
+    "injuries": 9
    },
    {
     "name": "Miami Heat (NBA)",
@@ -742,7 +737,7 @@
  },
  "failures": [
   {
-   "time_et": "Sat Oct 3, 1:52 PM ET",
+   "time_et": "Sat Oct 3, 1:59 PM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "SEC press releases",
@@ -755,20 +750,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Sat Oct 3, 1:53 PM ET",
-   "severity": "FAIL",
-   "step": "Feed sweep",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/rss",
-   "error_kind": "PARSE_ERROR",
-   "http_code": null,
-   "error": "invalid XML: not well-formed (invalid token): line 1, column 0",
-   "attempts": 1,
-   "impact": "no items from this outlet in the digest",
-   "likely_cause": "INFERRED: the response was probably a web page (a block or error page), not a feed or valid data."
-  },
-  {
-   "time_et": "Sat Oct 3, 1:53 PM ET",
+   "time_et": "Sat Oct 3, 1:59 PM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "CBS Sports (MMA)",
@@ -781,7 +763,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Sat Oct 3, 1:53 PM ET",
+   "time_et": "Sat Oct 3, 1:59 PM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "CBS Sports (tennis)",
@@ -792,19 +774,6 @@
    "attempts": 1,
    "impact": "no items from this outlet in the digest",
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
-  },
-  {
-   "time_et": "Sat Oct 3, 1:53 PM ET",
-   "severity": "FAIL",
-   "step": "Feed sweep",
-   "source": "MMA Fighting",
-   "url": "https://www.mmafighting.com/rss/current",
-   "error_kind": "HTTP_ERROR",
-   "http_code": 404,
-   "error": "404 Not Found",
-   "attempts": 1,
-   "impact": "no items from this outlet in the digest",
-   "likely_cause": "INFERRED: the URL no longer exists or has moved."
   }
  ],
  "news": [
@@ -1068,16 +1037,16 @@
    "category": "core (working Oct 3)",
    "items": [
     {
+     "title": "DA's office declined to review additional material on Cornell 'gang rape' probe: Docs",
+     "link": "https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934",
+     "published": "2026-10-03T17:58:19+00:00",
+     "snippet": "The Tompkins County DA's office declined to additional review material gathered by Cornell University police, documents reviewed by ABC News show."
+    },
+    {
      "title": "Tennessee Corrections commissioner resigns days after failed Christa Pike execution",
      "link": "https://abcnews.com/US/tennessee-corrections-commissioner-resign-days-after-failed-execution/story?id=136973939",
      "published": "2026-10-03T17:05:29+00:00",
      "snippet": "Tennessee Department of Correction Commissioner Frank Strada he will resign days after the execution of Christa Pike was botched, the governor said."
-    },
-    {
-     "title": "Suspect in FlyDubai incident was previously identified as security risk: Officials",
-     "link": "https://abcnews.com/US/suspect-flydubai-incident-previously-identified-security-risk-officials/story?id=136960488",
-     "published": "2026-10-03T15:38:46+00:00",
-     "snippet": "The co-pilot of the FlyDubai plane who allegedly attacked its captain is an Omani national who was previously suspended by Oman Air as a security risk, sources say."
     },
     {
      "title": "Democratic mayors in red states launch new group to counter MAGA, far-left extremes",
@@ -1213,7 +1182,7 @@
      "snippet": "While heavily redacted, the records offer a fuller but sometimes conflicting timeline of events and a glimpse at how the men responded to the allegations. Some disputed the woman's account and said they weren't involved…"
     },
     {
-     "title": "Governor says Tennessee's prisons chief is resigning after failed execution of Christa Pike",
+     "title": "Tennessee's prisons chief is resigning after the failed execution of Christa Pike",
      "link": "https://www.pbs.org/newshour/nation/governor-says-tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike",
      "published": "2026-10-03T15:41:53+00:00",
      "snippet": "Frank Strada said in a statement that resigning was \"in the best interest of Tennesseans\" while an independent review determines what happened Wednesday when the state failed to execute Pike despite administering two do…"
@@ -1830,9 +1799,9 @@
    "category": "core (working Oct 3)",
    "items": [
     {
-     "title": "High mortgage rates are turning right-now houses into forever homes, with renovations harder to afford",
+     "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
      "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-     "published": "2026-10-03T17:51:37+00:00",
+     "published": "2026-10-03T17:57:40+00:00",
      "snippet": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap."
     },
     {
@@ -2448,6 +2417,12 @@
    "category": "core (working Oct 3)",
    "items": [
     {
+     "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 5",
+     "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-5/",
+     "published": "2026-10-03T17:54:10+00:00",
+     "snippet": "A closer look at the top games in a loaded Week 5"
+    },
+    {
      "title": "Cal at UNLV live stream, where to watch, CBS Sports Network channel finder, odds",
      "link": "https://www.cbssports.com/college-football/news/cal-unlv-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
      "published": "2026-10-03T17:48:30+00:00",
@@ -2494,12 +2469,6 @@
      "link": "https://www.cbssports.com/college-football/news/miami-clemson-prediction-picks-odds-spread-where-to-watch-live/",
      "published": "2026-10-03T16:45:42+00:00",
      "snippet": "ACC frontrunner and No. 4 Miami travels to Death Valley for a Saturday night clash at Clemson"
-    },
-    {
-     "title": "Ohio State vs. Iowa prediction, pick, odds, spread: Buckeyes face another road test at Hawkeyes",
-     "link": "https://www.cbssports.com/college-football/news/ohio-state-iowa-prediction-picks-odds-spread-where-to-watch-live/",
-     "published": "2026-10-03T16:30:59+00:00",
-     "snippet": "No. 5 Ohio State travels to Iowa City for a Big Ten showdown with the No. 14 Hawkeyes"
     },
     {
      "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
@@ -4333,18 +4302,6 @@
      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/the-guardian-view-on-the-death-penalty-christa-pikes-execution-was-botched-but-cruelty-is-inherent",
      "published": "2026-10-01T18:14:43+00:00",
      "snippet": "Three-quarters of nations have rightly abolished capital punishment in law or practice, but killing by the state has surged in the US What is the kindest way to kill? That’s the question being asked once more following…"
-    },
-    {
-     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-     "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-     "published": "2026-10-01T17:56:18+00:00",
-     "snippet": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US gov…"
-    },
-    {
-     "title": "The horror of the Cornell rape case is how ordinary it is | Moira Donegan",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/01/cornell-rape-case",
-     "published": "2026-10-01T17:55:39+00:00",
-     "snippet": "Many men rape; many men giggle encouragingly, or shrug indifferently, when their friends rape. Many men rape, and few seem to think that it’s a very big deal Maybe more than anything else, sexual violence is repetitive.…"
     }
    ]
   },
@@ -4409,6 +4366,12 @@
    "category": "US & world",
    "items": [
     {
+     "title": "Latvia: Ruling party leads in exit polls amid populist gains",
+     "link": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-10-03T17:56:00+00:00",
+     "snippet": "Around 1.5 million Latvians are eligible to vote in an election which has been dominated by national security concerns and rising living costs. Four Eurofighter jets are on NATO deployment over Latvia during the poll."
+    },
+    {
      "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
      "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-rdf",
      "published": "2026-10-03T17:16:00+00:00",
@@ -4467,12 +4430,6 @@
      "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
      "published": "2026-10-03T06:51:00+00:00",
      "snippet": "Bosnia-Herzegovina is governed by a system established after the Bosnian war — more than 30 years ago. Ethnic divisions, a complex administration and European integration all shape the country's political reality."
-    },
-    {
-     "title": "Latvia votes in parliamentary election amid rising costs",
-     "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf",
-     "published": "2026-10-03T06:06:00+00:00",
-     "snippet": "Around 1.5 million Latvians are eligible to vote in an election which has been dominated by national security concerns and rising living costs. Four Eurofighter jets are on NATO deployment over Latvia during the poll."
     },
     {
      "title": "German reunification: How inequality is shaping a new East German identity",
@@ -4587,12 +4544,6 @@
      "link": "https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf",
      "published": "2026-10-01T22:23:00+00:00",
      "snippet": "It may have taken a little longer than he would have liked, but Jürgen Klopp has finally won a game as Germany coach. Despite a number of debutants, it was a familiar face who stood out in the victory over Serbia."
-    },
-    {
-     "title": "Latvians head to the polls with Russia on their minds",
-     "link": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-rdf",
-     "published": "2026-10-01T17:57:00+00:00",
-     "snippet": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow."
     }
    ]
   },
@@ -4753,6 +4704,24 @@
    "category": "US & world",
    "items": [
     {
+     "title": "Horrific moment shots ring out inside packed LA nightclub near university campus with two dead",
+     "link": "https://nypost.com/2026/10/03/us-news/horrific-moment-shots-ring-out-inside-packed-la-nightclub-near-university-campus-with-two-dead/",
+     "published": "2026-10-03T17:59:34+00:00",
+     "snippet": "The party atmosphere instantly turned to pandemonium as the terrified audience bolts for the exits."
+    },
+    {
+     "title": "Knife-wielding stranger stabs man to death on Queens street",
+     "link": "https://nypost.com/2026/10/03/us-news/queens-man-29-stabbed-to-death-by-stranger-on-block-where-he-grew-up/",
+     "published": "2026-10-03T17:58:09+00:00",
+     "snippet": "Sulimon Ferrier, 29, was stabbed to death by an apparent stranger in Queens while walking with his father."
+    },
+    {
+     "title": "California poaching suspect reeled in staggering amount of black bass in massive wildlife bust",
+     "link": "https://nypost.com/2026/10/03/us-news/california-poaching-suspect-arrested-with-931-black-bass-deer-and-bear-meat/",
+     "published": "2026-10-03T17:53:35+00:00",
+     "snippet": "A California poaching suspect was nabbed after reeling in close to a 1,000 black bass and numerous deer antlers discovered during a search by authorities."
+    },
+    {
      "title": "Zach Bryan’s drummer joins singer’s pro-Palestine statement with jersey that has special meaning",
      "link": "https://pagesix.com/2026/10/03/entertainment/zach-bryans-drummer-joins-singers-pro-palestine-statement-with-hind-rajab-jersey/",
      "published": "2026-10-03T17:51:09+00:00",
@@ -4871,30 +4840,6 @@
      "link": "https://nypost.com/2026/10/03/us-news/berkeley-fashion-ceo-and-wife-found-shot-dead-outside-home-overlooking-uc-berkeley/",
      "published": "2026-10-03T16:48:54+00:00",
      "snippet": "\"I've lived up here on Panoramic Hill for 20-something years, and I have never seen any violent crime up here.\""
-    },
-    {
-     "title": "Paul McCartney shares surprising detail from Taylor Swift, Travis Kelce’s star-studded wedding",
-     "link": "https://pagesix.com/2026/10/03/entertainment/paul-mccartney-shares-new-detail-from-taylor-swifts-wedding/",
-     "published": "2026-10-03T16:41:14+00:00",
-     "snippet": "The music legend performed \"I Want to Hold Your Hand\" at the star-studded wedding."
-    },
-    {
-     "title": "Paul McCartney shares surprising detail from Taylor Swift, Travis Kelce’s star-studded wedding",
-     "link": "https://pagesix.com/2026/10/03/entertainment/paul-mccartney-shares-new-detail-from-taylor-swifts-wedding/",
-     "published": "2026-10-03T16:41:14+00:00",
-     "snippet": "The music legend performed \"I Want to Hold Your Hand\" at the star-studded wedding."
-    },
-    {
-     "title": "Mom accused of starving 2 young girls to death after family feared Lindsay Clancy copycat",
-     "link": "https://nypost.com/2026/10/03/us-news/south-carolina-mom-allegedly-killed-her-daughters-family-referenced-lindsay-clancy/",
-     "published": "2026-10-03T16:40:07+00:00",
-     "snippet": "Relatives believed she was suffering from postpartum depression, and wrote to her referencing Lindsay Clancy to express fears that she might do something similar and harm her children."
-    },
-    {
-     "title": "Bizarre Pope prop bets for MLB postseason only bring more questions",
-     "link": "https://nypost.com/2026/10/03/sports/bizarre-mlb-postseason-pope-prop-bets-brings-about-more-questions/",
-     "published": "2026-10-03T16:37:09+00:00",
-     "snippet": "So much for the separation of church and home plate."
     }
    ]
   },
@@ -4903,6 +4848,18 @@
    "url": "https://www.newsweek.com/rss",
    "category": "US & world",
    "items": [
+    {
+     "title": "Jayden Daniels Could Return a Lot Sooner Than Commanders Expected: Report",
+     "link": "https://www.newsweek.com/sports/nfl/jayden-daniels-could-return-a-lot-sooner-than-commanders-expected-report-12520983",
+     "published": "2026-10-03T17:57:54+00:00",
+     "snippet": "Jayden Daniels could return for the Washington Commanders much quicker than most thought after suffering an elbow dislocation."
+    },
+    {
+     "title": "Paul Finebaum: Kamario Taylor May Eclipse Dak Prescott’s Mississippi State Legacy",
+     "link": "https://www.newsweek.com/sports/ncaa/paul-finebaum-kamario-taylor-may-eclipse-dak-prescotts-mississippi-state-legacy-12520701",
+     "published": "2026-10-03T17:53:12+00:00",
+     "snippet": "Paul Finebaum has made a bold claim about Kamario Taylor, suggesting the Mississippi State star could be better than Dak Prescott."
+    },
     {
      "title": "Rams: Myles Garrett's Return Gets New Timeline",
      "link": "https://www.newsweek.com/sports/nfl/rams-myles-garrett-return-gets-new-timeline-12518795",
@@ -5010,18 +4967,6 @@
      "link": "https://www.newsweek.com/sports/ncaa/james-franklin-addresses-controversial-field-goal-call-after-virginia-tech-loss-12520255",
      "published": "2026-10-03T16:36:09+00:00",
      "snippet": "Head coach James Franklin reacted to the last-second missed field goal that resulted in Virginia Tech's first loss of the season."
-    },
-    {
-     "title": "Dylan Larkin Loudly Booed by Red Wings Fans Amid Trade Request Drama",
-     "link": "https://www.newsweek.com/sports/dylan-larkin-loudly-booed-by-red-wings-fans-amid-trade-request-drama-12520327",
-     "published": "2026-10-03T16:24:37+00:00",
-     "snippet": "Dylan Larkin was loudly booed by Detroit Red Wings fans before their season opener against the New York Rangers."
-    },
-    {
-     "title": "Terrifying Moment as Valkyries Coach Faints Right Before Pivotal Game 3 Win",
-     "link": "https://www.newsweek.com/sports/terrifying-moment-as-valkyries-coach-faints-right-before-pivotal-game-3-win-12519857",
-     "published": "2026-10-03T16:16:19+00:00",
-     "snippet": "Golden State head coach Natalie Nakase suddenly dropped to her knees, appearing to faint, before the Valkyries' stunning win."
     }
    ]
   },
@@ -5908,18 +5853,6 @@
      "snippet": "Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later."
     },
     {
-     "title": "20% Off Brooks Promo Code | October 2026",
-     "link": "https://www.wired.com/story/brooks-promo-code/",
-     "published": "2026-10-03T05:00:00+00:00",
-     "snippet": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes."
-    },
-    {
-     "title": "50% Off DoorDash Promo Code | October 2026",
-     "link": "https://www.wired.com/story/doordash-promo-code/",
-     "published": "2026-10-03T05:00:00+00:00",
-     "snippet": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users."
-    },
-    {
      "title": "Surfshark Promo Codes: 87% Off | October 2026",
      "link": "https://www.wired.com/story/surfshark-coupon/",
      "published": "2026-10-03T05:00:00+00:00",
@@ -5932,16 +5865,28 @@
      "snippet": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport."
     },
     {
-     "title": "Hoka Coupon Codes: 30% Off in October 2026",
-     "link": "https://www.wired.com/story/hoka-coupon-code/",
+     "title": "50% Off DoorDash Promo Code | October 2026",
+     "link": "https://www.wired.com/story/doordash-promo-code/",
      "published": "2026-10-03T05:00:00+00:00",
-     "snippet": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026."
+     "snippet": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users."
+    },
+    {
+     "title": "20% Off Brooks Promo Code | October 2026",
+     "link": "https://www.wired.com/story/brooks-promo-code/",
+     "published": "2026-10-03T05:00:00+00:00",
+     "snippet": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes."
     },
     {
      "title": "Chewy Promo Codes: $20 Off October 2026",
      "link": "https://www.wired.com/story/chewy-promo-code/",
      "published": "2026-10-03T05:00:00+00:00",
      "snippet": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts."
+    },
+    {
+     "title": "Hoka Coupon Codes: 30% Off in October 2026",
+     "link": "https://www.wired.com/story/hoka-coupon-code/",
+     "published": "2026-10-03T05:00:00+00:00",
+     "snippet": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026."
     },
     {
      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
@@ -6549,6 +6494,133 @@
    ]
   },
   {
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/rss",
+   "category": "Israel & Middle East",
+   "items": [
+    {
+     "title": "Flights between Iran and Iraq's Najaf to resume on Sunday, Iraqi state news agency says",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/flights-between-iran-and-iraqs-najaf-resume-sunday-iraqi-state-news",
+     "published": "2026-10-03T17:55:33+00:00",
+     "snippet": "Flights between Iran and Iraq's Najaf to resume on Sunday, Iraqi state news agency says Iraq's Najaf International Airport will resume flights to and from Iran from Sunday, with three evening flights scheduled, Iraq's s…"
+    },
+    {
+     "title": "Really settlers injure at least three Palestinians in West Bank",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/really-settlers-injured-least-three-palestinians-west-bank",
+     "published": "2026-10-03T17:06:26+00:00",
+     "snippet": "Really settlers injure at least three Palestinians in West Bank Israeli settlers injured a 27-year-old Palestinian man in the village of Usarin, south of Nablus in the occupied West Bank, Wafa news agency reported. Two…"
+    },
+    {
+     "title": "Report: Israeli attempt to kill senior Hamas official fails",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attempt-kill-senior-hamas-official-fails",
+     "published": "2026-10-03T16:13:56+00:00",
+     "snippet": "Report: Israeli attempt to kill senior Hamas official fails Israeli army radio said an attempt to assassinate Ali al-Amoudi, the deputy head of Hamas’s political bureau in Gaza, had failed. Israeli reports have describe…"
+    },
+    {
+     "title": "Eight Palestinians, including mother and daughter, killed in attacks across Gaza since dawn",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-palestinians-including-mother-and-daughter-killed-attacks-across",
+     "published": "2026-10-03T15:34:14+00:00",
+     "snippet": "Eight Palestinians, including mother and daughter, killed in attacks across Gaza since dawn Eight Palestinians have been killed in Israeli attacks across Gaza since dawn, Al Jazeera reports, citing medical sources. Five…"
+    },
+    {
+     "title": "Israeli attack injures several Palestinians in Gaza",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-injures-several-palestinians-gaza",
+     "published": "2026-10-03T15:32:40+00:00",
+     "snippet": "Israeli attack injures several Palestinians in Gaza An Israeli drone attack injured several Palestinians in Gaza City on Friday evening, Wafa news agency reported, citing medical sources. The report said that a number o…"
+    },
+    {
+     "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+     "published": "2026-10-03T14:21:45+00:00",
+     "snippet": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz The Yemeni government has claimed that 1,540 Houthi fighters were killed or wounded during the past 24 hours as the battles raging in the southw…"
+    },
+    {
+     "title": "Palestinian man succumbs to wounds sustained from Israeli attack in Deir el-Balah",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-sustained-israeli-attack-deir-el-balah",
+     "published": "2026-10-03T14:19:39+00:00",
+     "snippet": "Palestinian man succumbs to wounds sustained from Israeli attack in Deir el-Balah A Palestinian man has succumbed to a gunshot wound sustained in an attack by Israeli forces in central Gaza's Deir el-Balah, Wafa reports…"
+    },
+    {
+     "title": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+     "link": "https://www.middleeasteye.net/news/yemen-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+     "published": "2026-10-03T14:16:15+00:00",
+     "snippet": "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz Submitted by MEE staff on Sat, 10/03/2026 - 13:50 The governorate hosts 97,529 displaced people as renewed fighting turns the humanitarian hotsp…"
+    },
+    {
+     "title": "Yemeni government confirms attacks on 'vital military targets' in Sanaa",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-confirms-attacks-vital-military-targets-sanaa",
+     "published": "2026-10-03T13:03:20+00:00",
+     "snippet": "Yemeni government confirms attacks on 'vital military targets' in Sanaa Yemeni government forces have confirmed attacks on “on legitimate vital military targets” in the Houthi-held capital Sanaa. Military spokesperson C…"
+    },
+    {
+     "title": "Why the EU's sanctions on Sudan's gold trade are fundamentally flawed",
+     "link": "https://www.middleeasteye.net/opinion/why-eu-sanctions-sudan-gold-trade-fundamentally-flawed",
+     "published": "2026-10-03T12:43:25+00:00",
+     "snippet": "Why the EU's sanctions on Sudan's gold trade are fundamentally flawed Submitted by Osama Abuzaid on Wed, 09/23/2026 - 08:41 Sanctioning bullion, while leaving much of the infrastructure facilitating its movement intact,…"
+    },
+    {
+     "title": "Fire, smoke seen near Aramco facility in Riyadh, witness says",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-smoke-seen-near-aramco-facility-riyadh-witness-says",
+     "published": "2026-10-03T12:32:49+00:00",
+     "snippet": "Fire, smoke seen near Aramco facility in Riyadh, witness says A large plume of smoke and fire was seen rising in the vicinity of an Aramco facility in Riyadh on Saturday, a witness told Reuters. There was no immediate c…"
+    },
+    {
+     "title": "Israeli forces open fire in Syria’s Deraa governorate",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-syrias-deraa-governorate",
+     "published": "2026-10-03T12:31:19+00:00",
+     "snippet": "Israeli forces open fire in Syria’s Deraa governorate Al Jazeera reports Israeli fire near villages in southwest Syria. According to the report, Israeli forces opened fire on the outskirts of the village of Maariya and…"
+    },
+    {
+     "title": "Israeli drone strike on Beit Lahia kills one, wounds others",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-beit-lahia-kills-one-wounds-others",
+     "published": "2026-10-03T12:27:24+00:00",
+     "snippet": "Israeli drone strike on Beit Lahia kills one, wounds others A Palestinian has been killed and several others wounded in an Israeli strike on northern Gaza's Beit Lahia, Wafa news agency reports. According to the report,…"
+    },
+    {
+     "title": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
+     "published": "2026-10-03T11:30:58+00:00",
+     "snippet": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank Israeli National Security Minister Itamar Ben Gvir claimed that the entire occupied West Bank “belongs to Israel” and has vowed to…"
+    },
+    {
+     "title": "Gaza death toll rises after seven Palestinians killed in 24 hours",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-seven-palestinians-killed-24-hours",
+     "published": "2026-10-03T11:25:27+00:00",
+     "snippet": "Gaza death toll rises after seven Palestinians killed in 24 hours Gaza's death toll has reached 74,229 after seven more Palestinians were killed by Israel in the last 24 hours, the enclave's health ministry reports. The…"
+    },
+    {
+     "title": "Reports of 'massive, successive and powerful' explosions in southern Lebanese town",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-massive-successive-and-powerful-explosions-southern-lebanese",
+     "published": "2026-10-03T11:16:49+00:00",
+     "snippet": "Reports of 'massive, successive and powerful' explosions in southern Lebanese town Lebanese media reports \"massive, successive and powerful\" blasts conducted by Israel in the southern town of Mansouri."
+    },
+    {
+     "title": "Watch: Ben-Gvir says Israel would sell Palestinians to other countries",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-ben-gvir-says-israel-would-sell-palestinians-other-countries",
+     "published": "2026-10-03T11:08:27+00:00",
+     "snippet": "Watch: Ben-Gvir says Israel would sell Palestinians to other countries Israel’s far-right minister Itamar Ben-Gvir says Israel would sell Palestinians to other countries to get rid of them. In an interview on Israeli Ch…"
+    },
+    {
+     "title": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank",
+     "link": "https://www.middleeasteye.net/news/entire-land-ours-ben-gvir-escalates-calls-annexation-occupied-west-bank",
+     "published": "2026-10-03T10:54:52+00:00",
+     "snippet": "'The entire land is ours': Ben Gvir escalates calls for annexation of occupied West Bank Submitted by MEE staff on Sat, 10/03/2026 - 10:19 National security minister says he would displace Palestinians from the West Ban…"
+    },
+    {
+     "title": "Blasts heard in Yemen's capital Sanaa",
+     "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-yemens-capital-sanaa",
+     "published": "2026-10-03T10:37:17+00:00",
+     "snippet": "Blasts heard in Yemen's capital Sanaa Loud explosions have been heard in the Houthi-held capital Sanaa, Al Jazeera reports."
+    },
+    {
+     "title": "‘They want to displace us’: Israel launches new demolition of West Bank olive groves",
+     "link": "https://www.middleeasteye.net/news/they-want-displace-us-israeli-army-new-demolition-west-bank-olive-groves",
+     "published": "2026-10-03T09:52:31+00:00",
+     "snippet": "‘They want to displace us’: Israel launches new demolition of West Bank olive groves Submitted by Mohammed Turkman on Thu, 10/01/2026 - 12:21 Military orders and bulldozers target Palestinian farmland, threatening livel…"
+    }
+   ]
+  },
+  {
    "source": "Al-Monitor",
    "url": "https://www.al-monitor.com/rss",
    "category": "Israel & Middle East",
@@ -6681,10 +6753,64 @@
    "category": "Sports",
    "items": [
     {
+     "title": "Forecast for Florida's road matchup vs. Missouri is ideal for football",
+     "link": "https://sports.yahoo.com/articles/forecast-floridas-road-matchup-vs-175433468.html",
+     "published": "2026-10-03T17:54:33+00:00",
+     "snippet": "The weather forecast calls for a sunny, mild afternoon when Florida football faces Missouri on the road in Week 5."
+    },
+    {
+     "title": "A full breakdown of the Yankees’ Division Series roster",
+     "link": "https://sports.yahoo.com/articles/full-breakdown-yankees-division-series-175247929.html",
+     "published": "2026-10-03T17:52:47+00:00",
+     "snippet": "A closer look at who made the roster for the ALDS vs. Tampa Bay."
+    },
+    {
+     "title": "Top 2027 recruit Taylor Brown commits to South Carolina",
+     "link": "https://sports.yahoo.com/articles/top-2027-recruit-taylor-brown-175228688.html",
+     "published": "2026-10-03T17:52:28+00:00",
+     "snippet": "Top 2027 recruit Taylor Brown has committed to South Carolina, she told Rivals. The 5-6 guard from Glen Head (N.Y.) Long Island Lutheran chose the Gamecocks over North Carolina and Tennessee. “The roster of the team the…"
+    },
+    {
+     "title": "Tennessee versus Auburn football game officials",
+     "link": "https://sports.yahoo.com/articles/tennessee-versus-auburn-football-game-175148600.html",
+     "published": "2026-10-03T17:51:48+00:00",
+     "snippet": "Tennessee versus Auburn football game referee and officiating crew."
+    },
+    {
+     "title": "Open Thread For Saturday’s Division Series Games",
+     "link": "https://sports.yahoo.com/articles/open-thread-saturday-division-series-175000478.html",
+     "published": "2026-10-03T17:50:00+00:00",
+     "snippet": "I’m putting this together the night before, because I’m out tomorrow morning. We have four games today. Game One: 1:00 Eastern: White Sox @ Guardians: Smith vs. Messick. Game Two: 4:00 Eastern: Braves @ Dodgers. Game Th…"
+    },
+    {
+     "title": "Matches suspended due to the forecast of extreme rain.",
+     "link": "https://sports.yahoo.com/articles/matches-suspended-due-forecast-extreme-175000310.html",
+     "published": "2026-10-03T17:50:00+00:00",
+     "snippet": "Given the forecast of extreme rainfall and the risk of flooding, and in accordance with the indications of the competent authorities, Girona FC is suspending all sports activities and training session..."
+    },
+    {
+     "title": "Serie A giants ready to battle it out for the services of Real Madrid star in January – report",
+     "link": "https://sports.yahoo.com/articles/serie-giants-ready-battle-services-175000385.html",
+     "published": "2026-10-03T17:50:00+00:00",
+     "snippet": "It has been reportedly widely that Endrick is not happy with his game-time at Real Madrid this season and could explore a move away from the club in the upcoming January transfer window.After a stella..."
+    },
+    {
+     "title": "Dolphins sign RB Carlos Washington, elevate DL Mazi Smith",
+     "link": "https://sports.yahoo.com/articles/dolphins-sign-rb-carlos-washington-174858235.html",
+     "published": "2026-10-03T17:48:58+00:00",
+     "snippet": "The Dolphins have added a running back to their active roster."
+    },
+    {
      "title": "Should Tennessee vs Texas officiating crew be punished? Golden, Bohls tackle top question",
      "link": "https://sports.yahoo.com/articles/tennessee-vs-texas-officiating-crew-174815544.html",
      "published": "2026-10-03T17:48:15+00:00",
      "snippet": "Longtime columnists Cedric Golden and Kirk Bohls discuss and debate the top storylines around college football Week 5, and look ahead to Texas vs OU."
+    },
+    {
+     "title": "Texas State vs San Diego State: Live updates, TV/streaming info, betting lines for Week 5",
+     "link": "https://sports.yahoo.com/articles/texas-state-vs-san-diego-174719868.html",
+     "published": "2026-10-03T17:47:19+00:00",
+     "snippet": "Texas State football is welcomed to the Pac-12 on the West Coast, visiting San Diego State to open Pac-12 play. Here are live updates from the game."
     },
     {
      "title": "Texas State vs San Diego State: Live updates, TV/streaming info, betting lines for Week 5",
@@ -6699,10 +6825,34 @@
      "snippet": "Speaking with 247Sports, 2027 5-star OL Mark Matthews remains locked in with Texas A&M despite the Aggies' recent on-field struggles."
     },
     {
+     "title": "Brazil cruise past India in Kolkata",
+     "link": "https://sports.yahoo.com/articles/brazil-cruise-past-india-kolkata-174500553.html",
+     "published": "2026-10-03T17:45:00+00:00",
+     "snippet": "Brazil rounded off their international period with a routine 4-0 victory over India in Kolkata, although Carlo Ancelotti’s side offered little of the intensity promised before kick-off.Estêvão was..."
+    },
+    {
+     "title": "Open game thread: Tennessee vs. Auburn",
+     "link": "https://sports.yahoo.com/articles/open-game-thread-tennessee-vs-174500284.html",
+     "published": "2026-10-03T17:45:00+00:00",
+     "snippet": "Come talk about the game with us!"
+    },
+    {
      "title": "Dallinga's season stunted by ACL injury with Ache also sidelined for Köln",
      "link": "https://sports.yahoo.com/articles/dallingas-season-stunted-acl-injury-174400018.html",
      "published": "2026-10-03T17:44:00+00:00",
      "snippet": "The worst fears of those at 1.FC Köln have become bitter reality, with Thijs Dallinga suffering a cruel ACL tear this afternoon. Dallinga suffered the injury during the Cathedral City club's 2-2 fri..."
+    },
+    {
+     "title": "Falcons Draft 2027: Six Prospects to Watch For Week 5 of College Football",
+     "link": "https://sports.yahoo.com/articles/falcons-draft-2027-six-prospects-174344097.html",
+     "published": "2026-10-03T17:43:44+00:00",
+     "snippet": "Six players from the weekend who may pique Atlanta’s interest in April."
+    },
+    {
+     "title": "Dolphins make decision on third running back with De’Von Achane out",
+     "link": "https://sports.yahoo.com/articles/dolphins-decision-third-running-back-174200704.html",
+     "published": "2026-10-03T17:42:00+00:00",
+     "snippet": "The answer to which Miami Dolphins running back would be brought up from the practice squad to serve as third at the position without De’Von Achane was answered Saturday. The Dolphins signed Carlos Washington Jr. from t…"
     },
     {
      "title": "Sinfield completes final ultramarathon challenge",
@@ -6711,16 +6861,16 @@
      "snippet": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days."
     },
     {
+     "title": "Falcons final Week 4 injury report: Latest on Divine Deablo's status",
+     "link": "https://sports.yahoo.com/articles/falcons-final-week-4-injury-174120526.html",
+     "published": "2026-10-03T17:41:20+00:00",
+     "snippet": "Falcons final Week 4 injury report: Latest on Divine Deablo, Samsom Ebukam vs. Saints"
+    },
+    {
      "title": "Green light as £34m Barcelona star agrees to January deal",
      "link": "https://sports.yahoo.com/articles/green-light-34m-barcelona-star-174000110.html",
      "published": "2026-10-03T17:40:00+00:00",
      "snippet": "Liverpool’s current transfer shopping list would appear to include several more stars from Barcelona. Having secured Ronald Araujo from the Camp Nou side - on a loan deal with an option to buy - we ..."
-    },
-    {
-     "title": "Fernandes hails Portugal's 'greatest symbol' Ronaldo, calls for unity",
-     "link": "https://sports.yahoo.com/articles/fernandes-hails-portugals-greatest-symbol-173952694.html",
-     "published": "2026-10-03T17:39:52+00:00",
-     "snippet": "Portugal playmaker Bruno Fernandes said Cristiano Ronaldo remains the country's greatest footballing icon despite walking out on the squad this week after finding out he would not start a match.\"Regarding Cristiano, I h…"
     },
     {
      "title": "Austin Ekeler fantasy impact on Jacory Croskey-Merritt, Kaytron Allen",
@@ -6745,6 +6895,12 @@
      "link": "https://sports.yahoo.com/articles/nba-arenas-real-estate-driving-173758063.html",
      "published": "2026-10-03T17:37:58+00:00",
      "snippet": "NBA owners are increasingly looking beyond basketball, using arenas and surrounding developments to create valuable entertainment and commercial ecosystems."
+    },
+    {
+     "title": "Browns’ Long-Term Future With Deshaun Watson Gets Firm Answer",
+     "link": "https://sports.yahoo.com/articles/browns-long-term-future-deshaun-173739299.html",
+     "published": "2026-10-03T17:37:39+00:00",
+     "snippet": "The Cleveland Browns are 3-1 under Deshaun Watson here in 2026. But what does that mean for the plans in 2027? The post Browns’ Long-Term Future With Deshaun Watson Gets Firm Answer appeared first on HEAVY."
     },
     {
      "title": "Clay Travis blasts ‘modern-day left-wing feminism’ in on Cornell case",
@@ -6777,6 +6933,18 @@
      "snippet": "The FSU Seminoles are set to host the Virginia Cavaliers in a crucial ACC matchup. Follow along for live updates and analysis."
     },
     {
+     "title": "FSU vs Virginia live updates: Score, highlights, analysis",
+     "link": "https://sports.yahoo.com/articles/fsu-vs-virginia-live-updates-173553833.html",
+     "published": "2026-10-03T17:35:53+00:00",
+     "snippet": "The FSU Seminoles are set to host the Virginia Cavaliers in a crucial ACC matchup. Follow along for live updates and analysis."
+    },
+    {
+     "title": "Canadiens Preview: Kapanen Unavailable Versus Penguins",
+     "link": "https://sports.yahoo.com/articles/canadiens-preview-kapanen-unavailable-versus-173523415.html",
+     "published": "2026-10-03T17:35:23+00:00",
+     "snippet": "The Montreal Canadiens are set to play their second game of the season Saturday night, facing the Pittsburgh Penguins at […]"
+    },
+    {
      "title": "Raiders and Steelers among suitors for first-round bust, but he could help Fernando Mendoza",
      "link": "https://sports.yahoo.com/articles/raiders-steelers-among-suitors-first-173457454.html",
      "published": "2026-10-03T17:34:57+00:00",
@@ -6787,6 +6955,12 @@
      "link": "https://sports.yahoo.com/articles/torquay-united-beat-tonbridge-progress-172109392.html",
      "published": "2026-10-03T17:34:12+00:00",
      "snippet": "Torquay United progress to the fourth qualifying round of the FA Cup after a 1-0 win at National League South rivals Tonbridge Angels."
+    },
+    {
+     "title": "How to Watch LSU vs. McNeese St: Channel, Time, Streaming Options For Week 5",
+     "link": "https://sports.yahoo.com/articles/watch-lsu-vs-mcneese-st-173324271.html",
+     "published": "2026-10-03T17:33:24+00:00",
+     "snippet": "The LSU Tigers are taking on the McNeese St. Cowboys in their Week 5 matchup on Saturday. Here's how to watch it and the betting lines for the game."
     },
     {
      "title": "Iowa football vs. Ohio State, game day availability report released",
@@ -6813,112 +6987,10 @@
      "snippet": "Here's what opposing coaches and scouts are reportedly saying about Patriots quarterback Drake Maye."
     },
     {
-     "title": "FSU and Virginia announce uniforms for Week 5 game",
-     "link": "https://sports.yahoo.com/articles/fsu-virginia-announce-uniforms-week-173201316.html",
-     "published": "2026-10-03T17:32:01+00:00",
-     "snippet": "The Florida State Seminoles have announced their uniform combination for their game against the Virginia Cavaliers."
-    },
-    {
-     "title": "IND vs WI 3rd ODI 2026 results, highlights and scoreboard as Shai Hope's unbeaten 162 helps West Indies win the final ODI",
-     "link": "https://sports.yahoo.com/articles/ind-vs-wi-3rd-odi-073439456.html",
-     "published": "2026-10-03T17:32:00+00:00",
-     "snippet": "India vs West Indies 3rd ODI live win probability, ball-by-ball score, toss updates, and chances of victory from Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur."
-    },
-    {
-     "title": "Dodgers Name Yoshinobu Yamamoto as Game 3 Starter",
-     "link": "https://sports.yahoo.com/articles/dodgers-name-yoshinobu-yamamoto-game-173153169.html",
-     "published": "2026-10-03T17:31:53+00:00",
-     "snippet": "The Los Angeles Dodgers selected right-handed pitcher Yoshinobu Yamamoto as their starter for Game 3 of the NLDS"
-    },
-    {
-     "title": "Behind Enemy Lines: Previewing Raiders Week 4 game with Chiefs Wire",
-     "link": "https://sports.yahoo.com/articles/behind-enemy-lines-previewing-raiders-173146406.html",
-     "published": "2026-10-03T17:31:46+00:00",
-     "snippet": "We take a look behind enemy lines to speak with Chiefs Wire lead writer John Dillon about the Raiders upcoming matchup."
-    },
-    {
-     "title": "DJ Turner has big-time praise for Bengals star Dexter Lawrence",
-     "link": "https://sports.yahoo.com/articles/dj-turner-big-time-praise-173122321.html",
-     "published": "2026-10-03T17:31:22+00:00",
-     "snippet": "Bengals cornerback DJ Turner II offered massive praise for Dexter Lawrence after the defensive tackle’s dominant start in Cincinnati."
-    },
-    {
-     "title": "This Raiders injury will give the Chiefs' a major advantage in Week 4",
-     "link": "https://sports.yahoo.com/articles/raiders-injury-chiefs-major-advantage-173116196.html",
-     "published": "2026-10-03T17:31:16+00:00",
-     "snippet": "Star Raiders OL Jackson Powers-Johnson has been ruled out in Week 4 due to a groin injury, which could give the Chiefs' pass-rush a huge boost."
-    },
-    {
-     "title": "Texans DC Matt Burke on losing DT Mario Edwards after torn ACL vs Colts",
-     "link": "https://sports.yahoo.com/articles/texans-dc-matt-burke-losing-173114321.html",
-     "published": "2026-10-03T17:31:14+00:00",
-     "snippet": "Houston Texans defensive coordinator Matt Burke on defensive tackle Mario Edwards Jr's season-ending torn ACL versus the Indianapolis Colts."
-    },
-    {
-     "title": "Auburn battles Tennessee in a key SEC showdown: Live updates, highlights",
-     "link": "https://sports.yahoo.com/articles/auburn-battles-tennessee-key-sec-173109097.html",
-     "published": "2026-10-03T17:31:09+00:00",
-     "snippet": "Follow along for live updates as the Auburn Tigers battle the No. 17 Tennessee Volunteers in a key SEC showdown."
-    },
-    {
-     "title": "Ohio State vs Iowa live updates: Score, highlights and predictions",
-     "link": "https://sports.yahoo.com/articles/ohio-state-vs-iowa-live-173108838.html",
-     "published": "2026-10-03T17:31:08+00:00",
-     "snippet": "Ohio State travels to Iowa for a pivotal, ranked, Big Ten matchup. We're providing live coverage including score, highlights, and analysis."
-    },
-    {
-     "title": "Ateba Gautier vs. Roman Kopylov prediction, pick, time for UFC 332",
-     "link": "https://sports.yahoo.com/articles/ateba-gautier-vs-roman-kopylov-173102640.html",
-     "published": "2026-10-03T17:31:02+00:00",
-     "snippet": "Will rising prospect Ateba Gautier be ready for a step up in competition vs. Roman Kopylov at UFC 332?"
-    },
-    {
-     "title": "Tennessee-Auburn football game live updates, score, highlights",
-     "link": "https://sports.yahoo.com/articles/tennessee-auburn-football-game-live-173055484.html",
-     "published": "2026-10-03T17:30:55+00:00",
-     "snippet": "Tennessee versus Auburn football game live updates, score and highlights in Week 5."
-    },
-    {
-     "title": "Call it a three-peat: Illini volleyball sweeps Washington",
-     "link": "https://sports.yahoo.com/articles/call-three-peat-illini-volleyball-173037200.html",
-     "published": "2026-10-03T17:30:37+00:00",
-     "snippet": "Chris Tamas’ squad makes it three ranked wins in a row with a sweep over No. 22 Washington."
-    },
-    {
-     "title": "Fantasy Football Week 4 Deep-Sleepers: Kendre Miller, Brycen Tremayne, and 2 Others",
-     "link": "https://sports.yahoo.com/articles/fantasy-football-week-4-deep-173029070.html",
-     "published": "2026-10-03T17:30:29+00:00",
-     "snippet": "Kendre Miller and Brycen Tremayne will have elevated roles in Week 4 after their teammates are listed as inactive due to injury."
-    },
-    {
-     "title": "Packers film room: Flush/loop stunt",
-     "link": "https://sports.yahoo.com/articles/packers-film-room-flush-loop-173010848.html",
-     "published": "2026-10-03T17:30:10+00:00",
-     "snippet": "The basics of the flush/loop stunt deployed for a sack in week 2."
-    },
-    {
-     "title": "76ers star LeBron James already poised for big season, and this highlight proves it",
-     "link": "https://sports.yahoo.com/articles/76ers-star-lebron-james-already-173005780.html",
-     "published": "2026-10-03T17:30:05+00:00",
-     "snippet": "LeBron James is preparing to make NBA history during his first season with the Philadelphia 76er s, and the 41-year-old already appears to have plenty of explosiveness remaining ahead of the 2026-27 campaign. During Phi…"
-    },
-    {
-     "title": "Have your say: Is Donnarumma currently the best goalkeeper in the world?",
-     "link": "https://sports.yahoo.com/articles/donnarumma-currently-best-goalkeeper-world-173000819.html",
-     "published": "2026-10-03T17:30:00+00:00",
-     "snippet": "Gianluigi Donnarumma’s heroics earned him praise from both the French and Italian media following Friday’s 1-1 Nations League draw between the two countries at the Stade de France, and we want to ..."
-    },
-    {
-     "title": "Barcelona midfielder confirms he is following Pedri’s fitness routine amid injury woes – “It will help me”",
-     "link": "https://sports.yahoo.com/articles/barcelona-midfielder-confirms-following-pedri-173000866.html",
-     "published": "2026-10-03T17:30:00+00:00",
-     "snippet": "Barcelona midfield star Gavi has had a difficult few seasons, with repeated injuries keeping him out of action for significant spells.The talented La Masia graduate is desperately looking for continui..."
-    },
-    {
-     "title": "Official: Barcelona star named La Liga Player of the Month",
-     "link": "https://sports.yahoo.com/articles/official-barcelona-star-named-la-173000827.html",
-     "published": "2026-10-03T17:30:00+00:00",
-     "snippet": "A member of the attacking ranks at La Liga giants Barcelona has late this week been named Player of the Month for September in Spain’s top-flight.The Blaugrana star in question? Raphinha.Frontman Ra..."
+     "title": "New York Yankees Make Giancarlo Stanton Decision Ahead of ALDS vs. Rays",
+     "link": "https://sports.yahoo.com/articles/york-yankees-giancarlo-stanton-decision-173203112.html",
+     "published": "2026-10-03T17:32:03+00:00",
+     "snippet": "The New York Yankees are coming off a Wild Card Series victory over the Boston Red Sox, which wrapped up Wednesday night.Now, New York will begin a best-of-five series on Saturday evening in the ALDS against the No. 1-s…"
     }
    ]
   },
@@ -7085,10 +7157,10 @@
    "category": "Sports",
    "items": [
     {
-     "title": "'Massive try!' - Brilliant Wakefield double their lead in Grand Final",
+     "title": "'STUNNING first-half!' | Wakefield dominating Warrington in Grand Final",
      "link": "https://www.skysports.com/watch/video/13594803/rugby-league-wakefield-double-their-lead-in-grand-final",
      "published": "2026-10-03T18:36:00+00:00",
-     "snippet": "What a first half for Wakefield Trinity as they double their lead with another try against Warrington."
+     "snippet": "Wakefield score two quick-fire tries to take complete control in the Grand Final."
     },
     {
      "title": "'Wonderous pass' - Wakefield open the scoring after Walmsley magic!",
@@ -7097,7 +7169,13 @@
      "snippet": "Wakefield take the lead against Warrington after an incredible pass from Lachlan Walmsley sets up Cameron Scott in the corner."
     },
     {
-     "title": "Robertson set for 100th Scotland cap vs North Macedonia LIVE!",
+     "title": "Fury wants Trump for AJ fight ringwalk",
+     "link": "https://www.skysports.com/boxing/news/12040/13594802/fury-vs-joshua-tyson-fury-to-invite-donald-trump-to-accompany-him-on-anthony-joshua-fight-ringwalk-in-december",
+     "published": "2026-10-03T18:28:00+00:00",
+     "snippet": "Tyson Fury plans to invite Donald Trump to accompany him on his ringwalk to his long-awaited showdown with Anthony Joshua."
+    },
+    {
+     "title": "Robertson earns 100th Scotland cap vs North Macedonia LIVE!",
      "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/live/554056",
      "published": "2026-10-03T18:00:00+00:00",
      "snippet": ""
@@ -7133,7 +7211,7 @@
      "snippet": "Jannik Sinner has withdrawn from the Rolex Shanghai Masters as he deals with a knee problem."
     },
     {
-     "title": "Rogers puts rampant England SEVEN up in Croatia LIVE!",
+     "title": "Reaction as rampant England score SEVEN in Croatia LIVE!",
      "link": "https://www.skysports.com/football/croatia-vs-england/live/554052",
      "published": "2026-10-03T15:00:00+00:00",
      "snippet": ""
@@ -7167,12 +7245,6 @@
      "link": "https://www.skysports.com/f1/news/12040/13594548/lewis-hamilton-ferrari-driver-hopes-he-can-battle-max-verstappen-for-bahrain-gp-in-malaysia-win-after-f1-qualifying-front-row",
      "published": "2026-10-03T11:30:00+00:00",
      "snippet": "Lewis Hamilton says it will be important for Ferrari to focus on their own race for what is expected to be a challenging Bahrain Grand Prix in Malaysia but admits it would be \"awesome\" if they have the pace to stay with…"
-    },
-    {
-     "title": "'It's like I won!' - Hamilton's wholesome reaction to qualifying on front row",
-     "link": "https://www.skysports.com/watch/video/13594641/lewis-hamilton-wholesome-reaction-to-qualifying-on-front-row-at-bahrain-gp-in-malaysia",
-     "published": "2026-10-03T11:03:00+00:00",
-     "snippet": "Lewis Hamilton's wholesome reaction to qualifying on front row at Bahrain GP in Malaysia."
     },
     {
      "title": "Bahrain Grand Prix in Malaysia - Qualifying highlights",
@@ -7214,7 +7286,7 @@
     {
      "title": "Croatia v England: Nations League football – live",
      "link": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
-     "published": "2026-10-03T17:44:51+00:00",
+     "published": "2026-10-03T17:49:15+00:00",
      "snippet": "Nations League updates, 5pm BST kick-off (6pm local) Live scores | Get the Football Daily newsletter | Mail Scott Thomas Tuchel speaks to ITV. “[Being in Rijeka on the sunny Adriatic coast] has helped us to unwind and r…"
     },
     {
@@ -7825,6 +7897,12 @@
    "category": "Sports",
    "items": [
     {
+     "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 5",
+     "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-5/",
+     "published": "2026-10-03T17:54:10+00:00",
+     "snippet": "A closer look at the top games in a loaded Week 5"
+    },
+    {
      "title": "Cal at UNLV live stream, where to watch, CBS Sports Network channel finder, odds",
      "link": "https://www.cbssports.com/college-football/news/cal-unlv-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
      "published": "2026-10-03T17:48:30+00:00",
@@ -7841,12 +7919,6 @@
      "link": "https://www.cbssports.com/college-football/news/miami-clemson-prediction-picks-odds-spread-where-to-watch-live/",
      "published": "2026-10-03T16:45:42+00:00",
      "snippet": "ACC frontrunner and No. 4 Miami travels to Death Valley for a Saturday night clash at Clemson"
-    },
-    {
-     "title": "Ohio State vs. Iowa prediction, pick, odds, spread: Buckeyes face another road test at Hawkeyes",
-     "link": "https://www.cbssports.com/college-football/news/ohio-state-iowa-prediction-picks-odds-spread-where-to-watch-live/",
-     "published": "2026-10-03T16:30:59+00:00",
-     "snippet": "No. 5 Ohio State travels to Iowa City for a Big Ten showdown with the No. 14 Hawkeyes"
     },
     {
      "title": "Navy vs. Air Force prediction, pick, odds, spread: Falcons aim to snap two-game skid against Midshipmen",
@@ -7913,12 +7985,6 @@
      "link": "https://www.cbssports.com/college-football/news/fanduel-promo-code-claim-250-bonus-bets-alabama-mississippi-state-byu-tcu-college-football/",
      "published": "2026-10-03T14:43:05+00:00",
      "snippet": "Sign up and bet with the latest FanDuel promo code on Saturday to get your bonus bets"
-    },
-    {
-     "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 5",
-     "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-5/",
-     "published": "2026-10-03T14:29:35+00:00",
-     "snippet": "A closer look at the top games in a loaded Week 5"
     },
     {
      "title": "Clemson vs. Miami odds, picks, predictions, best bets, start time: Betting preview for Week 5 college football",
@@ -12033,7 +12099,7 @@
     "start_utc": "2026-10-03T15:00:00+00:00",
     "start_et": "Sat Oct 3, 11:00 AM ET",
     "state": "in",
-    "status": "11:04 - 4th",
+    "status": "6:52 - 4th",
     "completed": false,
     "venue": "Jerry Richardson Stadium",
     "broadcast": "ESPN+",
@@ -12063,7 +12129,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "Halftime",
+    "status": "11:39 - 3rd",
     "completed": false,
     "venue": "Kenan Stadium",
     "broadcast": "ESPN, Disney+",
@@ -12071,7 +12137,7 @@
      {
       "name": "North Carolina Tar Heels",
       "homeAway": "home",
-      "score": "14",
+      "score": "20",
       "winner": null,
       "rank": null,
       "order": 0
@@ -12153,7 +12219,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "Halftime",
+    "status": "14:59 - 3rd",
     "completed": false,
     "venue": "Gerald J. Ford Stadium",
     "broadcast": "CW",
@@ -12183,7 +12249,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "Halftime",
+    "status": "12:25 - 3rd",
     "completed": false,
     "venue": "David Booth Kansas Memorial Stadium",
     "broadcast": "ESPNU",
@@ -12213,7 +12279,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "Halftime",
+    "status": "14:20 - 3rd",
     "completed": false,
     "venue": "Jack Trice Stadium",
     "broadcast": "TNT",
@@ -12303,7 +12369,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "Halftime",
+    "status": "13:55 - 3rd",
     "completed": false,
     "venue": "Huntington Bank Stadium",
     "broadcast": "FOX",
@@ -12333,7 +12399,7 @@
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
     "state": "in",
-    "status": "14:52 - 3rd",
+    "status": "10:06 - 3rd",
     "completed": false,
     "venue": "Falcon Stadium",
     "broadcast": "CBS",
@@ -12363,7 +12429,7 @@
     "start_utc": "2026-10-03T16:30:00+00:00",
     "start_et": "Sat Oct 3, 12:30 PM ET",
     "state": "in",
-    "status": "0:09 - 2nd",
+    "status": "Halftime",
     "completed": false,
     "venue": "Camp Randall Stadium",
     "broadcast": "BTN",
@@ -12393,7 +12459,7 @@
     "start_utc": "2026-10-03T16:45:00+00:00",
     "start_et": "Sat Oct 3, 12:45 PM ET",
     "state": "in",
-    "status": "6:58 - 2nd",
+    "status": "3:58 - 2nd",
     "completed": false,
     "venue": "Sanford Stadium",
     "broadcast": "SEC Network",
@@ -12401,7 +12467,7 @@
      {
       "name": "Georgia Bulldogs",
       "homeAway": "home",
-      "score": "14",
+      "score": "20",
       "winner": null,
       "rank": 2,
       "order": 0
@@ -12423,7 +12489,7 @@
     "start_utc": "2026-10-03T17:00:00+00:00",
     "start_et": "Sat Oct 3, 1:00 PM ET",
     "state": "in",
-    "status": "8:55 - 2nd",
+    "status": "5:18 - 2nd",
     "completed": false,
     "venue": "Broadview Stadium",
     "broadcast": "ESPN+",
@@ -17577,9 +17643,9 @@
     "name": "Bulgaria at Iceland",
     "start_utc": "2026-10-03T16:00:00+00:00",
     "start_et": "Sat Oct 3, 12:00 PM ET",
-    "state": "in",
-    "status": "90'+6'",
-    "completed": false,
+    "state": "post",
+    "status": "FT",
+    "completed": true,
     "venue": "Laugardalsvöllur",
     "broadcast": null,
     "competitors": [
@@ -17587,7 +17653,7 @@
       "name": "Iceland",
       "homeAway": "home",
       "score": "3",
-      "winner": false,
+      "winner": true,
       "rank": null,
       "order": 0
      },
@@ -22712,13 +22778,6 @@
    ],
    "injuries": [
     {
-     "player": "Carlos Washington Jr.",
-     "position": "RB",
-     "status": "Active",
-     "date": "Sat Oct 3, 11:35 AM ET",
-     "comment": "The Dolphins signed Washington from the practice squad to the active roster Saturday, Barry Jackson of the Miami Herald reports."
-    },
-    {
      "player": "Robert Beal Jr.",
      "position": "DE",
      "status": "Out",
@@ -22731,20 +22790,6 @@
      "status": "Active",
      "date": "Fri Oct 2, 4:10 PM ET",
      "comment": "Bell (knee) doesn't have an injury designation for Sunday's game against the Vikings, David Furones of the South Florida Sun Sentinel reports."
-    },
-    {
-     "player": "Aaron Brewer",
-     "position": "C",
-     "status": "Active",
-     "date": "Fri Oct 2, 3:58 PM ET",
-     "comment": ""
-    },
-    {
-     "player": "Tucker Addington",
-     "position": "LS",
-     "status": "Active",
-     "date": "Fri Oct 2, 3:57 PM ET",
-     "comment": ""
     },
     {
      "player": "Kenneth Grant",
@@ -22775,88 +22820,11 @@
      "comment": "The Dolphins opened Duck's (knee) 21-day practice window Wednesday, David Furones of the South Florida Sun Sentinel reports."
     },
     {
-     "player": "Jordyn Brooks",
-     "position": "LB",
-     "status": "Active",
-     "date": "Wed Sep 30, 12:02 AM ET",
-     "comment": "Brooks made 10 tackles (three solo) in the Dolphins' 24-10 loss to the Chiefs on Sunday."
-    },
-    {
-     "player": "Jacob Rodriguez",
-     "position": "LB",
-     "status": "Active",
-     "date": "Tue Sep 29, 11:59 PM ET",
-     "comment": "Rodriguez logged six tackles (four solo) and one pass defensed for an interception in the Dolphins' 24-10 loss to the Chiefs on Sunday."
-    },
-    {
-     "player": "Malik Washington",
-     "position": "WR",
-     "status": "Active",
-     "date": "Tue Sep 29, 10:17 PM ET",
-     "comment": "Washington caught five of 10 targets for 56 yards in Sunday's 24-10 loss to Kansas City. He gained five rushing yards on two carries."
-    },
-    {
-     "player": "Greg Dulcich",
-     "position": "TE",
-     "status": "Active",
-     "date": "Tue Sep 29, 12:39 AM ET",
-     "comment": "Dulcich caught five of seven targets for 55 yards in the Dolphins' 24-10 loss to the Chiefs on Sunday."
-    },
-    {
-     "player": "Riley Patterson",
-     "position": "PK",
-     "status": "Active",
-     "date": "Mon Sep 28, 7:27 PM ET",
-     "comment": "Patterson made his only field-goal attempt and sole extra-point try during Sunday's 24-10 loss to the Chiefs."
-    },
-    {
      "player": "De'Von Achane",
      "position": "RB",
      "status": "Injured Reserve",
      "date": "Mon Sep 28, 4:10 PM ET",
      "comment": "The Dolphins placed Achane (knee) on injured reserve Monday."
-    },
-    {
-     "player": "Marcellas Dial Jr.",
-     "position": "CB",
-     "status": "Active",
-     "date": "Mon Sep 28, 2:41 PM ET",
-     "comment": ""
-    },
-    {
-     "player": "DJ Campbell",
-     "position": "G",
-     "status": "Active",
-     "date": "Mon Sep 28, 2:41 PM ET",
-     "comment": ""
-    },
-    {
-     "player": "Brady Cook",
-     "position": "QB",
-     "status": "Active",
-     "date": "Mon Sep 28, 2:41 PM ET",
-     "comment": ""
-    },
-    {
-     "player": "Chukwuebuka Godrick",
-     "position": "OT",
-     "status": "Active",
-     "date": "Mon Sep 28, 2:41 PM ET",
-     "comment": ""
-    },
-    {
-     "player": "Malik Willis",
-     "position": "QB",
-     "status": "Active",
-     "date": "Sun Sep 27, 5:05 PM ET",
-     "comment": "Willis completed 20 of 36 passes for 210 yards, no touchdowns and one interception in Sunday's 24-10 loss to the Chiefs. He also rushed nine times for 56 yards and lost a fumble."
-    },
-    {
-     "player": "Ollie Gordon II",
-     "position": "RB",
-     "status": "Active",
-     "date": "Sun Sep 27, 5:03 PM ET",
-     "comment": "Gordon rushed 17 times for 41 yards and a touchdown while catching all three of his targets for 14 yards in Sunday's 24-10 loss to the Chiefs."
     },
     {
      "player": "Ryan Miller",
@@ -22866,28 +22834,15 @@
      "comment": "Miller (hip/back) is active for Sunday's game against the Chiefs."
     },
     {
-     "player": "JuJu Brents",
-     "position": "CB",
-     "status": "Active",
-     "date": "Sun Sep 27, 11:37 AM ET",
-     "comment": ""
-    },
-    {
      "player": "Chop Robinson",
      "position": "LB",
      "status": "Active",
      "date": "Thu Sep 24, 10:07 PM ET",
      "comment": "Robinson has cleared the concussion protocol and is available to play in Sunday's matchup with the Chiefs, Marcel Louis-Jacques of ESPN.com reports."
-    },
-    {
-     "player": "Kevin Coleman Jr.",
-     "position": "WR",
-     "status": "Active",
-     "date": "Wed Sep 23, 12:17 AM ET",
-     "comment": "Coleman played 27 offensive snaps and saw no targets in Sunday's 35-13 loss to the 49ers."
     }
    ],
-   "injuries_checked": true
+   "injuries_checked": true,
+   "injuries_total": 25
   },
   {
    "label": "Miami Heat (NBA)",
@@ -22959,7 +22914,8 @@
      "comment": "Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports."
     }
    ],
-   "injuries_checked": true
+   "injuries_checked": true,
+   "injuries_total": 2
   },
   {
    "label": "Florida Panthers (NHL)",
@@ -23124,7 +23080,8 @@
      "comment": "Gadjovich (upper body) is out indefinitely, the team announced Thursday."
     }
    ],
-   "injuries_checked": true
+   "injuries_checked": true,
+   "injuries_total": 5
   },
   {
    "label": "Florida Gators (college football)",
@@ -23253,7 +23210,8 @@
     }
    ],
    "injuries": [],
-   "injuries_checked": false
+   "injuries_checked": false,
+   "injuries_total": 0
   },
   {
    "label": "Chelsea (soccer)",
@@ -23298,7 +23256,8 @@
     }
    ],
    "injuries": [],
-   "injuries_checked": false
+   "injuries_checked": false,
+   "injuries_total": 0
   },
   {
    "label": "Miami Marlins (MLB)",
@@ -23433,7 +23392,8 @@
      "comment": "Henriquez (elbow) began playing catch from 60 feet out Friday, Christina De Nicola of MLB.com reports."
     }
    ],
-   "injuries_checked": true
+   "injuries_checked": true,
+   "injuries_total": 11
   }
  ]
 }

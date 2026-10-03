@@ -2,28 +2,28 @@
 
 HEALTH: OK
 HEALTH_REASONS: none
-GENERATED_UTC: 2026-10-03T17:52:43Z
-GENERATED_ET: Sat Oct 3, 1:52 PM ET
-COLLECTOR_VERSION: 8
+GENERATED_UTC: 2026-10-03T17:59:45Z
+GENERATED_ET: Sat Oct 3, 1:59 PM ET
+COLLECTOR_VERSION: 9
 
-News feeds OK: 68 of 73 (1214 items in window). Sports sources OK: 26 of 26.
+News feeds OK: 69 of 72 (1229 items in window). Sports sources OK: 26 of 26.
 
 Feeds that worked (items in last 48h; newest item):
 - CBS News: 30 items; newest Sat Oct 3, 1:38 PM ET
 - NPR: 10 items; newest Sat Oct 3, 8:00 AM ET
-- ABC News: 19 items; newest Sat Oct 3, 1:05 PM ET
+- ABC News: 19 items; newest Sat Oct 3, 1:58 PM ET
 - PBS NewsHour: 20 items; newest Sat Oct 3, 1:43 PM ET
 - Fox News (latest): 25 items; newest Sat Oct 3, 1:40 PM ET
 - Fox News (world): 7 items; newest Sat Oct 3, 6:17 AM ET
 - Fox News (politics): 25 items; newest Sat Oct 3, 11:30 AM ET
 - NBC News: 24 items; newest Sat Oct 3, 1:12 PM ET
-- CNBC (top news): 30 items; newest Sat Oct 3, 1:51 PM ET
+- CNBC (top news): 30 items; newest Sat Oct 3, 1:57 PM ET
 - CNBC (economy): 3 items; newest Fri Oct 2, 1:38 PM ET
 - Al Jazeera: 25 items; newest Sat Oct 3, 1:31 PM ET
 - Jerusalem Post: 18 items; newest Sat Oct 3, 3:19 PM ET
 - Politico: 8 items; newest Sat Oct 3, 10:00 AM ET
 - Yahoo News: 12 items; newest Sat Oct 3, 1:32 PM ET
-- CBS Sports: 36 items; newest Sat Oct 3, 1:48 PM ET
+- CBS Sports: 36 items; newest Sat Oct 3, 1:54 PM ET
 - NPR Politics: 10 items; newest Sat Oct 3, 7:47 AM ET
 - NPR World: 8 items; newest Fri Oct 2, 10:57 PM ET
 - NPR Business: 8 items; newest Sat Oct 3, 7:47 AM ET
@@ -38,12 +38,12 @@ Feeds that worked (items in last 48h; newest item):
 - New York Times: 19 items; newest Sat Oct 3, 1:47 PM ET
 - Washington Post: 16 items; newest Sat Oct 3, 12:30 PM ET
 - The Guardian (world): 35 items; newest Sat Oct 3, 1:09 PM ET
-- The Guardian (US): 31 items; newest Sat Oct 3, 1:09 PM ET
+- The Guardian (US): 29 items; newest Sat Oct 3, 1:09 PM ET
 - Sky News (world): 8 items; newest Sat Oct 3, 10:18 AM ET
-- Deutsche Welle: 31 items; newest Sat Oct 3, 1:16 PM ET
+- Deutsche Welle: 30 items; newest Sat Oct 3, 1:56 PM ET
 - France 24: 24 items; newest Sat Oct 3, 1:24 PM ET
-- New York Post: 24 items; newest Sat Oct 3, 1:51 PM ET
-- Newsweek: 20 items; newest Sat Oct 3, 1:43 PM ET
+- New York Post: 23 items; newest Sat Oct 3, 1:59 PM ET
+- Newsweek: 20 items; newest Sat Oct 3, 1:57 PM ET
 - MarketWatch: 10 items; newest Sat Oct 3, 1:24 PM ET
 - Bloomberg Markets: 20 items; newest Sat Oct 3, 12:35 PM ET
 - Fortune: 10 items; newest Sat Oct 3, 1:15 PM ET
@@ -61,18 +61,19 @@ Feeds that worked (items in last 48h; newest item):
 - Engadget: 20 items; newest Sat Oct 3, 12:30 PM ET
 - Hacker News front page: 20 items; newest Sat Oct 3, 1:00 PM ET
 - JNS: 30 items; newest Sat Oct 3, 1:29 PM ET
+- Middle East Eye: 20 items; newest Sat Oct 3, 1:55 PM ET
 - Al-Monitor: 20 items; newest Sat Oct 3, 11:30 AM ET
-- Yahoo Sports: 50 items; newest Sat Oct 3, 1:48 PM ET
+- Yahoo Sports: 50 items; newest Sat Oct 3, 1:54 PM ET
 - MLB.com news: 25 items; newest Sat Oct 3, 1:38 PM ET
 - Sky Sports (football): 20 items; newest Sat Oct 3, 2:36 PM ET
-- The Guardian (football): 18 items; newest Sat Oct 3, 1:44 PM ET
+- The Guardian (football): 18 items; newest Sat Oct 3, 1:49 PM ET
 - Variety: 10 items; newest Sat Oct 3, 1:50 PM ET
 - Hollywood Reporter: 10 items; newest Sat Oct 3, 12:02 PM ET
 - CBS Sports (NFL): 36 items; newest Sat Oct 3, 12:30 PM ET
 - CBS Sports (NBA): 4 items; newest Fri Oct 2, 4:46 PM ET
 - CBS Sports (NHL): 2 items; newest Fri Oct 2, 3:31 PM ET
 - CBS Sports (MLB): 14 items; newest Sat Oct 3, 11:30 AM ET
-- CBS Sports (college football): 34 items; newest Sat Oct 3, 1:48 PM ET
+- CBS Sports (college football): 33 items; newest Sat Oct 3, 1:54 PM ET
 - CBS Sports (college basketball): 5 items; newest Fri Oct 2, 6:45 PM ET
 - CBS Sports (soccer): 7 items; newest Sat Oct 3, 10:24 AM ET
 - CBS Sports (golf): 2 items; newest Sat Oct 3, 8:50 AM ET
@@ -107,7 +108,7 @@ Sports sources that worked:
 - NHL (official schedule API): 110 events
 
 Team data (ESPN news and injuries):
-- Miami Dolphins (NFL): 20 news items, 25 injury entries
+- Miami Dolphins (NFL): 20 news items, 9 injury entries
 - Miami Heat (NBA): 8 news items, 2 injury entries
 - Florida Panthers (NHL): 20 news items, 5 injury entries
 - Florida Gators (college football): 20 news items, 0 injury entries
@@ -115,8 +116,6 @@ Team data (ESPN news and injuries):
 - Miami Marlins (MLB): 8 news items, 11 injury entries
 
 ## Failures and warnings this run (full detail; the same lines go to failure_log.md)
-- Sat Oct 3, 1:52 PM ET | FAIL | step: Feed sweep | SEC press releases | https://www.sec.gov/news/pressreleases.rss | STALE: newest dated item is Thu Oct 1, 12:16 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Sat Oct 3, 1:53 PM ET | FAIL | step: Feed sweep | Middle East Eye | https://www.middleeasteye.net/rss | PARSE_ERROR: invalid XML: not well-formed (invalid token): line 1, column 0 | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the response was probably a web page (a block or error page), not a feed or valid data.
-- Sat Oct 3, 1:53 PM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Wed Sep 30, 8:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Sat Oct 3, 1:53 PM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Sun Sep 13, 6:19 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Sat Oct 3, 1:53 PM ET | FAIL | step: Feed sweep | MMA Fighting | https://www.mmafighting.com/rss/current | HTTP_ERROR 404: 404 Not Found | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the URL no longer exists or has moved.
+- Sat Oct 3, 1:59 PM ET | FAIL | step: Feed sweep | SEC press releases | https://www.sec.gov/news/pressreleases.rss | STALE: newest dated item is Thu Oct 1, 12:16 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Sat Oct 3, 1:59 PM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Wed Sep 30, 8:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Sat Oct 3, 1:59 PM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Sun Sep 13, 6:19 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).

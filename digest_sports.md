@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Oct 3, 1:52 PM ET)
+# Sports digest (generated Sat Oct 3, 1:59 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -96,20 +96,20 @@ Finals (last ~40h):
 - Pittsburgh Panthers 35 at Virginia Tech Hokies 33 | Final | Fri Oct 2, 7:00 PM ET | TV: ESPN | Lane Stadium
 - Liberty Flames 30 at Delaware Blue Hens 14 | Final | Fri Oct 2, 7:00 PM ET | TV: CBSSN | Delaware Stadium
 Live now:
-- Memphis Tigers 52 at Charlotte 49ers 8 | 11:04 - 4th | Sat Oct 3, 11:00 AM ET | TV: ESPN+ | Jerry Richardson Stadium
-- Notre Dame Fighting Irish 21 at North Carolina Tar Heels 14 | ranks: Notre Dame Fighting Irish #3 | Halftime | Sat Oct 3, 12:00 PM ET | TV: ESPN, Disney+ | Kenan Stadium
+- Memphis Tigers 52 at Charlotte 49ers 8 | 6:52 - 4th | Sat Oct 3, 11:00 AM ET | TV: ESPN+ | Jerry Richardson Stadium
+- Notre Dame Fighting Irish 21 at North Carolina Tar Heels 20 | ranks: Notre Dame Fighting Irish #3 | 11:39 - 3rd | Sat Oct 3, 12:00 PM ET | TV: ESPN, Disney+ | Kenan Stadium
 - Alabama Crimson Tide 28 at Mississippi State Bulldogs 17 | ranks: Mississippi State Bulldogs #16, Alabama Crimson Tide #7 | Halftime | Sat Oct 3, 12:00 PM ET | TV: ABC | Davis Wade Stadium
 - UCF Knights 10 at Houston Cougars 0 | ranks: Houston Cougars #20 | Halftime | Sat Oct 3, 12:00 PM ET | TV: ESPN2 | TDECU Stadium
-- Boston College Eagles 10 at SMU Mustangs 13 | ranks: SMU Mustangs #21 | Halftime | Sat Oct 3, 12:00 PM ET | TV: CW | Gerald J. Ford Stadium
-- Middle Tennessee Blue Raiders 0 at Kansas Jayhawks 20 | Halftime | Sat Oct 3, 12:00 PM ET | TV: ESPNU | David Booth Kansas Memorial Stadium
-- West Virginia Mountaineers 14 at Iowa State Cyclones 21 | Halftime | Sat Oct 3, 12:00 PM ET | TV: TNT | Jack Trice Stadium
+- Boston College Eagles 10 at SMU Mustangs 13 | ranks: SMU Mustangs #21 | 14:59 - 3rd | Sat Oct 3, 12:00 PM ET | TV: CW | Gerald J. Ford Stadium
+- Middle Tennessee Blue Raiders 0 at Kansas Jayhawks 20 | 12:25 - 3rd | Sat Oct 3, 12:00 PM ET | TV: ESPNU | David Booth Kansas Memorial Stadium
+- West Virginia Mountaineers 14 at Iowa State Cyclones 21 | 14:20 - 3rd | Sat Oct 3, 12:00 PM ET | TV: TNT | Jack Trice Stadium
 - Stanford Cardinal 3 at Wake Forest Demon Deacons 29 | Halftime | Sat Oct 3, 12:00 PM ET | TV: ACC Network | Allegacy Federal Credit Union Stadium
 - Syracuse Orange 27 at UConn Huskies 14 | Halftime | Sat Oct 3, 12:00 PM ET | TV: CBSSN | Pratt & Whitney Stadium
-- Michigan Wolverines 14 at Minnesota Golden Gophers 7 | Halftime | Sat Oct 3, 12:00 PM ET | TV: FOX | Huntington Bank Stadium
-- Navy Midshipmen 3 at Air Force Falcons 14 | 14:52 - 3rd | Sat Oct 3, 12:00 PM ET | TV: CBS | Falcon Stadium
-- Michigan State Spartans 3 at Wisconsin Badgers 17 | 0:09 - 2nd | Sat Oct 3, 12:30 PM ET | TV: BTN | Camp Randall Stadium
-- Vanderbilt Commodores 7 at Georgia Bulldogs 14 | ranks: Georgia Bulldogs #2 | 6:58 - 2nd | Sat Oct 3, 12:45 PM ET | TV: SEC Network | Sanford Stadium
-- Western Michigan Broncos 7 at Buffalo Bulls 14 | 8:55 - 2nd | Sat Oct 3, 1:00 PM ET | TV: ESPN+ | Broadview Stadium
+- Michigan Wolverines 14 at Minnesota Golden Gophers 7 | 13:55 - 3rd | Sat Oct 3, 12:00 PM ET | TV: FOX | Huntington Bank Stadium
+- Navy Midshipmen 3 at Air Force Falcons 14 | 10:06 - 3rd | Sat Oct 3, 12:00 PM ET | TV: CBS | Falcon Stadium
+- Michigan State Spartans 3 at Wisconsin Badgers 17 | Halftime | Sat Oct 3, 12:30 PM ET | TV: BTN | Camp Randall Stadium
+- Vanderbilt Commodores 7 at Georgia Bulldogs 20 | ranks: Georgia Bulldogs #2 | 3:58 - 2nd | Sat Oct 3, 12:45 PM ET | TV: SEC Network | Sanford Stadium
+- Western Michigan Broncos 7 at Buffalo Bulls 14 | 5:18 - 2nd | Sat Oct 3, 1:00 PM ET | TV: ESPN+ | Broadview Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Missouri Tigers | ranks: Missouri Tigers #25, Florida Gators #8 | 10/3 - 3:30 PM EDT | Sat Oct 3, 3:30 PM ET | TV: ABC | Memorial Stadium
 - [MY TEAM] South Carolina Gamecocks at Florida Gators | ranks: Florida Gators #8 | TBD | Sat Oct 10, 12:00 AM ET | Ben Hill Griffin Stadium
@@ -215,6 +215,7 @@ Finals (last ~40h):
 - San Marino 0 at Belarus 4 | FT | Sat Oct 3, 12:00 PM ET | Illovszky Rudolf Stadion
 - England 7 at Croatia 0 | FT | Sat Oct 3, 12:00 PM ET | Stadion HNK Rijeka
 - Luxembourg 0 at Estonia 1 | FT | Sat Oct 3, 12:00 PM ET | TV: FS2 | A. Le Coq Arena
+- Bulgaria 0 at Iceland 3 | FT | Sat Oct 3, 12:00 PM ET | Laugardalsvöllur
 - Albania 1 at Finland 2 | FT | Sat Oct 3, 9:00 AM ET | TV: FS2 | Helsinki Olympic Stadium
 - Türkiye 0 at Belgium 3 | FT | Fri Oct 2, 2:45 PM ET | Stade Maurice Dufrasne
 - Sweden 1 at Bosnia-Herzegovina 1 | FT | Fri Oct 2, 2:45 PM ET | Bilino Polje Stadium
@@ -226,8 +227,6 @@ Finals (last ~40h):
 - Armenia 0 at Cyprus 2 | FT | Fri Oct 2, 12:00 PM ET | GSP Stadium
 - Montenegro 2 at Latvia 1 | FT | Fri Oct 2, 12:00 PM ET | Skonto Stadions
 - Moldova 2 at Kazakhstan 1 | FT | Fri Oct 2, 10:00 AM ET | TV: FS2 | Astana Arena
-Live now:
-- Bulgaria 0 at Iceland 3 | 90'+6' | Sat Oct 3, 12:00 PM ET | Laugardalsvöllur
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Scotland at North Macedonia | Scheduled | Sat Oct 3, 2:45 PM ET | Toše Proeski Arena
