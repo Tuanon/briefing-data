@@ -1,0 +1,594 @@
+{
+ "_note": "Edit this file to add or remove sources. There is no cap on the number of feeds. Every URL here was written from memory and is NOT verified; digest_status.md shows which respond on each run. Oct 3 TRIAL LIST: many candidates added on purpose so the first run shows which work; prune the failures afterwards. Removed Oct 3: CNN x3 (frozen archives), Times of Israel (robots.txt disallows the feed), ESPN RSS x5 (empty responses). 'category' and 'note' are for humans; the collector ignores them. Every entry needs a comma after it except the last one.",
+ "limits": {
+  "news_window_hours": 48,
+  "md_items_per_feed": 8,
+  "json_items_per_feed": 40,
+  "others_per_league": 25,
+  "news_budget_seconds": 600,
+  "probe_budget_seconds": 300,
+  "team_news_days": 7
+ },
+ "health": {
+  "min_feeds_ok": 6,
+  "min_sports_ok": 3,
+  "min_news_items": 30
+ },
+ "probe": {
+  "enabled": false,
+  "min_text_chars": 1500
+ },
+ "my_teams": [
+  "Miami Dolphins",
+  "Florida Panthers",
+  "Miami Heat",
+  "Florida Gators",
+  "Chelsea",
+  "Miami Marlins",
+  "United States"
+ ],
+ "news_feeds": [
+  {
+   "name": "CBS News",
+   "url": "https://www.cbsnews.com/latest/rss/main",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "NPR",
+   "url": "https://feeds.npr.org/1001/rss.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "ABC News",
+   "url": "https://abcnews.go.com/abcnews/topstories",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "PBS NewsHour",
+   "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Fox News (latest)",
+   "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Fox News (world)",
+   "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Fox News (politics)",
+   "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "NBC News",
+   "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "CNBC (top news)",
+   "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "CNBC (economy)",
+   "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Al Jazeera",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Jerusalem Post",
+   "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Politico",
+   "url": "https://rss.politico.com/politics-news.xml",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "Yahoo News",
+   "url": "https://news.yahoo.com/rss/",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "CBS Sports",
+   "url": "https://www.cbssports.com/rss/headlines/",
+   "category": "core (working Oct 3)"
+  },
+  {
+   "name": "NPR Politics",
+   "url": "https://feeds.npr.org/1014/rss.xml",
+   "category": "US & world"
+  },
+  {
+   "name": "NPR World",
+   "url": "https://feeds.npr.org/1004/rss.xml",
+   "category": "US & world"
+  },
+  {
+   "name": "NPR Business",
+   "url": "https://feeds.npr.org/1006/rss.xml",
+   "category": "Business & markets"
+  },
+  {
+   "name": "NPR Technology",
+   "url": "https://feeds.npr.org/1019/rss.xml",
+   "category": "Tech"
+  },
+  {
+   "name": "CBS News Politics",
+   "url": "https://www.cbsnews.com/latest/rss/politics",
+   "category": "US & world"
+  },
+  {
+   "name": "CBS News World",
+   "url": "https://www.cbsnews.com/latest/rss/world",
+   "category": "US & world"
+  },
+  {
+   "name": "ABC News Politics",
+   "url": "https://abcnews.go.com/abcnews/politicsheadlines",
+   "category": "US & world"
+  },
+  {
+   "name": "ABC News World",
+   "url": "https://abcnews.go.com/abcnews/internationalheadlines",
+   "category": "US & world"
+  },
+  {
+   "name": "The Hill",
+   "url": "https://thehill.com/feed/",
+   "category": "US & world"
+  },
+  {
+   "name": "LA Times",
+   "url": "https://www.latimes.com/world-nation/rss2.0.xml",
+   "category": "US & world"
+  },
+  {
+   "name": "Christian Science Monitor",
+   "url": "https://rss.csmonitor.com/feeds/all",
+   "category": "US & world"
+  },
+  {
+   "name": "New York Times",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+   "category": "US & world",
+   "note": "free headlines; articles are metered"
+  },
+  {
+   "name": "Washington Post",
+   "url": "https://feeds.washingtonpost.com/rss/national",
+   "category": "US & world",
+   "note": "free headlines; articles are metered"
+  },
+  {
+   "name": "The Guardian (world)",
+   "url": "https://www.theguardian.com/world/rss",
+   "category": "US & world"
+  },
+  {
+   "name": "The Guardian (US)",
+   "url": "https://www.theguardian.com/us-news/rss",
+   "category": "US & world"
+  },
+  {
+   "name": "Sky News (world)",
+   "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+   "category": "US & world"
+  },
+  {
+   "name": "Deutsche Welle",
+   "url": "https://rss.dw.com/rdf/rss-en-all",
+   "category": "US & world",
+   "note": "German public broadcaster"
+  },
+  {
+   "name": "France 24",
+   "url": "https://www.france24.com/en/rss",
+   "category": "US & world",
+   "note": "French state-funded"
+  },
+  {
+   "name": "New York Post",
+   "url": "https://nypost.com/feed/",
+   "category": "US & world",
+   "note": "tabloid; lower weight"
+  },
+  {
+   "name": "Newsweek",
+   "url": "https://www.newsweek.com/rss",
+   "category": "US & world",
+   "note": "lower weight"
+  },
+  {
+   "name": "MarketWatch",
+   "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+   "category": "Business & markets"
+  },
+  {
+   "name": "Bloomberg Markets",
+   "url": "https://feeds.bloomberg.com/markets/news.rss",
+   "category": "Business & markets",
+   "note": "free headlines; articles are paywalled"
+  },
+  {
+   "name": "Fortune",
+   "url": "https://fortune.com/feed/",
+   "category": "Business & markets"
+  },
+  {
+   "name": "Business Insider",
+   "url": "https://feeds.businessinsider.com/custom/all",
+   "category": "Business & markets"
+  },
+  {
+   "name": "Federal Reserve press releases",
+   "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "SEC press releases",
+   "url": "https://www.sec.gov/news/pressreleases.rss",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "BLS latest releases",
+   "url": "https://www.bls.gov/feed/bls_latest.rss",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "SCOTUSblog",
+   "url": "https://www.scotusblog.com/feed/",
+   "category": "Government & legal"
+  },
+  {
+   "name": "DOJ press releases",
+   "url": "https://www.justice.gov/news/rss?m=1",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "USGS significant earthquakes",
+   "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "National Hurricane Center",
+   "url": "https://www.nhc.noaa.gov/index-at.xml",
+   "category": "Government & legal",
+   "note": "primary source"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/feed/",
+   "category": "Tech"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/index.xml",
+   "category": "Tech"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://feeds.arstechnica.com/arstechnica/index",
+   "category": "Tech"
+  },
+  {
+   "name": "Wired",
+   "url": "https://www.wired.com/feed/rss",
+   "category": "Tech"
+  },
+  {
+   "name": "Engadget",
+   "url": "https://www.engadget.com/rss.xml",
+   "category": "Tech"
+  },
+  {
+   "name": "Hacker News front page",
+   "url": "https://hnrss.org/frontpage",
+   "category": "Tech",
+   "note": "aggregator of links; lower weight"
+  },
+  {
+   "name": "JNS",
+   "url": "https://www.jns.org/feed/",
+   "category": "Israel & Middle East",
+   "note": "Jewish news syndicate; pro-Israel perspective"
+  },
+  {
+   "name": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/rss",
+   "category": "Israel & Middle East",
+   "note": "UK-based; critical of Israeli policy; attribute"
+  },
+  {
+   "name": "Al-Monitor",
+   "url": "https://www.al-monitor.com/rss",
+   "category": "Israel & Middle East"
+  },
+  {
+   "name": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/rss/",
+   "category": "Sports"
+  },
+  {
+   "name": "MLB.com news",
+   "url": "https://www.mlb.com/feeds/news/rss.xml",
+   "category": "Sports"
+  },
+  {
+   "name": "Sky Sports (football)",
+   "url": "https://www.skysports.com/rss/12040",
+   "category": "Sports",
+   "note": "URL is a guess"
+  },
+  {
+   "name": "The Guardian (football)",
+   "url": "https://www.theguardian.com/football/rss",
+   "category": "Sports"
+  },
+  {
+   "name": "Variety",
+   "url": "https://variety.com/feed/",
+   "category": "Culture"
+  },
+  {
+   "name": "Hollywood Reporter",
+   "url": "https://www.hollywoodreporter.com/feed/",
+   "category": "Culture"
+  },
+  {
+   "name": "CBS Sports (NFL)",
+   "url": "https://www.cbssports.com/rss/headlines/nfl/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (NBA)",
+   "url": "https://www.cbssports.com/rss/headlines/nba/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (NHL)",
+   "url": "https://www.cbssports.com/rss/headlines/nhl/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (MLB)",
+   "url": "https://www.cbssports.com/rss/headlines/mlb/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (college football)",
+   "url": "https://www.cbssports.com/rss/headlines/college-football/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (college basketball)",
+   "url": "https://www.cbssports.com/rss/headlines/college-basketball/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (soccer)",
+   "url": "https://www.cbssports.com/rss/headlines/soccer/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (MMA)",
+   "url": "https://www.cbssports.com/rss/headlines/mma/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (golf)",
+   "url": "https://www.cbssports.com/rss/headlines/golf/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "CBS Sports (tennis)",
+   "url": "https://www.cbssports.com/rss/headlines/tennis/",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "The Guardian (Chelsea)",
+   "url": "https://www.theguardian.com/football/chelsea/rss",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "MMA Fighting",
+   "url": "https://www.mmafighting.com/rss/current",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  }
+ ],
+ "espn_leagues": [
+  {
+   "label": "NFL",
+   "sport": "football",
+   "league": "nfl"
+  },
+  {
+   "label": "NBA",
+   "sport": "basketball",
+   "league": "nba"
+  },
+  {
+   "label": "NHL (ESPN)",
+   "sport": "hockey",
+   "league": "nhl"
+  },
+  {
+   "label": "College football (FBS)",
+   "sport": "football",
+   "league": "college-football",
+   "groups": "80"
+  },
+  {
+   "label": "Premier League",
+   "sport": "soccer",
+   "league": "eng.1"
+  },
+  {
+   "label": "Champions League",
+   "sport": "soccer",
+   "league": "uefa.champions"
+  },
+  {
+   "label": "UFC",
+   "sport": "mma",
+   "league": "ufc"
+  },
+  {
+   "label": "PGA Tour",
+   "sport": "golf",
+   "league": "pga"
+  },
+  {
+   "label": "ATP tennis",
+   "sport": "tennis",
+   "league": "atp"
+  },
+  {
+   "label": "WTA tennis",
+   "sport": "tennis",
+   "league": "wta"
+  },
+  {
+   "label": "FA Cup (Chelsea)",
+   "sport": "soccer",
+   "league": "eng.fa"
+  },
+  {
+   "label": "EFL Cup (Chelsea)",
+   "sport": "soccer",
+   "league": "eng.league_cup"
+  },
+  {
+   "label": "Europa League",
+   "sport": "soccer",
+   "league": "uefa.europa"
+  },
+  {
+   "label": "Conference League",
+   "sport": "soccer",
+   "league": "uefa.europa.conf"
+  },
+  {
+   "label": "Club World Cup",
+   "sport": "soccer",
+   "league": "fifa.cwc"
+  },
+  {
+   "label": "International friendlies",
+   "sport": "soccer",
+   "league": "fifa.friendly"
+  },
+  {
+   "label": "UEFA Nations League",
+   "sport": "soccer",
+   "league": "uefa.nations"
+  },
+  {
+   "label": "World Cup",
+   "sport": "soccer",
+   "league": "fifa.world"
+  },
+  {
+   "label": "World Cup qualifying (UEFA)",
+   "sport": "soccer",
+   "league": "fifa.worldq.uefa"
+  },
+  {
+   "label": "World Cup qualifying (CONCACAF)",
+   "sport": "soccer",
+   "league": "fifa.worldq.concacaf"
+  },
+  {
+   "label": "CONCACAF Nations League",
+   "sport": "soccer",
+   "league": "concacaf.nations.league"
+  },
+  {
+   "label": "Gold Cup",
+   "sport": "soccer",
+   "league": "concacaf.gold"
+  },
+  {
+   "label": "European Championship",
+   "sport": "soccer",
+   "league": "uefa.euro"
+  },
+  {
+   "label": "Copa America",
+   "sport": "soccer",
+   "league": "conmebol.america"
+  }
+ ],
+ "espn_teams": [
+  {
+   "label": "Miami Dolphins (NFL)",
+   "sport": "football",
+   "league": "nfl",
+   "name": "Miami Dolphins",
+   "injuries": true
+  },
+  {
+   "label": "Miami Heat (NBA)",
+   "sport": "basketball",
+   "league": "nba",
+   "name": "Miami Heat",
+   "injuries": true
+  },
+  {
+   "label": "Florida Panthers (NHL)",
+   "sport": "hockey",
+   "league": "nhl",
+   "name": "Florida Panthers",
+   "injuries": true
+  },
+  {
+   "label": "Florida Gators (college football)",
+   "sport": "football",
+   "league": "college-football",
+   "name": "Florida Gators",
+   "groups": "80",
+   "injuries": false
+  },
+  {
+   "label": "Chelsea (soccer)",
+   "sport": "soccer",
+   "league": "eng.1",
+   "name": "Chelsea",
+   "injuries": false
+  },
+  {
+   "label": "Miami Marlins (MLB)",
+   "sport": "baseball",
+   "league": "mlb",
+   "name": "Miami Marlins",
+   "injuries": true
+  }
+ ]
+}
