@@ -32,7 +32,7 @@ from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 from zoneinfo import ZoneInfo
 
-COLLECTOR_VERSION = 9
+COLLECTOR_VERSION = 10
 ET_TZ = ZoneInfo("America/New_York")
 UA = "MorningBriefingCollector/2.0 (personal use; one run per day)"
 NOW = datetime.now(timezone.utc)
@@ -528,6 +528,38 @@ def find_espn_team(sport, league, name, groups=None):
     return str(pick["id"]), pick.get("displayName") or name
 
 
+def collect_espn_news(cfg, status):
+    """League-wide ESPN news (top stories per sport), shaped like feeds so it flows into the same digest and clustering."""
+    out = []
+    cutoff = NOW - timedelta(hours=NEWS_WINDOW_HOURS)
+    for n in cfg.get("espn_news", []):
+        name = f"ESPN ({n.get('label', n.get('league', '?'))})"
+        try:
+            url = f"{espn_base(n['sport'], n['league'])}/news?limit=40"
+        except KeyError:
+            log_failure("Feed sweep", name, "config.json", "CONFIG_ERROR", None, "an espn_news entry is missing sport or league", 0, "this entry was skipped")
+            continue
+        try:
+            data = json.loads(fetch(url))
+            items = []
+            for a in data.get("articles", []):
+                pub = parse_iso(a.get("published") or a.get("lastModified"))
+                link = ((a.get("links") or {}).get("web") or {}).get("href") or ""
+                if not pub or pub < cutoff or "/video/" in link:
+                    continue
+                items.append({"title": clean(a.get("headline") or "", 300), "link": link, "published": pub, "snippet": clean(a.get("description") or "", 220)})
+            if not items:
+                raise FetchError("EMPTY_FEED", f"no dated, non-video articles in the last {NEWS_WINDOW_HOURS} hours")
+            items.sort(key=lambda i: i["published"], reverse=True)
+            status["feeds"].append({"name": name, "ok": True, "items_in_window": len(items), "newest": et_str(items[0]["published"]), "url": url})
+            out.append({"source": name, "url": url, "category": "Sports", "items": items[:JSON_ITEMS_PER_FEED]})
+        except Exception as e:
+            kind, code, detail, attempts = describe(e)
+            status["feeds"].append({"name": name, "ok": False, "error": f"{kind} {code or ''}: {detail}"[:200], "url": url})
+            log_failure("Feed sweep", name, url, kind, code, detail, attempts, "no items from this ESPN league news list in the digest")
+    return out
+
+
 INJURY_WORDS = re.compile(r"injur|knee|ankle|hamstring|foot|calf|groin|shoulder|concussion|hip|back|oblique|illness|questionable|doubtful|"
                           r"ruled out|designation|surgery|strain|sprain|day-to-day|out for|sidelined|limited", re.I)
 
@@ -908,6 +940,7 @@ def main():
     PROBE_BUDGET_SECONDS = lim.get("probe_budget_seconds", PROBE_BUDGET_SECONDS)
 
     news = collect_news(cfg, status)
+    news += collect_espn_news(cfg, status)
     leagues = collect_espn(cfg, status)
     leagues["MLB (official StatsAPI)"] = collect_mlb(cfg, status)
     leagues["NHL (official schedule API)"] = collect_nhl(cfg, status)

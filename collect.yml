@@ -1,0 +1,45 @@
+name: collect-briefing-data
+
+on:
+  schedule:
+    - cron: "35 2 * * *"   # evening run, 10:35 PM ET in summer (insurance if overnight runs drop)
+    - cron: "20 8 * * *"   # 4:20 AM ET in summer (3:20 AM in winter)
+    - cron: "50 8 * * *"   # 4:50 AM ET
+    - cron: "5 9 * * *"    # 5:05 AM ET
+    - cron: "20 9 * * *"   # 5:20 AM ET, last run before the 5:40 briefing
+  workflow_dispatch: {}      # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect
+        run: python collect.py
+      - name: Show status on the run page
+        if: always()
+        run: |
+          if [ -f digest_status.md ]; then cat digest_status.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "briefing-bot@users.noreply.github.com"
+          git add digest_status.md digest_brief.md digest_teams.md digest_news.md digest_sports.md digest.json failure_log.md
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "digest $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

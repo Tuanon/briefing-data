@@ -415,6 +415,36 @@
    "url": "https://www.theguardian.com/football/chelsea/rss",
    "category": "Sports",
    "note": "added Oct 3, untested"
+  },
+  {
+   "name": "Sky Sports (all sports)",
+   "url": "https://www.skysports.com/rss/0",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "Sky Sports (Premier League)",
+   "url": "https://www.skysports.com/rss/11095",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "The Guardian (sport)",
+   "url": "https://www.theguardian.com/sport/rss",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "The Guardian (Premier League)",
+   "url": "https://www.theguardian.com/football/premierleague/rss",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
+  },
+  {
+   "name": "The Guardian (Manchester City)",
+   "url": "https://www.theguardian.com/football/manchestercity/rss",
+   "category": "Sports",
+   "note": "added Oct 3, untested"
   }
  ],
  "espn_leagues": [
@@ -583,6 +613,68 @@
    "league": "mlb",
    "name": "Miami Marlins",
    "injuries": true
+  }
+ ],
+ "espn_news": [
+  {
+   "label": "NFL",
+   "sport": "football",
+   "league": "nfl"
+  },
+  {
+   "label": "NBA",
+   "sport": "basketball",
+   "league": "nba"
+  },
+  {
+   "label": "NHL",
+   "sport": "hockey",
+   "league": "nhl"
+  },
+  {
+   "label": "MLB",
+   "sport": "baseball",
+   "league": "mlb"
+  },
+  {
+   "label": "college football",
+   "sport": "football",
+   "league": "college-football"
+  },
+  {
+   "label": "college basketball",
+   "sport": "basketball",
+   "league": "mens-college-basketball"
+  },
+  {
+   "label": "Premier League",
+   "sport": "soccer",
+   "league": "eng.1"
+  },
+  {
+   "label": "Champions League",
+   "sport": "soccer",
+   "league": "uefa.champions"
+  },
+  {
+   "label": "UFC",
+   "sport": "mma",
+   "league": "ufc"
+  },
+  {
+   "label": "PGA Tour",
+   "sport": "golf",
+   "league": "pga"
+  },
+  {
+   "label": "ATP tennis",
+   "sport": "tennis",
+   "league": "atp"
+  },
+  {
+   "label": "WTA tennis",
+   "sport": "tennis",
+   "league": "wta"
   }
  ]
 }
