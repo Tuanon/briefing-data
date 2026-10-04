@@ -1,4 +1,4 @@
-# Team digest (generated Sun Oct 4, 11:45 AM ET)
+# Team digest (generated Sun Oct 4, 11:57 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -43,7 +43,7 @@ Injuries / player notes (ESPN; 2 of 2 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- NHL Tonight: Mammoth, Rangers square off in key interconference matchup | Sun Oct 4, 7:26 AM ET | https://www.espn.com/nhl/story/_/id/50091102/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | There are five games on the NHL calendar on Sunday. Here's what to watch in each of them.
+- NHL Tonight: Mammoth, Rangers square off in key interconference matchup | Sun Oct 4, 10:13 AM ET | https://www.espn.com/nhl/story/_/id/50091102/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | There are five games on the NHL calendar on Sunday. Here's what to watch in each of them.
 - Lyle Odelein, Stanley Cup winning defenseman, dies at 58 | Sat Oct 3, 8:32 PM ET | https://www.espn.com/nhl/story/_/id/50094788/lyle-odelein-stanley-cup-winning-defenseman-dies-58 | Lyle Odelein, a defenseman who won a Stanley Cup with the Montreal Canadiens in 1993 and played for several other NHL clubs through the 2005-06 season, has died at 58 years old, it was announced in social media posts by…
 - Panthers put Aleksander Barkov on long-term IR with leg injury | Sat Oct 3, 2:42 PM ET | https://www.espn.com/nhl/story/_/id/50091843/panthers-put-aleksander-barkov-long-term-ir-leg-injury | Panthers center Aleksander Barkov has been placed on long-term injured reserve, meaning the injury to his left leg will keep him sidelined for at least the next 10 games.
 - Panthers visit the Ducks after Luostarinen's 2-goal game | Sat Oct 3, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891778 | Florida Panthers (1-0-1, in the Atlantic Division) vs. Anaheim Ducks (1-0, in the Pacific Division)

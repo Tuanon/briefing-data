@@ -1,10 +1,10 @@
-# Sports digest (generated Sun Oct 4, 11:45 AM ET)
+# Sports digest (generated Sun Oct 4, 11:57 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
 ## NFL
 Live now:
-- Indianapolis Colts 20 at Washington Commanders 13 | 7:03 - 3rd | Sun Oct 4, 9:30 AM ET | TV: NFL Net | Tottenham Hotspur Stadium
+- Indianapolis Colts 20 at Washington Commanders 13 | 2:23 - 3rd | Sun Oct 4, 9:30 AM ET | TV: NFL Net | Tottenham Hotspur Stadium
 Next 7 days, my teams:
 - [MY TEAM] Miami Dolphins at Minnesota Vikings | 10/4 - 4:05 PM EDT | Sun Oct 4, 4:05 PM ET | TV: FOX | U.S. Bank Stadium
 Next 7 days, others (first 25):
