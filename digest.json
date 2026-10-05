@@ -1,11 +1,11 @@
 {
- "generated_utc": "2026-10-05T08:34:16.305786+00:00",
+ "generated_utc": "2026-10-05T09:24:32.250217+00:00",
  "health": {
   "level": "OK",
   "reasons": [],
   "feeds_ok": 77,
   "sports_ok": 26,
-  "news_items": 1272
+  "news_items": 1279
  },
  "status": {
   "feeds": [
@@ -20,14 +20,14 @@
     "name": "NPR",
     "ok": true,
     "items_in_window": 10,
-    "newest": "Sun Oct 4, 8:17 PM ET",
+    "newest": "Mon Oct 5, 5:15 AM ET",
     "url": "https://feeds.npr.org/1001/rss.xml"
    },
    {
     "name": "ABC News",
     "ok": true,
-    "items_in_window": 11,
-    "newest": "Mon Oct 5, 4:10 AM ET",
+    "items_in_window": 12,
+    "newest": "Mon Oct 5, 5:22 AM ET",
     "url": "https://abcnews.go.com/abcnews/topstories"
    },
    {
@@ -41,7 +41,7 @@
     "name": "Fox News (latest)",
     "ok": true,
     "items_in_window": 25,
-    "newest": "Mon Oct 5, 4:00 AM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://moxie.foxnews.com/google-publisher/latest.xml"
    },
    {
@@ -55,21 +55,21 @@
     "name": "Fox News (politics)",
     "ok": true,
     "items_in_window": 25,
-    "newest": "Mon Oct 5, 4:00 AM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://moxie.foxnews.com/google-publisher/politics.xml"
    },
    {
     "name": "NBC News",
     "ok": true,
-    "items_in_window": 23,
-    "newest": "Mon Oct 5, 3:58 AM ET",
+    "items_in_window": 22,
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://feeds.nbcnews.com/nbcnews/public/news"
    },
    {
     "name": "CNBC (top news)",
     "ok": true,
     "items_in_window": 30,
-    "newest": "Mon Oct 5, 4:12 AM ET",
+    "newest": "Mon Oct 5, 4:52 AM ET",
     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
    },
    {
@@ -83,7 +83,7 @@
     "name": "Al Jazeera",
     "ok": true,
     "items_in_window": 25,
-    "newest": "Mon Oct 5, 4:05 AM ET",
+    "newest": "Mon Oct 5, 5:02 AM ET",
     "url": "https://www.aljazeera.com/xml/rss/all.xml"
    },
    {
@@ -103,7 +103,7 @@
    {
     "name": "Yahoo News",
     "ok": true,
-    "items_in_window": 20,
+    "items_in_window": 19,
     "newest": "Mon Oct 5, 1:52 AM ET",
     "url": "https://news.yahoo.com/rss/"
    },
@@ -117,15 +117,15 @@
    {
     "name": "NPR Politics",
     "ok": true,
-    "items_in_window": 7,
-    "newest": "Sun Oct 4, 2:36 PM ET",
+    "items_in_window": 8,
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://feeds.npr.org/1014/rss.xml"
    },
    {
     "name": "NPR World",
     "ok": true,
     "items_in_window": 10,
-    "newest": "Sun Oct 4, 8:17 PM ET",
+    "newest": "Mon Oct 5, 5:15 AM ET",
     "url": "https://feeds.npr.org/1004/rss.xml"
    },
    {
@@ -188,35 +188,35 @@
     "name": "Christian Science Monitor",
     "ok": true,
     "items_in_window": 6,
-    "newest": "Sun Oct 4, 7:49 PM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://rss.csmonitor.com/feeds/all"
    },
    {
     "name": "New York Times",
     "ok": true,
     "items_in_window": 15,
-    "newest": "Mon Oct 5, 2:19 AM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
    },
    {
     "name": "Washington Post",
     "ok": true,
-    "items_in_window": 14,
-    "newest": "Sun Oct 4, 6:22 PM ET",
+    "items_in_window": 16,
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://feeds.washingtonpost.com/rss/national"
    },
    {
     "name": "The Guardian (world)",
     "ok": true,
-    "items_in_window": 37,
-    "newest": "Mon Oct 5, 4:28 AM ET",
+    "items_in_window": 36,
+    "newest": "Mon Oct 5, 5:14 AM ET",
     "url": "https://www.theguardian.com/world/rss"
    },
    {
     "name": "The Guardian (US)",
     "ok": true,
-    "items_in_window": 25,
-    "newest": "Mon Oct 5, 4:20 AM ET",
+    "items_in_window": 26,
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://www.theguardian.com/us-news/rss"
    },
    {
@@ -230,42 +230,42 @@
     "name": "Deutsche Welle",
     "ok": true,
     "items_in_window": 21,
-    "newest": "Mon Oct 5, 3:32 AM ET",
+    "newest": "Mon Oct 5, 4:52 AM ET",
     "url": "https://rss.dw.com/rdf/rss-en-all"
    },
    {
     "name": "France 24",
     "ok": true,
     "items_in_window": 24,
-    "newest": "Mon Oct 5, 4:12 AM ET",
+    "newest": "Mon Oct 5, 4:46 AM ET",
     "url": "https://www.france24.com/en/rss"
    },
    {
     "name": "New York Post",
     "ok": true,
     "items_in_window": 21,
-    "newest": "Mon Oct 5, 4:08 AM ET",
+    "newest": "Mon Oct 5, 5:11 AM ET",
     "url": "https://nypost.com/feed/"
    },
    {
     "name": "Newsweek",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 4:21 AM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://www.newsweek.com/rss"
    },
    {
     "name": "MarketWatch",
     "ok": true,
     "items_in_window": 10,
-    "newest": "Mon Oct 5, 3:53 AM ET",
+    "newest": "Mon Oct 5, 5:22 AM ET",
     "url": "https://feeds.marketwatch.com/marketwatch/topstories/"
    },
    {
     "name": "Bloomberg Markets",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 4:00 AM ET",
+    "newest": "Mon Oct 5, 5:11 AM ET",
     "url": "https://feeds.bloomberg.com/markets/news.rss"
    },
    {
@@ -279,7 +279,7 @@
     "name": "Business Insider",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 4:11 AM ET",
+    "newest": "Mon Oct 5, 5:15 AM ET",
     "url": "https://feeds.businessinsider.com/custom/all"
    },
    {
@@ -316,7 +316,7 @@
     "name": "USGS significant earthquakes",
     "ok": true,
     "items_in_window": 1,
-    "newest": "Mon Oct 5, 4:00 AM ET",
+    "newest": "Mon Oct 5, 4:58 AM ET",
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom"
    },
    {
@@ -351,7 +351,7 @@
     "name": "Wired",
     "ok": true,
     "items_in_window": 13,
-    "newest": "Sun Oct 4, 7:03 AM ET",
+    "newest": "Mon Oct 5, 5:00 AM ET",
     "url": "https://www.wired.com/feed/rss"
    },
    {
@@ -365,14 +365,14 @@
     "name": "Hacker News front page",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 3:51 AM ET",
+    "newest": "Mon Oct 5, 4:09 AM ET",
     "url": "https://hnrss.org/frontpage"
    },
    {
     "name": "JNS",
     "ok": true,
     "items_in_window": 30,
-    "newest": "Mon Oct 5, 4:29 AM ET",
+    "newest": "Mon Oct 5, 5:01 AM ET",
     "url": "https://www.jns.org/feed/"
    },
    {
@@ -385,14 +385,14 @@
     "name": "Al-Monitor",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 4:30 AM ET",
+    "newest": "Mon Oct 5, 4:46 AM ET",
     "url": "https://www.al-monitor.com/rss"
    },
    {
     "name": "Yahoo Sports",
     "ok": true,
     "items_in_window": 50,
-    "newest": "Mon Oct 5, 4:25 AM ET",
+    "newest": "Mon Oct 5, 5:13 AM ET",
     "url": "https://sports.yahoo.com/rss/"
    },
    {
@@ -406,7 +406,7 @@
     "name": "Sky Sports (football)",
     "ok": true,
     "items_in_window": 20,
-    "newest": "Mon Oct 5, 5:00 AM ET",
+    "newest": "Mon Oct 5, 6:00 AM ET",
     "url": "https://www.skysports.com/rss/12040"
    },
    {
@@ -512,15 +512,15 @@
    {
     "name": "Sky Sports (Premier League)",
     "ok": true,
-    "items_in_window": 19,
-    "newest": "Mon Oct 5, 5:15 AM ET",
+    "items_in_window": 20,
+    "newest": "Mon Oct 5, 6:00 AM ET",
     "url": "https://www.skysports.com/rss/11095"
    },
    {
     "name": "The Guardian (sport)",
     "ok": true,
     "items_in_window": 26,
-    "newest": "Mon Oct 5, 3:00 AM ET",
+    "newest": "Mon Oct 5, 4:42 AM ET",
     "url": "https://www.theguardian.com/sport/rss"
    },
    {
@@ -554,8 +554,8 @@
    {
     "name": "ESPN (NHL)",
     "ok": true,
-    "items_in_window": 23,
-    "newest": "Mon Oct 5, 1:36 AM ET",
+    "items_in_window": 27,
+    "newest": "Mon Oct 5, 4:11 AM ET",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/news?limit=40"
    },
    {
@@ -847,7 +847,7 @@
  },
  "failures": [
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "Federal Reserve press releases",
@@ -860,7 +860,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "SEC press releases",
@@ -873,7 +873,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "BLS latest releases",
@@ -886,7 +886,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "SCOTUSblog",
@@ -899,7 +899,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "DOJ press releases",
@@ -912,7 +912,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "Middle East Eye",
@@ -925,7 +925,7 @@
    "likely_cause": "INFERRED: the response was probably a web page (a block or error page), not a feed or valid data."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "CBS Sports (NHL)",
@@ -938,7 +938,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "CBS Sports (MMA)",
@@ -951,7 +951,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "CBS Sports (tennis)",
@@ -964,7 +964,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "The Guardian (Chelsea)",
@@ -977,7 +977,7 @@
    "likely_cause": "INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive)."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "Sky Sports (all sports)",
@@ -990,7 +990,7 @@
    "likely_cause": "INFERRED: the server (or its bot protection) answered with nothing instead of the feed. The response was an empty body, not a web page."
   },
   {
-   "time_et": "Mon Oct 5, 4:34 AM ET",
+   "time_et": "Mon Oct 5, 5:24 AM ET",
    "severity": "FAIL",
    "step": "Feed sweep",
    "source": "ESPN (Champions League)",
@@ -1197,6 +1197,48 @@
    "category": "core (working Oct 3)",
    "items": [
     {
+     "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+     "published": "2026-10-05T09:15:55+00:00",
+     "snippet": "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis."
+    },
+    {
+     "title": "Super El Niño is here. What's so super about it?",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know."
+    },
+    {
+     "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now."
+    },
+    {
+     "title": "Voters are increasingly using AI chatbots to fact-check and compare candidates",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
+    },
+    {
+     "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate."
+    },
+    {
+     "title": "From floating saunas to clinical trials: How heat might help mental health",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health."
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5986099/morning-news-brief",
+     "published": "2026-10-05T08:45:43+00:00",
+     "snippet": "Investigators are still searching for the motive behind a midair attack aboard a FlyDubai plane, SCOTUS term begins with climate change case, Brazil's presidential race heads to run-off."
+    },
+    {
      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
      "published": "2026-10-05T00:17:35+00:00",
@@ -1213,48 +1255,6 @@
      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
      "published": "2026-10-04T18:36:48+00:00",
      "snippet": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence."
-    },
-    {
-     "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
-     "published": "2026-10-04T15:41:07+00:00",
-     "snippet": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added."
-    },
-    {
-     "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
-     "published": "2026-10-04T15:15:09+00:00",
-     "snippet": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
-    },
-    {
-     "title": "How the Cornell case is affecting women who have experienced sexual assault",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
-     "published": "2026-10-04T14:51:27+00:00",
-     "snippet": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence."
-    },
-    {
-     "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-     "published": "2026-10-04T10:00:00+00:00",
-     "snippet": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people."
-    },
-    {
-     "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-     "published": "2026-10-04T09:00:00+00:00",
-     "snippet": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat."
-    },
-    {
-     "title": "Coast Guard finds debris from medical plane carrying 6 people",
-     "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-     "published": "2026-10-03T22:31:04+00:00",
-     "snippet": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing."
-    },
-    {
-     "title": "Can the Cornell lawsuit force changes that make students safer?",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-     "published": "2026-10-03T21:57:34+00:00",
-     "snippet": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work."
     }
    ]
   },
@@ -1263,6 +1263,18 @@
    "url": "https://abcnews.go.com/abcnews/topstories",
    "category": "core (working Oct 3)",
    "items": [
+    {
+     "title": "Killer beetles, tinderbox forests: Climate change costs center stage at Supreme Court",
+     "link": "https://abcnews.com/Politics/killer-beetles-tinderbox-forests-climate-change-takes-center/story?id=136871791",
+     "published": "2026-10-05T09:22:52+00:00",
+     "snippet": "The Supreme Court is considering a major lawsuit brought by Boulder, Colo., against Exxon Mobil and Suncor Energy seeking financial damages for impacts of climate change."
+    },
+    {
+     "title": "As election looms, Supreme Court reconvenes to new wave of Trump cases",
+     "link": "https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786",
+     "published": "2026-10-05T09:10:58+00:00",
+     "snippet": "The Supreme Court formally begins a new term, taking on a wave of appeals from President Trump along with major cases on guns, religious freedom, and climate change."
+    },
     {
      "title": "The Nobel Prize week is kicking off in Stockholm with the medicine award",
      "link": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
@@ -1274,12 +1286,6 @@
      "link": "https://abcnews.com/US/wireStory/new-supreme-court-term-begins-cases-climate-change-136995024",
      "published": "2026-10-05T07:06:28+00:00",
      "snippet": "The Supreme Court begins a new term Monday with significant cases on climate change, religious rights, and immigration"
-    },
-    {
-     "title": "October heat wave continues to bake California, breaking records",
-     "link": "https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812",
-     "published": "2026-10-05T05:16:25+00:00",
-     "snippet": "At least 35 million people are under heat alerts on Sunday as a dangerous multi-day October heat wave continues across nearly all of California."
     },
     {
      "title": "Jeffries says House Democrats reaching to flip Trump districts",
@@ -1294,10 +1300,10 @@
      "snippet": "FBI Director Kash Patel and longtime girlfriend Alexis Wilkins are announcing their engagement on social media"
     },
     {
-     "title": "US Marine arrested on suspicion of murder after 'brutal and heinous' death in Japan",
-     "link": "https://abcnews.com/International/us-marine-detained-connection-death-japan-us-officials/story?id=136982210",
-     "published": "2026-10-04T18:27:46+00:00",
-     "snippet": "The U.S. ambassador said his office was \"providing full cooperation with the investigation.\""
+     "title": "WATCH: A bucket list gets a little shorter, 1 adventure at a time",
+     "link": "https://abcnews.com/video/136991569/",
+     "published": "2026-10-05T00:18:53+00:00",
+     "snippet": "30-year-old granddaughter Jasmine Kurkowski helps her 95-year-old grandpa Frank Kurkowski check off one dream, one adventure and one memory at a time off his bucket list."
     },
     {
      "title": "Former FTC Chair Khan dismisses 'constitution' signed by AI leaders to self-police",
@@ -1464,6 +1470,30 @@
    "category": "core (working Oct 3)",
    "items": [
     {
+     "title": "Wall Street has a new rival, and it's deep in the heart of this southern state",
+     "link": "https://www.foxnews.com/politics/wall-street-new-rival-deep-heart-southern-state",
+     "published": "2026-10-05T09:00:53+00:00",
+     "snippet": "The Texas Stock Exchange wants to challenge Wall Street's dominance as former Rep. Jeb Hensarling says Texas is America's new economic center."
+    },
+    {
+     "title": "America must defend our digital infrastructure, here and overseas, to win the next war",
+     "link": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+     "published": "2026-10-05T09:00:27+00:00",
+     "snippet": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority."
+    },
+    {
+     "title": "LEE CARTER: Polls say Democrats could swamp Republicans. As a pollster, I have a question",
+     "link": "https://www.foxnews.com/opinion/lee-carter-polls-say-democrats-could-swamp-republicans-pollster-question",
+     "published": "2026-10-05T09:00:06+00:00",
+     "snippet": "Democrats lead polls and push affordability as their message, but the question is whether rejection of Trump alone is enough without a real cause."
+    },
+    {
+     "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
+     "link": "https://www.foxnews.com/opinion/enes-kanter-freedom-price-silence-wont-stop-defending-womens-sports",
+     "published": "2026-10-05T08:55:48+00:00",
+     "snippet": "Enes Kanter Freedom explains how defying Turkey and China over human rights prepared him to speak out on fair competition in women's sports."
+    },
+    {
      "title": "AI is supercharging political ad wars. But viral doesn’t mean victorious",
      "link": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious",
      "published": "2026-10-05T08:00:32+00:00",
@@ -1588,30 +1618,6 @@
      "link": "https://www.foxnews.com/outkick-sports/aew-introduces-clockwork-carnage-wrestledream-world-championship-line",
      "published": "2026-10-05T00:37:25+00:00",
      "snippet": "Will Ospreay will defend the AEW World Championship inside the new Clockwork Carnage match at WrestleDream, an eight-person elimination format."
-    },
-    {
-     "title": "US pulls all bombers from key UK base after suspected Iran-linked terror plot",
-     "link": "https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot",
-     "published": "2026-10-05T00:32:14+00:00",
-     "snippet": "The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States."
-    },
-    {
-     "title": "Bolsonaro wins first round of Brazilian presidential election, as Trump-backed candidates continue red wave",
-     "link": "https://www.foxnews.com/world/bolsonaro-wins-first-round-brazilian-presidential-election-trump-backed-candidates-continue-red-wave",
-     "published": "2026-10-05T00:17:42+00:00",
-     "snippet": "Flavio Bolsonaro won the first round of Brazil's presidential election, and will now face off against incumbent Lula da Silva in a second round on October 25."
-    },
-    {
-     "title": "Tiffany Stratton, Kevin Owens the last ones to qualify for the 2026 Money in the Bank ladder matches",
-     "link": "https://www.foxnews.com/outkick-sports/tiffany-stratton-kevin-owens-last-qualify-2026-money-bank-ladder-matches",
-     "published": "2026-10-05T00:13:51+00:00",
-     "snippet": "WWE Money in the Bank ladder match fields are set after Kevin Owens and Tiffany Stratton won their qualifiers on \"SmackDown\" ahead of New Orleans."
-    },
-    {
-     "title": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says",
-     "link": "https://www.foxnews.com/world/us-monitoring-suspected-fatal-pneumonic-plague-case-russia-state-department-official-says",
-     "published": "2026-10-05T00:05:59+00:00",
-     "snippet": "U.S. officials are tracking an unconfirmed report of a fatal pneumonic plague case in Russia’s Irkutsk Oblast while urging transparency from Moscow."
     }
    ]
   },
@@ -1705,6 +1711,12 @@
    "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
    "category": "core (working Oct 3)",
    "items": [
+    {
+     "title": "Wall Street has a new rival, and it's deep in the heart of this southern state",
+     "link": "https://www.foxnews.com/politics/wall-street-new-rival-deep-heart-southern-state",
+     "published": "2026-10-05T09:00:53+00:00",
+     "snippet": "The Texas Stock Exchange wants to challenge Wall Street's dominance as former Rep. Jeb Hensarling says Texas is America's new economic center."
+    },
     {
      "title": "AI is supercharging political ad wars. But viral doesn’t mean victorious",
      "link": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious",
@@ -1848,12 +1860,6 @@
      "link": "https://www.foxnews.com/politics/firebrand-gop-rep-democrats-side-iran-simply-because-hate-trump",
      "published": "2026-10-03T18:34:34+00:00",
      "snippet": "Rep. Randy Fine discusses the rationale for backing the conflict in Iran, explains the meaning of an America First foreign policy, and denounces Rep. Ilhan Omar on immigration fraud"
-    },
-    {
-     "title": "Springsteen, other stars share stage with hardcore leftist groups at music fest",
-     "link": "https://www.foxnews.com/politics/springsteen-headlines-music-festival-rallying-pro-democrat-activists-election-day",
-     "published": "2026-10-03T18:15:37+00:00",
-     "snippet": "Bruce Springsteen and Dave Matthews headlined a Power To The People festival featuring anti-Trump nonprofits mobilizing ahead of midterms."
     }
    ]
   },
@@ -1862,6 +1868,18 @@
    "url": "https://feeds.nbcnews.com/nbcnews/public/news",
    "category": "core (working Oct 3)",
    "items": [
+    {
+     "title": "New Supreme Court term begins with a climate change case seeking to hold energy companies liable",
+     "link": "https://www.nbcnews.com/politics/supreme-court/new-supreme-court-term-begins-climate-change-case-seeking-hold-energy-rcna600247",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "The justices return from summer break to hear arguments in Boulder, Colorado’s lawsuit against Exxon Mobil and Suncor Energy."
+    },
+    {
+     "title": "New Supreme Court term begins with a climate change case seeking to hold energy companies liable",
+     "link": "https://www.nbcnews.com/politics/supreme-court/new-supreme-court-term-begins-climate-change-case-seeking-hold-energy-rcna600247",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "The justices return from summer break to hear arguments in Boulder, Colorado’s lawsuit against Exxon Mobil and Suncor Energy."
+    },
     {
      "title": "Russian lab worker dies of suspected plague as 200 enter medical observation",
      "link": "https://www.nbcnews.com/world/europe/russia-plague-suspected-lab-worker-dies-200-medical-observation-rcna601559",
@@ -1891,12 +1909,6 @@
      "link": "https://www.nbcnews.com/sports/nfl/nfl-reviewing-arizona-cardinals-trey-mcbride-referee-official-rcna601512",
      "published": "2026-10-05T01:09:03+00:00",
      "snippet": "Line judge Jeff Seeman appeared to use profanity to Trey McBride midway through the Cardinals’ game against the New York Giants."
-    },
-    {
-     "title": "Could breakthrough new treatment cure Type 1 diabetes?",
-     "link": "https://www.nbcnews.com/nightly-news/video/could-breakthrough-new-treatment-cure-type-1-diabetes-270990917931",
-     "published": "2026-10-04T23:35:18+00:00",
-     "snippet": "A groundbreaking clinical trial at the University of Chicago has potentially cured all 12 participants of Type 1 diabetes. The procedure involves transplanting cells on the pancreas - called islet cells - in combination…"
     },
     {
      "title": "Early indications suggest Flydubai co-pilot acted alone in attack, officials say",
@@ -1977,12 +1989,6 @@
      "snippet": "Officials cautioned that the investigation remains in its early stages and that possible links to an organization or foreign government haven’t been definitively ruled out."
     },
     {
-     "title": "Two dead, 35 wounded in shooting at Georgia block party",
-     "link": "https://www.nbcnews.com/news/us-news/two-dead-35-wounded-shooting-georgia-block-party-rcna601419",
-     "published": "2026-10-04T18:55:57+00:00",
-     "snippet": "The two who died were men ages 20 and 23. Dooly County authorities have yet to announce a suspect or a possible motive."
-    },
-    {
      "title": "How the shooting death of a Houston father is igniting Latino politics in Texas",
      "link": "https://www.nbcnews.com/politics/2026-election/shooting-death-houston-father-igniting-latino-politics-texas-rcna598588",
      "published": "2026-10-04T13:00:40+00:00",
@@ -1993,12 +1999,6 @@
      "link": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
      "published": "2026-10-04T13:00:40+00:00",
      "snippet": "Democrats have a significant lead among Latino voters in 2026 amid economic concerns, according to the NBC News/Telemundo poll."
-    },
-    {
-     "title": "‘It’s not enough to not rape somebody’: How parents are talking to kids about Cornell",
-     "link": "https://www.nbcnews.com/news/us-news/cornell-case-sparks-parent-conversations-kids-behavior-rcna600538",
-     "published": "2026-10-03T09:00:41+00:00",
-     "snippet": "Parents are using Jane Doe’s case to talk to their sons about resisting peer pressure and stepping in when something’s wrong, even if it means challenging their friends."
     }
    ]
   },
@@ -2007,6 +2007,12 @@
    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
    "category": "core (working Oct 3)",
    "items": [
+    {
+     "title": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
+     "link": "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html",
+     "published": "2026-10-05T08:52:24+00:00",
+     "snippet": "Goldman Sachs' Anthony Gutman said lower fiscal deficits are needed tackle surging bond yields."
+    },
     {
      "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
      "link": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
@@ -2018,12 +2024,6 @@
      "link": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
      "published": "2026-10-05T08:04:35+00:00",
      "snippet": "Political and fiscal concerns are mounting in two of the euro area's biggest economies."
-    },
-    {
-     "title": "Treasury yields inch lower as investors pare back Fed rate hike bets",
-     "link": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
-     "published": "2026-10-05T08:00:01+00:00",
-     "snippet": "U.S. Treasury yields inched lower on Monday after a sharp selloff the week prior, as investors look ahead to the Federal Reserve's last meeting minutes."
     },
     {
      "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
@@ -2208,6 +2208,30 @@
    "category": "core (working Oct 3)",
    "items": [
     {
+     "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+     "link": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
+     "published": "2026-10-05T09:02:06+00:00",
+     "snippet": "Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track."
+    },
+    {
+     "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Award-winning author Arundhati Roy discusses why she's not afraid to address politically charged topics."
+    },
+    {
+     "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+     "published": "2026-10-05T08:55:21+00:00",
+     "snippet": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29."
+    },
+    {
+     "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+     "published": "2026-10-05T08:20:34+00:00",
+     "snippet": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups."
+    },
+    {
      "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
      "link": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
      "published": "2026-10-05T08:05:25+00:00",
@@ -2328,34 +2352,10 @@
      "snippet": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan."
     },
     {
-     "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+     "title": "Iran war live: Yemeni army makes gains; Tehran says ready for US attacks",
      "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
      "published": "2026-10-05T00:00:00+00:00",
-     "snippet": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks."
-    },
-    {
-     "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
-     "published": "2026-10-04T23:52:49+00:00",
-     "snippet": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff."
-    },
-    {
-     "title": "Manchester City charges: ‘Everyone knew’ – Marsch says relegation to follow",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
-     "published": "2026-10-04T23:22:02+00:00",
-     "snippet": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow."
-    },
-    {
-     "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
-     "published": "2026-10-04T23:16:18+00:00",
-     "snippet": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return."
-    },
-    {
-     "title": "Mysterious luminous object burns in the skies above Libya",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
-     "published": "2026-10-04T22:56:32+00:00",
-     "snippet": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion."
+     "snippet": "Yemen's government forces recapture Dhubab district near Bab al-Mandeb strait from Houthi rebels."
     }
    ]
   },
@@ -2371,10 +2371,10 @@
      "snippet": "IDF troops were dispatched to the scene following the report. The circumstances of the incident were under investigation, according to the military."
     },
     {
-     "title": "WATCH: National remembrance ceremony for October 7 massacre begins at Mount Herzl",
+     "title": "'We will shine again': Herzog warns Israel against ignoring signs of danger at Oct. 7 ceremony",
      "link": "https://www.jpost.com/israel-news/article-910625",
      "published": "2026-10-05T11:10:02+00:00",
-     "snippet": "Two state ceremonies are being held at Mount Herzl, while dozens of ceremonies, rallies, testimony sessions, and memorial events will take place nationwide."
+     "snippet": "Herzog praised the 53 IDF soldiers who were killed defending Nahal Oz, and the hundreds of others who were killed across southern Israel."
     },
     {
      "title": "Yemeni government forces attack Houthi positions near Bab el-Mandeb",
@@ -2565,6 +2565,12 @@
      "snippet": "As Sen. Thom Tillis exits the Senate, he's blasting many of the advisers President Trump has surrounded himself with as \"sycophants, and calling on his colleagues to stand up to executive power like the co-equal branch…"
     },
     {
+     "title": "U.S. monitoring suspected fatal pneumonic plague case in Russia, official says",
+     "link": "https://www.foxnews.com/world/us-monitoring-suspected-fatal-pneumonic-plague-case-russia-state-department-official-says",
+     "published": "2026-10-05T00:05:59+00:00",
+     "snippet": "The State Department is monitoring reports of a suspected fatal pneumonic plague case in Russia and is urging Moscow to share accurate information quickly as details remain unconfirmed. A State Department official told…"
+    },
+    {
      "title": "Coast Guard suspends search for 6 medical jet passengers off Nantucket",
      "link": "https://www.cbsnews.com/news/medical-plane-missing-nantucket-six-on-board/",
      "published": "2026-10-04T23:28:06+00:00",
@@ -2613,12 +2619,6 @@
      "snippet": "President Trump on Sunday named Director of National Intelligence Jay Clayton as his new \"AI czar,\" adding a different category of intelligence, the \"artificial\" kind, to the U.S. spy chief's portfolio. In a post on Tru…"
     },
     {
-     "title": "Trump's opponents are planning how to reverse his changes to the presidency",
-     "link": "https://washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/",
-     "published": "2026-10-04T14:24:54+00:00",
-     "snippet": "Democratic House members are writing bills to rein in a president’s emergency powers. Lawyers are strategizing about how to insulate the Justice Department from presidential influence. A House measure would block a pres…"
-    },
-    {
      "title": "Trump’s judicial legacy will last decades. The ages of his nominees explains why.",
      "link": "https://www.yahoo.com/news/politics/articles/trump-putting-generation-young-judges-140000725.html",
      "published": "2026-10-04T14:00:00+00:00",
@@ -2641,12 +2641,6 @@
      "link": "https://www.newsweek.com/how-el-nino-could-reshape-thanksgiving-christmas-travel-12501700",
      "published": "2026-10-04T09:00:00+00:00",
      "snippet": "A potentially record-breaking El Niño could leave Thanksgiving and Christmas travelers in southern states battling storms and heavier rainfall but reduce the chance of snow and ice-related travel disruption for those in…"
-    },
-    {
-     "title": "The American dream remains elusive in the valley that inspired 'East of Eden'",
-     "link": "https://www.yahoo.com/news/us/articles/american-dream-remains-elusive-valley-090054500.html",
-     "published": "2026-10-03T09:00:54+00:00",
-     "snippet": "‘This will be a valley of great richness one day,’ Steinbeck wrote in East of Eden. ‘And happy people will live here, thousands and thousands.’ Composite: Rita Liu/The Guardian/Getty Images/Monterey county Nestled betwe…"
     }
    ]
   },
@@ -2879,6 +2873,18 @@
    "category": "US & world",
    "items": [
     {
+     "title": "Voters are increasingly using AI chatbots to fact-check and compare candidates",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
+    },
+    {
+     "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate."
+    },
+    {
      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
      "published": "2026-10-04T18:36:48+00:00",
@@ -2913,12 +2919,6 @@
      "link": "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires",
      "published": "2026-10-03T11:47:02+00:00",
      "snippet": "California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions."
-    },
-    {
-     "title": "The Supreme Court faces another term jam-packed with controversy",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-     "published": "2026-10-03T09:00:00+00:00",
-     "snippet": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping."
     }
    ]
   },
@@ -2927,6 +2927,18 @@
    "url": "https://feeds.npr.org/1004/rss.xml",
    "category": "US & world",
    "items": [
+    {
+     "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+     "published": "2026-10-05T09:15:55+00:00",
+     "snippet": "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis."
+    },
+    {
+     "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+     "published": "2026-10-05T08:44:06+00:00",
+     "snippet": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city."
+    },
     {
      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
@@ -2974,18 +2986,6 @@
      "link": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
      "published": "2026-10-03T21:57:35+00:00",
      "snippet": "High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been arrested."
-    },
-    {
-     "title": "U.S. withdrawal from Iraq is complete",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
-     "published": "2026-10-03T21:57:33+00:00",
-     "snippet": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq."
-    },
-    {
-     "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
-     "published": "2026-10-03T21:57:29+00:00",
-     "snippet": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose."
     }
    ]
   },
@@ -3873,6 +3873,18 @@
    "category": "US & world",
    "items": [
     {
+     "title": "Our World: The week of Oct. 5, 2026",
+     "link": "https://www.csmonitor.com/World/2026/1005/russia-bears-china-electric-cars-parthenon-argentina-migrants?icid=rss",
+     "published": "2026-10-05T09:00:18+00:00",
+     "snippet": "A global news roundup, compiled by the Monitor’s international team"
+    },
+    {
+     "title": "Reporters on the Job: From Toronto to Nairobi",
+     "link": "https://www.csmonitor.com/World/2026/1005/reporters-job-1005?icid=rss",
+     "published": "2026-10-05T09:00:11+00:00",
+     "snippet": "Every week, a selection of Monitor staffers and contributors share their challenges and insights from reporting around the globe."
+    },
+    {
      "title": "Brazil's Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
      "link": "https://www.csmonitor.com/World/2026/1004/Brazil-s-Flavio-Bolsonaro-beats-polls-in-presidential-vote-faces-Lula-in-runoff?icid=rss",
      "published": "2026-10-04T23:49:31+00:00",
@@ -3895,18 +3907,6 @@
      "link": "https://www.csmonitor.com/USA/Society/2026/1003/smithsonian-museum-american-revolution?icid=rss",
      "published": "2026-10-03T15:13:54+00:00",
      "snippet": ""
-    },
-    {
-     "title": "My life sentence? Diagramming.",
-     "link": "https://www.csmonitor.com/The-Home-Forum/2026/1003/sentence-language-diagram?icid=rss",
-     "published": "2026-10-03T09:00:18+00:00",
-     "snippet": "Taking clauses apart taught me to appreciate the architecture of language. It also made grammar feel less like homework and more like a puzzle."
-    },
-    {
-     "title": "Brazil is regulating AI use in elections. Here’s why it’s been a challenge.",
-     "link": "https://www.csmonitor.com/World/Americas/2026/1003/ai-brazil-election-lula-bolsonaro?icid=rss",
-     "published": "2026-10-03T09:00:11+00:00",
-     "snippet": "Brazil’s polarized political landscape is rife with disinformation – a challenge that can be turbocharged by artificial intelligence."
     }
    ]
   },
@@ -3915,6 +3915,12 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
    "category": "US & world",
    "items": [
+    {
+     "title": "Assisted Death Is Not a Choice of Last Resort in Canada",
+     "link": "https://www.nytimes.com/2026/10/05/opinion/medical-assistance-in-dying-counseling.html",
+     "published": "2026-10-05T09:00:18+00:00",
+     "snippet": "Assisted dying accounts for more than 5 percent of deaths in Canada."
+    },
     {
      "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
      "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
@@ -3976,12 +3982,6 @@
      "snippet": "Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas."
     },
     {
-     "title": "I Consulted With Christa Pike’s Death Row Team. I Knew This Could Happen.",
-     "link": "https://www.nytimes.com/2026/10/04/opinion/christa-pike-botched-execution.html",
-     "published": "2026-10-04T16:17:40+00:00",
-     "snippet": "Lethal injection failures are not glitches; they are features of the process."
-    },
-    {
      "title": "Tight Competition: The Contest to Name Philly’s Best Parallel Parker",
      "link": "https://www.nytimes.com/2026/10/04/us/parallel-parking-competition-philadelphia.html",
      "published": "2026-10-04T09:02:40+00:00",
@@ -4012,6 +4012,18 @@
    "url": "https://feeds.washingtonpost.com/rss/national",
    "category": "US & world",
    "items": [
+    {
+     "title": "What the science of memory tells us about sexual assault cases",
+     "link": "https://www.washingtonpost.com/health/2026/10/05/what-science-memory-tells-us-about-sexual-assault-cases/",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Amid accusations of rape at Cornell University, a growing body of research is challenging assumptions about how victims remember details of their assaults."
+    },
+    {
+     "title": "6 things to watch in the Supreme Court’s new term",
+     "link": "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Cases on religion, elections and immigration are likely to take the spotlight. And don’t forget to watch for a potential retirement."
+    },
     {
      "title": "U.S. military removes bombers from U.K. base targeted in suspected terror plot",
      "link": "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/",
@@ -4104,16 +4116,34 @@
    "category": "US & world",
    "items": [
     {
-     "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
-     "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-     "published": "2026-10-05T08:28:17+00:00",
-     "snippet": "PM says vote will take place on 29 November after parliament rejected two of his government’s emergency relief measures The conservative People’s Party is very pleased with the announcement. “At last,” they say on their…"
-    },
-    {
      "title": "Shadow chancellor to address Tory conference as he claims slashing red tape could cut cost of new houses by £50,000 – UK politics live",
      "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-     "published": "2026-10-05T08:26:42+00:00",
-     "snippet": "Andrew Griffith makes speech today as Reform UK accuses party of copying policies they ‘announced weeks and months ago’ Tories to pledge to scrap Environment Agency and Natural England Sir Ephraim Mirvis , the chief rab…"
+     "published": "2026-10-05T09:14:30+00:00",
+     "snippet": "Andrew Griffith makes speech today as Reform UK accuses party of copying policies they ‘announced weeks and months ago’ Tories to pledge to scrap Environment Agency and Natural England New vetting rules for Conservative…"
+    },
+    {
+     "title": "Coach services could be cut due to record diesel prices, UK operators warn",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/05/coach-services-cut-record-diesel-prices-fuel-school-transport",
+     "published": "2026-10-05T09:04:45+00:00",
+     "snippet": "Rising fuel costs are pushing hundreds of firms out of business, threatening school transport, firms say Business live – latest updates Coach operators have said record diesel prices could force cuts to services includi…"
+    },
+    {
+     "title": "Andrew Mountbatten-Windsor launches legal action against police over Epstein raids",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
+     "published": "2026-10-05T09:00:31+00:00",
+     "snippet": "Former prince to challenge whether Thames Valley police acted lawfully over searches relating to his arrest Andrew Mountbatten-Windsor is taking action against Thames Valley police to challenge the legality of search wa…"
+    },
+    {
+     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+     "link": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+     "published": "2026-10-05T09:00:09+00:00",
+     "snippet": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote UK politics live – latest updates The head of the Jewish Greens has said she may leave the party after it vo…"
+    },
+    {
+     "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
+     "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+     "published": "2026-10-05T08:55:49+00:00",
+     "snippet": "PM says vote will take place on 29 November after parliament rejected two of his government’s emergency relief measures The conservative People’s Party is very pleased with the announcement. “At last,” they say on their…"
     },
     {
      "title": "Extreme heat warnings issued for parts of southern California",
@@ -4122,34 +4152,16 @@
      "snippet": "Temperatures in US state forecast to hit high 30s celsius this week, while regions in Indonesia grapple with wildfires The National Weather Service in the US has issued extreme heat warnings for parts of southern Califo…"
     },
     {
-     "title": "Coach services could be cut due to record diesel prices, operators warn",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/05/coach-services-cut-record-diesel-prices-fuel-school-transport",
-     "published": "2026-10-05T08:20:17+00:00",
-     "snippet": "Rising fuel costs are pushing hundreds of firms out of business, threatening school transport, firms say Business live – latest updates Coach operators have said record diesel prices could force cuts to services includi…"
-    },
-    {
      "title": "BT to buy broadband supplier TalkTalk in £400m rescue deal, saving 900 jobs",
      "link": "https://www.theguardian.com/business/2026/oct/05/bt-buy-broadband-supplier-talktalk-jobs",
      "published": "2026-10-05T08:14:37+00:00",
      "snippet": "UK’s fourth-biggest broadband firm, which has 1.5m customers, has been seeking a buyer for several years Business live – latest updates BT has agreed to buy the broadband supplier TalkTalk out of administration in a res…"
     },
     {
-     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-     "link": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-     "published": "2026-10-05T07:38:32+00:00",
-     "snippet": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote UK politics live – latest updates The head of the Jewish Greens has said she may leave the party after it vo…"
-    },
-    {
-     "title": "Andrew Mountbatten-Windsor launches legal action against police over Epstein raids",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
-     "published": "2026-10-05T07:37:04+00:00",
-     "snippet": "Former prince to challenge whether Thames Valley police acted lawfully over searches relating to his arrest Andrew Mountbatten-Windsor is taking legal action against Thames Valley police in an effort to quash search war…"
-    },
-    {
-     "title": "Spain’s PM Pedro Sánchez calls snap election after housing legislation fails to pass",
+     "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
      "link": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
      "published": "2026-10-05T07:22:01+00:00",
-     "snippet": "Election called after rightwing parties voted down emergency legislation aimed at tackling housing crisis • Europe live – latest updates Spain’s socialist prime minister, Pedro Sánchez, has announced a snap general elec…"
+     "snippet": "Election called after rightwing parties voted down emergency legislation aimed at tackling housing crisis Europe live – latest updates Spain’s socialist prime minister, Pedro Sánchez, has announced a snap general electi…"
     },
     {
      "title": "Anti-migrant protesters scuffle with police in Gosport after Channel rescue",
@@ -4318,12 +4330,6 @@
      "link": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
      "published": "2026-10-03T11:56:46+00:00",
      "snippet": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out…"
-    },
-    {
-     "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
-     "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-     "published": "2026-10-03T09:00:56+00:00",
-     "snippet": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on f…"
     }
    ]
   },
@@ -4332,6 +4338,12 @@
    "url": "https://www.theguardian.com/us-news/rss",
    "category": "US & world",
    "items": [
+    {
+     "title": "It’s time to abolish ICE | Amy Fischer",
+     "link": "https://www.theguardian.com/commentisfree/2026/oct/05/abolish-ice-human-rights-violations-amnesty-international",
+     "published": "2026-10-05T09:00:52+00:00",
+     "snippet": "Amnesty International is calling for an end to the agency, whose record of violating human rights dates back decades ICE must be abolished. That’s the conclusion we at Amnesty International have reached after documentin…"
+    },
     {
      "title": "Extreme heat warnings issued for parts of southern California",
      "link": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
@@ -4557,6 +4569,18 @@
    "category": "US & world",
    "items": [
     {
+     "title": "Israel's mental health crisis in the wake of Oct. 7 attacks",
+     "link": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-10-05T08:52:00+00:00",
+     "snippet": "More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects."
+    },
+    {
+     "title": "Israel observes October 7 anniversary with national memorial day",
+     "link": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-rdf",
+     "published": "2026-10-05T08:38:00+00:00",
+     "snippet": "Israel is holding memorial ceremonies nationwide for those killed in the October 7, 2023 Hamas terror attacks and soldiers who died in the ensuing war."
+    },
+    {
      "title": "Germany news: Left Party sues economy minister at top court",
      "link": "https://www.dw.com/en/germany-news-left-party-sues-economy-minister-at-top-court/live-79542789?maca=en-rss-en-all-1573-rdf",
      "published": "2026-10-05T07:32:00+00:00",
@@ -4665,18 +4689,6 @@
      "snippet": "Latvia's prime minister, Andris Kulbergs, looks set to retain power after his party appeared to score the country's biggest election victory since independence."
     },
     {
-     "title": "Germany news: Many believe Merkel more capable than Merz",
-     "link": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-rdf",
-     "published": "2026-10-04T08:29:00+00:00",
-     "snippet": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany's challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest."
-    },
-    {
-     "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-     "link": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf",
-     "published": "2026-10-04T03:48:00+00:00",
-     "snippet": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region."
-    },
-    {
      "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
      "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf",
      "published": "2026-10-03T16:10:00+00:00",
@@ -4690,7 +4702,31 @@
    "category": "US & world",
    "items": [
     {
-     "title": "Yemen launches more than 1,000 strikes in bid to retake territory lost to Houthi rebels",
+     "title": "Up to 500 French schools to be closed Monday as protests continue",
+     "link": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
+     "published": "2026-10-05T08:46:01+00:00",
+     "snippet": "Up to 500 French high ⁠schools will begin a second week of total or partial closures on Monday as protests over dilapidated schools and classrooms, overcrowding and teacher shortages precede a nationwide day of demonstr…"
+    },
+    {
+     "title": "Bolsonaro in 'very strong position' as Brazil election heads to run-off",
+     "link": "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+     "published": "2026-10-05T08:44:23+00:00",
+     "snippet": "Right-wing senator Flavio Bolsonaro pulled off a surprise first-place finish ahead of President Luiz Inacio Lula da Silva in Sunday's election, which heads to a run-off in three weeks as neither clinched a majority. How…"
+    },
+    {
+     "title": "Spanish PM Sanchez calls snap election amid housing crisis",
+     "link": "https://www.france24.com/en/video/20261005-spanish-pm-sanchez-calls-snap-election-amid-housing-crisis",
+     "published": "2026-10-05T08:42:29+00:00",
+     "snippet": "Spanish Prime Minister Pedro Sanchez called ⁠an early election ​for November 29 on Monday, in a bid to strengthen his mandate after a fragmented parliament rejected the government's key housing decrees last week amid wi…"
+    },
+    {
+     "title": "Ex-prince Andrew launches bid to ‘quash’ Epstein-affair search warrants",
+     "link": "https://www.france24.com/en/europe/20261005-ex-prince-andrew-launches-bid-to-quash-epstein-affair-search-warrants",
+     "published": "2026-10-05T08:36:27+00:00",
+     "snippet": "Britain's disgraced former prince, Andrew Mountbatten-Windsor, filed a legal action on Monday to quash warrants that led to searches of his residences. The police arrested the 66-year-old on February 19 on suspicion of…"
+    },
+    {
+     "title": "Yemen military announces broad range of strikes against Houthis in bid to retake lost territory",
      "link": "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory",
      "published": "2026-10-05T08:12:54+00:00",
      "snippet": "The Yemeni military announced on Monday that it will launch a broad set of strikes against Iran-backed Houthi targets in an attempt to retake lost territory. The Houthis launched an offensive in September, which killed…"
@@ -4714,7 +4750,7 @@
      "snippet": "Spanish ​Prime ​Minister ​Pedro Sanchez on Monday called an early ​election ‌for ‌November ​29. Facing the electorate now could be risky, as Sanchez's Socialist Party is trailing in opinion polls."
     },
     {
-     "title": "Family members of jailed ex-president Jair Bolsonaro win big in multiple Brazil polls",
+     "title": "Wife, sons and brother: Jailed ex-president Bolsonaro’s family scores big in Brazil polls",
      "link": "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls",
      "published": "2026-10-05T07:06:54+00:00",
      "snippet": "Family members of former Brazilian president Jair Bolsonaro won big in Sunday's general election, including the right-wing lawmaker's eldest son Flavio Bolsonaro, who surpassed President Luiz Inacio Lula da Silva in the…"
@@ -4808,30 +4844,6 @@
      "link": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
      "published": "2026-10-04T13:35:11+00:00",
      "snippet": "From French highschoolers protesting to demand better learning conditions to a Flydubai flight diverted to Saudi Arabia after a flightcrew member's onboard attack and flooded streets in Bangkok, FRANCE 24 looks back at…"
-    },
-    {
-     "title": "Brazil: Lula and Bolsonaro tied in polls",
-     "link": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-     "published": "2026-10-04T13:19:54+00:00",
-     "snippet": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bol…"
-    },
-    {
-     "title": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
-     "link": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
-     "published": "2026-10-04T13:17:55+00:00",
-     "snippet": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bol…"
-    },
-    {
-     "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
-     "link": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
-     "published": "2026-10-04T12:59:17+00:00",
-     "snippet": "The ​leader of ​Yemen's Saudi-backed government announced the beginning of a ​major ‌military ⁠operation against the Iran-backed Houthis ‌on Sunday aimed at ⁠recapturing territory under their control. The announcement c…"
-    },
-    {
-     "title": "Hundreds of schools to shut Monday as France braces for more student protests",
-     "link": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests",
-     "published": "2026-10-04T12:50:45+00:00",
-     "snippet": "France's education minister said lessons would be \"totally or partly suspended\" at up to 500 high schools on Monday after several days of sometimes violent protests against teacher shortages, dilapidated school building…"
     }
    ]
   },
@@ -4840,6 +4852,24 @@
    "url": "https://nypost.com/feed/",
    "category": "US & world",
    "items": [
+    {
+     "title": "Accused flydubai hijacker expected to face death penalty after planning to crash jet into Tel Aviv airport: report",
+     "link": "https://nypost.com/2026/10/05/world-news/accused-flydubai-hijacker-expected-to-face-death-penalty-after-planning-to-crash-jet-into-tel-aviv-airport-report/",
+     "published": "2026-10-05T09:11:07+00:00",
+     "snippet": "The accused flydubai hijacker is expected to face the death penalty and he chillingly told investigators he had a “dream” to crash the Israel-bound plane into Tel Aviv airport."
+    },
+    {
+     "title": "Dems expand effort to flip House seats held by GOP with six more targets",
+     "link": "https://nypost.com/2026/10/05/us-news/dems-expand-effort-to-flip-house-seats-held-by-gop-with-six-more-targets/",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "New members of the \"Red to Blue program\" will get fundraising support, guidance on strategy, training, and more staff resources."
+    },
+    {
+     "title": "Spanish PM Sanchez calls snap election for November 29",
+     "link": "https://nypost.com/2026/10/05/world-news/spanish-pm-sanchez-calls-snap-general-election-for-november-29/",
+     "published": "2026-10-05T08:53:18+00:00",
+     "snippet": "Following the rejection of key housing decrees, Spanish PM Pedro Sanchez has called a snap general election for November 29 to renew his mandate."
+    },
     {
      "title": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
      "link": "https://nypost.com/2026/10/05/us-news/dramatic-footage-shows-alleged-narco-boat-erupt-in-fireball-during-us-military-strike/",
@@ -4947,24 +4977,6 @@
      "link": "https://nypost.com/shopping/walmart-deal-days-2026/",
      "published": "2026-10-05T04:01:00+00:00",
      "snippet": "Deals up to 80% off."
-    },
-    {
-     "title": "Viral video captures Arizona State cheerleader being shoved to ground, pummeled by cops as she tries to stop arrest",
-     "link": "https://nypost.com/2026/10/05/us-news/viral-video-captures-arizona-state-university-cheerleader-being-shoved-to-ground-pummeled-by-cops/",
-     "published": "2026-10-05T04:00:59+00:00",
-     "snippet": "\"There are no words to fully describe the heartbreak of watching our daughter being hurt by someone entrusted to protect and serve our community,\" the family said."
-    },
-    {
-     "title": "‘Spider-Man: Brand New Day’ Comes to Digital, But When Will ‘Spider-Man: Brand New Day’ Be Streaming on Netflix and Disney+?",
-     "link": "https://decider.com/2026/10/05/spider-man-brand-new-day-streaming-release-date-netflix-disney-plus/",
-     "published": "2026-10-05T04:00:00+00:00",
-     "snippet": "Before you drop $30, here's when we expect to see the new Spider-Man movie on Netflix."
-    },
-    {
-     "title": "Giants’ Malik Nabers turns in vintage performance he knew was coming after injury",
-     "link": "https://nypost.com/2026/10/04/sports/giants-malik-nabers-turns-in-post-injury-vintage-performance/",
-     "published": "2026-10-05T03:50:05+00:00",
-     "snippet": "Malik Nabers caught six passes for 112 yards — 16 more yards than he managed in the first three games — and a touchdown in the 36-24 victory over the Cardinals at MetLife Stadium."
     }
    ]
   },
@@ -4973,6 +4985,24 @@
    "url": "https://www.newsweek.com/rss",
    "category": "US & world",
    "items": [
+    {
+     "title": "Democrats' Red-State Strategy Relies on Deception and Dark Money | Opinion",
+     "link": "https://www.newsweek.com/democrats-red-state-strategy-relies-on-deception-and-dark-money-opinion-12518625",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "\"That is the red-state play Democrats are testing: pretend to be what you are not, and oppose what you profit from.\""
+    },
+    {
+     "title": "The Slow Death of College",
+     "link": "https://www.newsweek.com/is-college-still-worth-it-12517598",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "College still pays, but soaring costs, a tougher job market and campus turmoil are eroding faith in the American college bargain."
+    },
+    {
+     "title": "Supreme Court Takes Up Major Challenge to Veterans' Benefits Laws",
+     "link": "https://www.newsweek.com/supreme-court-major-challenge-veterans-benefits-laws-12516718",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Disabled veteran Floyd Johnson took his challenge all the way to the Supreme Court after the VA cut his benefits to 10 percent."
+    },
     {
      "title": "Israel Calls Green Zionism Ruling 'Stain On History Of UK'",
      "link": "https://www.newsweek.com/israel-calls-green-zionism-ruling-stain-on-history-of-uk-12523610",
@@ -5074,24 +5104,6 @@
      "link": "https://www.newsweek.com/sports/mlb/padres-manager-explains-mason-miller-decision-after-crushing-loss-12523198",
      "published": "2026-10-05T00:48:20+00:00",
      "snippet": "San Diego Padres manager Craig Stammen explained why closer Mason Miller remained in the game Sunday despite his struggles."
-    },
-    {
-     "title": "Dak Prescott Ties Hall of Famer Roger Staubach for Cowboys Career Milestone",
-     "link": "https://www.newsweek.com/sports/nfl/dak-prescott-ties-hall-of-famer-roger-staubach-for-cowboys-career-milestone-12523131",
-     "published": "2026-10-05T00:40:16+00:00",
-     "snippet": "Dak Prescott led the Cowboys to a big win over the Texans, tying the legendary Roger Staubach for a major career milestone."
-    },
-    {
-     "title": "Chiefs Lose Second Offensive Star to Gruesome Injury Versus Raiders",
-     "link": "https://www.newsweek.com/sports/nfl/chiefs-lose-second-offensive-star-to-gruesome-injury-versus-raiders-12523193",
-     "published": "2026-10-05T00:26:37+00:00",
-     "snippet": "The Chiefs had two receivers suffer injuries during Sunday's win over the Raiders."
-    },
-    {
-     "title": "'Got the Law Involved': Kash Patel, Alexis Wilkins Announce Engagement",
-     "link": "https://www.newsweek.com/kash-patel-alexis-wilkins-engaged-fbi-director-country-singer-12523200",
-     "published": "2026-10-05T00:07:19+00:00",
-     "snippet": "Kash Patel and Alexis Wilkins are engaged, sharing the news with followers alongside a photo of the ring."
     }
    ]
   },
@@ -5100,6 +5112,24 @@
    "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
    "category": "Business & markets",
    "items": [
+    {
+     "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+     "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+     "published": "2026-10-05T09:22:00+00:00",
+     "snippet": "In a televisxed interview with Axios, Treasury Secretary Bessent defended his department’s record in the bond market and walked back his “I am the house” declaration from a month ago"
+    },
+    {
+     "title": "Larry Ellison to list Palm Beach property for $165 million",
+     "link": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+     "published": "2026-10-05T09:05:00+00:00",
+     "snippet": "Billionaire Oracle co-founder Larry Ellison is planning to bid farewell to the third-largest oceanfront parcel in Florida’s Palm Beach County, with hopes to fetch $165 million."
+    },
+    {
+     "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
+     "link": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
+     "published": "2026-10-05T08:58:00+00:00",
+     "snippet": "Filmmaker Tyler Perry is bidding farewell to his Beverly Hills mansion, listing the property for $57 million—mere weeks after revealing his plans to move to Puerto Rico."
+    },
     {
      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
      "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
@@ -5141,24 +5171,6 @@
      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
      "published": "2026-10-04T13:00:00+00:00",
      "snippet": "If stocks see another big swoon this year, investors already know why."
-    },
-    {
-     "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-     "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-     "published": "2026-10-04T12:00:00+00:00",
-     "snippet": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low."
-    },
-    {
-     "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-     "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-     "published": "2026-10-04T00:02:00+00:00",
-     "snippet": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed."
-    },
-    {
-     "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-     "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-     "published": "2026-10-03T23:58:00+00:00",
-     "snippet": "Is it time to dust off the financial playbook from that dismal decade?"
     }
    ]
   },
@@ -5167,6 +5179,42 @@
    "url": "https://feeds.bloomberg.com/markets/news.rss",
    "category": "Business & markets",
    "items": [
+    {
+     "title": "Romanian Assets Rally After Dodging Rating Downgrade to Junk",
+     "link": "https://www.bloomberg.com/news/articles/2026-10-05/romanian-assets-rally-after-dodging-rating-downgrade-to-junk",
+     "published": "2026-10-05T09:11:41+00:00",
+     "snippet": "Romania’s bonds and stocks rallied after S&P Global Ratings maintained an investment-grade credit score for the sovereign, providing a relief to the country struggling to overcome a political crisis."
+    },
+    {
+     "title": "BlackRock Says Higher Yields Not Necessarily Bad for Markets",
+     "link": "https://www.bloomberg.com/news/videos/2026-10-05/blackrock-higher-yields-not-necessarily-bad-for-markets-video",
+     "published": "2026-10-05T09:04:04+00:00",
+     "snippet": "Vivek Paul, global head of portfolio research at BlackRock International, discusses the impact of rising bond yields on other asset classes. \"If this is yields being driven by effectively greater growth prospects, by th…"
+    },
+    {
+     "title": "Unruly Euro at Risk of Japanese Selling: 3-Minutes MLIV",
+     "link": "https://www.bloomberg.com/news/videos/2026-10-05/unruly-euro-at-risk-of-japanese-selling-3-minutes-mliv-video",
+     "published": "2026-10-05T09:01:18+00:00",
+     "snippet": "Anna Edwards, Guy Johnson, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" For up to the minute market intelligence and insight, click MLIV . (So…"
+    },
+    {
+     "title": "Turkey Fund Outflows Mostly Moved to Bank Deposits, BofA Says",
+     "link": "https://www.bloomberg.com/news/articles/2026-10-05/turkey-fund-outflows-mostly-moved-to-bank-deposits-bofa-says",
+     "published": "2026-10-05T08:59:32+00:00",
+     "snippet": "BofA Securities Inc said a large share of Turkish fund outflows stemming from a rout in September moved into bank deposits."
+    },
+    {
+     "title": "Key Saudi Oil Pipeline Flows Normal Despite Report of Halt",
+     "link": "https://www.bloomberg.com/news/articles/2026-10-05/saudi-east-west-oil-pipeline-is-flowing-as-normal-people-say",
+     "published": "2026-10-05T08:52:11+00:00",
+     "snippet": "Saudi Arabia’s key cross-country oil pipeline is operating normally, people familiar with the matter said, after a report that it had shut following a new attack."
+    },
+    {
+     "title": "Greek Fiscal Plan Sees Budget Surplus Exceeding Target in 2026",
+     "link": "https://www.bloomberg.com/news/articles/2026-10-05/greek-fiscal-plan-sees-budget-surplus-exceeding-target-in-2026",
+     "published": "2026-10-05T08:48:27+00:00",
+     "snippet": "Greece’s budget surplus this year will be higher than previously expected, while the country’s economy will grow at a 2% rate in 2026 before accelerating to 2.3% next year."
+    },
     {
      "title": "UST Risks: Treasuries, Other Government Bonds Sell Off",
      "link": "https://www.bloomberg.com/news/articles/2026-10-05/ust-risks-treasuries-other-government-bonds-sell-off",
@@ -5186,7 +5234,7 @@
      "snippet": "Palm oil inventories in Malaysia likely swelled to a record last month, buffering supplies of the world’s most-used vegetable oil as an intensifying El Niño threatens to disrupt production in the coming year."
     },
     {
-     "title": "US, India Officials Signal Trade Deal Negotiations at an Impasse",
+     "title": "US, India Officials Signal Trade Deal Talks at an Impasse",
      "link": "https://www.bloomberg.com/news/articles/2026-10-05/us-india-officials-signal-trade-deal-negotiations-at-an-impasse",
      "published": "2026-10-05T07:39:57+00:00",
      "snippet": "Top officials in the US and India signaled that negotiations over a trade deal have reached an impasse that’s making it difficult to clinch an agreement."
@@ -5204,43 +5252,7 @@
      "snippet": "Turkish inflation continued to slow in September, raising the prospect of an interest rate cut at the next central bank meeting to help ease liquidity strains stemming from a domestic funds crisis."
     },
     {
-     "title": "Aramco Slashes Asia Oil Price, Saudi-Backed Forces Target Houthis, Super-Rich Leave UK",
-     "link": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
-     "published": "2026-10-05T06:35:30+00:00",
-     "snippet": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focu…"
-    },
-    {
-     "title": "Boyu Said to Weigh Sale of Contract Medical Device Maker Quasar",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-05/boyu-said-to-weigh-sale-of-contract-medical-device-maker-quasar",
-     "published": "2026-10-05T06:32:16+00:00",
-     "snippet": "Buyout firm Boyu Capital is considering a sale of medical device maker Quasar Medical, according to people familiar with the matter."
-    },
-    {
-     "title": "Broadening Rally in Stocks Hits an Economic Roadblock",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-05/broadening-rally-in-stocks-hits-an-economic-roadblock",
-     "published": "2026-10-05T06:26:54+00:00",
-     "snippet": "A combination of elevated oil prices and surging bond yields has derailed a broadening in the rally that was supposed to propel stocks to new records."
-    },
-    {
-     "title": "Imran Khan’s Party Revives Protest March After Talks Collapse",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-05/imran-khan-s-party-revives-protest-march-after-talks-collapse",
-     "published": "2026-10-05T06:05:37+00:00",
-     "snippet": "The party of Pakistan’s former prime minister Imran Khan began a march toward Islamabad from the country’s northwest after talks with the government broke down over demands including access to the jailed leader."
-    },
-    {
-     "title": "French Bonds at Risk of More Japanese Selling on Outsized Stake",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-05/french-bonds-at-risk-of-more-japanese-selling-on-outsized-stake",
-     "published": "2026-10-05T05:59:55+00:00",
-     "snippet": "Japanese investors hold far more French bonds than benchmark weightings recommend, raising the threat of a new wave of selling that could deepen France’s debt rout."
-    },
-    {
-     "title": "Why AI Stocks Are Ignoring Bond Market Warnings",
-     "link": "https://www.bloomberg.com/news/videos/2026-10-05/insight-with-haslinda-amin-10-5-2026-video",
-     "published": "2026-10-05T05:56:06+00:00",
-     "snippet": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…"
-    },
-    {
-     "title": "Schneider Expands AI Drive With Record $22.6 Billion Acquisition",
+     "title": "Schneider Expands in AI With Record $23 Billion Acquisition",
      "link": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
      "published": "2026-10-05T05:11:05+00:00",
      "snippet": "Schneider Electric SE agreed to buy industrial software firm PTC Inc. for about $22.6 billion, stepping up its effort to tap into the artificial-intelligence boom with its biggest acquisition to date."
@@ -5270,10 +5282,10 @@
      "snippet": "Nippon Paint Holdings Co. is buying Akzo Nobel NV’s decorative paints operations in Southeast Asia for $1.35 billion, acquiring a regional slice of a business it had sought to buy in full."
     },
     {
-     "title": "Stocks Drift as Europe’s Woes Send Euro Lower: Markets Wrap",
+     "title": "Stocks Drift as Europe’s Woes Dent Risk Appetite: Markets Wrap",
      "link": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
      "published": "2026-10-04T22:17:26+00:00",
-     "snippet": "Stocks drifted as investors showed little appetite for risk, with Europe’s political upheaval and fiscal strains the main focus and the euro falling to a 17-month low against the dollar."
+     "snippet": "Stocks drifted as political upheaval and mounting concern over Europe’s public finances dampened risk sentiment and sent the euro to a 17-month low against the dollar."
     },
     {
      "title": "EM Investors Shrug Off Quarter’s Pullback, Double Down on Carry Trades",
@@ -5361,6 +5373,30 @@
    "url": "https://feeds.businessinsider.com/custom/all",
    "category": "Business & markets",
    "items": [
+    {
+     "title": "I increased my salary from $22K to $180K salary before a layoff. Taking a pay cut in my next role felt like a step backward.",
+     "link": "https://www.businessinsider.com/salary-journey-to-180k-wine-studies-career-change-laid-off-2026-10",
+     "published": "2026-10-05T09:15:01+00:00",
+     "snippet": "A 36-year-old in Seattle shares her salary journey from $22,000 to $180,000, before a layoff made her feel like she took a huge step backward."
+    },
+    {
+     "title": "GameStop CEO Ryan Cohen shared his best and worst investments with Business Insider. Neither of them involves money.",
+     "link": "https://www.businessinsider.com/gamestop-ryan-cohen-best-worst-investments-chewy-father-buffett-trust-2026-10",
+     "published": "2026-10-05T09:07:21+00:00",
+     "snippet": "Ryan Cohen said he's still \"collecting dividends\" from his best investment, and his worst investment involved misplaced trust."
+    },
+    {
+     "title": "The midterms will come down to the cost of everything — and who voters trust to fix it",
+     "link": "https://www.businessinsider.com/affordability-midterm-elections-inflation-gas-electricity-housing-prices-swing-states-2026-10",
+     "published": "2026-10-05T09:00:01+00:00",
+     "snippet": "It's almost election time in America, and voters in swing states are looking at their wallets — and gas prices — at the ballot box."
+    },
+    {
+     "title": "My family of 5 moved into a 3-bedroom duplex. I was dreading downsizing at first, but I'm glad we did.",
+     "link": "https://www.businessinsider.com/dreaded-downsizing-family-unexpected-benefits-smaller-home-2026-10",
+     "published": "2026-10-05T08:38:01+00:00",
+     "snippet": "I was dreading downsizing my family of five to a three-bedroom duplex, but there are unexpected benefits to living in a smaller house."
+    },
     {
      "title": "LinkedIn pros have found a new key to getting opportunities: selfies",
      "link": "https://www.businessinsider.com/linkedin-pros-found-a-new-key-to-getting-opportunities-selfies-2026-10",
@@ -5456,30 +5492,6 @@
      "link": "https://www.businessinsider.com/amazon-aws-fde-plans-hiring-2026-10",
      "published": "2026-10-04T10:03:01+00:00",
      "snippet": "An Amazon Web Services exec said that she's being selective in building out the firm's bet on forward-deployed engineers."
-    },
-    {
-     "title": "Americans’ love of oversized Halloween skeletons is still going strong",
-     "link": "https://www.businessinsider.com/american-oversized-halloween-skeletons-still-going-strong-2026-10",
-     "published": "2026-10-04T09:53:01+00:00",
-     "snippet": "Six years after the original 12-foot Skelly first went viral, the trend of jumbo Halloween yard decorations seems as strong as ever."
-    },
-    {
-     "title": "I used AI to track my job rejections. It changed my search, and I got hired.",
-     "link": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
-     "published": "2026-10-04T09:49:01+00:00",
-     "snippet": "A job seeker used Claude like a career coach to track applications and analyze interview sentiment."
-    },
-    {
-     "title": "These 5 states will pay you to build a tiny home in your backyard",
-     "link": "https://www.businessinsider.com/states-will-compensate-you-for-building-tiny-home-adu-2026",
-     "published": "2026-10-04T09:31:02+00:00",
-     "snippet": "New York and Colorado are among the states that will pay you to build a tiny home in your backyard. The compensation comes via state grant programs."
-    },
-    {
-     "title": "Real-estate investors who started with little savings share 4 creative ways they bought property",
-     "link": "https://www.businessinsider.com/creative-financing-strategies-buying-real-estate-investment-properties-building-wealth-2026-10",
-     "published": "2026-10-04T09:25:01+00:00",
-     "snippet": "One investor used his paid-off truck to buy property. Three others found creative ways in."
     }
    ]
   },
@@ -5491,7 +5503,7 @@
     {
      "title": "M 4.2 - 6 km WNW of Wauna, Washington",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714111952",
-     "published": "2026-10-05T08:00:22.491000+00:00",
+     "published": "2026-10-05T08:58:08.617000+00:00",
      "snippet": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-09-29 21:05:56 UTC 2026-09-29 21:05:56 UTC at epicenter Location 47.400°N 122.722°W Depth 27.92 km (17.35 mi)"
     }
    ]
@@ -5505,7 +5517,7 @@
      "title": "There are no tropical cyclones at this time.",
      "link": "https://www.nhc.noaa.gov/",
      "published": "2026-10-06T17:08:54+00:00",
-     "snippet": "No tropical cyclones as of Mon, 05 Oct 2026 08:30:11 GMT"
+     "snippet": "No tropical cyclones as of Mon, 05 Oct 2026 09:23:31 GMT"
     },
     {
      "title": "Atlantic Tropical Weather Outlook",
@@ -5698,6 +5710,12 @@
    "category": "Tech",
    "items": [
     {
+     "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+     "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
+     "published": "2026-10-05T09:00:00+00:00",
+     "snippet": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want."
+    },
+    {
      "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
      "link": "https://www.wired.com/gallery/best-office-chairs/",
      "published": "2026-10-04T11:03:00+00:00",
@@ -5768,12 +5786,6 @@
      "link": "https://www.wired.com/story/best-mosquito-repellents/",
      "published": "2026-10-03T10:03:00+00:00",
      "snippet": "After years of testing repellents, traps, and sprays, I found a few ways to keep the bugs at bay—and plenty that aren’t worth the effort."
-    },
-    {
-     "title": "A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’",
-     "link": "https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/",
-     "published": "2026-10-03T09:00:00+00:00",
-     "snippet": "Scientists left structures up to 100 meters under the surface. Here’s what they found when they retrieved them 10 years later."
     }
    ]
   },
@@ -5910,6 +5922,12 @@
    "category": "Tech",
    "items": [
     {
+     "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+     "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+     "published": "2026-10-05T08:09:36+00:00",
+     "snippet": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.ycombinator.com/item?id=49962012 Points: 20 # Comments: 8"
+    },
+    {
      "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
      "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
      "published": "2026-10-05T07:51:14+00:00",
@@ -5919,13 +5937,13 @@
      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
      "published": "2026-10-05T07:46:10+00:00",
-     "snippet": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 15 # Comments: 8"
+     "snippet": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 38 # Comments: 23"
     },
     {
      "title": "Replacement of petroleum based products with plant-based materials (2025)",
      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
      "published": "2026-10-05T05:09:43+00:00",
-     "snippet": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108 Comments URL: https://news.ycombinator.com/item?id=49960901 Points: 52 # Comments: 20"
+     "snippet": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108 Comments URL: https://news.ycombinator.com/item?id=49960901 Points: 62 # Comments: 22"
     },
     {
      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
@@ -5934,40 +5952,34 @@
      "snippet": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 1…"
     },
     {
-     "title": "A 40ms Go garbage collector pause caused by swap",
-     "link": "https://frn.sh/go-gc/",
-     "published": "2026-10-05T01:11:56+00:00",
-     "snippet": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 83 # Comments: 63"
-    },
-    {
      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
      "published": "2026-10-04T22:25:10+00:00",
-     "snippet": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 131 # Comments: 31"
+     "snippet": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 136 # Comments: 31"
     },
     {
      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
      "published": "2026-10-04T21:01:28+00:00",
-     "snippet": "https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 125 # Comments: 13"
+     "snippet": "https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 130 # Comments: 14"
     },
     {
      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
      "link": "https://github.com/omlahore/RemoveMacAI",
      "published": "2026-10-04T19:42:25+00:00",
-     "snippet": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 550 # Comments: 369"
+     "snippet": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 563 # Comments: 376"
     },
     {
      "title": "Improper redaction reveals Google Data Center water and electricity usage",
      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
      "published": "2026-10-04T19:37:05+00:00",
-     "snippet": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 375 # Comments:…"
+     "snippet": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 385 # Comments:…"
     },
     {
      "title": "A browser-native classic Visual Basic VB6 IDE",
      "link": "https://wieslawsoltes.github.io/VB6/",
      "published": "2026-10-04T18:49:17+00:00",
-     "snippet": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 202 # Comments: 67"
+     "snippet": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 225 # Comments: 72"
     },
     {
      "title": "Xray-core concealed a certificate verification bypass vulnerability",
@@ -5979,31 +5991,31 @@
      "title": "Blindsight (Watts Novel)",
      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
      "published": "2026-10-04T16:25:17+00:00",
-     "snippet": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 80 # Comments: 78"
+     "snippet": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 84 # Comments: 83"
     },
     {
      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
      "link": "https://github.com/Niko1221/Strata",
      "published": "2026-10-04T12:51:53+00:00",
-     "snippet": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 781 # Comments: 350"
+     "snippet": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 795 # Comments: 354"
     },
     {
      "title": "Bill Draper has died",
      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
      "published": "2026-10-04T12:21:35+00:00",
-     "snippet": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 119 # Comments: 38"
+     "snippet": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 120 # Comments: 38"
     },
     {
      "title": "How to scale intent, quality, and artistry with AI [video]",
      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
      "published": "2026-10-04T08:41:58+00:00",
-     "snippet": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 82 # Comments: 28"
+     "snippet": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 84 # Comments: 30"
     },
     {
      "title": "Why don't more developers “use the platform”?",
      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
      "published": "2026-10-04T04:10:47+00:00",
-     "snippet": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 296 # Comments: 313"
+     "snippet": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 298 # Comments: 314"
     },
     {
      "title": "Tell HN: Bob Cringely has died",
@@ -6015,19 +6027,19 @@
      "title": "We ported the original Doom to SQL",
      "link": "https://cedardb.com/blog/sqldoom/",
      "published": "2026-10-03T22:14:00+00:00",
-     "snippet": "Article URL: https://cedardb.com/blog/sqldoom/ Comments URL: https://news.ycombinator.com/item?id=49948300 Points: 84 # Comments: 10"
+     "snippet": "Article URL: https://cedardb.com/blog/sqldoom/ Comments URL: https://news.ycombinator.com/item?id=49948300 Points: 101 # Comments: 10"
     },
     {
      "title": "'Neanderthals Among Us' review",
      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
      "published": "2026-10-03T20:41:15+00:00",
-     "snippet": "Article URL: https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review Comments URL: https://news.ycombinator.com/item?id=49947565 Points: 71 # Comments: 66"
+     "snippet": "Article URL: https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review Comments URL: https://news.ycombinator.com/item?id=49947565 Points: 74 # Comments: 73"
     },
     {
      "title": "Automating my 35mm film scanning pipeline",
      "link": "https://shannadige.com/blog/darkroom/",
      "published": "2026-10-03T17:35:42+00:00",
-     "snippet": "Article URL: https://shannadige.com/blog/darkroom/ Comments URL: https://news.ycombinator.com/item?id=49946148 Points: 73 # Comments: 52"
+     "snippet": "Article URL: https://shannadige.com/blog/darkroom/ Comments URL: https://news.ycombinator.com/item?id=49946148 Points: 75 # Comments: 54"
     }
    ]
   },
@@ -6036,6 +6048,18 @@
    "url": "https://www.jns.org/feed/",
    "category": "Israel & Middle East",
    "items": [
+    {
+     "title": "The battle for Haifa: Palestinians target a symbol of India-Israel ties",
+     "link": "https://www.jns.org/analysis/the-battle-for-haifa-palestinians-target-a-symbol-of-india-israel-ties",
+     "published": "2026-10-05T09:01:36+00:00",
+     "snippet": "Every year, the Indian military marks the 1918 Battle of Haifa, in which Indian cavalry captured the city from the Ottomans, and in recent years the event has become a symbol of the alliance with Israel."
+    },
+    {
+     "title": "Flydubai attack, UK terror plot put Israel on high alert",
+     "link": "https://www.jns.org/jns-tv/jlminute/flydubai-attack-uk-terror-plot-put-israel-on-high-alert",
+     "published": "2026-10-05T08:43:14+00:00",
+     "snippet": ""
+    },
     {
      "title": "IDF chief says Oct. 7 probes concluded, vows larger military",
      "link": "https://www.jns.org/news/israel-news/idf-chief-says-oct-7-probes-concluded-vows-larger-military",
@@ -6058,7 +6082,7 @@
      "title": "IDF kills Oct. 7 Nukhba terrorist tied to Turkish aid group",
      "link": "https://www.jns.org/news/israel-news/idf-kills-oct-7-nukhba-terrorist-tied-to-turkish-aid-group",
      "published": "2026-10-05T06:58:58+00:00",
-     "snippet": "The military targeted Deniz Feneri director Saqr Nabil Musa Qaisi in Khan Yunis after he funded Hamas operatives and breached the existing ceasefire."
+     "snippet": "The military targeted Deniz Feneri director Saqr Nabil Musa Qaisi in Khan Yunis after he funded Hamas operatives and breached the ceasefire."
     },
     {
      "title": "Israeli FM to JNS: Abraham Accords won't be harmed by flydubai attack",
@@ -6203,18 +6227,6 @@
      "link": "https://www.jns.org/news/israel-news/ireland-press-conference-cuts-short-after-official-says-israeli-reporter-walked-past-the-line",
      "published": "2026-10-03T17:29:40+00:00",
      "snippet": "The Irish national soccer team’s coach was asked about the flyfubai flight terror attack following his past “playing against genocide” remark."
-    },
-    {
-     "title": "IDF detains 50 Palestinian terrorists in Judea and Samaria",
-     "link": "https://www.jns.org/news/israel-news/idf-detains-50-palestinian-terrorists-in-judea-and-samaria",
-     "published": "2026-10-03T15:54:37+00:00",
-     "snippet": "Israeli troops carried out several counterterror operations during the holiday, confiscating weapons, drones and other military equipment."
-    },
-    {
-     "title": "IDF slays two commanders of Islamic Jihad’s rocket array in Gaza",
-     "link": "https://www.jns.org/news/israel-news/idf-slays-two-commanders-of-islamic-jihads-rocket-array-in-gaza",
-     "published": "2026-10-03T15:41:45+00:00",
-     "snippet": "The Israeli military continues to carry out precise strikes on terrorist operatives across the Strip ."
     }
    ]
   },
@@ -6223,6 +6235,12 @@
    "url": "https://www.al-monitor.com/rss",
    "category": "Israel & Middle East",
    "items": [
+    {
+     "title": "US removes bombers from UK base at centre of suspected Iranian plot",
+     "link": "https://www.al-monitor.com/originals/2026/10/us-removes-bombers-uk-base-centre-suspected-iranian-plot",
+     "published": "2026-10-05T08:46:35+00:00",
+     "snippet": "By Svea Herbst-Bayliss and Sarah Young NEW YORK/LONDON, Oct 5 (Reuters) - The United States has removed its B-1 bombers from a British air base one week after five men were arrested nearby on suspicion of preparing terr…"
+    },
     {
      "title": "Yemen military announces broad strikes against Houthis",
      "link": "https://www.al-monitor.com/originals/2026/10/yemen-military-announces-broad-strikes-against-houthis",
@@ -6336,12 +6354,6 @@
      "link": "https://www.al-monitor.com/originals/2026/10/egypts-sinai-gazan-builds-school-children-displaced-war",
      "published": "2026-10-04T02:30:32+00:00",
      "snippet": "In Egypt's North Sinai, Palestinian teacher Hadeel Zourob watches dozens of displaced Gazan children file into the region's only Palestinian school,"
-    },
-    {
-     "title": "Israel targets top Hamas leader in deadly Gaza strike on anniversary",
-     "link": "https://www.al-monitor.com/originals/2026/10/israel-targets-top-hamas-leader-deadly-gaza-strike-anniversary",
-     "published": "2026-10-03T20:30:26+00:00",
-     "snippet": "Israel said on Saturday that it attempted to kill Hamas's top leader in the Gaza Strip in an airstrike on an apartment that local officials said killed five people, four of them women. The pre-dawn strike came on the an…"
     }
    ]
   },
@@ -6351,244 +6363,244 @@
    "category": "Sports",
    "items": [
     {
-     "title": "Sophie Cunningham on pointing incident involving A'ja Wilson during WNBA playoffs: 'Grow up'",
-     "link": "https://sports.yahoo.com/articles/sophie-cunningham-pointing-incident-involving-082535094.html",
-     "published": "2026-10-05T08:25:35+00:00",
-     "snippet": "Sophie Cunningham of the Indiana Fever and A'ja Wilson of the Las Vegas Aces got tangled during a playoff game. The aftermath continues to spark conversation"
+     "title": "NFL reviewing incident between Vikings' Eric Wilson and ref Adrian Hill",
+     "link": "https://sports.yahoo.com/articles/nfl-reviewing-incident-between-vikings-091302982.html",
+     "published": "2026-10-05T09:13:02+00:00",
+     "snippet": "An odd incident took place during Sunday's Vikings-Dolphins game when referee Adrian Hill got knocked to the ground and then got in the face of Vikings linebacker Eric Wilson."
     },
     {
-     "title": "Mukesh Kumar, Akash Deep blow J&K away as RoI win Irani Cup",
-     "link": "https://sports.yahoo.com/articles/mukesh-kumar-akash-deep-blow-082500472.html",
-     "published": "2026-10-05T08:25:00+00:00",
-     "snippet": "Mukesh was outstanding, finishing with 6/33 in 10.4 overs. Akash Deep, returning from a seven-month injury lay-off, was equally incisive, taking 3/25 in nine overs. The two India pacers shared nine wickets as J&K collap…"
-    },
-    {
-     "title": "'That's an irony when you look at him': Shreyas Iyer makes honest Vaibhav Sooryavanshi admission",
-     "link": "https://sports.yahoo.com/articles/thats-irony-look-him-shreyas-082500683.html",
-     "published": "2026-10-05T08:25:00+00:00",
-     "snippet": "India T20I captain Shreyas Iyer praised teenage star Vaibhav Sooryavanshi ahead of the West Indies series, highlighting his quiet personality off the field and aggressive batting style. Iyer said Sooryavanshi’s opportun…"
-    },
-    {
-     "title": "Monday’s Everton News: International weekend roundup, Balogun speaks out",
-     "link": "https://sports.yahoo.com/articles/monday-everton-news-international-weekend-082448154.html",
-     "published": "2026-10-05T08:24:48+00:00",
-     "snippet": "Recapping all the Everton news from yesterday"
-    },
-    {
-     "title": "Brisbane 2032 logo for Olympics and Paralympics officially revealed after accidental leak",
-     "link": "https://sports.yahoo.com/articles/brisbane-2032-logo-olympics-paralympics-082314329.html",
-     "published": "2026-10-05T08:23:14+00:00",
-     "snippet": "The cockatoo-inspired logo was inadvertently leaked on social media ahead of time but has now been officially launched, being described as ‘friendly, playful and a little bit cheeky’"
-    },
-    {
-     "title": "Full 2026-2027 Penn State men's ice hockey schedule",
-     "link": "https://sports.yahoo.com/articles/full-2026-2027-penn-state-082012179.html",
-     "published": "2026-10-05T08:20:12+00:00",
-     "snippet": "Penn State hockey looks to rebuild in 2026-2027 season and faces a tough schedule."
-    },
-    {
-     "title": "Meet Britain's oldest running team with a combined age of 321",
-     "link": "https://sports.yahoo.com/articles/meet-britains-oldest-running-team-082005349.html",
-     "published": "2026-10-05T08:20:05+00:00",
-     "snippet": "Now 82, he is part of Britain's oldest running team who have a combined age of 321."
-    },
-    {
-     "title": "Real Madrid considering paying €60 million release clause for former target as defensive woes mount",
-     "link": "https://sports.yahoo.com/articles/real-madrid-considering-paying-60-082000052.html",
-     "published": "2026-10-05T08:20:00+00:00",
-     "snippet": "Real Madrid are considering a move for Real Sociedad centre-back Jon Martin as Jose Mourinho looks for further defensive reinforcements, according to Bernabeu Digital.The 20-year-old defender has emer..."
-    },
-    {
-     "title": "Former Marseille sporting director reveals attempts to sign France international Lucas Da Cunha",
-     "link": "https://sports.yahoo.com/articles/former-marseille-sporting-director-reveals-082000785.html",
-     "published": "2026-10-05T08:20:00+00:00",
-     "snippet": "It has been quite the journey for Lucas Da Cunha. An outcast at OGC Nice, who had had a loan spell at Clermont Foot, a move to Serie B and to Como set the midfielder on a trajectory toward the France ..."
-    },
-    {
-     "title": "National team manager faces criticism over Barcelona youngster’s limited role",
-     "link": "https://sports.yahoo.com/articles/national-team-manager-faces-criticism-082000578.html",
-     "published": "2026-10-05T08:20:00+00:00",
-     "snippet": "Hamza Abdelkarim is once again at the centre of attention in Egypt. The young Barcelona striker, one of the country’s biggest football prospects, is seeing his role with the senior national team dev..."
-    },
-    {
-     "title": "Bournemouth's Scott withdraws from England squad",
+     "title": "Scott out of England squad and faces lay-off",
      "link": "https://sports.yahoo.com/articles/bournemouths-scott-withdraws-england-squad-081923140.html",
-     "published": "2026-10-05T08:19:23+00:00",
-     "snippet": "Bournemouth midfielder Alex Scott withdraws from the England squad to face the Czech Republic on Tuesday with an injury."
+     "published": "2026-10-05T09:12:36+00:00",
+     "snippet": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could keep him out for up to eight weeks."
     },
     {
-     "title": "Taylor stars in London as Colts beat Commanders, Patriots defeat Bills",
-     "link": "https://sports.yahoo.com/articles/taylor-stars-london-colts-beat-081829155.html",
-     "published": "2026-10-05T08:18:29+00:00",
-     "snippet": "Jonathan Taylor scored two touchdowns and rushed for 97 yards as the Indianapolis Colts beat the Washington Commanders 30-13 at the Tottenham Hotspur Stadium. Running back Taylor made 20 carries and has now scored two t…"
+     "title": "Nebraska fans react to first 5-0 start since 2016",
+     "link": "https://sports.yahoo.com/articles/nebraska-fans-react-first-5-091028563.html",
+     "published": "2026-10-05T09:10:28+00:00",
+     "snippet": "Nebraska fans expressed excitement after the Huskers defeated Maryland on Saturday. It's the program's first 5-0 start since 2016."
     },
     {
-     "title": "FC Barcelona Striker Hamza Abdelkarim Involved In Controversy",
-     "link": "https://sports.yahoo.com/articles/fc-barcelona-striker-hamza-abdelkarim-081527464.html",
-     "published": "2026-10-05T08:15:27+00:00",
-     "snippet": "FC Barcelona striker Hamza Abdelkarim has been involved in a controversy while on international duty with Egypt."
+     "title": "Arsenal and Bournemouth stars pull out of England squad amid injury fears",
+     "link": "https://sports.yahoo.com/articles/arsenal-bournemouth-stars-pull-england-091000175.html",
+     "published": "2026-10-05T09:10:00+00:00",
+     "snippet": "Bournemouth midfielder Alex Scott and Arsenal defender Ezri Konsa have withdrawn from the England squad.Scott had been called up for the latest international camp but will now return to Bournemouth fo..."
     },
     {
-     "title": "How perfect storm has rained on Derby's parade",
-     "link": "https://sports.yahoo.com/articles/perfect-storm-rained-derbys-parade-081514824.html",
-     "published": "2026-10-05T08:15:14+00:00",
-     "snippet": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season."
+     "title": "Commanders' Dan Quinn provides update on Marcus Mariota's knee injury",
+     "link": "https://sports.yahoo.com/articles/commanders-dan-quinn-provides-marcus-090952188.html",
+     "published": "2026-10-05T09:09:52+00:00",
+     "snippet": "What's the latest on quarterback Marcus Mariota?"
     },
     {
-     "title": "Lazio Join Bournemouth & Brighton in the Race for Colombian Defender",
-     "link": "https://sports.yahoo.com/articles/lazio-join-bournemouth-brighton-race-081500152.html",
-     "published": "2026-10-05T08:15:00+00:00",
-     "snippet": "Lazio are reportedly one of the clubs tracking Atlético Nacional centre-back Neider Parra, who is destined to land in Europe sooner rather than later.Neider Parra: Background & StatsThe 21-year-old r..."
+     "title": "Florida Power & Light Pensacola Girls Athlete of the Week Sept. 28-Oct. 3",
+     "link": "https://sports.yahoo.com/articles/florida-power-light-pensacola-girls-090948100.html",
+     "published": "2026-10-05T09:09:48+00:00",
+     "snippet": "Cast your vote for nominees from cross country, golf, swimming and volleyball for the FPL Girls Athlete of the Week until 11 a.m. Saturday."
     },
     {
-     "title": "Date set for DFB Cup round of 16 tie against Bayer Leverkusen",
-     "link": "https://sports.yahoo.com/articles/date-set-dfb-cup-round-081500543.html",
-     "published": "2026-10-05T08:15:00+00:00",
-     "snippet": "In the standout fixture in the DFB Cup round of 16, FC Bayern Women will host Bayer 04 Leverkusen at their home ground, the FC Bayern Campus. Kick-off for the clash that will decide who progresses t..."
+     "title": "Grading the Steelers' offensive positions through first four games of 2026 season",
+     "link": "https://sports.yahoo.com/articles/grading-steelers-offensive-positions-first-090945934.html",
+     "published": "2026-10-05T09:09:45+00:00",
+     "snippet": "Here's a look at grades for every Steelers offensive position group through the first four games of the 2026 season."
     },
     {
-     "title": "Alex Scott ruled out of England’s clash with Czechia",
-     "link": "https://sports.yahoo.com/articles/alex-scott-ruled-england-clash-081500481.html",
-     "published": "2026-10-05T08:15:00+00:00",
-     "snippet": "Bournemouth midfielder Alex Scott has pulled out of the England squad due to an injury, ruling him out of Tuesday’s UEFA Nations League clash against Czechia at Wembley Stadium.Scott picked up the i..."
+     "title": "Constellation Furyk & Friends field set for Ocean Course at Hammock Beach",
+     "link": "https://sports.yahoo.com/articles/constellation-furyk-friends-field-set-090938911.html",
+     "published": "2026-10-05T09:09:38+00:00",
+     "snippet": "The field is set for the Constellation Furyk & Friends, with three more players coming from an open qualifier on Oct. 6 at the Dye's Valley Course."
     },
     {
-     "title": "Connor out, Lewis in as England name World Cup squad",
-     "link": "https://sports.yahoo.com/articles/connor-lewis-england-name-world-080142784.html",
-     "published": "2026-10-05T08:14:13+00:00",
-     "snippet": "Leeds Rhinos half-back Jake Connor is left out of England's Rugby League World Cup squad, with Hull KR's Mikey Lewis beating him to a place."
+     "title": "Florida Power & Light Pensacola Boys Athlete of the Week Sept. 28-Oct. 3",
+     "link": "https://sports.yahoo.com/articles/florida-power-light-pensacola-boys-090937390.html",
+     "published": "2026-10-05T09:09:37+00:00",
+     "snippet": "Cast your vote for nominees for cross country, football, golf and swimming for the FPL Boys Athlete of the Week until 11 a.m. Saturday."
     },
     {
-     "title": "The vital change Fabio Wardley needs to claim revenge in heavyweight cracker vs Daniel Dubois",
-     "link": "https://sports.yahoo.com/articles/vital-change-fabio-wardley-needs-081257296.html",
-     "published": "2026-10-05T08:12:57+00:00",
-     "snippet": "The fighters do battle once again after their slug-fest in May, with the winner able to stand tall as the best British heavyweight, despite the magnitude of the Tyson Fury vs Anthony Joshua fight in December"
+     "title": "Kirk Cousins names the exact play he’ll keep ‘thinking about’ in defeat against Chiefs",
+     "link": "https://sports.yahoo.com/articles/kirk-cousins-names-exact-play-090847723.html",
+     "published": "2026-10-05T09:08:47+00:00",
+     "snippet": "Kirk Cousins has revealed the exact play he expects to keep thinking about after the Las Vegas Raiders fell 30-27 to the Kansas City Chiefs on Sunday. The Raiders had a chance to keep the drive alive after a Kansas City…"
     },
     {
-     "title": "Natalia Silva crowned women’s flyweight champion at UFC 332 as Valentina Shevchenko issues warning",
-     "link": "https://sports.yahoo.com/articles/natalia-silva-crowned-women-flyweight-081224191.html",
-     "published": "2026-10-05T08:12:24+00:00",
-     "snippet": "Silva beat China’s Wang Cong in a dominant five-round display in the main event in Salt Lake City"
+     "title": "Vote for the Knoxville TVA Employees Credit Union boys athlete of the week for Sept. 28-Oct. 2",
+     "link": "https://sports.yahoo.com/articles/vote-knoxville-tva-employees-credit-090839793.html",
+     "published": "2026-10-05T09:08:39+00:00",
+     "snippet": "Vote for the Knoxville TVA Employees Credit Union boys athlete of the week for Sept. 28-Oct 2 in the Knoxville area. Voters have until noon on Oct. 8."
     },
     {
-     "title": "29-N, elections in Spain: how will they affect football?",
-     "link": "https://sports.yahoo.com/articles/29-n-elections-spain-affect-081200483.html",
-     "published": "2026-10-05T08:12:00+00:00",
-     "snippet": "Pedro Sánchez, the President of Spain, announced this Monday that elections will be held in Spain on November 29.This is something that affects the country in every area, including sport and, more sp..."
+     "title": "‘Putting with a Purpose’ outing honors Tallahassee golf trailblazer",
+     "link": "https://sports.yahoo.com/articles/putting-purpose-outing-honors-tallahassee-090836163.html",
+     "published": "2026-10-05T09:08:36+00:00",
+     "snippet": "Golf gathering honors William E. Crumbie Sr. and raises scholarship funds for FAMU students in Tallahassee."
     },
     {
-     "title": "Devils face the Mammoth in a non-conference matchup",
-     "link": "https://sports.yahoo.com/articles/devils-face-mammoth-non-conference-081100641.html",
-     "published": "2026-10-05T08:11:00+00:00",
-     "snippet": "Utah Mammoth (2-1, in the Central Division) vs. New Jersey Devils (1-1, in the Metropolitan Division)Newark, New Jersey; Tuesday, 7 p."
+     "title": "Vote for the Knoxville TVA Employees Credit Union girls athlete of the week for Sept. 28-Oct. 2",
+     "link": "https://sports.yahoo.com/articles/vote-knoxville-tva-employees-credit-090832043.html",
+     "published": "2026-10-05T09:08:32+00:00",
+     "snippet": "Vote for the Knoxville TVA Employees Credit Union girls athlete of the week for Sept. 28-Oct 2 in the Knoxville area. Voters have until noon on Oct. 8."
     },
     {
-     "title": "Jets visit the Penguins after Connor's 2-goal game",
-     "link": "https://sports.yahoo.com/articles/jets-visit-penguins-connors-2-081100926.html",
-     "published": "2026-10-05T08:11:00+00:00",
-     "snippet": "Winnipeg Jets (1-0-1, in the Central Division) vs. Pittsburgh Penguins (2-0, in the Metropolitan Division)Pittsburgh; Monday, 7:30 p."
+     "title": "Where Littlefield, Dimmitt stand after thrilling non-district finale",
+     "link": "https://sports.yahoo.com/articles/where-littlefield-dimmitt-stand-thrilling-090829985.html",
+     "published": "2026-10-05T09:08:29+00:00",
+     "snippet": "Littlefield edged Dimmitt in the teams' non-district finale, but both have things to look forward to as the playoff push begins. Here's the breakdown."
     },
     {
-     "title": "Los Angeles hosts Florida in a non-conference matchup",
-     "link": "https://sports.yahoo.com/articles/los-angeles-hosts-florida-non-081100161.html",
-     "published": "2026-10-05T08:11:00+00:00",
-     "snippet": "Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)Los Angeles; Tuesday, 10 p."
+     "title": "Trail's Wayble, Meadowbrook's Campbell lead Top Performers (Sept. 28-Oct. 3)",
+     "link": "https://sports.yahoo.com/articles/trails-wayble-meadowbrooks-campbell-lead-090826729.html",
+     "published": "2026-10-05T09:08:26+00:00",
+     "snippet": "Buckeye Trail's Sam Wayble advances to Division III state golf tournament; Colts' Vincent Campbell takes 1st place in 50-team Panther XC Invitational."
     },
     {
-     "title": "Wild visit the Sabres after Kaprizov's 2-goal game",
-     "link": "https://sports.yahoo.com/articles/wild-visit-sabres-kaprizovs-2-081100877.html",
-     "published": "2026-10-05T08:11:00+00:00",
-     "snippet": "Minnesota Wild (2-0, in the Central Division) vs. Buffalo Sabres (1-1, in the Atlantic Division)Buffalo, New York; Tuesday, 7 p."
+     "title": "Trevor Lawrence finds answers as Jaguars flip script on Bengals",
+     "link": "https://sports.yahoo.com/articles/trevor-lawrence-finds-answers-jaguars-090813104.html",
+     "published": "2026-10-05T09:08:13+00:00",
+     "snippet": "Trevor Lawrence and the Jaguars overcame mistakes by leaning on different playmakers in a 22-17 win over the Bengals."
     },
     {
-     "title": "Carolina visits Montreal after Aho's 2-goal game",
-     "link": "https://sports.yahoo.com/articles/carolina-visits-montreal-ahos-2-081059738.html",
-     "published": "2026-10-05T08:10:59+00:00",
-     "snippet": "Carolina Hurricanes (1-1-1, in the Metropolitan Division) vs. Montreal Canadiens (1-0-1, in the Atlantic Division)Montreal, Quebec; Tuesday, 7 p."
+     "title": "Hot seats, huge buyouts and mounting Pressure: College football's most vulnerable coaches",
+     "link": "https://sports.yahoo.com/articles/hot-seats-huge-buyouts-mounting-090757880.html",
+     "published": "2026-10-05T09:07:57+00:00",
+     "snippet": "College football's coach hot seat is heating up. From Shane Beamer to Deion Sanders, October pressure is mounting as losses pile up and patience fades"
     },
     {
-     "title": "Rangers look to keep win streak alive, host the Islanders",
-     "link": "https://sports.yahoo.com/articles/rangers-look-keep-win-streak-081059007.html",
-     "published": "2026-10-05T08:10:59+00:00",
-     "snippet": "New York Islanders (1-1, in the Metropolitan Division) vs. New York Rangers (3-1, in the Metropolitan Division)New York; Tuesday, 7:30 p."
+     "title": "ESU QB Harrison Susi breaks Jimmy Terwilliger's rushing TD record vs West Chester",
+     "link": "https://sports.yahoo.com/articles/esu-qb-harrison-susi-breaks-090749143.html",
+     "published": "2026-10-05T09:07:49+00:00",
+     "snippet": "Harrison Susi rewrote the East Stroudsburg football record book with Jimmy Terwilliger on the sideline."
     },
     {
-     "title": "Blackhawks bring losing streak into game against the Blues",
-     "link": "https://sports.yahoo.com/articles/blackhawks-bring-losing-streak-game-081058907.html",
-     "published": "2026-10-05T08:10:58+00:00",
-     "snippet": "Louis Blues (1-1, in the Central Division) vs. Chicago Blackhawks (0-3, in the Central Division)Chicago; Tuesday, 8 p."
+     "title": "Western Wayne girls soccer team cruises to big senior night victory",
+     "link": "https://sports.yahoo.com/articles/western-wayne-girls-soccer-team-090736326.html",
+     "published": "2026-10-05T09:07:36+00:00",
+     "snippet": "Makenzie Chearney and Maci Lazorchak each celebrated a career milestone in leading the Wildcats to a dominating win over Dunmore on senior night."
     },
     {
-     "title": "Nations League: Italy vs. Turkiye – probable line-ups and where to watch on TV",
-     "link": "https://sports.yahoo.com/articles/nations-league-italy-vs-turkiye-081000191.html",
-     "published": "2026-10-05T08:10:00+00:00",
-     "snippet": "Gianluca Scamacca is expected to start and Issa Doumbia is tipped to make his first start for Italy in their home Nations League clash with Vincenzo Montella’s Turkiye.It kicks off at 20:45 CET [19:..."
+     "title": "Here’s the 2026 Week 6 schedule for Shreveport area football teams",
+     "link": "https://sports.yahoo.com/articles/2026-week-6-schedule-shreveport-090731034.html",
+     "published": "2026-10-05T09:07:31+00:00",
+     "snippet": "See the full 2026 Week 6 schedule for Shreveport area high school football teams including key matchups to watch."
     },
     {
-     "title": "Arsenal face European giants in hunt for Serie A star",
-     "link": "https://sports.yahoo.com/articles/arsenal-face-european-giants-hunt-081000625.html",
-     "published": "2026-10-05T08:10:00+00:00",
-     "snippet": "Kenan Yildiz to Arsenal? Juventus Champions League Pressure Could Reopen £100m Transfer RaceArsenal do not need telling that elite wide forwards cost serious money. They also know that when a club st..."
+     "title": "Complete Texas Panhandle high school football schedule for Week 7",
+     "link": "https://sports.yahoo.com/articles/complete-texas-panhandle-high-school-090725062.html",
+     "published": "2026-10-05T09:07:25+00:00",
+     "snippet": "Check out the Amarillo area's high school football schedule for Week 7 of the 2026 season."
     },
     {
-     "title": "Pape Gueye describes situation of former club Marseille as ‘sad’",
-     "link": "https://sports.yahoo.com/articles/pape-gueye-describes-situation-former-081000638.html",
-     "published": "2026-10-05T08:10:00+00:00",
-     "snippet": "Pape Gueye (27) has described the situation at his former club, Olympique de Marseille, as “sad”. The Villarreal midfielder returned to the Vélodrome on Sunday.Gueye featured in Senegal’s 1-0 w..."
+     "title": "Top performers from Week 6 high school football games in the Texas Panhandle",
+     "link": "https://sports.yahoo.com/articles/top-performers-week-6-high-090717213.html",
+     "published": "2026-10-05T09:07:17+00:00",
+     "snippet": "Check out the top performers from Week 6 high school football games in the Texas Panhandle."
     },
     {
-     "title": "Patriots’ Mike Vrabel hits ref with ‘sensitive’ label over baffling penalty in Bills game",
-     "link": "https://sports.yahoo.com/articles/patriots-mike-vrabel-hits-ref-080823004.html",
-     "published": "2026-10-05T08:08:23+00:00",
-     "snippet": "The New England Patriots earned a gritty 29-26 victory over the Buffalo Bills on Sunday, but head coach Mike Vrabel still found himself answering for a wild second-quarter moment. Late in the first half, Vrabel lost his…"
+     "title": "Cast your vote for The Daily Jeffersonian Athlete of the Week (Sept. 28-Oct. 3)",
+     "link": "https://sports.yahoo.com/articles/cast-vote-daily-jeffersonian-athlete-090705406.html",
+     "published": "2026-10-05T09:07:05+00:00",
+     "snippet": "Area student- athletes delivered standout performances across football, volleyball, golf and soccer. Cast your vote for this week's top performance."
     },
     {
-     "title": "Bhuvneshwar Kumar returns to Indian team: India's full squad for Hong Kong Sixes 2026 revealed",
-     "link": "https://sports.yahoo.com/articles/bhuvneshwar-kumar-returns-indian-team-080813013.html",
-     "published": "2026-10-05T08:08:13+00:00",
-     "snippet": "Bhuvneshwar Kumar returns to Indian colours to lead the squad at the Hong Kong Sixes 2026. Check the full team lineup, schedule, and India vs Pakistan clash."
+     "title": "Barcelona and Inter make contact with Stuttgart starlet's representatives",
+     "link": "https://sports.yahoo.com/articles/barcelona-inter-contact-stuttgart-starlets-090700167.html",
+     "published": "2026-10-05T09:07:00+00:00",
+     "snippet": "Finn Jeltsch could leave VfB Stuttgart at the end of the season, with the defender having been linked with top clubs from across Europe.Writing for the Swiss edition of Sky, transfer journalist Sacha ..."
     },
     {
-     "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
-     "link": "https://sports.yahoo.com/articles/800m-800m-why-man-city-080806803.html",
-     "published": "2026-10-05T08:08:06+00:00",
-     "snippet": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out."
+     "title": "Vote for the Ingles WNC high school girls Athlete of the Week, Sept. 28 to Oct. 4",
+     "link": "https://sports.yahoo.com/articles/vote-ingles-wnc-high-school-090658841.html",
+     "published": "2026-10-05T09:06:58+00:00",
+     "snippet": "Vote for the Ingles WNC girls Athlete of the Week for Week 9 of the fall sports season, featuring athletes from Polk County, Swain County and Tuscola."
     },
     {
-     "title": "‘It’s not cute anymore’ – Ryan Clark goes off on Titans star Cam Ward’s antics",
-     "link": "https://sports.yahoo.com/articles/not-cute-anymore-ryan-clark-080659704.html",
-     "published": "2026-10-05T08:06:59+00:00",
-     "snippet": "The Tennessee Titans fell to an 0-4 record to start the season after their loss to the Baltimore Ravens. Ryan Clark has called out Cam Ward for his attitude on the field."
+     "title": "Where Alabama sits in ESPN FPI rankings after win vs Mississippi State",
+     "link": "https://sports.yahoo.com/articles/where-alabama-sits-espn-fpi-090655321.html",
+     "published": "2026-10-05T09:06:55+00:00",
+     "snippet": "Alabama remains among college football's top teams following a big win over Mississippi State, per ESPN's latest FPI rankings."
     },
     {
-     "title": "Nebraska hosts Fox's \"Big Noon Kickoff\" this Saturday for Indiana game",
-     "link": "https://sports.yahoo.com/articles/nebraska-hosts-foxs-big-noon-080557320.html",
-     "published": "2026-10-05T08:05:57+00:00",
-     "snippet": "For the first time since 2022, the Nebraska Cornhuskers will host Fox's \"Big Noon Kickoff\" this weekend."
+     "title": "Vote among 31 options for Erie Times-News girls high school athlete of the week, Sept. 28-Oct. 3",
+     "link": "https://sports.yahoo.com/articles/vote-among-31-options-erie-090651932.html",
+     "published": "2026-10-05T09:06:51+00:00",
+     "snippet": "The Erie Times-News is conducting its poll for fans to determine who is District 10's most recent girls athlete of the week. Voting closes at 5 p.m. Wednesday."
     },
     {
-     "title": "Scott into top 100 after second Korn Ferry Tour win",
-     "link": "https://sports.yahoo.com/articles/scott-top-100-second-korn-075022764.html",
-     "published": "2026-10-05T08:05:45+00:00",
-     "snippet": "Sandy Scott moves into the world's top 100 after winning for the second week in a row on the Korn Ferry Tour."
+     "title": "Vote for the Ingles WNC high school boys Athlete of the Week, Sept. 28 to Oct. 4",
+     "link": "https://sports.yahoo.com/articles/vote-ingles-wnc-high-school-090650610.html",
+     "published": "2026-10-05T09:06:50+00:00",
+     "snippet": "Vote for the Ingles WNC boys Athlete of the Week for Week 9 of the fall sports season, featuring athletes from Asheville High, Franklin and Reynolds."
     },
     {
-     "title": "3 veteran quarterbacks Commanders could pursue after Marcus Mariota's injury",
-     "link": "https://sports.yahoo.com/articles/3-veteran-quarterbacks-commanders-could-080541038.html",
-     "published": "2026-10-05T08:05:41+00:00",
-     "snippet": "Even if Jayden Daniels returns next week, the Commanders could need another veteran, especially if Marcus Mariota is out for a while."
+     "title": "Vote in the Erie Times-News football player of the week ballot from Week 6",
+     "link": "https://sports.yahoo.com/articles/vote-erie-times-news-football-090643867.html",
+     "published": "2026-10-05T09:06:43+00:00",
+     "snippet": "The Erie Times-News is conducting its football player of the week poll for Week 6 games. You can vote through 5 p.m. Wednesday."
     },
     {
-     "title": "Petoskey's Jace Shaw turns dream night into a reality against Gaylord",
-     "link": "https://sports.yahoo.com/articles/petoskeys-jace-shaw-turns-dream-080530310.html",
-     "published": "2026-10-05T08:05:30+00:00",
-     "snippet": "Not even Jace Shaw's dreams could have been as big as Friday night came for the Petoskey senior vs. Gaylord. It was a night fit for a king."
+     "title": "Vote now for the Monroe News-Star's football player of Week 5",
+     "link": "https://sports.yahoo.com/articles/vote-now-monroe-news-stars-090643564.html",
+     "published": "2026-10-05T09:06:43+00:00",
+     "snippet": "There were many standout high school football performances in northeast Louisiana. Who gets your vote as the News-Star's football player of the week?"
     },
     {
-     "title": "Hillsdale medals three at Stockbridge Invite, cross country roundup",
-     "link": "https://sports.yahoo.com/articles/hillsdale-medals-three-stockbridge-invite-080523436.html",
-     "published": "2026-10-05T08:05:23+00:00",
-     "snippet": "Hillsdale boys cross country runners earned three medals at Stockbridge. Girls runners earned top 55. Colts win jamboree. Comets compete at Shepard."
+     "title": "Michigan State football faces ex-MSU QB Katin Houser and Illinois next",
+     "link": "https://sports.yahoo.com/articles/michigan-state-football-faces-ex-090641081.html",
+     "published": "2026-10-05T09:06:41+00:00",
+     "snippet": "MSU football faces ex-QB Katin Houser and Illinois at Spartan Stadium in Week 6. Here's 3 things to note."
+    },
+    {
+     "title": "Michigan State football faces ex-MSU QB Katin Houser and Illinois next",
+     "link": "https://sports.yahoo.com/articles/michigan-state-football-faces-ex-090641393.html",
+     "published": "2026-10-05T09:06:41+00:00",
+     "snippet": "MSU football faces ex-QB Katin Houser and Illinois at Spartan Stadium in Week 6. Here's 3 things to note."
+    },
+    {
+     "title": "How to watch Alabama State football vs Florida A&M",
+     "link": "https://sports.yahoo.com/articles/watch-alabama-state-football-vs-090636009.html",
+     "published": "2026-10-05T09:06:36+00:00",
+     "snippet": "Where to watch or stream Alabama State football's game against Florida A&M in Week 6."
+    },
+    {
+     "title": "Vote for Boys Athlete of the Week for Sept 28-Oct 2 presented by The Vance Law Firm",
+     "link": "https://sports.yahoo.com/articles/vote-boys-athlete-week-sept-090623638.html",
+     "published": "2026-10-05T09:06:23+00:00",
+     "snippet": "Cast your vote for the Montgomery Advertiser's Boys Athlete of the Week for Sept. 28-Oct 2 presented by The Vance Law Firm."
+    },
+    {
+     "title": "VOTE for the HSS Volleyball Player of the Week for Sept. 28-Oct. 4",
+     "link": "https://sports.yahoo.com/articles/vote-hss-volleyball-player-week-090619234.html",
+     "published": "2026-10-05T09:06:19+00:00",
+     "snippet": "After another exciting week of the high school volleyball season, it's time to look back on the best performances. Vote for the Player of the Week!"
+    },
+    {
+     "title": "Penn State football tickets vs USC | Best remaining seats for White Out",
+     "link": "https://sports.yahoo.com/articles/penn-state-football-tickets-vs-090613940.html",
+     "published": "2026-10-05T09:06:13+00:00",
+     "snippet": "Penn State football returns to Happy Valley for the White Out against the Trojans. Here's how to buy tickets on Stubhub and other online vendors."
+    },
+    {
+     "title": "Guardians vs Chicago White Sox predictions. Who wins ALDS Game 2?",
+     "link": "https://sports.yahoo.com/articles/guardians-vs-chicago-white-sox-090606444.html",
+     "published": "2026-10-05T09:06:06+00:00",
+     "snippet": "The Guardians were shut out in Game 1, allowing the White Sox to take a 1-0 series lead. Can Cleveland rebound? Our predictions for ALDS Game 2."
+    },
+    {
+     "title": "Time to vote for The Times-Reporter Athletes of the Week (Sept. 28-Oct. 4)",
+     "link": "https://sports.yahoo.com/articles/time-vote-times-reporter-athletes-090602369.html",
+     "published": "2026-10-05T09:06:02+00:00",
+     "snippet": "Fall sports is underway and it's time to cast your vote for this weeks Times-Reporter Athlete of the Week."
+    },
+    {
+     "title": "Alabama high school football Week 7 schedule for Tuscaloosa AHSAA, AISA teams",
+     "link": "https://sports.yahoo.com/articles/alabama-high-school-football-week-090602439.html",
+     "published": "2026-10-05T09:06:02+00:00",
+     "snippet": "Check out the full Alabama high school football Week 7 schedule for AHSAA and AISA teams in the Tuscaloosa area."
+    },
+    {
+     "title": "Notable PFF grades after Texas A&M's 34-7 win over Arkansas",
+     "link": "https://sports.yahoo.com/articles/notable-pff-grades-texas-ms-090550625.html",
+     "published": "2026-10-05T09:05:50+00:00",
+     "snippet": "Here are the most notable Pro Football Focus grades after Texas A&M's 34-7 win over Arkansas in Week 5."
     }
    ]
   },
@@ -6755,6 +6767,24 @@
    "category": "Sports",
    "items": [
     {
+     "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
+     "link": "https://www.skysports.com/football/news/12040/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
+     "published": "2026-10-05T10:00:00+00:00",
+     "snippet": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farewell game, his great rival Cristiano Ronaldo’s Portugal care…"
+    },
+    {
+     "title": "'What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!",
+     "link": "https://www.skysports.com/watch/video/13595270/nikola-jokic-stuns-with-outrageous-behind-the-back-assist-in-nuggets-preseason-opener",
+     "published": "2026-10-05T09:41:00+00:00",
+     "snippet": "Nikola Jokic reminded everyone of his extraordinary playmaking ability in Sunday's preseason opener, whipping a sensational behind-the-back crosscourt assist to Cameron Johnson for three."
+    },
+    {
+     "title": "Scott withdraws from England and could miss 'several weeks'",
+     "link": "https://www.skysports.com/football/news/12040/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
+     "published": "2026-10-05T09:16:00+00:00",
+     "snippet": "Alex Scott is withdrawing from the England squad after picking up a tendon injury in the 7-0 win over Croatia."
+    },
+    {
      "title": "Connor out, Lewis in - England's World Cup squad confirmed",
      "link": "https://www.skysports.com/rugby-league/news/12040/13595250/rugby-league-world-cup-2026-england-coach-brian-mcdermott-names-23-player-squad-as-leeds-star-jake-connor-misses-out",
      "published": "2026-10-05T09:00:00+00:00",
@@ -6783,12 +6813,6 @@
      "link": "https://www.skysports.com/watch/video/13594019/gihan-arnolda-britains-first-black-trainer-hoping-to-inspire-next-generation",
      "published": "2026-10-05T07:00:00+00:00",
      "snippet": "Gihan Arnolda is believed to be the first Black or Asian licenced trainer in Britain. He's based at Cadland Cottage Stables in Newmarket and sent out his first runner in May 2026, securing his first winner a month later."
-    },
-    {
-     "title": "Humphries savours 'special' win after ending run of major near-misses",
-     "link": "https://www.skysports.com/darts/news/12040/13595111/world-grand-prix-darts-luke-humphries-relieved-to-end-losing-streak-in-major-finals-after-comeback-win-over-gerwyn-price",
-     "published": "2026-10-05T06:15:00+00:00",
-     "snippet": "Luke Humphries was relieved to end his run of near-misses in TV major finals after delivering a sensational comeback victory over Gerwyn Price at the World Grand Prix."
     },
     {
      "title": "F1 Sprint format: How does it work in 2026?",
@@ -6843,18 +6867,6 @@
      "link": "https://www.skysports.com/rugby-union/saracens-vs-sale/report/113840",
      "published": "2026-10-04T17:14:00+00:00",
      "snippet": "Sale defied Jacques Vermeulen's first-half red card to dispatch Saracens 21-17 with Tom O'Flaherty emerging as the star of a slugfest at StoneX Stadium."
-    },
-    {
-     "title": "Labuschagne hits timely ton as Australia warm up for South Africa Tests",
-     "link": "https://www.skysports.com/cricket/news/12040/13595073/australias-marnus-labuschagne-hits-timely-hundred-ahead-of-south-africa-test-series-live-on-sky-sports-from-friday",
-     "published": "2026-10-04T17:00:00+00:00",
-     "snippet": "Marnus Labuschagne scored a speedy, and timely, century in Australia's sole warm-up match before the three-Test series in South Africa from Friday, live on Sky Sports Cricket."
-    },
-    {
-     "title": "'He's a real champion!' | Graffard hails Arc hero Daryz",
-     "link": "https://www.skysports.com/watch/video/13595065/hes-a-real-champion-graffard-hails-arc-hero-daryz",
-     "published": "2026-10-04T16:24:00+00:00",
-     "snippet": "Francis-Henri Graffard lauded the achievements of Daryz after he retained his Prix de l'Arc de Triomphe crown at ParisLongchamp."
     },
     {
      "title": "How did Lewis recover from P18 to the podium?! SkyPad ANALYSIS reveals all...",
@@ -7043,7 +7055,7 @@
      "title": "‘The Social Reckoning’ Is an Even Bigger Burn on Mark Zuckerberg Than You Think",
      "link": "https://www.hollywoodreporter.com/business/digital/social-reckoning-mark-zuckerberg-villain-jeremy-theaters-1236722195/",
      "published": "2026-10-05T08:31:41+00:00",
-     "snippet": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts"
+     "snippet": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts."
     },
     {
      "title": "Movies With “Real Political Messages” Underneath the Surface, Animation and More: What Not to Miss at London Film Fest",
@@ -7684,6 +7696,24 @@
    "category": "Sports",
    "items": [
     {
+     "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
+     "link": "https://www.skysports.com/football/news/11095/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
+     "published": "2026-10-05T10:00:00+00:00",
+     "snippet": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farewell game, his great rival Cristiano Ronaldo’s Portugal care…"
+    },
+    {
+     "title": "Wagner: Why Germany national team has gone backwards",
+     "link": "https://www.skysports.com/football/news/11095/13574142/david-wagner-rb-leipzig-academy-manager-on-why-german-football-has-gone-backwards-and-what-must-change",
+     "published": "2026-10-05T10:00:00+00:00",
+     "snippet": "“We have gone backwards,” David Wagner tells Sky Sports . He is reflecting on the state of German football from his position as RB Leipzig’s academy manager. “People now realise we have to change something.” Wagner is o…"
+    },
+    {
+     "title": "Scott withdraws from England and could miss 'several weeks'",
+     "link": "https://www.skysports.com/football/news/11095/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
+     "published": "2026-10-05T09:16:00+00:00",
+     "snippet": "Alex Scott is withdrawing from the England squad after picking up a tendon injury in the 7-0 win over Croatia."
+    },
+    {
      "title": "Man City latest: Norway boss gives Haaland injury update",
      "link": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
      "published": "2026-10-05T09:15:00+00:00",
@@ -7750,12 +7780,6 @@
      "snippet": ""
     },
     {
-     "title": "Robertson savours Scotland century before eyeing Dalglish record",
-     "link": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-     "published": "2026-10-04T13:08:00+00:00",
-     "snippet": ""
-    },
-    {
      "title": "WSL round-up: Chelsea ease to win at West Ham as London City thrash Spurs",
      "link": "https://www.skysports.com/football/news/11095/13594997/womens-super-league-round-up-chelsea-go-top-with-win-over-west-ham-as-london-city-lionesses-thrash-tottenham",
      "published": "2026-10-04T12:28:00+00:00",
@@ -7772,12 +7796,6 @@
      "link": "https://www.skysports.com/watch/video/13594845/international-ratings-edit-with-fix",
      "published": "2026-10-03T22:06:00+00:00",
      "snippet": "Rob Dorsett gives his player ratings for England's dominant 7-0 victory over Croatia."
-    },
-    {
-     "title": "Third time lucky for Pocognoli as Scotland mark Robertson's 100th cap with win",
-     "link": "https://www.skysports.com/football/north-macedonia-vs-scotland/report/554056",
-     "published": "2026-10-03T22:00:00+00:00",
-     "snippet": "Sebastien Pocognoli secured his first Scotland win at the third time of asking as captain Andy Robertson became just the second player to reach 100 caps."
     },
     {
      "title": "'Complete' England display reinvigorates faith in Tuchel project - for now",
@@ -7804,6 +7822,12 @@
    "url": "https://www.theguardian.com/sport/rss",
    "category": "Sports",
    "items": [
+    {
+     "title": "Alex Scott facing two months out after playing through pain with England",
+     "link": "https://www.theguardian.com/football/2026/oct/05/alex-scott-injury-two-months-england-bournemouth",
+     "published": "2026-10-05T08:42:59+00:00",
+     "snippet": "Midfielder’s thigh injury a blow for Bournemouth He will miss England games on Tuesday and next month Alex Scott has withdrawn from the England squad and could be out for two months with a thigh injury. The Bournemouth…"
+    },
     {
      "title": "Czechia’s Santi Denia: ‘Anthony Gordon? What a player! He’s at the same level as Lamine Yamal’",
      "link": "https://www.theguardian.com/football/2026/oct/05/santi-denia-anthony-gordon-lamine-yamal-england-czechia",
@@ -7923,12 +7947,6 @@
      "link": "https://www.theguardian.com/football/2026/oct/04/alex-scott-declan-rice-thomas-tuchel-midfield-england-croatia-nations-league",
      "published": "2026-10-04T18:00:34+00:00",
      "snippet": "Tuchel praises Scott’s all-round display in Croatia win ‘We will not survive on two midfielders. More the better’ Thomas Tuchel warned that there is competition for Declan Rice’s place in England’s midfield after Alex S…"
-    },
-    {
-     "title": "Daryz makes history with back-to-back Arc de Triomphe triumphs",
-     "link": "https://www.theguardian.com/sport/2026/oct/04/daryz-makes-history-with-back-to-back-prix-de-larc-de-triomphe-triumphs-horse-racing",
-     "published": "2026-10-04T16:47:57+00:00",
-     "snippet": "Winning rider Barzalona hails ‘exceptional horse’ Stud beckons over bid for unprecedented third win It was a very different, distinctly brutalist Longchamp that last saw a colt go back-to-back in the Arc, and 48 years o…"
     },
     {
      "title": "NFL today: How to watch Chiefs v Raiders, TV channels & live stream Sunday 4 October",
@@ -8236,6 +8254,54 @@
    "category": "Sports",
    "items": [
     {
+     "title": "Jets visit the Penguins after Connor's 2-goal game",
+     "link": "http://www.espn.com/nhl/preview?gameId=401892447",
+     "published": "2026-10-05T08:11:53+00:00",
+     "snippet": "Winnipeg Jets (1-0-1, in the Central Division) vs. Pittsburgh Penguins (2-0, in the Metropolitan Division)"
+    },
+    {
+     "title": "Carolina visits Montreal after Aho's 2-goal game",
+     "link": "http://www.espn.com/nhl/preview?gameId=401891815",
+     "published": "2026-10-05T08:11:50+00:00",
+     "snippet": "Carolina Hurricanes (1-1-1, in the Metropolitan Division) vs. Montreal Canadiens (1-0-1, in the Atlantic Division)"
+    },
+    {
+     "title": "Blackhawks bring losing streak into game against the Blues",
+     "link": "http://www.espn.com/nhl/preview?gameId=401891779",
+     "published": "2026-10-05T08:11:47+00:00",
+     "snippet": "St. Louis Blues (1-1, in the Central Division) vs. Chicago Blackhawks (0-3, in the Central Division)"
+    },
+    {
+     "title": "Toronto takes on Nashville in a non-conference matchup",
+     "link": "http://www.espn.com/nhl/preview?gameId=401892449",
+     "published": "2026-10-05T08:11:43+00:00",
+     "snippet": "Nashville Predators (1-1, in the Central Division) vs. Toronto Maple Leafs (1-2, in the Atlantic Division)"
+    },
+    {
+     "title": "Rangers look to keep win streak alive, host the Islanders",
+     "link": "http://www.espn.com/nhl/preview?gameId=401892452",
+     "published": "2026-10-05T08:11:40+00:00",
+     "snippet": "New York Islanders (1-1, in the Metropolitan Division) vs. New York Rangers (3-1, in the Metropolitan Division)"
+    },
+    {
+     "title": "Wild visit the Sabres after Kaprizov's 2-goal game",
+     "link": "http://www.espn.com/nhl/preview?gameId=401892453",
+     "published": "2026-10-05T08:11:36+00:00",
+     "snippet": "Minnesota Wild (2-0, in the Central Division) vs. Buffalo Sabres (1-1, in the Atlantic Division)"
+    },
+    {
+     "title": "Devils face the Mammoth in a non-conference matchup",
+     "link": "http://www.espn.com/nhl/preview?gameId=401892451",
+     "published": "2026-10-05T08:11:32+00:00",
+     "snippet": "Utah Mammoth (2-1, in the Central Division) vs. New Jersey Devils (1-1, in the Metropolitan Division)"
+    },
+    {
+     "title": "Los Angeles hosts Florida in a non-conference matchup",
+     "link": "http://www.espn.com/nhl/preview?gameId=401891806",
+     "published": "2026-10-05T08:11:29+00:00",
+     "snippet": "Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)"
+    },
+    {
      "title": "Marchand, out since March 6, scores in return to Panthers",
      "link": "https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup",
      "published": "2026-10-05T05:36:51+00:00",
@@ -8348,30 +8414,6 @@
      "link": "http://www.espn.com/nhl/recap?gameId=401892438",
      "published": "2026-10-04T02:47:30+00:00",
      "snippet": "— Steven Stamkos and Nils Hoglander scored power-play goals in the first period, Juuse Saros made 29 saves and the Nashville Predators beat the Dallas Stars 2-1 on Saturday night."
-    },
-    {
-     "title": "Sorokin has 30th career shutout as Islanders blank Devils 6-0",
-     "link": "http://www.espn.com/nhl/recap?gameId=401891818",
-     "published": "2026-10-04T02:29:33+00:00",
-     "snippet": "— Ilya Sorokin made 36 saves for his 30th career shutout in a 6-0 win over the New Jersey Devils on Saturday."
-    },
-    {
-     "title": "Novak scores 2 goals, including OT winner, to help the Penguins beat the Canadiens 6-5",
-     "link": "http://www.espn.com/nhl/recap?gameId=401891822",
-     "published": "2026-10-04T02:20:32+00:00",
-     "snippet": "— Tommy Novak scored his second goal of the game in overtime to give the Pittsburgh Penguins a 6-5 victory over the Montreal Canadiens on Saturday night."
-    },
-    {
-     "title": "McDavid has a goal and an assist as the Oilers beat the Kraken 3-1",
-     "link": "http://www.espn.com/nhl/recap?gameId=401892437",
-     "published": "2026-10-04T02:17:29+00:00",
-     "snippet": "— Connor McDavid had a goal and an assist to give him nine points through three games as the Edmonton Oilers beat the Seattle Kraken 3-1 on Saturday night."
-    },
-    {
-     "title": "Hurricanes beat the Flyers 3-2 in OT for their first win as Aho scores 2",
-     "link": "http://www.espn.com/nhl/recap?gameId=401892435",
-     "published": "2026-10-04T02:14:32+00:00",
-     "snippet": "— Sebastian Aho scored a pair of goals and assisted on Shayne Gostisbehere's overtime winner as the Carolina Hurricanes beat the Philadelphia Flyers 3-2 on Saturday night."
     }
    ]
   },
@@ -23134,14 +23176,8 @@
    "team_id": "26",
    "news": [
     {
-     "title": "Los Angeles hosts Florida in a non-conference matchup",
-     "published": "2026-10-05T08:11:29+00:00",
-     "link": "http://www.espn.com/nhl/preview?gameId=401891806",
-     "snippet": "Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)"
-    },
-    {
      "title": "Marchand, out since March 6, scores in return to Panthers",
-     "published": "2026-10-05T05:36:51+00:00",
+     "published": "2026-10-05T05:05:18+00:00",
      "link": "https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup",
      "snippet": "Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…"
     },
@@ -23252,6 +23288,12 @@
      "published": "2026-09-30T00:20:30+00:00",
      "link": "http://www.espn.com/nhl/recap?gameId=401891773",
      "snippet": "— Gustav Forsling hammered a shot past Brandon Bussi with 4.3 seconds left in overtime to lift the Florida Panthers past the reigning Stanley Cup champion Carolina Hurricanes 1-0 in Tuesday's season opener for both team…"
+    },
+    {
+     "title": "Brady Tkachuk: Move from Senators to Panthers not taken lightly",
+     "published": "2026-09-29T20:11:33+00:00",
+     "link": "https://www.espn.com/video/clip/_/id/50060808/move-senators-panthers-not-taken-lightly",
+     "snippet": "Brady Tkachuk: Move from Senators to Panthers not taken lightly"
     }
    ],
    "injuries": [

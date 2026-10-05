@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Oct 5, 4:34 AM ET)
+# Sports digest (generated Mon Oct 5, 5:24 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -163,8 +163,6 @@ Finals (last ~40h):
 - Bowling Green Falcons 24 at Miami (OH) RedHawks 20 | Final | Sat Oct 3, 3:30 PM ET | TV: ESPN+ | Yager Stadium
 - Old Dominion Monarchs 10 at Georgia State Panthers 42 | Final | Sat Oct 3, 3:30 PM ET | TV: ESPN+ | Center Parc Stadium
 - Toledo Rockets 39 at Ball State Cardinals 24 | Final | Sat Oct 3, 2:00 PM ET | TV: ESPN+ | Scheumann Stadium
-- Western Michigan Broncos 20 at Buffalo Bulls 17 | Final | Sat Oct 3, 1:00 PM ET | TV: ESPN+ | Broadview Stadium
-- Vanderbilt Commodores 14 at Georgia Bulldogs 38 | ranks: Georgia Bulldogs #2 | Final | Sat Oct 3, 12:45 PM ET | TV: SEC Network | Sanford Stadium
 Next 7 days, my teams:
 - [MY TEAM] South Carolina Gamecocks at Florida Gators | ranks: Florida Gators #16 | 10/10 - 12:45 PM EDT | Sat Oct 10, 12:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -331,7 +329,6 @@ Finals (last ~40h):
 - San Diego Padres 2 at Milwaukee Brewers 3 | Final | Sat Oct 3, 8:30 PM ET | NLDS 'A' Game 1 | MIL leads 1-0
 - New York Yankees 0 at Tampa Bay Rays 1 | Final | Sat Oct 3, 6:30 PM ET | ALDS 'A' Game 1 | TB leads 1-0
 - Atlanta Braves 3 at Los Angeles Dodgers 5 | Final | Sat Oct 3, 4:00 PM ET | NLDS 'B' Game 1 | LAD leads 1-0
-- Chicago White Sox 3 at Cleveland Guardians 0 | Final | Sat Oct 3, 1:00 PM ET | ALDS 'B' Game 1 | CWS leads 1-0
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Chicago White Sox at Cleveland Guardians | Scheduled | Mon Oct 5, 5:00 PM ET | ALDS 'B' Game 2 | CWS leads 1-0

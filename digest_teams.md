@@ -1,4 +1,4 @@
-# Team digest (generated Mon Oct 5, 4:34 AM ET)
+# Team digest (generated Mon Oct 5, 5:24 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -49,8 +49,7 @@ Injuries / player notes (ESPN; 2 of 2 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- Los Angeles hosts Florida in a non-conference matchup | Mon Oct 5, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891806 | Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)
-- Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:36 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
+- Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:05 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
 - Florida Panthers vs. Anaheim Ducks: Game Highlights | Mon Oct 5, 12:09 AM ET | https://www.espn.com/video/clip/_/id/50107385/game-highlights | Florida Panthers vs. Anaheim Ducks: Game Highlights
 - Mikael Granlund scores in OT, Cutter Gauthier gets 2 goals in Ducks' 3-2 win over Panthers | Sun Oct 4, 11:09 PM ET | http://www.espn.com/nhl/recap?gameId=401891778 | — Cutter Gauthier scored two power-play goals and captain Mikael Granlund had a power-play goal 4:14 into overtime, sending the Anaheim Ducks to a 3-2 victory over the Florida Panthers on Sunday night...
 - A guide to NHL goalie masks for the 2026-27 season | Sun Oct 4, 11:02 PM ET | https://www.espn.com/nhl/story/_/id/50062934/nhl-goalie-masks-2026-27-breakdown-designs | Here's a look at the notable goalie mask designs across the NHL for the upcoming season.
@@ -61,6 +60,7 @@ News (last days, newest first):
 - Panthers' Aleksander Barkov exits early at Sharks because of injury | Fri Oct 2, 1:43 AM ET | https://www.espn.com/nhl/story/_/id/50082210/panthers-aleksander-barkov-exits-early-sharks-injury | Panthers captain Aleksander Barkov left in the second period against San Jose on Thursday night after his left knee appeared to buckle during a scrum.
 - Luca Cagnoni scores in OT in the Sharks' season-opening victory over the Panthers | Fri Oct 2, 1:26 AM ET | http://www.espn.com/nhl/recap?gameId=401891823 | — Luca Cagnoni rocketed a shot off goalie Akira Schmid at 3:14 of overtime and the San Jose Sharks opened the season with a 4-3 victory over the Florida Panthers on Thursday night.
 - Florida Panthers vs. San Jose Sharks: Game Highlights | Fri Oct 2, 1:20 AM ET | https://www.espn.com/video/clip/_/id/50082638/game-highlights | Florida Panthers vs. San Jose Sharks: Game Highlights
+- NHL Tonight: What to watch as 10 more teams make their season debuts | Thu Oct 1, 3:30 PM ET | https://www.espn.com/nhl/story/_/id/50067502/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Here's what you need to know for the matchups this evening, plus stat leaders and more.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Aaron Ekblad (D) | Day-To-Day | Mon Oct 5, 12:27 AM ET | day-to-day
 - Aleksander Barkov (C) | Injured Reserve | Sat Oct 3, 2:39 PM ET | ir-lt
