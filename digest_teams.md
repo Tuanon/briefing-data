@@ -1,9 +1,13 @@
-# Team digest (generated Mon Oct 5, 5:24 AM ET)
+# Team digest (generated Tue Oct 6, 4:32 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- How the sportsbooks adjust after high volume of early-season NFL injuries | Mon Oct 5, 5:15 PM ET | https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds | With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.
+- NFL Week 5 betting: Odds, lines and totals for every game | Mon Oct 5, 10:51 AM ET | https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.
+- How active NFL players continue to redefine all-time sack list | Mon Oct 5, 10:35 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
+- 2027 NFL draft order projections for Round 1, chances for top pick, more | Mon Oct 5, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games | Mon Oct 5, 1:31 AM ET | https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.
 - Dolphins defense has a quality day in loss to Vikings | Sun Oct 4, 10:41 PM ET | https://www.espn.com/video/clip/_/id/50106881/dolphins-defense-quality-day-loss-vikings | Marcel Louis-Jacques discusses the Dolphins defense playing quality football in loss to the Vikings.
 - Unbeaten Vikings keep Dolphins winless with dominant defense, Reichard's kicks, Hockenson's catches | Sun Oct 4, 9:38 PM ET | http://www.espn.com/nfl/recap?gameId=401872974 | — Kyler Murray and the Minnesota Vikings ' offense would've appreciated a touchdown for their progress down the stretch, but there was only one way to truly secure this victory.
@@ -12,26 +16,17 @@ News (last days, newest first):
 - All-time rosters for 23 teams with multiple Super Bowls | Sun Oct 4, 7:30 PM ET | https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame | This was no small task, but 13 players ended up making more than one all-time SB roster.
 - Miami Dolphins vs. Minnesota Vikings: Game Highlights | Sun Oct 4, 7:27 PM ET | https://www.espn.com/video/clip/_/id/50105087/game-highlights | Miami Dolphins vs. Minnesota Vikings: Game Highlights
 - NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy' | Sun Oct 4, 3:29 PM ET | https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms | Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.
-- NFL Week 4 betting guide: Analysis and top plays for Sunday's games | Sun Oct 4, 2:00 AM ET | https://www.espn.com/espn/betting/story/_/id/50053878/week-4-nfl-odds-spreads-lines-props-best-bets-sunday-football-games | Our experts dive into the odds and player props for Week 4 and offer their betting tips and favorite plays.
-- NFL Week 4 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Oct 2, 12:31 PM ET | https://www.espn.com/nfl/story/_/id/50067784/week-4-picks-predictions-schedule-fantasy-odds-2026 | Trevor Lawrence vs. Joe Burrow? New England looking to bounce back? There are 15 more games in Week 4, and we have picks, predictions and more for all of them.
-- 2026 NFL trade deadline early look: Candidates to move, key teams, predictions | Fri Oct 2, 11:36 AM ET | https://www.espn.com/nfl/story/_/id/50077145/2026-trade-deadline-early-look-players-teams-predictions | Could the Cardinals listen on Marvin Harrison Jr. or Josh Sweat? Will the Bears or Raiders be active? Here's our way-too-early preview of the Nov. 10 trade deadline.
-- How active NFL players continue to redefine all-time sack list | Fri Oct 2, 9:54 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
-Injuries / player notes (ESPN; 15 of 25 entries shown):
+Injuries / player notes (ESPN; 10 of 25 entries shown):
+- Reese Taylor (CB) | Out | Mon Oct 5, 9:00 PM ET | Taylor (quadriceps) has been ruled out ahead of the Dolphins' Week 5 matchup with the Bengals, Barry Jackson of the Miami Herald reported Monday.
+- Dante Trader Jr. (S) | Questionable | Mon Oct 5, 7:45 PM ET | Trader (knee) is considered day-to-day ahead of Week 5, C. Isaiah Smalls II of the Miami Herald reports.
+- Caleb Douglas (WR) | Out | Mon Oct 5, 5:01 PM ET | Head coach Jeff Hafley said Monday that he's viewing Douglas (ankle) as day-to-day heading into the Dolphins' Week 5 game against the Bengals, Barry Jackson of the Miami Herald reports.
+- Robert Beal Jr. (DE) | Out | Mon Oct 5, 2:51 PM ET | out
 - Jackson Woodard (LB) | Questionable | Sun Oct 4, 11:29 PM ET | Woodard suffered an ankle injury during Sunday's 15-10 loss to the Vikings.
-- Reese Taylor (CB) | Questionable | Sun Oct 4, 5:51 PM ET | Taylor (quadriceps) has been ruled out for the remainder of Sunday's contest against the Vikings.
-- Dante Trader Jr. (S) | Questionable | Sun Oct 4, 5:13 PM ET | Trader (knee) is questionable to return to Sunday's game against Minnesota.
-- Brady Cook (QB) | Out | Sun Oct 4, 2:41 PM ET | Cook (coach's decision) is inactive but will serve as the Dolphins' emergency third quarterback against the Vikings on Sunday.
-- Justin Joly (TE) | Out | Sun Oct 4, 2:38 PM ET | inactive
-- Marcellas Dial Jr. (CB) | Out | Sun Oct 4, 2:38 PM ET | inactive
-- Caleb Douglas (WR) | Out | Sun Oct 4, 2:38 PM ET | inactive
-- Chukwuebuka Godrick (OT) | Out | Sun Oct 4, 2:38 PM ET | inactive
-- Robert Beal Jr. (DE) | Out | Sun Oct 4, 2:38 PM ET | inactive
-- DJ Campbell (G) | Out | Sun Oct 4, 2:38 PM ET | inactive
 - Chris Bell (WR) | Active | Fri Oct 2, 4:10 PM ET | Bell (knee) doesn't have an injury designation for Sunday's game against the Vikings, David Furones of the South Florida Sun Sentinel reports.
 - Kenneth Grant (DT) | Injured Reserve | Fri Oct 2, 11:37 AM ET | Head coach Jeff Hafley said Friday that Grant (leg) could begin practicing next week, C. Isaiah Smalls II of the Miami Herald reports.
-- Jaylen Wright (RB) | Active | Thu Oct 1, 5:21 PM ET | Wright (foot/stinger) was a full participant in Thursday's practice, Emily Leiker of The Minnesota Star Tribune reports.
 - Storm Duck (CB) | Out | Wed Sep 30, 9:21 PM ET | The Dolphins opened Duck's (knee) 21-day practice window Wednesday, David Furones of the South Florida Sun Sentinel reports.
 - De'Von Achane (RB) | Injured Reserve | Mon Sep 28, 4:10 PM ET | The Dolphins placed Achane (knee) on injured reserve Monday.
+- Ryan Miller (WR) | Active | Sun Sep 27, 12:29 PM ET | Miller (hip/back) is active for Sunday's game against the Chiefs.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
@@ -40,16 +35,14 @@ News (last days, newest first):
 - 2026 NBA free agency: Grades for offseason signings, extensions | Fri Oct 2, 1:05 AM ET | https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts | We're grading the biggest free agent signings and extensions, including Jalen Duren's new five-year deal.
 - NBA preview 2026-27: What Bobby Marks is watching at 30 training camps | Wed Sep 30, 2:16 PM ET | https://www.espn.com/nba/story/_/id/50061973/nba-preview-2026-27-bobby-marks-training-camp-guide-duren-pistons-lebron-76ers-30-teams | As training camps get underway across the league, Bobby Marks examines roster, contract and fit questions for all 30 teams.
 - NBA preseason: Answering big questions for all 30 teams | Tue Sep 29, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50008454/nba-2026-2027-preseason-biggest-question-all-30-teams | From LeBron James' fit in Philadelphia to Kawhi Leonard's return to Toronto, we're answering the biggest preseason questions for all 30 teams.
-- New-look 76ers top NBA media day 2026 highlights | Mon Sep 28, 6:39 PM ET | https://www.espn.com/nba/story/_/id/50023689/nba-2026-media-day-sights-sounds-highlights | The 2026-27 NBA season is approaching with media days ending Monday. Here are the top scenes from around the league.
-- NBA preview 2026-27: Stacking the 8 most intriguing newcomers | Mon Sep 28, 2:14 PM ET | https://www.espn.com/nba/story/_/id/50048228/nba-preview-2026-27-lebron-kawhi-giannis-morant-ranking-most-intriguing-newcomers | A full roster's worth of NBA stars changed teams this past summer. The storylines surrounding eight will help define the league's journey to spring.
-- Giannis confident in what he can offer to overhauled Heat | Mon Sep 28, 12:32 PM ET | https://www.espn.com/nba/story/_/id/50052354/giannis-confident-offer-overhauled-heat | Giannis Antetokounmpo has no doubt about his potential as he enters the next stage of his career following a blockbuster trade to the Heat, saying he can still "dominate the game" as one of the best players in the world.
 Injuries / player notes (ESPN; 2 of 2 entries shown):
 - Keshad Johnson (F) | Out | Fri Oct 2, 1:05 PM ET | Johnson will be sidelined a few weeks with a right hamstring strain, Anthony Chiang of the Miami Herald reports.
 - Dru Smith (G) | Day-To-Day | Thu Oct 1, 12:15 PM ET | Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:05 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
+- Los Angeles hosts Florida in a non-conference matchup | Mon Oct 5, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891806 | Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)
+- Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:36 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
 - Florida Panthers vs. Anaheim Ducks: Game Highlights | Mon Oct 5, 12:09 AM ET | https://www.espn.com/video/clip/_/id/50107385/game-highlights | Florida Panthers vs. Anaheim Ducks: Game Highlights
 - Mikael Granlund scores in OT, Cutter Gauthier gets 2 goals in Ducks' 3-2 win over Panthers | Sun Oct 4, 11:09 PM ET | http://www.espn.com/nhl/recap?gameId=401891778 | — Cutter Gauthier scored two power-play goals and captain Mikael Granlund had a power-play goal 4:14 into overtime, sending the Anaheim Ducks to a 3-2 victory over the Florida Panthers on Sunday night...
 - A guide to NHL goalie masks for the 2026-27 season | Sun Oct 4, 11:02 PM ET | https://www.espn.com/nhl/story/_/id/50062934/nhl-goalie-masks-2026-27-breakdown-designs | Here's a look at the notable goalie mask designs across the NHL for the upcoming season.
@@ -60,7 +53,6 @@ News (last days, newest first):
 - Panthers' Aleksander Barkov exits early at Sharks because of injury | Fri Oct 2, 1:43 AM ET | https://www.espn.com/nhl/story/_/id/50082210/panthers-aleksander-barkov-exits-early-sharks-injury | Panthers captain Aleksander Barkov left in the second period against San Jose on Thursday night after his left knee appeared to buckle during a scrum.
 - Luca Cagnoni scores in OT in the Sharks' season-opening victory over the Panthers | Fri Oct 2, 1:26 AM ET | http://www.espn.com/nhl/recap?gameId=401891823 | — Luca Cagnoni rocketed a shot off goalie Akira Schmid at 3:14 of overtime and the San Jose Sharks opened the season with a 4-3 victory over the Florida Panthers on Thursday night.
 - Florida Panthers vs. San Jose Sharks: Game Highlights | Fri Oct 2, 1:20 AM ET | https://www.espn.com/video/clip/_/id/50082638/game-highlights | Florida Panthers vs. San Jose Sharks: Game Highlights
-- NHL Tonight: What to watch as 10 more teams make their season debuts | Thu Oct 1, 3:30 PM ET | https://www.espn.com/nhl/story/_/id/50067502/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Here's what you need to know for the matchups this evening, plus stat leaders and more.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Aaron Ekblad (D) | Day-To-Day | Mon Oct 5, 12:27 AM ET | day-to-day
 - Aleksander Barkov (C) | Injured Reserve | Sat Oct 3, 2:39 PM ET | ir-lt
@@ -69,6 +61,11 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Cole's Block Party: An Alabama takeover | Mon Oct 5, 7:22 PM ET | https://www.espn.com/video/clip/_/id/50112914/alabama-takeover | Read & React's Cole Cubelic and Roman Harper take a look at some of the best blocks from Week 5 with Alabama and Kentucky leading the charge.
+- College football Power Rankings: What we've learned about top teams | Mon Oct 5, 1:52 PM ET | https://www.espn.com/college-football/story/_/id/50086951/2026-college-football-power-rankings-top-25-week-5 | After another week of big wins and surprising upsets, we break down the top 25 through Week 5.
+- Gators RB Baugh apologizes to Sumrall for performance in loss | Mon Oct 5, 12:52 PM ET | https://www.espn.com/college-football/story/_/id/50110281/gators-rb-baugh-apologizes-sumrall-performance-loss | Florida running back Jadan Baugh sent coach Jon Sumrall a text message Sunday apologizing for his performance in the Gators' 45-17 loss to Missouri.
+- Top 25 betting lines: Bama slim favorites at home vs. UGA; Oregon faves vs. UCLA | Mon Oct 5, 10:55 AM ET | https://www.espn.com/espn/betting/story/_/id/50106943/2026-college-football-week-6-top-25-betting-lines-odds | This week's odds and FPI predictions for Alabama-Georgia, Oregon-UCLA and every top 25 matchup.
+- 2026-27 Week 5 College Football Playoff, bowl projections | Mon Oct 5, 9:47 AM ET | https://www.espn.com/college-football/story/_/id/50102185/2026-27-week-5-college-football-playoff-cfp-bowl-projections | Following dominant victories and a few close calls in Week 5, here are our postseason projections.
 - Connelly: Week 5 brought clarity, confusion to conference races | Sun Oct 4, 5:18 PM ET | https://www.espn.com/college-football/story/_/id/50100448/connelly-week-5-results-alabama-georgia-sec-conference-races | While Alabama muddied the SEC waters, the ACC picture got clearer -- or did it?
 - Missouri jumps to 14th in AP Top 25; Florida tumbles 8 spots | Sun Oct 4, 3:51 PM ET | https://www.espn.com/college-football/story/_/id/50101357/missouri-jumps-14th-ap-top-25-florida-tumbles-8-spots | Missouri jumped to No. 14 in the AP Top 25 following its rout of Florida, while the Gators dropped eight spots to No. 16 and were replaced by LSU in the top 10.
 - No. 16 Florida takes on South Carolina in SEC action | Sun Oct 4, 3:46 PM ET | http://www.espn.com/ncf/preview?gameId=401856714 | South Carolina (2-3) at No. 16 Florida (4-1), Oct. 10 at 12:45 p.m. EDT.
@@ -76,14 +73,10 @@ News (last days, newest first):
 - Projecting the College Football Playoff top 12 after Week 5 | Sun Oct 4, 1:47 AM ET | https://www.espn.com/college-football/story/_/id/50091118/projecting-2026-college-football-playoff-top-12-week-5 | We assess how the selection committee could stack the top teams in the country after Week 5.
 - Week 5 reality check: Alabama looks like, well, Alabama; Jeremiah Smith is undeniable | Sun Oct 4, 12:46 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal100326/2026-college-football-week-5-highlights-top-plays-games-takeaways | Alabama and Ohio State restore order in CFB as Florida, Mississippi State and Iowa get a tough dose of reality.
 - Jamal Roberts runs for 211 yards, adds 3 TDs in Mizzou's big win | Sat Oct 3, 11:42 PM ET | https://www.espn.com/video/clip/_/id/50096860/jamal-roberts-runs-211-yards-adds-3-tds-mizzou-big-win | Jamal Roberts runs for 211 yards, adds 3 TDs in Mizzou's big win
-- Missouri ends skid vs. ranked foes, blows out No. 8 Florida | Sat Oct 3, 11:35 PM ET | https://www.espn.com/college-football/story/_/id/50094393/missouri-ends-skid-vs-ranked-foes-blows-no-8-florida | Austin Simmons threw for 340 yards and two touchdowns as No. 25 Missouri trounced eighth-ranked Florida 45-17 on Saturday to snap a nine-game losing streak against ranked opponents.
-- Florida Gators vs. Missouri Tigers: Game Highlights | Sat Oct 3, 8:01 PM ET | https://www.espn.com/video/clip/_/id/50094160/game-highlights | Florida Gators vs. Missouri Tigers: Game Highlights
-- Simmons, Drinkwitz beaming after No. 25 Missouri's blowout win | Sat Oct 3, 7:49 PM ET | https://www.espn.com/video/clip/_/id/50094682/simmons-drinkwitz-beaming-no-25-missouri-blowout-win | Austin Simmons and Eliah Drinkwitz discuss how the Tigers overcame adversity throughout the week and performed at an elite level against No. 8 Florida.
-- No. 25 Missouri trounces No. 8 Florida 45-17 to snap 9-game skid against Top 25 opponents | Sat Oct 3, 7:48 PM ET | http://www.espn.com/ncf/recap?gameId=401856708 | — Austin Simmons threw for 340 yards and two touchdowns, Jamal Roberts ran for 211 yards and three more scores, and No. 25 Missouri trounced eighth-ranked Florida 45-17 on Saturday to snap a nine-game losing streak agai…
-- Florida Gators vs. Missouri Tigers: Full Highlights | Sat Oct 3, 7:25 PM ET | https://www.espn.com/video/clip/_/id/50094473/full-highlights | Florida Gators vs. Missouri Tigers: Full Highlights
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott | Mon Oct 5, 4:53 PM ET | https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise | Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.
 - Thomas Tuchel: Raheem Sterling's struggles 'sad to see' | Fri Oct 2, 3:20 PM ET | https://www.espn.com/soccer/story/_/id/50085984/thomas-tuchel-raheem-sterling-england-chelsea | England boss Thomas Tuchel said he is "sad to see" former international Raheem Sterling's current plight.
 - Ranking the top 10 Premier League summer transfers so far | Fri Oct 2, 6:40 AM ET | https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you | Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.
 - Transfer rumors, news: Several Premier League clubs eye Koundé move | Thu Oct 1, 4:46 PM ET | https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah | Could Jules Koundé's next move be in the Premier League? Transfer Talk has the latest.
@@ -94,8 +87,6 @@ News (last days, newest first):
 News (last days, newest first):
 - Robot umpires flip 54% of challenged calls as Reds lead way | Fri Oct 2, 10:22 AM ET | https://www.espn.com/mlb/story/_/id/50084448/robot-umpires-flip-54-challenged-calls-reds-lead-way | Robot umpires overturned 54% of challenged calls in the first season of the automated ball-strike system as catchers were far more successful than batters.
 - Marlins commit to manager Clayton McCullough for 2027 season | Tue Sep 29, 3:35 PM ET | https://www.espn.com/mlb/story/_/id/50060331/marlins-commit-manager-clayton-mccullough-2027-season | Clayton McCullough, who managed the Marlins to their most wins over a two-season span since 2009 and 2010, will return in 2027, president Peter Bendix said.
-- 2026 MLB ABS challenge system tracker: Team, player rankings | Mon Sep 28, 1:45 PM ET | https://www.espn.com/mlb/story/_/id/48305211/2026-mlb-abs-challenge-system-tracker-team-player-rankings | The ABS challenge system leaderboard ranks batters, catchers, teams and umpires throughout the MLB season.
-- Silver linings for MLB's 2026 non-playoff teams | Mon Sep 28, 7:07 AM ET | https://www.espn.com/mlb/story/_/id/49974689/mlb-2026-playoffs-postseason-eliminated-teams-bright-side-optimism-silver-linings-2027 | Your favorite team won't be playing in October -- but that doesn't mean the season was a total loss. Right?
 Injuries / player notes (ESPN; 11 of 11 entries shown):
 - Robby Snelling (SP) | 60-Day-IL | Tue Sep 29, 12:23 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Snelling (elbow) is expected to be throwing off a mound during spring training and should be game-ready by May or June, Isaac A…
 - Adam Mazur (SP) | 60-Day-IL | Tue Sep 29, 12:17 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.
