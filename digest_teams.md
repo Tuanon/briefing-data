@@ -1,4 +1,4 @@
-# Team digest (generated Tue Oct 6, 4:32 AM ET)
+# Team digest (generated Tue Oct 6, 5:22 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -76,6 +76,9 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Emile Witbooi dreaming big despite collapsed Poland move, reveals Manchester City & Barcelona love | Tue Oct 6, 4:17 AM ET | https://www.espn.com/espn/story/_/id/50109799/emile-witbooi-dreaming-big-collapsed-poland-move-reveals-manchester-city-barcelona-love | Emile Witbooi retains dreams of a European move after a potential transfer to Poland's Gornik Zabrze broke down.
+- Myles Lewis-Skelly, Estêvão, Yan Diomande make 2026 Golden Boy shortlist | Tue Oct 6, 3:47 AM ET | https://www.espn.com/soccer/story/_/id/50115239/2026-golden-boy-myles-lewis-skelly-estevao-yan-diomande-ayyoub-bouaddi | Arsenal's Myles Lewis-Skelly, Chelsea's Estêvão, and Manchester City's Ayyoub Bouaddi are among the Premier League stars nominated for the 2026 Golden Boy award.
+- Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker | Tue Oct 6, 3:31 AM ET | https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker | Manchester United are tracking SC Freiburg striker Igor Matanovic alongside Arsenal and Chelsea. Transfer Talk has the latest.
 - Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott | Mon Oct 5, 4:53 PM ET | https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise | Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.
 - Thomas Tuchel: Raheem Sterling's struggles 'sad to see' | Fri Oct 2, 3:20 PM ET | https://www.espn.com/soccer/story/_/id/50085984/thomas-tuchel-raheem-sterling-england-chelsea | England boss Thomas Tuchel said he is "sad to see" former international Raheem Sterling's current plight.
 - Ranking the top 10 Premier League summer transfers so far | Fri Oct 2, 6:40 AM ET | https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you | Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.

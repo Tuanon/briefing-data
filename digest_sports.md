@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Oct 6, 4:32 AM ET)
+# Sports digest (generated Tue Oct 6, 5:22 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -10,14 +10,6 @@ Finals (last ~40h):
 - Denver Broncos 14 at San Francisco 49ers 24 | Final | Sun Oct 4, 4:25 PM ET | TV: CBS | Levi's Stadium
 - Los Angeles Chargers 23 at Seattle Seahawks 30 | Final | Sun Oct 4, 4:25 PM ET | TV: CBS | Lumen Field
 - [MY TEAM] Miami Dolphins 10 at Minnesota Vikings 15 | Final | Sun Oct 4, 4:05 PM ET | TV: Fox | U.S. Bank Stadium
-- New England Patriots 29 at Buffalo Bills 26 | Final | Sun Oct 4, 1:00 PM ET | TV: CBS | Highmark Stadium
-- New York Jets 12 at Chicago Bears 23 | Final | Sun Oct 4, 1:00 PM ET | TV: Fox | Soldier Field
-- Jacksonville Jaguars 22 at Cincinnati Bengals 17 | Final | Sun Oct 4, 1:00 PM ET | TV: CBS | Paycor Stadium
-- Arizona Cardinals 24 at New York Giants 36 | Final | Sun Oct 4, 1:00 PM ET | TV: CBS | MetLife Stadium
-- Los Angeles Rams 24 at Philadelphia Eagles 20 | Final | Sun Oct 4, 1:00 PM ET | TV: Fox | Lincoln Financial Field
-- Green Bay Packers 17 at Tampa Bay Buccaneers 14 | Final | Sun Oct 4, 1:00 PM ET | TV: Fox | Raymond James Stadium
-- Tennessee Titans 18 at Baltimore Ravens 24 | Final | Sun Oct 4, 1:00 PM ET | TV: CBS | M&T Bank Stadium
-- Dallas Cowboys 34 at Houston Texans 30 | Final | Sun Oct 4, 1:00 PM ET | TV: Fox | Reliant Stadium
 Next 7 days, my teams:
 - [MY TEAM] Cincinnati Bengals at Miami Dolphins | 10/11 - 1:00 PM EDT | Sun Oct 11, 1:00 PM ET | TV: Fox | Hard Rock Stadium
 Next 7 days, others (first 25):
@@ -85,7 +77,6 @@ Finals (last ~40h):
 - [MY TEAM] Florida Panthers 2 at Anaheim Ducks 3 | Final/OT | Sun Oct 4, 8:00 PM ET | TV: ESPN+, Scripps Sports, KCOP, Prime Video (Local) | Honda Center
 - Calgary Flames 1 at Seattle Kraken 6 | Final | Sun Oct 4, 8:00 PM ET | TV: ESPN+, KONG, KHN, Prime Video (Local) | Climate Pledge Arena
 - Utah Mammoth 2 at New York Rangers 4 | Final | Sun Oct 4, 6:00 PM ET | TV: ESPN+, MSG, Utah 16 | Madison Square Garden
-- Winnipeg Jets 3 at Detroit Red Wings 2 | Final | Sun Oct 4, 1:00 PM ET | TV: NHL Net, DSN | Little Caesars Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Los Angeles Kings | 10/6 - 10:00 PM EDT | Tue Oct 6, 10:00 PM ET | TV: ESPN | crypto.com Arena
 - [MY TEAM] Minnesota Wild at Florida Panthers | 10/10 - 6:00 PM EDT | Sat Oct 10, 6:00 PM ET | TV: ESPN+, Scripps Sports, MINNHL | Amerant Bank Arena
@@ -294,7 +285,6 @@ Finals (last ~40h):
 - [MY TEAM] Florida Panthers 2 at Anaheim Ducks 3 | OFF (OT) | Sun Oct 4, 8:00 PM ET | TV: Prime Video, TVAS, KCOP-13, SCRIPPS | Honda Center
 - Calgary Flames 1 at Seattle Kraken 6 | OFF | Sun Oct 4, 8:00 PM ET | TV: SNW, Prime Video, KONG | Climate Pledge Arena
 - Utah Mammoth 2 at New York Rangers 4 | OFF | Sun Oct 4, 6:00 PM ET | TV: TVAS, Utah16, MSG | Madison Square Garden
-- Winnipeg Jets 3 at Detroit Red Wings 2 | OFF | Sun Oct 4, 1:00 PM ET | TV: DSN, NHLN, TSN3 | Little Caesars Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Los Angeles Kings | FUT | Tue Oct 6, 10:00 PM ET | TV: ESPN, SN+ | Crypto.com Arena
 - [MY TEAM] Minnesota Wild at Florida Panthers | FUT | Sat Oct 10, 6:00 PM ET | TV: MINNHL, Wild+, SCRIPPS | Amerant Bank Arena
