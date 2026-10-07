@@ -1,4 +1,4 @@
-# Team digest (generated Wed Oct 7, 4:33 AM ET)
+# Team digest (generated Wed Oct 7, 5:22 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -40,8 +40,6 @@ Injuries / player notes (ESPN; 2 of 2 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- Marchand exits Panthers' win in 2nd period with leg injury | Wed Oct 7, 2:12 AM ET | https://www.espn.com/mlb/story/_/id/50122407/marchand-exits-panthers-win-2nd-period-leg-injury | Panthers forward Brad Marchand, who just made his season debut Sunday night, sustained a left leg injury in the second period of his club's 2-1 victory over the Kings on Tuesday night and was helped off the ice by his t…
-- Florida Panthers vs. Los Angeles Kings: Game Highlights | Wed Oct 7, 1:27 AM ET | https://www.espn.com/video/clip/_/id/50122527/game-highlights | Florida Panthers vs. Los Angeles Kings: Game Highlights
 - Panthers' Aleksander Barkov avoids surgery; out 6-8 weeks | Tue Oct 6, 3:28 PM ET | https://www.espn.com/nhl/story/_/id/50118696/panthers-aleksander-barkov-avoids-surgery-6-8-weeks | Panthers captain Aleksander Barkov got good news on his lower-body injury as he won't need surgery, but will miss six to eight weeks.
 - NHL Rank: Predictions for the top 100 players for 2026-27 | Tue Oct 6, 10:18 AM ET | https://www.espn.com/nhl/story/_/id/50109471/nhl-2026-27-rankings-top-100-players-predictions-stats | Connor McDavid remains No. 1, but who lands after him? Here are the players our panel believes are the best this season.
 - NHL Tonight: Get ready for Round 1 of the Battle of New York | Tue Oct 6, 6:12 AM ET | https://www.espn.com/nhl/story/_/id/50111171/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Rangers-Islanders is the marquee matchup on the NHL's nine-game slate. Here's what to watch in each contest.
@@ -52,6 +50,8 @@ News (last days, newest first):
 - A guide to NHL goalie masks for the 2026-27 season | Sun Oct 4, 11:02 PM ET | https://www.espn.com/nhl/story/_/id/50062934/nhl-goalie-masks-2026-27-breakdown-designs | Here's a look at the notable goalie mask designs across the NHL for the upcoming season.
 - NHL Tonight: Mammoth, Rangers square off in key interconference matchup | Sun Oct 4, 10:13 AM ET | https://www.espn.com/nhl/story/_/id/50091102/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | There are five games on the NHL calendar on Sunday. Here's what to watch in each of them.
 - Lyle Odelein, Stanley Cup winning defenseman, dies at 58 | Sat Oct 3, 8:32 PM ET | https://www.espn.com/nhl/story/_/id/50094788/lyle-odelein-stanley-cup-winning-defenseman-dies-58 | Lyle Odelein, a defenseman who won a Stanley Cup with the Montreal Canadiens in 1993 and played for several other NHL clubs through the 2005-06 season, has died at 58 years old, it was announced in social media posts by…
+- Panthers put Aleksander Barkov on long-term IR with leg injury | Sat Oct 3, 2:42 PM ET | https://www.espn.com/nhl/story/_/id/50091843/panthers-put-aleksander-barkov-long-term-ir-leg-injury | Panthers center Aleksander Barkov has been placed on long-term injured reserve, meaning the injury to his left leg will keep him sidelined for at least the next 10 games.
+- Panthers visit the Ducks after Luostarinen's 2-goal game | Sat Oct 3, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891778 | Florida Panthers (1-0-1, in the Atlantic Division) vs. Anaheim Ducks (1-0, in the Pacific Division)
 Injuries / player notes (ESPN; 5 of 5 entries shown):
 - Brad Marchand (LW) | Day-To-Day | Wed Oct 7, 1:29 AM ET | day-to-day
 - Aaron Ekblad (D) | Out | Tue Oct 6, 3:33 PM ET | out
@@ -76,8 +76,8 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Emile Witbooi dreaming big despite collapsed Poland move, reveals Manchester City & Barcelona love | Wed Oct 7, 3:24 AM ET | https://www.espn.com/espn/story/_/id/50109799/emile-witbooi-dreaming-big-collapsed-poland-move-reveals-manchester-city-barcelona-love | Emile Witbooi retains dreams of a European move after a potential transfer to Poland's Gornik Zabrze broke down.
 - Myles Lewis-Skelly, Estêvão, Yan Diomande make 2026 Golden Boy shortlist | Tue Oct 6, 6:58 AM ET | https://www.espn.com/soccer/story/_/id/50115239/2026-golden-boy-myles-lewis-skelly-estevao-yan-diomande-ayyoub-bouaddi | Arsenal's Myles Lewis-Skelly, Chelsea's Estêvão, and Manchester City's Ayyoub Bouaddi are among the Premier League stars nominated for the 2026 Golden Boy award.
-- Emile Witbooi dreaming big despite collapsed Poland move, reveals Manchester City & Barcelona love | Tue Oct 6, 4:17 AM ET | https://www.espn.com/espn/story/_/id/50109799/emile-witbooi-dreaming-big-collapsed-poland-move-reveals-manchester-city-barcelona-love | Emile Witbooi retains dreams of a European move after a potential transfer to Poland's Gornik Zabrze broke down.
 - Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott | Mon Oct 5, 4:53 PM ET | https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise | Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.
 - Thomas Tuchel: Raheem Sterling's struggles 'sad to see' | Fri Oct 2, 3:20 PM ET | https://www.espn.com/soccer/story/_/id/50085984/thomas-tuchel-raheem-sterling-england-chelsea | England boss Thomas Tuchel said he is "sad to see" former international Raheem Sterling's current plight.
 - Ranking the top 10 Premier League summer transfers so far | Fri Oct 2, 6:40 AM ET | https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you | Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.
