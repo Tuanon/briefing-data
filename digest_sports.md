@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Oct 8, 4:33 AM ET)
+# Sports digest (generated Thu Oct 8, 5:22 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -204,8 +204,6 @@ Finals (last ~40h):
 - [MY TEAM] Canada 0 at United States 1 | FT | Tue Oct 6, 8:00 PM ET | TV: TNT, truTV, HBO Max, Tele, Universo, Peacock | Allianz Field
 - Peru 0 at Colombia 2 | FT | Tue Oct 6, 7:45 PM ET | Nu Stadium
 - Benin 0 at Argentina 3 | FT | Tue Oct 6, 7:00 PM ET | Estadio Más Monumental
-- Niger 1 at Algeria 2 | FT | Tue Oct 6, 1:00 PM ET | Hocine Aït Ahmed Stadium
-- Venezuela 0 at Jordan 0 | FT | Tue Oct 6, 1:00 PM ET | King Abdullah II Stadium
 
 ## UEFA Nations League
 Finals (last ~40h):

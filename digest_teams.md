@@ -1,4 +1,4 @@
-# Team digest (generated Thu Oct 8, 4:33 AM ET)
+# Team digest (generated Thu Oct 8, 5:22 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -78,6 +78,8 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Ian Darke's early Premier League impressions for all 20 teams | Thu Oct 8, 4:04 AM ET | https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams | Might Arsenal be more vulnerable than expected? Are Brighton capable of making a top-four bid? Here's what stands out from the first weeks of Premier League action.
+- Transfer rumors, news: Man United, Chelsea in race for Spurs academy star | Thu Oct 8, 3:34 AM ET | https://www.espn.com/soccer/story/_/id/50131142/transfer-rumors-news-manchester-united-chelsea-race-spurs-academy-star-luca-williams-barnett | Manchester United, Chelsea, Bayern Munich and Borussia Dortmund are all tracking Tottenham Hotspur attacking midfielder Luca Williams-Barnett. Transfer Talk has the latest.
 - Former Spain, Barcelona winger Pedro calls time on storied career | Wed Oct 7, 8:55 AM ET | https://www.espn.com/soccer/story/_/id/50124344/former-spain-barcelona-winger-pedro-calls-storied-career | Former Barcelona and Chelsea winger Pedro has announced his retirement from the game at the age of 39.
 - England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or | Wed Oct 7, 4:48 AM ET | https://www.espn.com/video/clip/_/id/50123519/england-teammates-praise-kane-definitely-possible-win-ballon-dor | England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or
 - Emile Witbooi dreaming big despite collapsed Poland move, reveals Manchester City & Barcelona love | Wed Oct 7, 3:24 AM ET | https://www.espn.com/espn/story/_/id/50109799/emile-witbooi-dreaming-big-collapsed-poland-move-reveals-manchester-city-barcelona-love | Emile Witbooi retains dreams of a European move after a potential transfer to Poland's Gornik Zabrze broke down.
