@@ -1,4 +1,4 @@
-# Team digest (generated Fri Oct 9, 4:33 AM ET)
+# Team digest (generated Fri Oct 9, 5:22 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -33,7 +33,6 @@ Injuries / player notes (ESPN; 13 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
-- New Orleans Pelicans vs. Miami Heat: Game Highlights | Thu Oct 8, 10:14 PM ET | https://www.espn.com/video/clip/_/id/50136993/game-highlights | New Orleans Pelicans vs. Miami Heat: Game Highlights
 - What does your NBA team need? The biggest hole on all 30 rosters | Thu Oct 8, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50111204/nba-preseason-roster-holes-30-teams | Every NBA team is missing something, even the leading title contenders.
 - Basketball Power Index: NBA projections, playoff chances for 2026-27 season | Wed Oct 7, 10:18 AM ET | https://www.espn.com/nba/story/_/id/50111217/nba-season-projections-2026-27-bpi | ESPN's Basketball Power Index projections for the 2026-27 NBA season are out, including a ranking of all 30 teams.
 - Giannis, Bam discuss 'nightmare' other teams will face when playing the Heat | Fri Oct 2, 4:15 PM ET | https://www.espn.com/video/clip/_/id/50086121/giannis-bam-discuss-nightmare-other-teams-face-playing-heat | Giannis, Bam discuss 'nightmare' other teams will face when playing the Heat
@@ -46,6 +45,8 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Panthers play the Wild in a non-conference matchup | Fri Oct 9, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891805 | Minnesota Wild (2-1-1, in the Central Division) vs. Florida Panthers (2-0-2, in the Atlantic Division)
+- Report: Panthers' Marchand out 'a few weeks' with leg injury | Thu Oct 8, 9:42 PM ET | https://www.espn.com/nhl/story/_/id/50136206/panthers-marchand-weeks-leg-injury | Panthers forward Brad Marchand, who injured his left leg in Tuesday's win over the Kings, will miss only "a few weeks," The Associated Press reported.
 - Wysh List: What NHL execs think of ESPN's top 100 player rankings | Thu Oct 8, 10:19 AM ET | https://www.espn.com/nhl/story/_/id/50125128/nhl-2026-27-wysh-list-player-rankings-insiders-execs-audit-overrated-underrated | Who was too high or too low according to actual team personnel and players? Plus, winners and losers of the week, key upcoming games and more.
 - Matthew Tkachuk scores, Brad Marchand injured in Panthers' 2-1 win over Kings | Wed Oct 7, 4:35 AM ET | http://www.espn.com/nhl/recap?gameId=401891806 | — Matthew Tkachuk scored in the third period to give the Florida Panthers a 2-1 win over the Los Angeles Kings on Tuesday night despite losing Brad Marchand to a left leg injury.
 - Marchand exits Panthers' win in 2nd period with leg injury | Wed Oct 7, 2:12 AM ET | https://www.espn.com/mlb/story/_/id/50122407/marchand-exits-panthers-win-2nd-period-leg-injury | Panthers forward Brad Marchand, who just made his season debut Sunday night, sustained a left leg injury in the second period of his club's 2-1 victory over the Kings on Tuesday night and was helped off the ice by his t…
@@ -56,8 +57,6 @@ News (last days, newest first):
 - Los Angeles hosts Florida in a non-conference matchup | Mon Oct 5, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891806 | Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)
 - Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:36 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
 - Florida Panthers vs. Anaheim Ducks: Game Highlights | Mon Oct 5, 12:09 AM ET | https://www.espn.com/video/clip/_/id/50107385/game-highlights | Florida Panthers vs. Anaheim Ducks: Game Highlights
-- Mikael Granlund scores in OT, Cutter Gauthier gets 2 goals in Ducks' 3-2 win over Panthers | Sun Oct 4, 11:09 PM ET | http://www.espn.com/nhl/recap?gameId=401891778 | — Cutter Gauthier scored two power-play goals and captain Mikael Granlund had a power-play goal 4:14 into overtime, sending the Anaheim Ducks to a 3-2 victory over the Florida Panthers on Sunday night...
-- NHL Tonight: Mammoth, Rangers square off in key interconference matchup | Sun Oct 4, 10:13 AM ET | https://www.espn.com/nhl/story/_/id/50091102/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | There are five games on the NHL calendar on Sunday. Here's what to watch in each of them.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Aaron Ekblad (D) | Day-To-Day | Wed Oct 7, 9:13 AM ET | day-to-day
 - Brad Marchand (LW) | Day-To-Day | Wed Oct 7, 1:29 AM ET | day-to-day
@@ -81,7 +80,6 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Premier League team news, injury updates after international break | Fri Oct 9, 2:50 AM ET | https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break | The Premier League returns this weekend after an extra-long international break. But who is injured?
 - Man City charges: What managers said about scandal ahead of Premier League return | Thu Oct 8, 12:08 PM ET | https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return | Here's what every Premier League manager said when asked about Manchester City's charges.
 - Ian Darke's early Premier League impressions for all 20 teams | Thu Oct 8, 4:04 AM ET | https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams | Might Arsenal be more vulnerable than expected? Are Brighton capable of making a top-four bid? Here's what stands out from the first weeks of Premier League action.
 - Former Spain, Barcelona winger Pedro calls time on storied career | Wed Oct 7, 8:55 AM ET | https://www.espn.com/soccer/story/_/id/50124344/former-spain-barcelona-winger-pedro-calls-storied-career | Former Barcelona and Chelsea winger Pedro has announced his retirement from the game at the age of 39.

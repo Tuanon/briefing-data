@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Oct 9, 4:33 AM ET)
+# Sports digest (generated Fri Oct 9, 5:22 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -199,7 +199,7 @@ Live now:
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Dongfeng Voyah Wuhan Open | TBD | Sun Oct 11, 12:00 AM ET
+- Dongfeng Voyah Wuhan Open | 10/9 - 11:00 PM EDT | Fri Oct 9, 12:00 AM ET
 - Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group | TBD | Mon Oct 12, 12:00 AM ET
 - RoveretOpen Città della Pace | TBD | Mon Oct 12, 12:00 AM ET
 - Lisboa Belem Open | TBD | Mon Oct 12, 12:00 AM ET
