@@ -1,4 +1,4 @@
-# Team digest (generated Sat Oct 10, 4:29 AM ET)
+# Team digest (generated Sat Oct 10, 5:19 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
