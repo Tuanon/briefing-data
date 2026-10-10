@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Oct 9, 5:22 AM ET)
+# Sports digest (generated Sat Oct 10, 4:29 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -25,23 +25,19 @@ Next 7 days, others (first 25):
 
 ## NBA
 Finals (last ~40h):
+- Memphis Grizzlies 104 at Chicago Bulls 100 | Final | Fri Oct 9, 8:00 PM ET | TV: NBA TV | United Center
+- Houston Rockets 135 at Dallas Mavericks 117 | Final | Fri Oct 9, 8:00 AM ET | TV: NBA TV | Venetian Arena
 - Sacramento Kings 110 at Los Angeles Lakers 114 | Final | Thu Oct 8, 10:45 PM ET | TV: ESPN2 | crypto.com Arena
 - Atlanta Hawks 123 at San Antonio Spurs 116 | Final | Thu Oct 8, 8:00 PM ET | Frost Bank Center
 - [MY TEAM] New Orleans Pelicans 118 at Miami Heat 128 | Final | Thu Oct 8, 7:30 PM ET | Kaseya Center
 - Philadelphia 76ers 108 at Brooklyn Nets 114 | Final | Thu Oct 8, 7:30 PM ET | Barclays Center
 - Washington Wizards 111 at New York Knicks 109 | Final | Thu Oct 8, 7:30 PM ET | TV: NBA TV, MNMT | Madison Square Garden
 - Boston Celtics 124 at Cleveland Cavaliers 113 | Final | Thu Oct 8, 7:00 PM ET | Rocket Arena
-- Golden State Warriors 118 at Portland Trail Blazers 123 | Final | Wed Oct 7, 10:00 PM ET | TV: NBA TV | Moda Center
-- Orlando Magic 122 at Memphis Grizzlies 118 | Final | Wed Oct 7, 8:00 PM ET | FedExForum
-- Milwaukee Bucks 128 at Oklahoma City Thunder 126 | Final | Wed Oct 7, 8:00 PM ET | Paycom Center
-- Phoenix Suns 117 at Chicago Bulls 124 | Final | Wed Oct 7, 8:00 PM ET | United Center
-- Minnesota Timberwolves 112 at Indiana Pacers 123 | Final | Wed Oct 7, 7:00 PM ET | TV: NBA TV | Hilton Coliseum
 Next 7 days, my teams:
 - [MY TEAM] Minnesota Timberwolves at Miami Heat | 10/10 - 8:00 PM EDT | Sat Oct 10, 8:00 PM ET | Kaseya Center
 - [MY TEAM] Brooklyn Nets at Miami Heat | 10/14 - 7:30 PM EDT | Wed Oct 14, 7:30 PM ET | Kaseya Center
+- [MY TEAM] Miami Heat at Orlando Magic | 10/16 - 7:00 PM EDT | Fri Oct 16, 7:00 PM ET | Kia Center
 Next 7 days, others (first 25):
-- Houston Rockets at Dallas Mavericks | 10/9 - 8:00 AM EDT | Fri Oct 9, 8:00 AM ET | TV: NBA TV | Venetian Arena
-- Memphis Grizzlies at Chicago Bulls | 10/9 - 8:00 PM EDT | Fri Oct 9, 8:00 PM ET | TV: NBA TV | United Center
 - LA Clippers at Toronto Raptors | 10/10 - 6:30 PM EDT | Sat Oct 10, 6:30 PM ET | Rogers Arena
 - Atlanta Hawks at Indiana Pacers | 10/10 - 7:00 PM EDT | Sat Oct 10, 7:00 PM ET | Gainbridge Fieldhouse
 - Detroit Pistons at Washington Wizards | 10/10 - 7:00 PM EDT | Sat Oct 10, 7:00 PM ET | TV: MNMT | Capital One Arena
@@ -65,9 +61,15 @@ Next 7 days, others (first 25):
 - Charlotte Hornets at Boston Celtics | 10/14 - 7:30 PM EDT | Wed Oct 14, 7:30 PM ET | TD Garden
 - Phoenix Suns at San Antonio Spurs | 10/14 - 8:00 PM EDT | Wed Oct 14, 8:00 PM ET | Frost Bank Center
 - New Orleans Pelicans at Dallas Mavericks | 10/14 - 8:00 PM EDT | Wed Oct 14, 8:00 PM ET | TV: NBA TV | American Airlines Center
+- Chicago Bulls at Milwaukee Bucks | 10/14 - 8:00 PM EDT | Wed Oct 14, 8:00 PM ET | Fiserv Forum
+- Detroit Pistons at Minnesota Timberwolves | 10/14 - 8:00 PM EDT | Wed Oct 14, 8:00 PM ET | Target Center
 
 ## NHL (ESPN)
 Finals (last ~40h):
+- Anaheim Ducks 5 at Winnipeg Jets 1 | Final | Fri Oct 9, 8:00 PM ET | TV: ESPN+, KCOP, Prime Video (Local) | Canada Life Centre
+- Seattle Kraken 6 at Detroit Red Wings 3 | Final | Fri Oct 9, 7:00 PM ET | TV: ESPN+, KONG, KING 5, KHN, Prime Video (Local), DSN | Little Caesars Arena
+- New York Rangers 1 at Washington Capitals 3 | Final | Fri Oct 9, 7:00 PM ET | TV: NHL Net, MNMT, MSG | Capital One Arena
+- Pittsburgh Penguins 2 at Columbus Blue Jackets 3 | Final/SO | Fri Oct 9, 7:00 PM ET | TV: ESPN+, CBJNHL | Nationwide Arena
 - Toronto Maple Leafs 3 at Vegas Golden Knights 4 | Final/SO | Thu Oct 8, 10:00 PM ET | TV: ESPN+, Scripps Sports | T-Mobile Arena
 - Colorado Avalanche 7 at Calgary Flames 3 | Final | Thu Oct 8, 9:00 PM ET | TV: ESPN+, Altitude Sports, KTVD-TV (My20) | Scotiabank Saddledome
 - San Jose Sharks 3 at St. Louis Blues 2 | Final/OT | Thu Oct 8, 8:00 PM ET | TV: Disney+, ESPN+, Hulu | Enterprise Center
@@ -78,19 +80,12 @@ Finals (last ~40h):
 - Nashville Predators 5 at Montreal Canadiens 2 | Final | Thu Oct 8, 7:00 PM ET | TV: ESPN+, Scripps Sports | Bell Centre
 - Minnesota Wild 2 at Tampa Bay Lightning 3 | Final | Thu Oct 8, 7:00 PM ET | TV: ESPN+, MINNHL, The Spot - MTN | Benchmark International Arena
 - Vancouver Canucks 2 at Carolina Hurricanes 7 | Final | Thu Oct 8, 7:00 PM ET | TV: ESPN+, CARNHL | Lenovo Center
-- Edmonton Oilers 5 at Anaheim Ducks 2 | Final | Wed Oct 7, 10:00 PM ET | TV: ESPN+, KCOP, Prime Video (Local) | Honda Center
-- Pittsburgh Penguins 3 at Washington Capitals 5 | Final | Wed Oct 7, 7:30 PM ET | TV: TNT | Capital One Arena
-- Colorado Avalanche 2 at Winnipeg Jets 3 | Final | Wed Oct 7, 7:30 PM ET | TV: ESPN+, Altitude Sports | Canada Life Centre
 Next 7 days, my teams:
 - [MY TEAM] Minnesota Wild at Florida Panthers | 10/10 - 6:00 PM EDT | Sat Oct 10, 6:00 PM ET | TV: ESPN+, Scripps Sports, MINNHL | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Buffalo Sabres | 10/12 - 1:00 PM EDT | Mon Oct 12, 1:00 PM ET | TV: ESPN+, Scripps Sports, MSGB | KeyBank Center
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | 10/13 - 6:15 PM EDT | Tue Oct 13, 6:15 PM ET | TV: ESPN+, Scripps Sports, CBJNHL | Nationwide Arena
 - [MY TEAM] Vancouver Canucks at Florida Panthers | 10/15 - 7:00 PM EDT | Thu Oct 15, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Seattle Kraken at Detroit Red Wings | 10/9 - 7:00 PM EDT | Fri Oct 9, 7:00 PM ET | TV: ESPN+, KONG, KING 5, KHN, Prime Video (Local), DSN | Little Caesars Arena
-- New York Rangers at Washington Capitals | 10/9 - 7:00 PM EDT | Fri Oct 9, 7:00 PM ET | TV: NHL Net, MNMT, MSG | Capital One Arena
-- Pittsburgh Penguins at Columbus Blue Jackets | 10/9 - 7:00 PM EDT | Fri Oct 9, 7:00 PM ET | TV: ESPN+, CBJNHL | Nationwide Arena
-- Anaheim Ducks at Winnipeg Jets | 10/9 - 8:00 PM EDT | Fri Oct 9, 8:00 PM ET | TV: ESPN+, KCOP, Prime Video (Local) | Canada Life Centre
 - Philadelphia Flyers at Boston Bruins | 10/10 - 1:00 PM EDT | Sat Oct 10, 1:00 PM ET | TV: NHL Net, NBC Sports Phil, NESN | TD Garden
 - Vancouver Canucks at New Jersey Devils | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ESPN+, MSGSN | Prudential Center
 - Edmonton Oilers at San Jose Sharks | 10/10 - 4:00 PM EDT | Sat Oct 10, 4:00 PM ET | TV: ESPN+, NBC Sports BA | SAP Center at San Jose
@@ -112,23 +107,25 @@ Next 7 days, others (first 25):
 - New Jersey Devils at Detroit Red Wings | 10/13 - 6:00 PM EDT | Tue Oct 13, 6:00 PM ET | TV: ESPN | Little Caesars Arena
 - Buffalo Sabres at Montreal Canadiens | 10/13 - 6:30 PM EDT | Tue Oct 13, 6:30 PM ET | TV: ESPN+, MSGB | Bell Centre
 - Washington Capitals at Carolina Hurricanes | 10/13 - 6:45 PM EDT | Tue Oct 13, 6:45 PM ET | TV: ESPN+, MNMT, CARNHL | Lenovo Center
+- Seattle Kraken at Philadelphia Flyers | 10/13 - 7:00 PM EDT | Tue Oct 13, 7:00 PM ET | TV: ESPN+, NBC Sports Phil, KONG, KING 5, KHN, Prime Video (Local) | Xfinity Mobile Arena
+- Tampa Bay Lightning at New York Rangers | 10/13 - 7:15 PM EDT | Tue Oct 13, 7:15 PM ET | TV: ESPN+, MSG, The Spot - MTN | Madison Square Garden
+- St. Louis Blues at Ottawa Senators | 10/13 - 7:30 PM EDT | Tue Oct 13, 7:30 PM ET | TV: ESPN+, Blues App, BN+ | Canadian Tire Centre
+- Vancouver Canucks at New York Islanders | 10/13 - 7:45 PM EDT | Tue Oct 13, 7:45 PM ET | TV: ESPN+, MSGSN | UBS Arena
 
 ## College football (FBS)
 Finals (last ~40h):
+- Iowa State Cyclones 10 at BYU Cougars 24 | ranks: BYU Cougars #8 | Final | Fri Oct 9, 10:30 PM ET | TV: ESPN | LaVell Edwards Stadium
+- Iowa Hawkeyes 41 at Washington Huskies 24 | ranks: Iowa Hawkeyes #20 | Final | Fri Oct 9, 9:00 PM ET | TV: Fox | Husky Stadium
+- Washington State Cougars 16 at Utah State Aggies 17 | Final | Fri Oct 9, 9:00 PM ET | TV: CW | Maverik Stadium
+- Wyoming Cowboys 16 at San José State Spartans 13 | Final/OT | Fri Oct 9, 9:00 PM ET | TV: CBSSN | CEFCU Stadium
+- Florida State Seminoles 20 at Louisville Cardinals 44 | Final | Fri Oct 9, 7:00 PM ET | TV: ESPN | L&N Federal Credit Union Stadium
 - South Florida Bulls 24 at UTSA Roadrunners 31 | Final | Thu Oct 8, 7:30 PM ET | TV: ESPN | Alamodome
 - South Alabama Jaguars 56 at Arkansas State Red Wolves 49 | Final | Thu Oct 8, 7:30 PM ET | TV: ESPN2 | Centennial Bank Stadium
 - Sam Houston Bearkats 3 at Liberty Flames 35 | Final | Thu Oct 8, 7:00 PM ET | TV: ESPNU | Williams Stadium (VA)
 - Missouri State Bears 13 at Western Kentucky Hilltoppers 34 | Final | Thu Oct 8, 7:00 PM ET | TV: CBSSN | Houchens Industries-L.T. Smith Stadium
-- New Mexico State Aggies 3 at Florida International Panthers 22 | Final | Wed Oct 7, 8:04 PM ET | TV: ESPN2 | Pitbull Stadium
-- Jacksonville State Gamecocks 27 at Kennesaw State Owls 26 | Final | Wed Oct 7, 7:00 PM ET | TV: CBSSN | Walens Family Field at Fifth Third Stadium
 Next 7 days, my teams:
 - [MY TEAM] South Carolina Gamecocks at Florida Gators | ranks: Florida Gators #16 | 10/10 - 12:45 PM EDT | Sat Oct 10, 12:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
-- Florida State Seminoles at Louisville Cardinals | 10/9 - 7:00 PM EDT | Fri Oct 9, 7:00 PM ET | TV: ESPN | L&N Federal Credit Union Stadium
-- Iowa Hawkeyes at Washington Huskies | ranks: Iowa Hawkeyes #20 | 10/9 - 9:00 PM EDT | Fri Oct 9, 9:00 PM ET | Husky Stadium
-- Washington State Cougars at Utah State Aggies | 10/9 - 9:00 PM EDT | Fri Oct 9, 9:00 PM ET | TV: CW | Maverik Stadium
-- Wyoming Cowboys at San José State Spartans | 10/9 - 9:00 PM EDT | Fri Oct 9, 9:00 PM ET | TV: CBSSN | CEFCU Stadium
-- Iowa State Cyclones at BYU Cougars | ranks: BYU Cougars #8 | 10/9 - 10:15 PM EDT | Fri Oct 9, 10:15 PM ET | TV: ESPN | LaVell Edwards Stadium
 - Indiana Hoosiers at Nebraska Cornhuskers | ranks: Indiana Hoosiers #7 | 10/10 - 12:00 PM EDT | Sat Oct 10, 12:00 PM ET | TV: Fox | Memorial Stadium (Lincoln, NE)
 - Texas A&M Aggies at Missouri Tigers | ranks: Missouri Tigers #14 | 10/10 - 12:00 PM EDT | Sat Oct 10, 12:00 PM ET | TV: ABC | Memorial Stadium
 - UCF Knights at Oklahoma State Cowboys | ranks: Oklahoma State Cowboys #18 | 10/10 - 12:00 PM EDT | Sat Oct 10, 12:00 PM ET | TV: ESPN2 | Boone Pickens Stadium
@@ -139,6 +136,7 @@ Next 7 days, others (first 25):
 - Sacramento State Hornets at Bowling Green Falcons | 10/10 - 12:00 PM EDT | Sat Oct 10, 12:00 PM ET | TV: ESPN+ | Doyt L. Perry Stadium
 - Ball State Cardinals at Northwestern Wildcats | 10/10 - 12:30 PM EDT | Sat Oct 10, 12:30 PM ET | TV: BTN | Ryan Field
 - Old Dominion Monarchs at App State Mountaineers | 10/10 - 1:00 PM EDT | Sat Oct 10, 1:00 PM ET | TV: ESPN+ | Kidd Brewer Stadium
+- Rice Owls at East Carolina Pirates | 10/10 - 1:00 PM EDT | Sat Oct 10, 1:00 PM ET | TV: ESPN+ | Dowdy-Ficklen Stadium
 - Miami (OH) RedHawks at Massachusetts Minutemen | 10/10 - 2:00 PM EDT | Sat Oct 10, 2:00 PM ET | TV: ESPN+ | Warren McGuirk Alumni Stadium
 - Texas Longhorns at Oklahoma Sooners | ranks: Texas Longhorns #1 | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ABC | Cotton Bowl
 - Stanford Cardinal at Notre Dame Fighting Irish | ranks: Notre Dame Fighting Irish #3 | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: NBC | Notre Dame Stadium
@@ -149,6 +147,10 @@ Next 7 days, others (first 25):
 - Virginia Tech Hokies at California Golden Bears | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ACC Network | California Memorial Stadium
 - Illinois Fighting Illini at Michigan State Spartans | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: FS1 | Spartan Stadium
 - Charlotte 49ers at North Texas Mean Green | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | DATCU Stadium
+- Tulsa Golden Hurricane at Navy Midshipmen | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: CBSSN | Navy-Marine Corps Memorial Stadium
+- Eastern Michigan Eagles at Akron Zips | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | InfoCision Stadium
+- Buffalo Bulls at Toledo Rockets | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | Glass Bowl
+- Central Michigan Chippewas at Ohio Bobcats | 10/10 - 3:30 PM EDT | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | Peden Stadium
 
 ## Premier League
 Next 7 days, my teams:
@@ -194,12 +196,13 @@ Next 7 days, others (first 25):
 
 ## PGA Tour
 Live now:
-- Baycurrent Classic | [Keith Mitchell (-11); Jacob Bridgeman (-11); Ben Kohles (-9); Zach Bauchou (-9); Max Homa (-9); Mac Meissner (-9); Justin Thomas (-8); Stephan Jaeger (-8); Min Woo Lee (-8); Michael Brennan (-7)] | In Progress | Thu Oct 8, 12:00 AM ET | TV: Golf Chnl
+- Baycurrent Classic | [Michael Brennan (-13); Zach Bauchou (-13); Jacob Bridgeman (-13); Adam Scott (-12); Jordan Smith (-12); Stephan Jaeger (-12); Justin Thomas (-12); Keith Mitchell (-12); Ryan Gerard (-10); Mac Meissner (-10)] | In Progress | Thu Oct 8, 12:00 AM ET | TV: Golf Chnl
 
 ## WTA tennis
+Finals (last ~40h):
+- Dongfeng Voyah Wuhan Open | Retired | Fri Oct 9, 12:00 AM ET
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Dongfeng Voyah Wuhan Open | 10/9 - 11:00 PM EDT | Fri Oct 9, 12:00 AM ET
 - Vanda Pharmaceuticals Mallorca Women's Championships presented by Ecotrans Group | TBD | Mon Oct 12, 12:00 AM ET
 - RoveretOpen Città della Pace | TBD | Mon Oct 12, 12:00 AM ET
 - Lisboa Belem Open | TBD | Mon Oct 12, 12:00 AM ET
@@ -251,10 +254,6 @@ Next 7 days, others (first 25):
 ## MLB (official StatsAPI)
 Finals (last ~40h):
 - Cleveland Guardians 9 at Chicago White Sox 5 | Final | Thu Oct 8, 8:00 PM ET | ALDS 'B' Game 4 | Series tied 2-2
-- Milwaukee Brewers 3 at San Diego Padres 1 | Final | Wed Oct 7, 10:00 PM ET | NLDS 'A' Game 4  | MIL wins 3-1
-- Tampa Bay Rays 4 at New York Yankees 3 | Final | Wed Oct 7, 8:00 PM ET | ALDS 'A' Game 3 | TB wins 3-0
-- Los Angeles Dodgers 4 at Atlanta Braves 1 | Final | Wed Oct 7, 6:00 PM ET | NLDS 'B' Game 4 | LAD wins 3-1
-- Cleveland Guardians 9 at Chicago White Sox 3 | Final | Wed Oct 7, 4:00 PM ET | ALDS 'B' Game 3 | CWS leads 2-1
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Chicago White Sox at Cleveland Guardians | Scheduled | Sat Oct 10, 8:00 PM ET | ALDS 'B' Game 5 | Series tied 2-2
@@ -265,9 +264,15 @@ Next 7 days, others (first 25):
 - Milwaukee Brewers at Los Angeles Dodgers | Scheduled | Wed Oct 14, 8:00 PM ET | NLCS Game 3 | NLCS Game 3
 - Tampa Bay Rays at CLE/CWS | Scheduled | Thu Oct 15, 6:00 PM ET | ALCS Game 3 | CLE/CWS plays TB
 - Milwaukee Brewers at Los Angeles Dodgers | Scheduled | Thu Oct 15, 9:00 PM ET | NLCS Game 4 | NLCS Game 4
+- Tampa Bay Rays at CLE/CWS | Scheduled | Fri Oct 16, 6:00 PM ET | ALCS Game 4 | CLE/CWS plays TB
+- Milwaukee Brewers at Los Angeles Dodgers | Scheduled | Fri Oct 16, 9:00 PM ET | NLCS Game 5 | NLCS Game 5
 
 ## NHL (official schedule API)
 Finals (last ~40h):
+- Anaheim Ducks 5 at Winnipeg Jets 1 | OFF | Fri Oct 9, 8:00 PM ET | TV: SN, SN1, Prime Video, KCOP-13 | Canada Life Centre
+- Seattle Kraken 6 at Detroit Red Wings 3 | OFF | Fri Oct 9, 7:00 PM ET | TV: DSN, Prime Video, KING, KONG | Little Caesars Arena
+- New York Rangers 1 at Washington Capitals 3 | OFF | Fri Oct 9, 7:00 PM ET | TV: NHLN, MNMT, MSG | Capital One Arena
+- Pittsburgh Penguins 2 at Columbus Blue Jackets 3 | OFF (SO) | Fri Oct 9, 7:00 PM ET | TV: CBJNHL, CBJHN, SN+, TVAS, SN-PIT | Nationwide Arena
 - Toronto Maple Leafs 3 at Vegas Golden Knights 4 | OFF (SO) | Thu Oct 8, 10:00 PM ET | TV: TSN4, SCRIPPS | T-Mobile Arena
 - Colorado Avalanche 7 at Calgary Flames 3 | OFF | Thu Oct 8, 9:00 PM ET | TV: SNW, ALT, KTVD | Scotiabank Saddledome
 - San Jose Sharks 3 at St. Louis Blues 2 | OFF (OT) | Thu Oct 8, 8:00 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Enterprise Center
@@ -278,19 +283,12 @@ Finals (last ~40h):
 - Philadelphia Flyers 1 at Ottawa Senators 2 | OFF | Thu Oct 8, 7:00 PM ET | TV: TSN5, RDSI, NBCSP | Canadian Tire Centre
 - Minnesota Wild 2 at Tampa Bay Lightning 3 | OFF | Thu Oct 8, 7:00 PM ET | TV: MINNHL, Wild+, The Spot | Benchmark International Arena
 - Vancouver Canucks 2 at Carolina Hurricanes 7 | OFF | Thu Oct 8, 7:00 PM ET | TV: CARNHL, HHN, SNP | Lenovo Center
-- Edmonton Oilers 5 at Anaheim Ducks 2 | OFF | Wed Oct 7, 10:00 PM ET | TV: SNW, Prime Video, KCOP-13 | Honda Center
-- Pittsburgh Penguins 3 at Washington Capitals 5 | OFF | Wed Oct 7, 7:30 PM ET | TV: TNT, HBO MAX | Capital One Arena
-- Colorado Avalanche 2 at Winnipeg Jets 3 | OFF | Wed Oct 7, 7:30 PM ET | TV: Prime, ALT | Canada Life Centre
 Next 7 days, my teams:
 - [MY TEAM] Minnesota Wild at Florida Panthers | FUT | Sat Oct 10, 6:00 PM ET | TV: MINNHL, Wild+, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Buffalo Sabres | FUT | Mon Oct 12, 1:00 PM ET | TV: SN, TVAS, MSG-B, SCRIPPS | KeyBank Center
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | FUT | Tue Oct 13, 6:15 PM ET | TV: CBJNHL, CBJHN, SCRIPPS | Nationwide Arena
 - [MY TEAM] Vancouver Canucks at Florida Panthers | FUT | Thu Oct 15, 7:00 PM ET | TV: SNP, TVAS, SCRIPPS | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Seattle Kraken at Detroit Red Wings | FUT | Fri Oct 9, 7:00 PM ET | TV: DSN, Prime Video, KING, KONG | Little Caesars Arena
-- New York Rangers at Washington Capitals | FUT | Fri Oct 9, 7:00 PM ET | TV: NHLN, MNMT, MSG | Capital One Arena
-- Pittsburgh Penguins at Columbus Blue Jackets | FUT | Fri Oct 9, 7:00 PM ET | TV: CBJNHL, CBJHN, SN+, TVAS, SN-PIT | Nationwide Arena
-- Anaheim Ducks at Winnipeg Jets | FUT | Fri Oct 9, 8:00 PM ET | TV: SN, SN1, Prime Video, KCOP-13 | Canada Life Centre
 - Philadelphia Flyers at Boston Bruins | FUT | Sat Oct 10, 1:00 PM ET | TV: SN, NHLN, TVAS, NBCSP, NESN | TD Garden
 - Vancouver Canucks at New Jersey Devils | FUT | Sat Oct 10, 3:30 PM ET | TV: SN, MSGSN | Prudential Center
 - Edmonton Oilers at San Jose Sharks | FUT | Sat Oct 10, 4:00 PM ET | TV: SNW, SN1, NBCSCA | SAP Center at San Jose
@@ -312,3 +310,7 @@ Next 7 days, others (first 25):
 - New Jersey Devils at Detroit Red Wings | FUT | Tue Oct 13, 6:00 PM ET | TV: ESPN, SN+ | Little Caesars Arena
 - Buffalo Sabres at Montréal Canadiens | FUT | Tue Oct 13, 6:30 PM ET | TV: TSN2, RDS, MSG-B | Centre Bell
 - Washington Capitals at Carolina Hurricanes | FUT | Tue Oct 13, 6:45 PM ET | TV: CARNHL, HHN, MNMT | Lenovo Center
+- Seattle Kraken at Philadelphia Flyers | FUT | Tue Oct 13, 7:00 PM ET | TV: Prime Video, NBCSP, KING, KONG | Xfinity Mobile Arena
+- Tampa Bay Lightning at New York Rangers | FUT | Tue Oct 13, 7:15 PM ET | TV: The Spot, MSG | Madison Square Garden
+- St. Louis Blues at Ottawa Senators | FUT | Tue Oct 13, 7:30 PM ET | TV: STLNHL, BN+, TSN5, RDSI | Canadian Tire Centre
+- Vancouver Canucks at New York Islanders | FUT | Tue Oct 13, 7:45 PM ET | TV: SNP, MSGSN | UBS Arena

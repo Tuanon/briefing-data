@@ -1,9 +1,12 @@
-# Team digest (generated Fri Oct 9, 5:22 AM ET)
+# Team digest (generated Sat Oct 10, 4:29 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- What will do Dolphins do at RB in Week 5? | Fri Oct 9, 10:12 PM ET | https://www.espn.com/video/clip/_/id/50143962/what-do-dolphins-do-rb-week-5 | Marcel Louis-Jacques discusses the Miami running back room ahead of a Week 5 matchup with Cincinnati.
+- NFL Week 5 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Oct 9, 7:48 PM ET | https://www.espn.com/nfl/story/_/id/50129471/week-5-picks-predictions-schedule-fantasy-odds-2026 | Bears vs. Packers? 49ers vs. Seahawks? There are 14 more games in Week 5, and we have picks, predictions and more for all of them.
+- Inside the NFL's wild endings and why coaches need to adapt | Fri Oct 9, 1:31 PM ET | https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback | Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.
 - NFL Week 5 betting: Odds, lines and totals for every game | Fri Oct 9, 4:10 AM ET | https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.
 - NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks | Thu Oct 8, 9:36 PM ET | https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms | Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.
 - Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear | Thu Oct 8, 7:42 PM ET | http://www.espn.com/nfl/preview?gameId=401872982 | — Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers d…
@@ -13,30 +16,23 @@ News (last days, newest first):
 - Fantasy football D/ST outlook for Weeks 5-8: Jaguars a solid option in October | Thu Oct 8, 1:46 PM ET | https://www.espn.com/fantasy/football/story/_/id/50117199/fantasy-football-defense-special-teams-streaming-week-5 | Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.
 - 2026 NFL quarter-season awards: MVP picks, top rookies, OPOY, DPOY, best coaches | Thu Oct 8, 12:04 PM ET | https://www.espn.com/nfl/story/_/id/50118698/2026-early-awards-ranking-mvp-rookies-coaches-barnwell | Brock Purdy for MVP? Klint Kubiak taking Coach of the Year? Will Anderson Jr. getting DPOY honors? We ranked the top candidates to win eight NFL awards through Week 4.
 - Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage | Wed Oct 7, 3:17 PM ET | https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings | The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.
-- Rooted in greatness: Nick Saban's ties to 45 head coaches | Wed Oct 7, 9:20 AM ET | https://www.espn.com/espn/feature/story/_/id/49958400/nick-saban-coaching-tree-alabama-lsu-miami-dolphins | Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football
-- 2026 NFL Power Rankings: How all 32 teams stack up for Week 5 | Tue Oct 6, 11:49 AM ET | https://www.espn.com/nfl/story/_/id/50109845/nfl-power-rankings-week-5-teams-first-month-recap | How does every NFL team stack up heading into Week 5? We made our 1-32 list and sized up each franchise's performance so far.
-- 2027 NFL draft order projections for Round 1, chances for top pick, more | Tue Oct 6, 11:11 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
-Injuries / player notes (ESPN; 13 of 25 entries shown):
-- Dante Trader Jr. (S) | Questionable | Thu Oct 8, 7:58 PM ET | Trader (shin) was limited during Thursday's practice.
+Injuries / player notes (ESPN; 10 of 25 entries shown):
+- Robert Beal Jr. (DE) | Out | Fri Oct 9, 10:58 PM ET | Beal (hamstring) has been ruled out for Sunday's game against the Bengals.
+- Justin Joly (TE) | Out | Fri Oct 9, 10:41 PM ET | Joly (concussion) has been ruled out ahead of Sunday's game against the Bengals.
+- Dante Trader Jr. (S) | Active | Fri Oct 9, 8:11 PM ET | Trader (shin) does not have an injury designation against the Bengals on Sunday, Paul Dehner Jr. of The Athletic reports.
+- Chris Bell (WR) | Active | Fri Oct 9, 5:19 PM ET | Bell (knee) does not have an injury designation for Sunday's game against the Bengals, Paul Dehner Jr. of The Athletic reports.
+- Jaylen Wright (RB) | Questionable | Fri Oct 9, 4:51 PM ET | Wright (foot) is listed as questionable for Sunday's game against the Bengals, David Furones of the South Florida Sun Sentinel reports.
+- Caleb Douglas (WR) | Out | Fri Oct 9, 4:46 PM ET | Douglas (ankle) has been ruled out for Sunday's game against the Bengals, David Furones of the South Florida Sun Sentinel reports.
 - Storm Duck (CB) | Out | Thu Oct 8, 7:51 PM ET | Duck (knee) practiced in full Thursday.
-- Justin Joly (TE) | Questionable | Thu Oct 8, 7:42 PM ET | Joly (concussion) did not practice Thursday.
-- Jaylen Wright (RB) | Questionable | Thu Oct 8, 4:38 PM ET | Wright (foot) showed up as a limited participant at Thursday's practice, David Furones of the South Florida Sun Sentinel reports.
-- Caleb Douglas (WR) | Questionable | Thu Oct 8, 2:17 PM ET | Douglas (ankle) didn't practice Thursday, C. Isaiah Smalls of the Miami Herald reports.
 - Kenneth Grant (DT) | Injured Reserve | Wed Oct 7, 7:22 PM ET | The Dolphins opened Grant's 21-day practice window Wednesday, and he was a limited participant in the team's first Week 5 session in his return from a toe injury.
-- Chris Bell (WR) | Questionable | Wed Oct 7, 4:41 PM ET | Bell (knee) was limited in Wednesday's practice, C. Isaiah Smalls II of the Miami Herald reports.
-- Austin Jackson (OT) | Questionable | Wed Oct 7, 4:35 PM ET | questionable
-- JuJu Brents (CB) | Questionable | Wed Oct 7, 4:35 PM ET | questionable
-- Tucker Addington (LS) | Questionable | Wed Oct 7, 4:34 PM ET | questionable
-- Robert Beal Jr. (DE) | Questionable | Tue Oct 6, 2:21 PM ET | questionable
 - Reese Taylor (CB) | Out | Mon Oct 5, 9:00 PM ET | Taylor (quadriceps) has been ruled out ahead of the Dolphins' Week 5 matchup with the Bengals, Barry Jackson of the Miami Herald reported Monday.
 - Jackson Woodard (LB) | Questionable | Sun Oct 4, 11:29 PM ET | Woodard suffered an ankle injury during Sunday's 15-10 loss to the Vikings.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- New Orleans Pelicans vs. Miami Heat: Game Highlights | Thu Oct 8, 10:14 PM ET | https://www.espn.com/video/clip/_/id/50136993/game-highlights | New Orleans Pelicans vs. Miami Heat: Game Highlights
 - What does your NBA team need? The biggest hole on all 30 rosters | Thu Oct 8, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50111204/nba-preseason-roster-holes-30-teams | Every NBA team is missing something, even the leading title contenders.
 - Basketball Power Index: NBA projections, playoff chances for 2026-27 season | Wed Oct 7, 10:18 AM ET | https://www.espn.com/nba/story/_/id/50111217/nba-season-projections-2026-27-bpi | ESPN's Basketball Power Index projections for the 2026-27 NBA season are out, including a ranking of all 30 teams.
-- Giannis, Bam discuss 'nightmare' other teams will face when playing the Heat | Fri Oct 2, 4:15 PM ET | https://www.espn.com/video/clip/_/id/50086121/giannis-bam-discuss-nightmare-other-teams-face-playing-heat | Giannis, Bam discuss 'nightmare' other teams will face when playing the Heat
-- Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release | Fri Oct 2, 2:38 PM ET | https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game | With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Kylor Kelley (C) | Day-To-Day | Thu Oct 8, 11:40 PM ET | Kelley (calf) signed a contract with the Heat on Thursday, Ira Winderman of the South Florida Sun Sentinel reports.
 - Pelle Larsson (G) | Day-To-Day | Thu Oct 8, 7:08 PM ET | Larsson (illness) won't play in Thursday's preseason game against the Pelicans, Anthony Chiang of the Miami Herald reports.
@@ -45,6 +41,9 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Panthers eyeing six-week timeline for Brad Marchand's return | Fri Oct 9, 1:15 PM ET | https://www.espn.com/nhl/story/_/id/50141348/panthers-eyeing-six-week-line-brad-marchand-return | The Panthers are expecting forward Brad Marchand to miss about six weeks with his left leg injury, a timeline that coincides with Aleksander Barkov being out six to eight weeks.
+- NHL breakout tiers: Top players ready to level up in 2026-27 | Fri Oct 9, 7:12 AM ET | https://www.espn.com/nhl/story/_/id/50133323/nhl-2026-27-breakout-players-tiers-rankings-superstars-goals-stats | From players with new linemates to young stars set to hit superstardom to enticing rookies, watch out for this group.
+- NHL Power Rankings: Each team's NHL Rank representatives | Fri Oct 9, 6:12 AM ET | https://www.espn.com/nhl/story/_/id/50134520/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | It's the first regular-season update of our 1-32 poll. Plus, how many players did each team land among the Top 100?
 - Panthers play the Wild in a non-conference matchup | Fri Oct 9, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891805 | Minnesota Wild (2-1-1, in the Central Division) vs. Florida Panthers (2-0-2, in the Atlantic Division)
 - Report: Panthers' Marchand out 'a few weeks' with leg injury | Thu Oct 8, 9:42 PM ET | https://www.espn.com/nhl/story/_/id/50136206/panthers-marchand-weeks-leg-injury | Panthers forward Brad Marchand, who injured his left leg in Tuesday's win over the Kings, will miss only "a few weeks," The Associated Press reported.
 - Wysh List: What NHL execs think of ESPN's top 100 player rankings | Thu Oct 8, 10:19 AM ET | https://www.espn.com/nhl/story/_/id/50125128/nhl-2026-27-wysh-list-player-rankings-insiders-execs-audit-overrated-underrated | Who was too high or too low according to actual team personnel and players? Plus, winners and losers of the week, key upcoming games and more.
@@ -54,17 +53,16 @@ News (last days, newest first):
 - Panthers' Aleksander Barkov avoids surgery; out 6-8 weeks | Tue Oct 6, 3:28 PM ET | https://www.espn.com/nhl/story/_/id/50118696/panthers-aleksander-barkov-avoids-surgery-6-8-weeks | Panthers captain Aleksander Barkov got good news on his lower-body injury as he won't need surgery, but will miss six to eight weeks.
 - NHL Rank: Predictions for the top 100 players for 2026-27 | Tue Oct 6, 10:18 AM ET | https://www.espn.com/nhl/story/_/id/50109471/nhl-2026-27-rankings-top-100-players-predictions-stats | Connor McDavid remains No. 1, but who lands after him? Here are the players our panel believes are the best this season.
 - NHL Tonight: Get ready for Round 1 of the Battle of New York | Tue Oct 6, 6:12 AM ET | https://www.espn.com/nhl/story/_/id/50111171/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Rangers-Islanders is the marquee matchup on the NHL's nine-game slate. Here's what to watch in each contest.
-- Los Angeles hosts Florida in a non-conference matchup | Mon Oct 5, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891806 | Florida Panthers (1-0-2, in the Atlantic Division) vs. Los Angeles Kings (0-1-1, in the Pacific Division)
-- Marchand, out since March 6, scores in return to Panthers | Mon Oct 5, 1:36 AM ET | https://www.espn.com/nhl/story/_/id/50106368/brad-marchand-march-6-back-panthers-lineup | Florida Panthers forward Brad Marchand, out since March 6, made his season debut Sunday night against the Anaheim Ducks following an offseason that included surgery for the 38-year-old left wing, who scored 27 goals las…
-- Florida Panthers vs. Anaheim Ducks: Game Highlights | Mon Oct 5, 12:09 AM ET | https://www.espn.com/video/clip/_/id/50107385/game-highlights | Florida Panthers vs. Anaheim Ducks: Game Highlights
-Injuries / player notes (ESPN; 4 of 4 entries shown):
-- Aaron Ekblad (D) | Day-To-Day | Wed Oct 7, 9:13 AM ET | day-to-day
-- Brad Marchand (LW) | Day-To-Day | Wed Oct 7, 1:29 AM ET | day-to-day
+Injuries / player notes (ESPN; 3 of 3 entries shown):
+- Brad Marchand (LW) | Out | Fri Oct 9, 12:28 PM ET | out
 - Aleksander Barkov (C) | Injured Reserve | Tue Oct 6, 2:38 PM ET | Barkov (lower body) will be out for approximately 6-8 weeks, Jameson Olive of the Panthers' official site reports Tuesday.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Sep 17, 4:53 PM ET | Gadjovich (upper body) is out indefinitely, the team announced Thursday.
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Who are the winningest college football coaches of all time? | Sat Oct 10, 12:33 AM ET | https://www.espn.com/college-football/story/_/id/39283806/who-winningest-college-football-coaches-all | From Saban to Paterno, there are many legendary college football coaches. Who has the best career record? Check out who has the most wins now.
+- How will Florida respond vs. South Carolina following loss to Missouri? | Fri Oct 9, 6:25 PM ET | https://www.espn.com/video/clip/_/id/50143079/how-florida-respond-vs-south-carolina-following-loss-missouri | Tim Tebow joins The Paul Finebaum Show to discuss where things went wrong for the Gators against the Tigers and emphasize the need to show up with high energy vs. the Gamecocks.
+- Oregon, Florida and more lead loaded CFB Week 6 uniform slate | Fri Oct 9, 9:38 AM ET | https://www.espn.com/college-football/story/_/id/50134026/college-football-best-uniforms-week-6-oregon-florida-notre-dame | Of all the strong uniform weeks in college football this fall, you'll likely be hard-pressed to find another that stacks up to Week 6.
 - Game Day Kickoff: Welcoming the Big Ten to the spotlight | Thu Oct 8, 12:15 PM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff100826/2026-game-day-kickoff-college-football-week-6-ohio-state-indiana | Almost all of the Big Ten teams are looking for a statement win this weekend, but what else is in store for Week 6?
 - Top 25 betting lines: Bama slim favorites at home vs. UGA; Oregon faves vs. UCLA | Thu Oct 8, 9:57 AM ET | https://www.espn.com/espn/betting/story/_/id/50106943/2026-college-football-week-6-top-25-betting-lines-odds | This week's odds and FPI predictions for Alabama-Georgia, Oregon-UCLA and every top 25 matchup.
 - Jadan Baugh looks to rebound after rough performance | Wed Oct 7, 5:08 PM ET | https://www.espn.com/video/clip/_/id/50127535/jadan-baugh-looks-rebound-rough-performance | Andrea Adelson reports on how can running back Jadan Baugh can get back on track after his tough performance in Florida's loss against Missouri.
@@ -74,25 +72,24 @@ News (last days, newest first):
 - College Football Playoff 2026: Bubble Watch after Week 5 | Tue Oct 6, 6:05 AM ET | https://www.espn.com/college-football/story/_/id/50100708/college-football-playoff-2026-week-5-bubble-watch | Putting the spotlight on select teams and questions around others as the playoff picture takes shape.
 - Cole's Block Party: An Alabama takeover | Mon Oct 5, 7:22 PM ET | https://www.espn.com/video/clip/_/id/50112914/alabama-takeover | Read & React's Cole Cubelic and Roman Harper take a look at some of the best blocks from Week 5 with Alabama and Kentucky leading the charge.
 - College football Power Rankings: What we've learned about top teams | Mon Oct 5, 1:52 PM ET | https://www.espn.com/college-football/story/_/id/50086951/2026-college-football-power-rankings-top-25-week-5 | After another week of big wins and surprising upsets, we break down the top 25 through Week 5.
-- Gators RB Baugh apologizes to Sumrall for performance in loss | Mon Oct 5, 12:52 PM ET | https://www.espn.com/college-football/story/_/id/50110281/gators-rb-baugh-apologizes-sumrall-performance-loss | Florida running back Jadan Baugh sent coach Jon Sumrall a text message Sunday apologizing for his performance in the Gators' 45-17 loss to Missouri.
-- 2026-27 Week 5 College Football Playoff, bowl projections | Mon Oct 5, 9:47 AM ET | https://www.espn.com/college-football/story/_/id/50102185/2026-27-week-5-college-football-playoff-cfp-bowl-projections | Following dominant victories and a few close calls in Week 5, here are our postseason projections.
-- Connelly: Week 5 brought clarity, confusion to conference races | Sun Oct 4, 5:18 PM ET | https://www.espn.com/college-football/story/_/id/50100448/connelly-week-5-results-alabama-georgia-sec-conference-races | While Alabama muddied the SEC waters, the ACC picture got clearer -- or did it?
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Man City charges: What managers said about scandal ahead of Premier League return | Thu Oct 8, 12:08 PM ET | https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return | Here's what every Premier League manager said when asked about Manchester City's charges.
+- Premier League team news, injury updates after international break | Sat Oct 10, 2:32 AM ET | https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break | The Premier League returns this weekend after an extra-long international break. But who is injured?
+- Transfer rumors, news: Chelsea eye move for Barcelona's De Jong | Fri Oct 9, 5:34 PM ET | https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall | Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.
+- Xabi Alonso insists Cole Palmer committed to representing England after Thomas Tuchel dig | Fri Oct 9, 1:37 PM ET | https://www.espn.com/soccer/story/_/id/50138825/xabi-alonso-insists-cole-palmer-committed-representing-england-thomas-tuchel-dig | Chelsea manager Xabi Alonso insists Cole Palmer is committed to representing England following question marks raised by national team boss Thomas Tuchel.
+- Man City charges: What managers said about scandal ahead of Premier League return | Fri Oct 9, 12:53 PM ET | https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return | Here's what every Premier League manager said when asked about Manchester City's charges.
+- Alonso: We need to be patient over Manchester City guilty verdicts | Fri Oct 9, 11:21 AM ET | https://www.espn.com/video/clip/_/id/50140767/need-patient-manchester-city-guilty-verdicts | Alonso: We need to be patient over Manchester City guilty verdicts
+- Premier League reranked: Have we found Arsenal's fatal flaw? | Fri Oct 9, 3:58 AM ET | https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad | Let's rank all 20 Premier League teams again: making sense of Chelsea's poor start, Arsenal's weakness, and whether Hull City can survive.
 - Ian Darke's early Premier League impressions for all 20 teams | Thu Oct 8, 4:04 AM ET | https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams | Might Arsenal be more vulnerable than expected? Are Brighton capable of making a top-four bid? Here's what stands out from the first weeks of Premier League action.
 - Former Spain, Barcelona winger Pedro calls time on storied career | Wed Oct 7, 8:55 AM ET | https://www.espn.com/soccer/story/_/id/50124344/former-spain-barcelona-winger-pedro-calls-storied-career | Former Barcelona and Chelsea winger Pedro has announced his retirement from the game at the age of 39.
 - England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or | Wed Oct 7, 4:48 AM ET | https://www.espn.com/video/clip/_/id/50123519/england-teammates-praise-kane-definitely-possible-win-ballon-dor | England teammates praise Kane, 'it's definitely possible' he could win the Ballon d'Or
 - Emile Witbooi dreaming big despite collapsed Poland move, reveals Manchester City & Barcelona love | Wed Oct 7, 3:24 AM ET | https://www.espn.com/espn/story/_/id/50109799/emile-witbooi-dreaming-big-collapsed-poland-move-reveals-manchester-city-barcelona-love | Emile Witbooi retains dreams of a European move after a potential transfer to Poland's Gornik Zabrze broke down.
 - Myles Lewis-Skelly, Estêvão, Yan Diomande make 2026 Golden Boy shortlist | Tue Oct 6, 6:58 AM ET | https://www.espn.com/soccer/story/_/id/50115239/2026-golden-boy-myles-lewis-skelly-estevao-yan-diomande-ayyoub-bouaddi | Arsenal's Myles Lewis-Skelly, Chelsea's Estêvão, and Manchester City's Ayyoub Bouaddi are among the Premier League stars nominated for the 2026 Golden Boy award.
 - Transfer rumors, news: Chelsea leading the way to sign Bournemouth's Scott | Mon Oct 5, 4:53 PM ET | https://www.espn.com/soccer/story/_/id/50107972/transfer-rumors-news-bayern-munich-tough-contract-talks-michael-olise | Could Bournemouth's Alex Scott make the move to play for Xabi Alonso's team? Transfer Talk has the latest.
-- Thomas Tuchel: Raheem Sterling's struggles 'sad to see' | Fri Oct 2, 3:20 PM ET | https://www.espn.com/soccer/story/_/id/50085984/thomas-tuchel-raheem-sterling-england-chelsea | England boss Thomas Tuchel said he is "sad to see" former international Raheem Sterling's current plight.
-- Ranking the top 10 Premier League summer transfers so far | Fri Oct 2, 6:40 AM ET | https://www.espn.com/soccer/story/_/id/50058849/ranking-premier-league-summer-transfers-far-no1-surprise-you | Which players have impressed since making a move over the summer? Sometimes a £17 million arrival does better than a £117 million one.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
-News (last days, newest first):
-- Robot umpires flip 54% of challenged calls as Reds lead way | Fri Oct 2, 10:22 AM ET | https://www.espn.com/mlb/story/_/id/50084448/robot-umpires-flip-54-challenged-calls-reds-lead-way | Robot umpires overturned 54% of challenged calls in the first season of the automated ball-strike system as catchers were far more successful than batters.
+News: none returned
 Injuries / player notes (ESPN; 11 of 11 entries shown):
 - Tyler Zuber (RP) | 15-Day-IL | Thu Oct 8, 10:49 AM ET | Zuber will undergo UCL surgery with an internal brace on his right elbow Monday, Christina De Nicola of MLB.com reports.
 - Jakob Marsee (CF) | Out | Thu Oct 8, 10:42 AM ET | Marsee will undergo a UCL repair with an internal brace on his left elbow Monday, Christina De Nicola of MLB.com reports.
