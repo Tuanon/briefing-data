@@ -1,4 +1,4 @@
-# Team digest (generated Sun Oct 11, 4:31 AM ET)
+# Team digest (generated Sun Oct 11, 5:20 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -30,6 +30,7 @@ Injuries / player notes (ESPN; 10 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- Minnesota Timberwolves vs. Miami Heat: Game Highlights | Sat Oct 10, 11:33 PM ET | https://www.espn.com/video/clip/_/id/50153982/game-highlights | Minnesota Timberwolves vs. Miami Heat: Game Highlights
 - 2026 NBA free agency: Grades for offseason signings, extensions | Sat Oct 10, 2:29 PM ET | https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts | We're grading the biggest free agent signings and extensions, including Jalen Duren's new five-year deal.
 - New Orleans Pelicans vs. Miami Heat: Game Highlights | Thu Oct 8, 10:14 PM ET | https://www.espn.com/video/clip/_/id/50136993/game-highlights | New Orleans Pelicans vs. Miami Heat: Game Highlights
 - What does your NBA team need? The biggest hole on all 30 rosters | Thu Oct 8, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50111204/nba-preseason-roster-holes-30-teams | Every NBA team is missing something, even the leading title contenders.
@@ -47,6 +48,7 @@ Injuries / player notes (ESPN; 9 of 9 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Atlantic Division opponents meet when Sabres host the Panthers | Sun Oct 11, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892485 | Florida Panthers (2-1-2, in the Atlantic Division) vs. Buffalo Sabres (2-3, in the Atlantic Division)
 - Kaprizov has 4-point night, Wild top Panthers 4-1 to spoil Florida's home opener | Sat Oct 10, 9:18 PM ET | http://www.espn.com/nhl/recap?gameId=401891805 | — Kirill Kaprizov had three goals and an assist, Matt Boldy scored his first goal of the season in the game's first minute, and the Minnesota Wild spoiled Florida's home opener by...
 - Minnesota Wild vs. Florida Panthers: Game Highlights | Sat Oct 10, 9:06 PM ET | https://www.espn.com/video/clip/_/id/50152682/game-highlights | Minnesota Wild vs. Florida Panthers: Game Highlights
 - NHL Tonight: Previews, stats, betting info for Saturday's 14 games | Sat Oct 10, 6:43 AM ET | https://www.espn.com/nhl/story/_/id/50141879/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | It's a typically massive slate, from 1 p.m. ET all the way through two 10 p.m. starts. Get prepared here.
@@ -58,7 +60,6 @@ News (last days, newest first):
 - Wysh List: What NHL execs think of ESPN's top 100 player rankings | Thu Oct 8, 10:19 AM ET | https://www.espn.com/nhl/story/_/id/50125128/nhl-2026-27-wysh-list-player-rankings-insiders-execs-audit-overrated-underrated | Who was too high or too low according to actual team personnel and players? Plus, winners and losers of the week, key upcoming games and more.
 - Matthew Tkachuk scores, Brad Marchand injured in Panthers' 2-1 win over Kings | Wed Oct 7, 4:35 AM ET | http://www.espn.com/nhl/recap?gameId=401891806 | — Matthew Tkachuk scored in the third period to give the Florida Panthers a 2-1 win over the Los Angeles Kings on Tuesday night despite losing Brad Marchand to a left leg injury.
 - Marchand exits Panthers' win in 2nd period with leg injury | Wed Oct 7, 2:12 AM ET | https://www.espn.com/mlb/story/_/id/50122407/marchand-exits-panthers-win-2nd-period-leg-injury | Panthers forward Brad Marchand, who just made his season debut Sunday night, sustained a left leg injury in the second period of his club's 2-1 victory over the Kings on Tuesday night and was helped off the ice by his t…
-- Florida Panthers vs. Los Angeles Kings: Game Highlights | Wed Oct 7, 1:27 AM ET | https://www.espn.com/video/clip/_/id/50122527/game-highlights | Florida Panthers vs. Los Angeles Kings: Game Highlights
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Eetu Luostarinen (C) | Day-To-Day | Sat Oct 10, 9:20 PM ET | day-to-day
 - Brad Marchand (LW) | Out | Fri Oct 9, 12:28 PM ET | out
