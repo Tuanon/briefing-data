@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Oct 12, 4:37 AM ET)
+# Sports digest (generated Mon Oct 12, 5:24 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -95,7 +95,6 @@ Finals (last ~40h):
 - [MY TEAM] Minnesota Wild 4 at Florida Panthers 1 | Final | Sat Oct 10, 6:00 PM ET | TV: ESPN+, Scripps Sports, MINNHL | Amerant Bank Arena
 - Edmonton Oilers 3 at San Jose Sharks 1 | Final | Sat Oct 10, 4:00 PM ET | TV: ESPN+, NBC Sports BA | SAP Center at San Jose
 - Vancouver Canucks 1 at New Jersey Devils 4 | Final | Sat Oct 10, 3:30 PM ET | TV: ESPN+, MSGSN | Prudential Center
-- Philadelphia Flyers 1 at Boston Bruins 5 | Final | Sat Oct 10, 1:00 PM ET | TV: NHL Net, NBC Sports Phil, NESN | TD Garden
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Buffalo Sabres | 10/12 - 1:00 PM EDT | Mon Oct 12, 1:00 PM ET | TV: ESPN+, Scripps Sports, MSGB | KeyBank Center
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | 10/13 - 6:15 PM EDT | Tue Oct 13, 6:15 PM ET | TV: ESPN+, Scripps Sports, CBJNHL | Nationwide Arena
@@ -164,9 +163,6 @@ Finals (last ~40h):
 - Central Michigan Chippewas 14 at Ohio Bobcats 31 | Final | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | Peden Stadium
 - Kent State Golden Flashes 7 at Western Michigan Broncos 38 | Final | Sat Oct 10, 3:30 PM ET | TV: ESPN+ | Waldo Stadium
 - Miami (OH) RedHawks 20 at Massachusetts Minutemen 19 | Final | Sat Oct 10, 2:00 PM ET | TV: ESPN+ | Warren McGuirk Alumni Stadium
-- Rice Owls 12 at East Carolina Pirates 28 | Final | Sat Oct 10, 1:00 PM ET | TV: ESPN+ | Dowdy-Ficklen Stadium
-- Old Dominion Monarchs 10 at App State Mountaineers 3 | Final | Sat Oct 10, 1:00 PM ET | TV: ESPN+ | Kidd Brewer Stadium
-- [MY TEAM] South Carolina Gamecocks 38 at Florida Gators 19 | ranks: Florida Gators #16 | Final | Sat Oct 10, 12:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Texas Longhorns | ranks: Texas Longhorns #7 | 10/17 - 12:00 PM EDT | Sat Oct 17, 12:00 PM ET | TV: ABC | DKR-Texas Memorial Stadium
 Next 7 days, others (first 25):
@@ -341,7 +337,6 @@ Finals (last ~40h):
 - [MY TEAM] Minnesota Wild 4 at Florida Panthers 1 | OFF | Sat Oct 10, 6:00 PM ET | TV: MINNHL, Wild+, SCRIPPS | Amerant Bank Arena
 - Edmonton Oilers 3 at San Jose Sharks 1 | OFF | Sat Oct 10, 4:00 PM ET | TV: SNW, SN1, NBCSCA | SAP Center at San Jose
 - Vancouver Canucks 1 at New Jersey Devils 4 | OFF | Sat Oct 10, 3:30 PM ET | TV: SN, MSGSN | Prudential Center
-- Philadelphia Flyers 1 at Boston Bruins 5 | OFF | Sat Oct 10, 1:00 PM ET | TV: SN, NHLN, TVAS, NBCSP, NESN | TD Garden
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Buffalo Sabres | FUT | Mon Oct 12, 1:00 PM ET | TV: SN, TVAS, MSG-B, SCRIPPS | KeyBank Center
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | FUT | Tue Oct 13, 6:15 PM ET | TV: CBJNHL, CBJHN, SCRIPPS | Nationwide Arena
