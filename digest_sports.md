@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Oct 13, 4:37 AM ET)
+# Sports digest (generated Tue Oct 13, 5:24 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -9,14 +9,6 @@ Finals (last ~40h):
 - Detroit Lions 45 at Arizona Cardinals 21 | Final | Sun Oct 11, 4:25 PM ET | TV: Fox | State Farm Stadium
 - San Francisco 49ers 32 at Seattle Seahawks 29 | Final | Sun Oct 11, 4:25 PM ET | TV: Fox | Lumen Field
 - Denver Broncos 23 at Los Angeles Chargers 17 | Final | Sun Oct 11, 4:05 PM ET | TV: CBS | SoFi Stadium
-- Chicago Bears 7 at Green Bay Packers 31 | Final | Sun Oct 11, 1:00 PM ET | TV: Fox | Lambeau Field
-- Houston Texans 26 at Tennessee Titans 3 | Final | Sun Oct 11, 1:00 PM ET | TV: CBS | Nissan Stadium
-- [MY TEAM] Cincinnati Bengals 31 at Miami Dolphins 24 | Final | Sun Oct 11, 1:00 PM ET | TV: Fox | Hard Rock Stadium
-- Las Vegas Raiders 17 at New England Patriots 45 | Final | Sun Oct 11, 1:00 PM ET | TV: CBS | Gillette Stadium
-- Minnesota Vikings 23 at New Orleans Saints 13 | Final | Sun Oct 11, 1:00 PM ET | TV: Fox | Caesars Superdome
-- Cleveland Browns 12 at New York Jets 17 | Final | Sun Oct 11, 1:00 PM ET | TV: CBS | MetLife Stadium
-- Indianapolis Colts 22 at Pittsburgh Steelers 34 | Final | Sun Oct 11, 1:00 PM ET | TV: CBS | Acrisure Stadium
-- New York Giants 27 at Washington Commanders 27 | Final/OT | Sun Oct 11, 1:00 PM ET | TV: Fox | Northwest Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Seattle Seahawks at Denver Broncos | 10/15 - 8:15 PM EDT | Thu Oct 15, 8:15 PM ET | TV: Prime Video | Empower Field at Mile High
