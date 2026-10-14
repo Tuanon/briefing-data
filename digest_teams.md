@@ -1,26 +1,26 @@
-# Team digest (generated Tue Oct 13, 5:24 AM ET)
+# Team digest (generated Wed Oct 14, 4:46 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- Recruiting firm's Brian Flores memo contains racial stereotypes, lawyers say | Tue Oct 13, 6:38 PM ET | https://www.espn.com/nfl/story/_/id/50174946/brian-flores-memo-rife-racial-stereotypes-lawyers-say | A recruiting report on Brian Flores has examples of what his lawyers say are racial stereotypes that NFL teams use when evaluating Black coaching candidates.
+- 2026 NFL Power Rankings: How all 32 teams stack up for Week 6 | Tue Oct 13, 3:01 PM ET | https://www.espn.com/nfl/story/_/id/50166454/nfl-power-rankings-week-6-teams-biggest-issue-defense | How does every NFL team stack up heading into Week 6? We made our 1-32 list and picked the biggest defensive problem for every team.
+- 2027 NFL draft order projections for Round 1, chances for top pick, more | Tue Oct 13, 10:19 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
+- NFL Week 6 betting: Odds, lines and totals for every game | Tue Oct 13, 10:11 AM ET | https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.
+- Dolphins not worried about young roster getting discouraged by losses | Tue Oct 13, 6:00 AM ET | https://www.espn.com/nfl/story/_/id/50168846/miami-dolphins-youngest-roster-excuses | Miami coach Jeff Hafley doesn't believe his players will grow discouraged by the lack of results so far this season.
 - NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF' | Mon Oct 12, 8:14 PM ET | https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
 - Dolphins' Jeff Hafley says he's not mulling QB change entering bye | Mon Oct 12, 7:34 PM ET | https://www.espn.com/nfl/story/_/id/50168959/dolphins-hafley-says-not-mulling-qb-change-entering-bye | Dolphins coach Jeff Hafley is not considering a quarterback change heading into their Week 6 bye, but he did say the passing offense must improve.
 - How active NFL players continue to redefine all-time sack list | Mon Oct 12, 1:01 PM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
 - What are NFL overtime rules for regular and postseason play? | Mon Oct 12, 12:41 PM ET | https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play | Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.
 - NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games | Mon Oct 12, 11:52 AM ET | https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.
-- NFL Week 6 betting: Odds, lines and totals for every game | Mon Oct 12, 11:16 AM ET | https://www.espn.com/espn/betting/story/_/id/50147670/2026-nfl-week-6-schedule-odds-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.
-- 2027 NFL draft order projections for Round 1, chances for top pick, more | Mon Oct 12, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - How are Dolphins feeling after 0-5 start? | Sun Oct 11, 7:41 PM ET | https://www.espn.com/video/clip/_/id/50162273/how-dolphins-feeling-0-5-start | Marcel Louis-Jacques breaks down the Dolphins' reaction to their loss to the Bengals in Week 5.
 - Burrow throws 4 TDs, Battle has pair of interceptions as Bengals beat Dolphins 31-24 | Sun Oct 11, 5:55 PM ET | http://www.espn.com/nfl/recap?gameId=401872982 | — The Joe Burrow and Ja'Marr Chase connection never seems to fail for the Cincinnati Bengals.
-- Cincinnati Bengals vs. Miami Dolphins: Game Highlights | Sun Oct 11, 4:51 PM ET | https://www.espn.com/video/clip/_/id/50160546/game-highlights | Cincinnati Bengals vs. Miami Dolphins: Game Highlights
-- NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks | Sun Oct 11, 2:34 PM ET | https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms | Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.
-- NFL Week 5 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more | Sat Oct 10, 6:40 AM ET | https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026 | Big performances for Brock Bowers, Travon Walker and Luther Burden III? The Giants pulling an upset? And an under-the-radar RB emerging this week in fantasy?
 Injuries / player notes (ESPN; 15 of 25 entries shown):
-- Reese Taylor (CB) | Out | Mon Oct 12, 3:20 PM ET | out
-- Justin Joly (TE) | Out | Mon Oct 12, 3:20 PM ET | out
-- Caleb Douglas (WR) | Out | Mon Oct 12, 3:20 PM ET | out
-- Robert Beal Jr. (DE) | Out | Mon Oct 12, 3:20 PM ET | out
+- Reese Taylor (CB) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
+- Justin Joly (TE) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
+- Caleb Douglas (WR) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
+- Robert Beal Jr. (DE) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
 - Malik Washington (WR) | Active | Sun Oct 11, 7:54 PM ET | Washington secured six of eight targets for 43 yards, rushed once for 18 yards, returned two kickoffs for 45 yards and ran back one punt for 28 yards in the Dolphins' 31-24 loss to the Bengals on Sun…
 - JuJu Brents (CB) | Questionable | Sun Oct 11, 3:53 PM ET | Brents exited in the fourth quarter of Sunday's game against the Bengals due to a stinger and is questionable to return.
 - Michael Taaffe (S) | Questionable | Sun Oct 11, 3:04 PM ET | Taaffe (chest) is questionable to return to Sunday's game against the Bengals.
@@ -35,13 +35,15 @@ Injuries / player notes (ESPN; 15 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- 2026 NBA free agency: Grades for offseason signings, extensions | Tue Oct 13, 5:22 PM ET | https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts | We're grading the biggest offseason signings, including Payton Pritchard's two-year extension with the Celtics.
+- Which NBA deals will get done? Bobby Marks' biggest extension decisions to watch | Tue Oct 13, 3:51 PM ET | https://www.espn.com/nba/story/_/id/50166436/rookie-veteran-contract-extensions-towns-giannis-jokic | With Monday's extension deadline looming, Bobby Marks breaks down the biggest decisions around the league.
+- NBA teams reveal court designs for 2026 NBA Cup tournament | Tue Oct 13, 1:35 PM ET | https://www.espn.com/nba/story/_/id/50174098/2026-nba-cup-tournament-court-designs | Teams will be competing on these courts for the NBA Cup from Oct. 30 to Dec. 11.
 - Minnesota Timberwolves vs. Miami Heat: Game Highlights | Sat Oct 10, 11:33 PM ET | https://www.espn.com/video/clip/_/id/50153982/game-highlights | Minnesota Timberwolves vs. Miami Heat: Game Highlights
-- 2026 NBA free agency: Grades for offseason signings, extensions | Sat Oct 10, 2:29 PM ET | https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts | We're grading the biggest free agent signings and extensions, including Jalen Duren's new five-year deal.
 - New Orleans Pelicans vs. Miami Heat: Game Highlights | Thu Oct 8, 10:14 PM ET | https://www.espn.com/video/clip/_/id/50136993/game-highlights | New Orleans Pelicans vs. Miami Heat: Game Highlights
 - What does your NBA team need? The biggest hole on all 30 rosters | Thu Oct 8, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50111204/nba-preseason-roster-holes-30-teams | Every NBA team is missing something, even the leading title contenders.
 - Basketball Power Index: NBA projections, playoff chances for 2026-27 season | Wed Oct 7, 10:18 AM ET | https://www.espn.com/nba/story/_/id/50111217/nba-season-projections-2026-27-bpi | ESPN's Basketball Power Index projections for the 2026-27 NBA season are out, including a ranking of all 30 teams.
 Injuries / player notes (ESPN; 9 of 9 entries shown):
-- Pelle Larsson (G) | Day-To-Day | Mon Oct 12, 4:34 PM ET | Larsson (illness) didn't practice Monday, Ira Winderman of the South Florida Sun Sentinel reports.
+- Pelle Larsson (G) | Day-To-Day | Tue Oct 13, 1:26 PM ET | Larsson (illness) is doubtful for Wednesday's preseason game against the Nets, Ira Winderman of the South Florida Sun Sentinel reports.
 - Kylor Kelley (C) | Day-To-Day | Sat Oct 10, 10:48 PM ET | Kelley (calf) did not play during Saturday's 125-124 preseason loss to the Timberwolves.
 - Bam Adebayo (C) | Day-To-Day | Sat Oct 10, 6:35 PM ET | Adebayo won't be available for Saturday's preseason game against the Timberwolves due to rest, Eric Nehm of The Athletic reports.
 - Andrew Wiggins (F) | Day-To-Day | Sat Oct 10, 6:32 PM ET | Wiggins (rest) won't play in Saturday's preseason game against the Timberwolves, Eric Nehm of The Athletic reports.
@@ -53,25 +55,29 @@ Injuries / player notes (ESPN; 9 of 9 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Florida takes on Vancouver following Tkachuk's hat trick | Wed Oct 14, 4:12 AM ET | http://www.espn.com/nhl/preview?gameId=401892510 | Vancouver Canucks (2-6, in the Pacific Division) vs. Florida Panthers (3-2-2, in the Atlantic Division)
+- Brady Tkachuk's natural hat trick helps Panthers end skid | Wed Oct 14, 12:49 AM ET | https://www.espn.com/nhl/story/_/id/50178690/brady-tkachuk-natural-hat-trick-helps-panthers-end-skid | On the NHL's Frozen Frenzy night, the Tkachuk brothers fed right into it, as Brady Tkachuk had a natural hat trick and his brother Matthew Tkachuk matched a club record with five assists as the Florida Panthers beat the…
+- Florida Panthers vs. Columbus Blue Jackets: Game Highlights | Tue Oct 13, 9:28 PM ET | https://www.espn.com/video/clip/_/id/50178316/game-highlights | Florida Panthers vs. Columbus Blue Jackets: Game Highlights
+- Brady Tkachuk has natural hat trick, brother Matthew has 5 assists as Panthers roll Blue Jackets 7-3 | Tue Oct 13, 9:25 PM ET | http://www.espn.com/nhl/recap?gameId=401892489 | — Brady Tkachuk had a natural hat trick in the second period, his brother Matthew Tkachuk matched a club record with five assists and the Florida Panthers rolled past the Columbus Blue...
+- Betting tips for each of Tuesday's 16 Frozen Frenzy games | Tue Oct 13, 4:59 PM ET | https://www.espn.com/espn/betting/story/_/id/50167496/frozen-frenzy-hockey-betting-tips-odds-picks | With every NHL team in action, our experts give you betting tips and picks for Frozen Frenzy 2026.
+- The top reason to watch every NHL team in the Frozen Frenzy | Tue Oct 13, 11:31 AM ET | https://www.espn.com/nhl/story/_/id/50166535/nhl-2026-27-watch-all-32-teams-top-players-stats-records-playoffs-frozen-frenzy | From elite scorers to exciting rookies to legit drama, here's what we love about all 32.
 - Panthers visit the Blue Jackets after Reinhart's 2-goal game | Tue Oct 13, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892489 | Florida Panthers (2-2-2, in the Atlantic Division) vs. Columbus Blue Jackets (2-2, in the Metropolitan Division)
 - Noah Ostlund scores go-ahead goal in third period in Sabres' 5-3 win over Panthers | Mon Oct 12, 5:18 PM ET | http://www.espn.com/nhl/recap?gameId=401892485 | — Noah Ostlund scored the go-ahead goal on the power play 7:15 into the third period, and the Buffalo Sabres defeated the Florida Panthers 5-3 on Monday in an outing both teams lost key players to injury.
 - Florida Panthers vs. Buffalo Sabres: Game Highlights | Mon Oct 12, 3:53 PM ET | https://www.espn.com/video/clip/_/id/50168376/game-highlights | Florida Panthers vs. Buffalo Sabres: Game Highlights
 - NHL Power Rankings: Each team's NHL Rank representatives | Mon Oct 12, 6:20 AM ET | https://www.espn.com/nhl/story/_/id/50134520/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | It's the first regular-season update of our 1-32 poll. Plus, how many players did each team land among the Top 100?
 - NHL Tonight: Golden Knights, Wild pair off in early-season Western showdown | Mon Oct 12, 6:12 AM ET | https://www.espn.com/nhl/story/_/id/50157197/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | With just three games on the NHL calendar Monday, here are game previews, betting lines, updated stat leaders and more.
 - Atlantic Division opponents meet when Sabres host the Panthers | Sun Oct 11, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892485 | Florida Panthers (2-1-2, in the Atlantic Division) vs. Buffalo Sabres (2-3, in the Atlantic Division)
-- Kaprizov has 4-point night, Wild top Panthers 4-1 to spoil Florida's home opener | Sat Oct 10, 9:18 PM ET | http://www.espn.com/nhl/recap?gameId=401891805 | — Kirill Kaprizov had three goals and an assist, Matt Boldy scored his first goal of the season in the game's first minute, and the Minnesota Wild spoiled Florida's home opener by...
-- Minnesota Wild vs. Florida Panthers: Game Highlights | Sat Oct 10, 9:06 PM ET | https://www.espn.com/video/clip/_/id/50152682/game-highlights | Minnesota Wild vs. Florida Panthers: Game Highlights
-- NHL Tonight: Previews, stats, betting info for Saturday's 14 games | Sat Oct 10, 6:43 AM ET | https://www.espn.com/nhl/story/_/id/50141879/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | It's a typically massive slate, from 1 p.m. ET all the way through two 10 p.m. starts. Get prepared here.
-- Panthers eyeing six-week timeline for Brad Marchand's return | Fri Oct 9, 1:15 PM ET | https://www.espn.com/nhl/story/_/id/50141348/panthers-eyeing-six-week-line-brad-marchand-return | The Panthers are expecting forward Brad Marchand to miss about six weeks with his left leg injury, a timeline that coincides with Aleksander Barkov being out six to eight weeks.
-- NHL breakout tiers: Top players ready to level up in 2026-27 | Fri Oct 9, 7:12 AM ET | https://www.espn.com/nhl/story/_/id/50133323/nhl-2026-27-breakout-players-tiers-rankings-superstars-goals-stats | From players with new linemates to young stars set to hit superstardom to enticing rookies, watch out for this group.
-- Panthers play the Wild in a non-conference matchup | Fri Oct 9, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401891805 | Minnesota Wild (2-1-1, in the Central Division) vs. Florida Panthers (2-0-2, in the Atlantic Division)
-Injuries / player notes (ESPN; 3 of 3 entries shown):
+Injuries / player notes (ESPN; 5 of 5 entries shown):
+- Jacob Markstrom (G) | Out | Tue Oct 13, 4:10 PM ET | out
+- Radko Gudas (D) | Out | Tue Oct 13, 3:48 PM ET | out
 - Brad Marchand (LW) | Injured Reserve | Mon Oct 12, 5:11 PM ET | ir
 - Aleksander Barkov (C) | Injured Reserve | Tue Oct 6, 2:38 PM ET | Barkov (lower body) will be out for approximately 6-8 weeks, Jameson Olive of the Panthers' official site reports Tuesday.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Sep 17, 4:53 PM ET | Gadjovich (upper body) is out indefinitely, the team announced Thursday.
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Looking at the Heisman and CFP odds: The case for Iowa, Kentucky, UCLA and USC | Tue Oct 13, 6:01 PM ET | https://www.espn.com/espn/betting/story/_/id/50169256/college-football-playoff-heisman-odds-favorites-week-6-2026 | Let's break down the odds boards for the CFP and Heisman races after Week 6.
+- College Football Playoff 2026: Bubble Watch after Week 6 | Tue Oct 13, 10:25 AM ET | https://www.espn.com/college-football/story/_/id/50167792/college-football-playoff-2026-week-6-bubble-watch | A conference-by-conference look at who is contending for the playoff, who's close and who's out.
 - Roman Harper on South Carolina vs. UF: 'Everybody was on the same page' | Mon Oct 12, 7:30 PM ET | https://www.espn.com/video/clip/_/id/50169622/everybody-was-same-page | Read & React's Harper dissects how communication and connected play were key aspects in the Gamecocks going to The Swamp and upsetting the Gators.
 - Cole Cubelic analyzes South Carolina improvements, advises Florida | Mon Oct 12, 6:36 PM ET | https://www.espn.com/video/clip/_/id/50169334/cole-cubelic-analyzes-south-carolina-improvements-advises-florida | Cubelic dives into one of the biggest upsets of Week 6 in South Carolina's win over Florida on The Paul Finebaum Show.
 - How every 2027 five-star college football prospect will fit | Mon Oct 12, 5:41 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
@@ -82,11 +88,10 @@ News (last days, newest first):
 - No. 7 Texas hosts Florida in SEC play | Sun Oct 11, 3:44 PM ET | http://www.espn.com/ncf/preview?gameId=401856724 | Florida (4-2) at No. 7 Texas (4-1), Oct. 17 at 12 p.m. EDT.
 - Assessing South Carolina's redemption win vs. Florida | Sun Oct 11, 2:31 PM ET | https://www.espn.com/video/clip/_/id/50159341/assessing-south-carolina-redemption-win-vs-florida | The SEC Now crew express pride in the Gamecocks' performance after redeeming themselves against the Gators as they give credit to the defense for the victory.
 - Allstate Playoff Predictor | Sun Oct 11, 10:07 AM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
-- LaNorris Sellers sparks South Carolina rout of No. 16 Florida | Sat Oct 10, 6:31 PM ET | https://www.espn.com/college-football/story/_/id/50150629/lanorris-sellers-sparks-south-carolina-rout-no-16-florida | LaNorris Sellers accounted for five TDs as South Carolina stunned No. 16 Florida to end an eight-game SEC skid and take some heat off embattled coach Shane Beamer.
-- LaNorris Sellers shows up big, and South Carolina stuns No. 16 Florida 38-19 in the Swamp | Sat Oct 10, 6:04 PM ET | http://www.espn.com/ncf/recap?gameId=401856714 | — This was the kind of performance South Carolina expected from quarterback LaNorris Sellers all season.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Transfer rumors, news: Chelsea confident in January move for Scott | Tue Oct 13, 7:32 PM ET | https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield | Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.
 - Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge? | Tue Oct 13, 2:14 AM ET | https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge | Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.
 - Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster | Sun Oct 11, 6:08 PM ET | https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone | AS Roma's Emanuele Lulli has caught the eye of Arsenal, Chelsea and Liverpool. Transfer Talk has the latest.
 - Premier League team news, injury updates after international break | Sun Oct 11, 11:43 AM ET | https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break | The Premier League returns this weekend after an extra-long international break. But who is injured?
@@ -98,7 +103,6 @@ News (last days, newest first):
 - Jordan Henderson, 36, nets unlikely brace as Chelsea thrash Bournemouth | Sat Oct 10, 12:11 PM ET | http://www.espn.com/soccer/report/_/gameId/401878775 | Jordan Henderson was the unlikely hero as Chelsea's entertainers blew Bournemouth away in a comprehensive and chaotic 5-1 win at Stamford Bridge.
 - Chelsea's Cole Palmer signs new contract until 2034 | Sat Oct 10, 7:08 AM ET | https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso | Cole Palmer has signed a contract extension keeping him at Chelsea until 2034.
 - Transfer rumors, news: Chelsea eye move for Barcelona's De Jong | Fri Oct 9, 5:34 PM ET | https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall | Chelsea are reporting looking at signing Frenkie de Jong from Barcelona. Transfer Talk has the latest.
-- Xabi Alonso insists Cole Palmer committed to representing England after Thomas Tuchel dig | Fri Oct 9, 1:37 PM ET | https://www.espn.com/soccer/story/_/id/50138825/xabi-alonso-insists-cole-palmer-committed-representing-england-thomas-tuchel-dig | Chelsea manager Xabi Alonso insists Cole Palmer is committed to representing England following question marks raised by national team boss Thomas Tuchel.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News: none returned
