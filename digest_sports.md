@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Oct 14, 4:46 AM ET)
+# Sports digest (generated Wed Oct 14, 5:34 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -81,7 +81,6 @@ Finals (last ~40h):
 - New Jersey Devils 5 at Detroit Red Wings 4 | Final/OT | Tue Oct 13, 6:00 PM ET | TV: ESPN | Little Caesars Arena
 - Vegas Golden Knights 2 at Minnesota Wild 4 | Final | Mon Oct 12, 8:00 PM ET | TV: ESPN+, Scripps Sports, MINNHL | Grand Casino Arena
 - Ottawa Senators 4 at New Jersey Devils 1 | Final | Mon Oct 12, 7:00 PM ET | TV: NHL Net, MSGSN | Prudential Center
-- [MY TEAM] Florida Panthers 3 at Buffalo Sabres 5 | Final | Mon Oct 12, 1:00 PM ET | TV: ESPN+, Scripps Sports, MSGB | KeyBank Center
 Next 7 days, my teams:
 - [MY TEAM] Vancouver Canucks at Florida Panthers | 10/15 - 7:00 PM EDT | Thu Oct 15, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Seattle Kraken at Florida Panthers | 10/17 - 6:00 PM EDT | Sat Oct 17, 6:00 PM ET | TV: ESPN+, Scripps Sports, KONG, KHN, Prime Video (Local) | Amerant Bank Arena
@@ -296,7 +295,6 @@ Finals (last ~40h):
 - New Jersey Devils 5 at Detroit Red Wings 4 | OFF (OT) | Tue Oct 13, 6:00 PM ET | TV: ESPN, SN+ | Little Caesars Arena
 - Vegas Golden Knights 2 at Minnesota Wild 4 | OFF | Mon Oct 12, 8:00 PM ET | TV: MINNHL, Wild+, SCRIPPS | Grand Casino Arena
 - Ottawa Senators 4 at New Jersey Devils 1 | OFF | Mon Oct 12, 7:00 PM ET | TV: NHLN, SN+, TVAS, MSGSN | Prudential Center
-- [MY TEAM] Florida Panthers 3 at Buffalo Sabres 5 | OFF | Mon Oct 12, 1:00 PM ET | TV: SN, TVAS, MSG-B, SCRIPPS | KeyBank Center
 Next 7 days, my teams:
 - [MY TEAM] Vancouver Canucks at Florida Panthers | FUT | Thu Oct 15, 7:00 PM ET | TV: SNP, TVAS, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Seattle Kraken at Florida Panthers | FUT | Sat Oct 17, 6:00 PM ET | TV: Prime Video, KONG, SCRIPPS | Amerant Bank Arena

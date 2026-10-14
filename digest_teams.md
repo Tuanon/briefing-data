@@ -1,4 +1,4 @@
-# Team digest (generated Wed Oct 14, 4:46 AM ET)
+# Team digest (generated Wed Oct 14, 5:34 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -91,8 +91,8 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge? | Wed Oct 14, 4:06 AM ET | https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge | Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.
 - Transfer rumors, news: Chelsea confident in January move for Scott | Tue Oct 13, 7:32 PM ET | https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield | Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.
-- Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge? | Tue Oct 13, 2:14 AM ET | https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge | Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.
 - Transfer rumors, news: Arsenal, Chelsea, Liverpool want Roma youngster | Sun Oct 11, 6:08 PM ET | https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone | AS Roma's Emanuele Lulli has caught the eye of Arsenal, Chelsea and Liverpool. Transfer Talk has the latest.
 - Premier League team news, injury updates after international break | Sun Oct 11, 11:43 AM ET | https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break | The Premier League returns this weekend after an extra-long international break. But who is injured?
 - Jordan Henderson reveals special free-kick practice with Chelsea during international break | Sun Oct 11, 7:06 AM ET | https://www.espn.com/football/story/_/id/50155580/jordan-henderson-chelsea-cole-palmer-morgan-rogers | Jordan Henderson revealed he pulled rank to score the first direct free-kick of his career after practicing them over the international break.
