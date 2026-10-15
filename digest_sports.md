@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Oct 15, 4:47 AM ET)
+# Sports digest (generated Thu Oct 15, 5:34 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -256,7 +256,7 @@ Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - AS Monaco at CSKA Sofia | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Vasil Levski National Stadium
 - Getafe at CSU Craiova | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Stadionul Ion Oblemenco
-- FC Midtjylland at Egnatia | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Air Albania Stadium
+- FC Midtjylland at Egnatia | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Elbasan Arena
 - Red Star Belgrade at FC Lugano | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | AIL Arena
 - Ajax Amsterdam at Hajduk Split | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Stadion Poljud
 - AGF at KAA Gent | Scheduled | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Ghelamco Arena
