@@ -1,4 +1,4 @@
-# Team digest (generated Wed Oct 14, 5:34 AM ET)
+# Team digest (generated Thu Oct 15, 4:47 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -14,8 +14,8 @@ News (last days, newest first):
 - How active NFL players continue to redefine all-time sack list | Mon Oct 12, 1:01 PM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
 - What are NFL overtime rules for regular and postseason play? | Mon Oct 12, 12:41 PM ET | https://www.espn.com/nfl/story/_/id/39111637/what-nfl-rules-regular-postseason-play | Overtime periods can have a pivotal impact on game results. Here are key facts on regular-season and postseason overtime rules in the NFL.
 - NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games | Mon Oct 12, 11:52 AM ET | https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.
-- How are Dolphins feeling after 0-5 start? | Sun Oct 11, 7:41 PM ET | https://www.espn.com/video/clip/_/id/50162273/how-dolphins-feeling-0-5-start | Marcel Louis-Jacques breaks down the Dolphins' reaction to their loss to the Bengals in Week 5.
 - Burrow throws 4 TDs, Battle has pair of interceptions as Bengals beat Dolphins 31-24 | Sun Oct 11, 5:55 PM ET | http://www.espn.com/nfl/recap?gameId=401872982 | — The Joe Burrow and Ja'Marr Chase connection never seems to fail for the Cincinnati Bengals.
+- NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks | Sun Oct 11, 2:34 PM ET | https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms | Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.
 Injuries / player notes (ESPN; 15 of 25 entries shown):
 - Reese Taylor (CB) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
 - Justin Joly (TE) | Questionable | Tue Oct 13, 1:10 PM ET | questionable
@@ -35,22 +35,18 @@ Injuries / player notes (ESPN; 15 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- Brooklyn Nets vs. Miami Heat: Game Highlights | Wed Oct 14, 10:25 PM ET | https://www.espn.com/video/clip/_/id/50186240/game-highlights | Brooklyn Nets vs. Miami Heat: Game Highlights
+- NBA Now or Later rankings: Which teams most need to win immediately? | Wed Oct 14, 6:58 AM ET | https://www.espn.com/nba/story/_/id/50167312/2026-27-now-later-rankings-finals | Which teams must win immediately, with their current cores, and which could bide their time and win later instead? We ranked all 30.
 - 2026 NBA free agency: Grades for offseason signings, extensions | Tue Oct 13, 5:22 PM ET | https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts | We're grading the biggest offseason signings, including Payton Pritchard's two-year extension with the Celtics.
 - Which NBA deals will get done? Bobby Marks' biggest extension decisions to watch | Tue Oct 13, 3:51 PM ET | https://www.espn.com/nba/story/_/id/50166436/rookie-veteran-contract-extensions-towns-giannis-jokic | With Monday's extension deadline looming, Bobby Marks breaks down the biggest decisions around the league.
 - NBA teams reveal court designs for 2026 NBA Cup tournament | Tue Oct 13, 1:35 PM ET | https://www.espn.com/nba/story/_/id/50174098/2026-nba-cup-tournament-court-designs | Teams will be competing on these courts for the NBA Cup from Oct. 30 to Dec. 11.
 - Minnesota Timberwolves vs. Miami Heat: Game Highlights | Sat Oct 10, 11:33 PM ET | https://www.espn.com/video/clip/_/id/50153982/game-highlights | Minnesota Timberwolves vs. Miami Heat: Game Highlights
 - New Orleans Pelicans vs. Miami Heat: Game Highlights | Thu Oct 8, 10:14 PM ET | https://www.espn.com/video/clip/_/id/50136993/game-highlights | New Orleans Pelicans vs. Miami Heat: Game Highlights
 - What does your NBA team need? The biggest hole on all 30 rosters | Thu Oct 8, 12:39 PM ET | https://www.espn.com/nba/story/_/id/50111204/nba-preseason-roster-holes-30-teams | Every NBA team is missing something, even the leading title contenders.
-- Basketball Power Index: NBA projections, playoff chances for 2026-27 season | Wed Oct 7, 10:18 AM ET | https://www.espn.com/nba/story/_/id/50111217/nba-season-projections-2026-27-bpi | ESPN's Basketball Power Index projections for the 2026-27 NBA season are out, including a ranking of all 30 teams.
-Injuries / player notes (ESPN; 9 of 9 entries shown):
-- Pelle Larsson (G) | Day-To-Day | Tue Oct 13, 1:26 PM ET | Larsson (illness) is doubtful for Wednesday's preseason game against the Nets, Ira Winderman of the South Florida Sun Sentinel reports.
-- Kylor Kelley (C) | Day-To-Day | Sat Oct 10, 10:48 PM ET | Kelley (calf) did not play during Saturday's 125-124 preseason loss to the Timberwolves.
-- Bam Adebayo (C) | Day-To-Day | Sat Oct 10, 6:35 PM ET | Adebayo won't be available for Saturday's preseason game against the Timberwolves due to rest, Eric Nehm of The Athletic reports.
-- Andrew Wiggins (F) | Day-To-Day | Sat Oct 10, 6:32 PM ET | Wiggins (rest) won't play in Saturday's preseason game against the Timberwolves, Eric Nehm of The Athletic reports.
-- Klay Thompson (G) | Day-To-Day | Sat Oct 10, 6:31 PM ET | Thompson (rest) is out for Saturday's preseason game against the Timberwolves, Eric Nehm of The Athletic reports.
-- Giannis Antetokounmpo (F) | Day-To-Day | Sat Oct 10, 6:31 PM ET | Antetokounmpo (rest) won't be available for Saturday's preseason game against the Timberwolves, Eric Nehm of The Athletic reports.
-- Davion Mitchell (G) | Day-To-Day | Sat Oct 10, 6:27 PM ET | Mitchell (rest) won't suit up for Saturday's exhibition against the Timberwolves, Eric Nehm of The Athletic reports.
-- Keshad Johnson (F) | Out | Wed Oct 7, 2:04 PM ET | Johnson (hamstring) is practicing in a limited fashion, per Ira Winderman of the South Florida Sun Sentinel.
+Injuries / player notes (ESPN; 4 of 4 entries shown):
+- Kylor Kelley (C) | Day-To-Day | Wed Oct 14, 10:20 PM ET | Kelley (calf) did not play during Saturday's 144-128 preseason win over Brooklyn.
+- Pelle Larsson (G) | Day-To-Day | Wed Oct 14, 5:55 PM ET | Larsson (illness) won't play in Wednesday's preseason game against the Nets, Eric Nehm of The Athletic reports.
+- Bam Adebayo (C) | Day-To-Day | Wed Oct 14, 5:49 PM ET | Adebayo (groin) won't play in Wednesday's preseason game against the Nets, Eric Nehm of The Athletic reports.
 - Dru Smith (G) | Day-To-Day | Thu Oct 1, 12:15 PM ET | Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
@@ -68,14 +64,16 @@ News (last days, newest first):
 - NHL Tonight: Golden Knights, Wild pair off in early-season Western showdown | Mon Oct 12, 6:12 AM ET | https://www.espn.com/nhl/story/_/id/50157197/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | With just three games on the NHL calendar Monday, here are game previews, betting lines, updated stat leaders and more.
 - Atlantic Division opponents meet when Sabres host the Panthers | Sun Oct 11, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892485 | Florida Panthers (2-1-2, in the Atlantic Division) vs. Buffalo Sabres (2-3, in the Atlantic Division)
 Injuries / player notes (ESPN; 5 of 5 entries shown):
-- Jacob Markstrom (G) | Out | Tue Oct 13, 4:10 PM ET | out
-- Radko Gudas (D) | Out | Tue Oct 13, 3:48 PM ET | out
+- Jacob Markstrom (G) | Day-To-Day | Wed Oct 14, 9:14 AM ET | day-to-day
+- Radko Gudas (D) | Day-To-Day | Wed Oct 14, 9:14 AM ET | day-to-day
 - Brad Marchand (LW) | Injured Reserve | Mon Oct 12, 5:11 PM ET | ir
 - Aleksander Barkov (C) | Injured Reserve | Tue Oct 6, 2:38 PM ET | Barkov (lower body) will be out for approximately 6-8 weeks, Jameson Olive of the Panthers' official site reports Tuesday.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Sep 17, 4:53 PM ET | Gadjovich (upper body) is out indefinitely, the team announced Thursday.
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Sources: Florida QB Philo questionable, WR Brown could return | Wed Oct 14, 1:07 PM ET | https://www.espn.com/college-football/story/_/id/50182575/sources-florida-qb-philo-questionable-wr-brown-shot-play | Florida quarterback Aaron Philo will be listed as questionable in the initial SEC availability report on Wednesday, sources told ESPN's Pete Thamel.
+- Ranking college football's best 60 receivers of the last 50 years | Wed Oct 14, 8:30 AM ET | https://www.espn.com/college-football/story/_/id/50175757/ranking-college-football-best-receivers-jeremiah-smith | As Jeremiah Smith continues to amaze, Bill Connelly looks at where his career fits among the best ever.
 - Looking at the Heisman and CFP odds: The case for Iowa, Kentucky, UCLA and USC | Tue Oct 13, 6:01 PM ET | https://www.espn.com/espn/betting/story/_/id/50169256/college-football-playoff-heisman-odds-favorites-week-6-2026 | Let's break down the odds boards for the CFP and Heisman races after Week 6.
 - College Football Playoff 2026: Bubble Watch after Week 6 | Tue Oct 13, 10:25 AM ET | https://www.espn.com/college-football/story/_/id/50167792/college-football-playoff-2026-week-6-bubble-watch | A conference-by-conference look at who is contending for the playoff, who's close and who's out.
 - Roman Harper on South Carolina vs. UF: 'Everybody was on the same page' | Mon Oct 12, 7:30 PM ET | https://www.espn.com/video/clip/_/id/50169622/everybody-was-same-page | Read & React's Harper dissects how communication and connected play were key aspects in the Gamecocks going to The Swamp and upsetting the Gators.
@@ -86,8 +84,6 @@ News (last days, newest first):
 - 2026-27 Week 6 College Football Playoff, bowl projections | Mon Oct 12, 7:50 AM ET | https://www.espn.com/college-football/story/_/id/50159751/2026-27-week-6-college-football-playoff-cfp-bowl-projections | Following big wins and multiple upsets in Week 6, here are our postseason projections.
 - Easton Royal, top WR in '27, flips to Florida from Texas | Sun Oct 11, 4:32 PM ET | https://www.espn.com/college-football/story/_/id/50159015/easton-royal-top-wr-27-flips-florida-texas | Five-star wide receiver prospect Easton Royal has flipped his commitment to Florida, his family told ESPN on Sunday. The New Orleans native is the top-ranked wide receiver and No. 8 overall prospect in the SC Next ESPN…
 - No. 7 Texas hosts Florida in SEC play | Sun Oct 11, 3:44 PM ET | http://www.espn.com/ncf/preview?gameId=401856724 | Florida (4-2) at No. 7 Texas (4-1), Oct. 17 at 12 p.m. EDT.
-- Assessing South Carolina's redemption win vs. Florida | Sun Oct 11, 2:31 PM ET | https://www.espn.com/video/clip/_/id/50159341/assessing-south-carolina-redemption-win-vs-florida | The SEC Now crew express pride in the Gamecocks' performance after redeeming themselves against the Gators as they give credit to the defense for the victory.
-- Allstate Playoff Predictor | Sun Oct 11, 10:07 AM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
