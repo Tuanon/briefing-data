@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Oct 16, 4:46 AM ET)
+# Sports digest (generated Fri Oct 16, 5:32 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -210,7 +210,7 @@ Next 7 days, others (first 25):
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Kinoshita Group Japan Open | 10/16 - 10:30 PM EDT | Fri Oct 16, 12:00 AM ET
-- Ningbo Open | TBD | Mon Oct 19, 12:00 AM ET
+- Ningbo Open | 10/16 - 11:00 PM EDT | Fri Oct 16, 12:00 AM ET
 - Río Ladies Open by MundoTênis Tours | TBD | Mon Oct 19, 12:00 AM ET
 
 ## Europa League
@@ -310,16 +310,16 @@ Next 7 days, others (first 25):
 
 ## NHL (official schedule API)
 Finals (last ~40h):
-- Calgary Flames 2 at Vegas Golden Knights 6 | FINAL | Thu Oct 15, 10:00 PM ET | TV: SN1, TVAS, SCRIPPS | T-Mobile Arena
-- Utah Mammoth 4 at Edmonton Oilers 2 | FINAL | Thu Oct 15, 9:00 PM ET | TV: Mammoth+, SNW, Utah16 | Rogers Place
-- Winnipeg Jets 3 at Chicago Blackhawks 4 | FINAL (OT) | Thu Oct 15, 8:00 PM ET | TV: TSN3, CHSN | United Center
-- San Jose Sharks 3 at Nashville Predators 2 | FINAL (SO) | Thu Oct 15, 8:00 PM ET | TV: NBCSCA, SCRIPPS | Bridgestone Arena
-- St. Louis Blues 4 at Minnesota Wild 5 | FINAL | Thu Oct 15, 8:00 PM ET | TV: MINNHL, STLNHL, BN+, Wild+ | Grand Casino Arena
-- Philadelphia Flyers 1 at Detroit Red Wings 2 | FINAL | Thu Oct 15, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Little Caesars Arena
-- Buffalo Sabres 5 at Toronto Maple Leafs 4 | FINAL (OT) | Thu Oct 15, 7:00 PM ET | TV: TSN4, MSG-B | Scotiabank Arena
-- New York Islanders 1 at Ottawa Senators 2 | FINAL (SO) | Thu Oct 15, 7:00 PM ET | TV: TSN5, RDS, MSGSN | Canadian Tire Centre
-- Seattle Kraken 3 at Tampa Bay Lightning 4 | FINAL (OT) | Thu Oct 15, 7:00 PM ET | TV: Prime Video, The Spot, KONG | Benchmark International Arena
-- [MY TEAM] Vancouver Canucks 2 at Florida Panthers 3 | FINAL (OT) | Thu Oct 15, 7:00 PM ET | TV: SNP, TVAS, SCRIPPS | Amerant Bank Arena
+- Calgary Flames 2 at Vegas Golden Knights 6 | OFF | Thu Oct 15, 10:00 PM ET | TV: SN1, TVAS, SCRIPPS | T-Mobile Arena
+- Utah Mammoth 4 at Edmonton Oilers 2 | OFF | Thu Oct 15, 9:00 PM ET | TV: Mammoth+, SNW, Utah16 | Rogers Place
+- Winnipeg Jets 3 at Chicago Blackhawks 4 | OFF (OT) | Thu Oct 15, 8:00 PM ET | TV: TSN3, CHSN | United Center
+- San Jose Sharks 3 at Nashville Predators 2 | OFF (SO) | Thu Oct 15, 8:00 PM ET | TV: NBCSCA, SCRIPPS | Bridgestone Arena
+- St. Louis Blues 4 at Minnesota Wild 5 | OFF | Thu Oct 15, 8:00 PM ET | TV: MINNHL, STLNHL, BN+, Wild+ | Grand Casino Arena
+- Philadelphia Flyers 1 at Detroit Red Wings 2 | OFF | Thu Oct 15, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Little Caesars Arena
+- Buffalo Sabres 5 at Toronto Maple Leafs 4 | OFF (OT) | Thu Oct 15, 7:00 PM ET | TV: TSN4, MSG-B | Scotiabank Arena
+- New York Islanders 1 at Ottawa Senators 2 | OFF (SO) | Thu Oct 15, 7:00 PM ET | TV: TSN5, RDS, MSGSN | Canadian Tire Centre
+- Seattle Kraken 3 at Tampa Bay Lightning 4 | OFF (OT) | Thu Oct 15, 7:00 PM ET | TV: Prime Video, The Spot, KONG | Benchmark International Arena
+- [MY TEAM] Vancouver Canucks 2 at Florida Panthers 3 | OFF (OT) | Thu Oct 15, 7:00 PM ET | TV: SNP, TVAS, SCRIPPS | Amerant Bank Arena
 - New York Rangers 1 at New Jersey Devils 7 | OFF | Thu Oct 15, 7:00 PM ET | TV: MSGSN2, MSG | Prudential Center
 - Dallas Stars 3 at Colorado Avalanche 2 | OFF (SO) | Wed Oct 14, 8:30 PM ET | TV: TNT, truTV, HBO MAX | Ball Arena
 - Montréal Canadiens 4 at Washington Capitals 5 | OFF | Wed Oct 14, 7:30 PM ET | TV: Prime, MNMT | Capital One Arena

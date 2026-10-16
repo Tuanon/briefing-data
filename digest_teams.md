@@ -1,4 +1,4 @@
-# Team digest (generated Fri Oct 16, 4:46 AM ET)
+# Team digest (generated Fri Oct 16, 5:32 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -51,7 +51,19 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Dru Smith (G) | Day-To-Day | Thu Oct 1, 12:15 PM ET | Smith will miss a couple weeks with a strained right calf, Ira Winderman of the South Florida Sun Sentinel reports.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
-News: none returned
+News (last days, newest first):
+- Vancouver Canucks vs. Florida Panthers: Game Highlights | Thu Oct 15, 10:04 PM ET | https://www.espn.com/video/clip/_/id/50193335/game-highlights | Vancouver Canucks vs. Florida Panthers: Game Highlights
+- Brady Tkachuk completes his 2nd straight natural hat trick in OT as Panthers stun Canucks | Thu Oct 15, 10:01 PM ET | http://www.espn.com/nhl/recap?gameId=401892510 | — Brady Tkachuk completed his second straight natural hat trick with a nifty move up the middle in overtime to give the Florida Panthers a 3-2 victory over the Vancouver Canucks on Thursday night.
+- NHL Tonight: Previews, stats, betting info for all 11 games on Thursday | Thu Oct 15, 10:41 AM ET | https://www.espn.com/nhl/story/_/id/50183186/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | It's another big night on the calendar for hockey fans. Here's what to watch in each contest.
+- Florida takes on Vancouver following Tkachuk's hat trick | Wed Oct 14, 4:12 AM ET | http://www.espn.com/nhl/preview?gameId=401892510 | Vancouver Canucks (2-6, in the Pacific Division) vs. Florida Panthers (3-2-2, in the Atlantic Division)
+- Brady Tkachuk's natural hat trick helps Panthers end skid | Wed Oct 14, 12:49 AM ET | https://www.espn.com/nhl/story/_/id/50178690/brady-tkachuk-natural-hat-trick-helps-panthers-end-skid | On the NHL's Frozen Frenzy night, the Tkachuk brothers fed right into it, as Brady Tkachuk had a natural hat trick and his brother Matthew Tkachuk matched a club record with five assists as the Florida Panthers beat the…
+- Florida Panthers vs. Columbus Blue Jackets: Game Highlights | Tue Oct 13, 9:28 PM ET | https://www.espn.com/video/clip/_/id/50178316/game-highlights | Florida Panthers vs. Columbus Blue Jackets: Game Highlights
+- Brady Tkachuk has natural hat trick, brother Matthew has 5 assists as Panthers roll Blue Jackets 7-3 | Tue Oct 13, 9:25 PM ET | http://www.espn.com/nhl/recap?gameId=401892489 | — Brady Tkachuk had a natural hat trick in the second period, his brother Matthew Tkachuk matched a club record with five assists and the Florida Panthers rolled past the Columbus Blue...
+- Betting tips for each of Tuesday's 16 Frozen Frenzy games | Tue Oct 13, 4:59 PM ET | https://www.espn.com/espn/betting/story/_/id/50167496/frozen-frenzy-hockey-betting-tips-odds-picks | With every NHL team in action, our experts give you betting tips and picks for Frozen Frenzy 2026.
+- The top reason to watch every NHL team in the Frozen Frenzy | Tue Oct 13, 11:31 AM ET | https://www.espn.com/nhl/story/_/id/50166535/nhl-2026-27-watch-all-32-teams-top-players-stats-records-playoffs-frozen-frenzy | From elite scorers to exciting rookies to legit drama, here's what we love about all 32.
+- Panthers visit the Blue Jackets after Reinhart's 2-goal game | Tue Oct 13, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892489 | Florida Panthers (2-2-2, in the Atlantic Division) vs. Columbus Blue Jackets (2-2, in the Metropolitan Division)
+- Noah Ostlund scores go-ahead goal in third period in Sabres' 5-3 win over Panthers | Mon Oct 12, 5:18 PM ET | http://www.espn.com/nhl/recap?gameId=401892485 | — Noah Ostlund scored the go-ahead goal on the power play 7:15 into the third period, and the Buffalo Sabres defeated the Florida Panthers 5-3 on Monday in an outing both teams lost key players to injury.
+- Florida Panthers vs. Buffalo Sabres: Game Highlights | Mon Oct 12, 3:53 PM ET | https://www.espn.com/video/clip/_/id/50168376/game-highlights | Florida Panthers vs. Buffalo Sabres: Game Highlights
 Injuries / player notes (ESPN; 5 of 5 entries shown):
 - Jacob Markstrom (G) | Out | Thu Oct 15, 11:02 AM ET | Markstrom (undisclosed) won't be available for Thursday's home game against the Canucks, Jameson Olive of the Panthers' official site reports.
 - Radko Gudas (D) | Out | Thu Oct 15, 11:00 AM ET | out
@@ -76,7 +88,6 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Premier League Top 50: Ranking the best players so far this season | Fri Oct 16, 3:29 AM ET | https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea | The Premier League Top 50 returns for the 2026-27 season to rank the best players across the league so far.
 - Moisés Caicedo determined to repay faith shown by Chelsea manager Xabi Alonso | Thu Oct 15, 12:13 PM ET | https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso | Moisés Caicedo is determined to repay the faith shown in him by Chelsea boss Xabi Alonso and become more of a leader on the pitch.
 - Why are Shakhtar playing Champions League games at Chelsea's Stamford Bridge? | Wed Oct 14, 4:06 AM ET | https://www.espn.com/soccer/story/_/id/50164913/why-shakhtar-playing-champions-league-games-chelsea-stamford-bridge | Explaining why Ukrainian side Shakhtar Donetsk will play home Champions League games at Chelsea's stadium.
 - Transfer rumors, news: Chelsea confident in January move for Scott | Tue Oct 13, 7:32 PM ET | https://www.espn.com/soccer/story/_/id/50171789/transfer-rumors-news-barcelona-real-madrid-scout-erling-haaland-anfield | Chelsea are growing confident of signing Bournemouth's Alex Scott. Transfer Talk has the latest.
@@ -88,6 +99,7 @@ News (last days, newest first):
 - Chelsea 5-1 Bournemouth: Premier League result, goals and reaction - as it happened | Sat Oct 10, 12:49 PM ET | https://www.espn.com/soccer/story/_/id/50146916/chelsea-bournemouth-live-premier-league-latest-updates-commentary-score-result | Chelsea host Bournemouth at Stamford Bridge as both sides look to bounce back from defeats before the international break and you can follow the action live on ESPN.
 - Michallik: I believe in Xabi Alonso | Sat Oct 10, 12:26 PM ET | https://www.espn.com/video/clip/_/id/50148449/believe-xabi-alonso | Michallik: I believe in Xabi Alonso
 - Jordan Henderson, 36, nets unlikely brace as Chelsea thrash Bournemouth | Sat Oct 10, 12:11 PM ET | http://www.espn.com/soccer/report/_/gameId/401878775 | Jordan Henderson was the unlikely hero as Chelsea's entertainers blew Bournemouth away in a comprehensive and chaotic 5-1 win at Stamford Bridge.
+- Chelsea's Cole Palmer signs new contract until 2034 | Sat Oct 10, 7:08 AM ET | https://www.espn.com/football/story/_/id/50146352/chelsea-cole-palmer-premier-league-xabi-alonso | Cole Palmer has signed a contract extension keeping him at Chelsea until 2034.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News: none returned
