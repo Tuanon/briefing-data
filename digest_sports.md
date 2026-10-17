@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Oct 17, 4:42 AM ET)
+# Sports digest (generated Sat Oct 17, 5:27 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -226,14 +226,6 @@ Finals (last ~40h):
 - Levski Sofia 1 at NEC Nijmegen 1 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | Goffertstadion
 - OFI Crete 1 at Stade Rennais 2 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | Roazhon Park
 - Besiktas 3 at TSG Hoffenheim 2 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | PreZero Arena
-- Hapoel Be'er 1 at AZ Alkmaar 2 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | AFAS Stadion
-- Bayer Leverkusen 4 at Lech Poznan 0 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Municipal Stadium-Poznan
-- Crystal Palace 2 at Lyon 3 | FT | Thu Oct 15, 12:45 PM ET | TV: CBSSN, Paramount+ | Groupama Stadium
-- Omonia Nicosia 3 at NK Celje 0 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Stadion Z'dezele
-- AC Milan 4 at RB Salzburg 0 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Red Bull Arena Salzburg
-- Lillestrom 1 at Sparta Prague 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Generali Arena
-- Sunderland 2 at Torreense 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Estádio Dr. Magalhaes Pessoa
-- Real Sociedad 1 at Union St.-Gilloise 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | King Power at Den Dreef Stadion
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - AZ Alkmaar at Ararat-Armenia | Scheduled | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Vazgen Sargsyan Republican Stadium
@@ -265,16 +257,6 @@ Finals (last ~40h):
 - Jablonec 2 at SC Freiburg 3 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | Europa-Park Stadion
 - Iberia 1999 0 at Sint-Truidense 2 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | Daio Wasabi Stayen Stadium
 - Lincoln Red Imps 1 at SK Brann 2 | FT | Thu Oct 15, 3:00 PM ET | TV: Paramount+ | Brann Stadium
-- AS Monaco 2 at CSKA Sofia 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Vasil Levski National Stadium
-- Getafe 1 at CSU Craiova 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Stadionul Ion Oblemenco
-- FC Midtjylland 1 at Egnatia 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Elbasan Arena
-- Red Star Belgrade 2 at FC Lugano 3 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | AIL Arena
-- Ajax Amsterdam 1 at Hajduk Split 2 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Stadion Poljud
-- AGF 0 at KAA Gent 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Ghelamco Arena
-- Trabzonspor 4 at KuPS Kuopio 2 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Tammelan Stadion
-- Inter D'Escaldes 0 at Mjällby AIF 2 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Olympia
-- Borac Banja Luka 1 at Panathinaikos 2 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Athens Olympic Stadium
-- Kairat Almaty 1 at Riga FC 1 | FT | Thu Oct 15, 12:45 PM ET | TV: Paramount+ | Skonto Stadions
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Panathinaikos at Kairat Almaty | Scheduled | Thu Oct 22, 10:30 AM ET | TV: Paramount+ | Almaty Ortalyk Stadium
@@ -300,7 +282,6 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Tampa Bay Rays None at Cleveland Guardians None | Postponed | Fri Oct 16, 8:00 PM ET | ALCS Game 4 | CLE leads 2-1
 - Milwaukee Brewers 6 at Los Angeles Dodgers 4 | Final | Thu Oct 15, 8:00 PM ET | NLCS Game 4 | MIL wins 4-0
-- Tampa Bay Rays 2 at Cleveland Guardians 3 | Final | Thu Oct 15, 1:00 PM ET | ALCS Game 3 | CLE leads 2-1
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Tampa Bay Rays at Cleveland Guardians | Scheduled | Sat Oct 17, 8:00 PM ET | ALCS Game 4 | CLE leads 2-1
