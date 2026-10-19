@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Oct 19, 4:51 AM ET)
+# Sports digest (generated Mon Oct 19, 5:37 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -82,7 +82,6 @@ Finals (last ~40h):
 - [MY TEAM] Seattle Kraken 3 at Florida Panthers 8 | Final | Sat Oct 17, 6:00 PM ET | TV: ESPN+, Scripps Sports, KONG, KHN, Prime Video (Local) | Amerant Bank Arena
 - Vancouver Canucks 2 at Tampa Bay Lightning 4 | Final | Sat Oct 17, 4:00 PM ET | TV: ESPN+, The Spot - MTN | Benchmark International Arena
 - Carolina Hurricanes 3 at Winnipeg Jets 2 | Final | Sat Oct 17, 3:30 PM ET | TV: ESPN+, CARNHL | Canada Life Centre
-- New Jersey Devils 2 at Washington Capitals 4 | Final | Sat Oct 17, 1:00 PM ET | TV: NHL Net, MNMT, MSGSN | Capital One Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Ottawa Senators | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: ESPN+, Scripps Sports | Canadian Tire Centre
 - [MY TEAM] Florida Panthers at Pittsburgh Penguins | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN+, Scripps Sports | PPG Paints Arena
@@ -151,10 +150,6 @@ Finals (last ~40h):
 - UNLV Rebels 31 at Air Force Falcons 41 | Final | Sat Oct 17, 3:30 PM ET | TV: CBSSN | Falcon Stadium
 - Toledo Rockets 34 at Eastern Michigan Eagles 14 | Final | Sat Oct 17, 3:30 PM ET | TV: ESPN+ | Rynearson Stadium
 - Akron Zips 14 at Miami (OH) RedHawks 34 | Final | Sat Oct 17, 3:30 PM ET | TV: ESPN+ | Yager Stadium
-- Western Michigan Broncos 21 at Central Michigan Chippewas 14 | Final | Sat Oct 17, 1:30 PM ET | TV: ESPN+ | Kelly/Shorts Stadium
-- The Citadel Bulldogs 0 at Texas A&M Aggies 41 | Final | Sat Oct 17, 1:00 PM ET | TV: SECN+ | Kyle Field
-- Charlotte 49ers 38 at Temple Owls 31 | Final | Sat Oct 17, 1:00 PM ET | TV: ESPN+ | Lincoln Financial Field
-- Massachusetts Minutemen 18 at Buffalo Bulls 25 | Final/OT | Sat Oct 17, 1:00 PM ET | TV: ESPN+ | Broadview Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Middle Tennessee Blue Raiders at Florida International Panthers | 10/20 - 7:00 PM EDT | Tue Oct 20, 7:00 PM ET | TV: CBSSN | Pitbull Stadium
@@ -327,7 +322,6 @@ Finals (last ~40h):
 - [MY TEAM] Seattle Kraken 3 at Florida Panthers 8 | OFF | Sat Oct 17, 6:00 PM ET | TV: Prime Video, KONG, SCRIPPS | Amerant Bank Arena
 - Vancouver Canucks 2 at Tampa Bay Lightning 4 | OFF | Sat Oct 17, 4:00 PM ET | TV: SNP, The Spot | Benchmark International Arena
 - Carolina Hurricanes 3 at Winnipeg Jets 2 | OFF | Sat Oct 17, 3:30 PM ET | TV: CARNHL, HHN, SN | Canada Life Centre
-- New Jersey Devils 2 at Washington Capitals 4 | OFF | Sat Oct 17, 1:00 PM ET | TV: SN, NHLN, MNMT, MSGSN | Capital One Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Ottawa Senators | FUT | Wed Oct 21, 7:30 PM ET | TV: Prime, SCRIPPS | Canadian Tire Centre
 - [MY TEAM] Florida Panthers at Pittsburgh Penguins | FUT | Thu Oct 22, 7:00 PM ET | TV: SN, TVAS, SN-PIT, SCRIPPS | PPG Paints Arena

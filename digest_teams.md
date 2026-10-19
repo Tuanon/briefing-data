@@ -1,4 +1,4 @@
-# Team digest (generated Mon Oct 19, 4:51 AM ET)
+# Team digest (generated Mon Oct 19, 5:37 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -35,6 +35,7 @@ Injuries / player notes (ESPN; 15 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- How to Watch the NBA in Australia 2026-27 | ESPN on Disney+ | Mon Oct 19, 2:16 AM ET | https://www.espn.com/nba/story/_/id/50216358/nba-espn-disney-schedule-teams-how-watch-nba-australia-2026-27 | Watch the 2026-27 NBA season live on ESPN via Disney+. Opening week schedule in AEDT, prices, Prime Video, League Pass and every Aussie in the NBA.
 - Miami Heat vs. Orlando Magic: Game Highlights | Fri Oct 16, 11:14 PM ET | https://www.espn.com/video/clip/_/id/50199360/game-highlights | Miami Heat vs. Orlando Magic: Game Highlights
 - NBA betting: One bet to make on every team heading into the season | Fri Oct 16, 6:38 AM ET | https://www.espn.com/sports-betting/story/_/id/50185247/nba-betting-one-bet-make-every-team-2026-2027 | Don't go into the NBA season without knowing which bet to make for every team.
 - Victor Wembanyama, Spurs dominate annual NBA GM survey | Thu Oct 15, 3:48 PM ET | https://www.espn.com/nba/story/_/id/50190258/victor-wembanyama-spurs-dominate-annual-nba-gm-survey | An annual survey of NBA general managers projects the Spurs to win the NBA title this season, with Victor Wembanyama earning MVP and Defensive Player of the Year honors.
