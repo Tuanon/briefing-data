@@ -1,4 +1,4 @@
-# Team digest (generated Tue Oct 20, 4:46 AM ET)
+# Team digest (generated Tue Oct 20, 5:33 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -90,6 +90,7 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty | Tue Oct 20, 3:18 AM ET | https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty | Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.
 - Jordan Henderson not giving up on England after Chelsea revitalisation | Sun Oct 18, 12:30 PM ET | https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation | Jordan Henderson has not given up on extending his England career after insisting he will use a new lease of life at Chelsea to prove he can still perform at the highest level.
 - Chelsea's Emi Martínez has jaw surgery, will be 'back in a few weeks' | Sun Oct 18, 8:28 AM ET | https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league | Emi Martínez said he would be "back in a few weeks" after undergoing surgery following a head injury suffered during Chelsea's Premier League win over Everton on Saturday.
 - Henderson, the Premier League's oldest player, is becoming undroppable for Chelsea | Sat Oct 17, 12:17 PM ET | https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea | At 36 years old, Jordan Henderson is the Premier League's elder statesman. He is also one of Chelsea's most important players.
@@ -101,7 +102,6 @@ News (last days, newest first):
 - Chelsea's Reece James may be sidelined beyond Christmas- Xabi Alonso | Fri Oct 16, 2:36 PM ET | https://www.espn.com/soccer/story/_/id/50194856/chelsea-reece-james-undergoes-minor-knee-surgery | Chelsea have confirmed that their captain Reece James has undergone successful minor knee surgery.
 - Alonso: Reece James could be sidelined beyond Christmas | Fri Oct 16, 2:16 PM ET | https://www.espn.com/video/clip/_/id/50197431/reece-james-sidelined-christmas | Alonso: Reece James could be sidelined beyond Christmas
 - Premier League Top 50: Ranking the best players so far this season | Fri Oct 16, 7:13 AM ET | https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea | The Premier League Top 50 returns for the 2026-27 season to rank the best players across the league so far.
-- Moisés Caicedo determined to repay faith shown by Chelsea manager Xabi Alonso | Thu Oct 15, 12:13 PM ET | https://www.espn.com/soccer/story/_/id/50189608/moises-caicedo-determined-repay-faith-shown-chelsea-manager-xabi-alonso | Moisés Caicedo is determined to repay the faith shown in him by Chelsea boss Xabi Alonso and become more of a leader on the pitch.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News: none returned

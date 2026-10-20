@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Oct 20, 4:46 AM ET)
+# Sports digest (generated Tue Oct 20, 5:33 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -9,13 +9,6 @@ Finals (last ~40h):
 - Los Angeles Chargers 6 at Kansas City Chiefs 22 | Final | Sun Oct 18, 4:25 PM ET | TV: CBS | Arrowhead Stadium
 - Buffalo Bills 33 at Las Vegas Raiders 30 | Final | Sun Oct 18, 4:25 PM ET | TV: CBS | Allegiant Stadium
 - Arizona Cardinals 18 at Los Angeles Rams 16 | Final | Sun Oct 18, 4:05 PM ET | TV: Fox | SoFi Stadium
-- Chicago Bears 31 at Atlanta Falcons 23 | Final | Sun Oct 18, 1:00 PM ET | TV: Fox | Mercedes-Benz Stadium
-- Baltimore Ravens 10 at Cleveland Browns 13 | Final | Sun Oct 18, 1:00 PM ET | TV: Fox | Huntington Bank Field
-- Tennessee Titans 26 at Indianapolis Colts 20 | Final | Sun Oct 18, 1:00 PM ET | TV: Fox | Lucas Oil Stadium
-- New York Jets 19 at New England Patriots 26 | Final | Sun Oct 18, 1:00 PM ET | TV: CBS | Gillette Stadium
-- New Orleans Saints 34 at New York Giants 27 | Final | Sun Oct 18, 1:00 PM ET | TV: Fox | MetLife Stadium
-- Carolina Panthers 25 at Philadelphia Eagles 14 | Final | Sun Oct 18, 1:00 PM ET | TV: CBS | Lincoln Financial Field
-- Pittsburgh Steelers 26 at Tampa Bay Buccaneers 19 | Final/OT | Sun Oct 18, 1:00 PM ET | TV: CBS | Raymond James Stadium
 Next 7 days, my teams:
 - [MY TEAM] Miami Dolphins at New York Jets | 10/25 - 1:00 PM EDT | Sun Oct 25, 1:00 PM ET | TV: CBS | MetLife Stadium
 Next 7 days, others (first 25):
