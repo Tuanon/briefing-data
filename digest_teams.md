@@ -1,12 +1,14 @@
-# Team digest (generated Tue Oct 20, 5:33 AM ET)
+# Team digest (generated Wed Oct 21, 4:48 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- Dolphins release Riley Patterson after Week 5 problems defending kickoffs | Tue Oct 20, 2:11 PM ET | https://www.espn.com/nfl/story/_/id/50229491/sources-dolphins-release-riley-patterson-amid-kickoff-woes | The Dolphins released kicker Riley Patterson in a move aimed to improve one of the NFL's worst special teams units.
+- Early bets for NFL Week 7: Three games we're jumping on right now | Tue Oct 20, 1:20 PM ET | https://www.espn.com/espn/betting/story/_/id/50179319/nfl-week-7-betting-odds-props-early-picks-predictions | Which Week 7 lines offered immediate value once odds came out? Here are three early bets we like.
+- NFL Week 7 betting odds: Lines and totals for every game | Tue Oct 20, 1:20 PM ET | https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.
+- NFL Power Rankings: How all 32 teams stack up for Week 7, plus offensive issues | Tue Oct 20, 10:42 AM ET | https://www.espn.com/nfl/story/_/id/50218886/nfl-power-rankings-week-7-teams-biggest-issue-offense | How does every NFL team stack up heading into Week 7? We made our 1-32 list and picked the biggest offensive problem for every team.
 - 49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals | Mon Oct 19, 7:19 PM ET | https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
-- NFL Week 7 betting odds: Lines and totals for every game | Mon Oct 19, 11:22 AM ET | https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.
-- Early bets for NFL Week 7: Three games we're jumping on right now | Mon Oct 19, 10:40 AM ET | https://www.espn.com/espn/betting/story/_/id/50179319/nfl-week-7-betting-odds-props-early-picks-predictions | Which Week 7 lines offered immediate value once odds came out? Here are three early bets we like.
 - How active NFL players continue to redefine all-time sack list | Mon Oct 19, 10:23 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
 - 2027 NFL draft order projections for Round 1, chances for top pick, more | Mon Oct 19, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - Week 6 NFL highlights: Best plays, moments, touchdowns, more | Mon Oct 19, 12:17 AM ET | https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns | Here's a look at the best plays from Sunday's NFL action in Week 6.
@@ -14,9 +16,7 @@ News (last days, newest first):
 - What are the longest field goals in NFL history? | Sun Oct 18, 4:33 PM ET | https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history | Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.
 - NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup | Sun Oct 18, 3:52 PM ET | https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms | Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.
 - Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage | Sun Oct 18, 7:16 AM ET | https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings | The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.
-- NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips | Sat Oct 17, 9:24 PM ET | https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026 | Patrick Mahomes vs. Justin Herbert? C.J. Stroud vs. Trevor Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.
-- Dolphins not expected to make QB change | Sat Oct 17, 7:58 PM ET | https://www.espn.com/video/clip/_/id/50205610/dolphins-not-expected-make-qb-change | Marcel Louis-Jacques details the Dolphins' commitment to Malik Willis.
-Injuries / player notes (ESPN; 16 of 25 entries shown):
+Injuries / player notes (ESPN; 15 of 25 entries shown):
 - Jonah Savaiinaea (G) | Questionable | Mon Oct 19, 8:18 PM ET | Savaiinaea (ankle) was a limited participant at the Dolphins' practice Monday, C. Isaiah Smalls II of the Miami Herald reports.
 - Malik Willis (QB) | Active | Mon Oct 19, 10:56 AM ET | Head coach Jeff Hafley said that Willis should be ready to play Sunday against the Jets after tending to a minor undisclosed injury coming out of the Dolphins' Week 5 loss to the Bengals, David Furon…
 - Caleb Douglas (WR) | Questionable | Mon Oct 19, 10:44 AM ET | Dolphins head coach Jeff Hafley said that Douglas (ankle) will be a limited participant in Monday's informal practice, David Furones of the South Florida Sun Sentinel reports.
@@ -29,13 +29,13 @@ Injuries / player notes (ESPN; 16 of 25 entries shown):
 - Jordyn Brooks (LB) | Active | Sun Oct 11, 3:02 PM ET | Brooks (foot) returned to Sunday's game against the Bengals in the third quarter, Travis Wingfield of the Dolphins' official site reports.
 - Jackson Woodard (LB) | Active | Sun Oct 11, 12:53 PM ET | Woodard (ankle) is listed as active for Sunday's game against the Bengals.
 - Jaylen Wright (RB) | Active | Sun Oct 11, 12:01 PM ET | Wright (foot) is active for Sunday's game against the Bengals.
-- Storm Duck (CB) | Out | Sat Oct 10, 8:56 PM ET | Duck (knee) has been downgraded to out for Sunday's game against the Bengals, David Furones of the South Florida Sun Sentinel reports.
 - Kenneth Grant (DT) | Active | Sat Oct 10, 8:31 PM ET | The Dolphins activated Grant (toe) from injured reserve Saturday.
 - Dante Trader Jr. (S) | Active | Fri Oct 9, 8:11 PM ET | Trader (shin) does not have an injury designation against the Bengals on Sunday, Paul Dehner Jr. of The Athletic reports.
 - Chris Bell (WR) | Active | Fri Oct 9, 5:19 PM ET | Bell (knee) does not have an injury designation for Sunday's game against the Bengals, Paul Dehner Jr. of The Athletic reports.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- NBA championship and MVP odds: Spurs, Thunder tied entering season; Wemby ahead of SGA | Tue Oct 20, 3:59 PM ET | https://www.espn.com/espn/betting/story/_/id/50230164/nba-championship-mvp-betting-odds-2026-2027 | Each team's odds to win the NBA title, conference and division, plus MVP odds.
 - Heat open season at home against the Timberwolves | Tue Oct 20, 2:04 AM ET | http://www.espn.com/nba/preview?gameId=401909091 | Minnesota Timberwolves vs. Miami Heat
 - How to Watch the NBA in Australia 2026-27 | ESPN on Disney+ | Mon Oct 19, 7:08 PM ET | https://www.espn.com/nba/story/_/id/50216358/nba-espn-disney-schedule-teams-how-watch-nba-australia-2026-27 | Watch the 2026-27 NBA season live on ESPN via Disney+. Opening week schedule in AEDT, prices, Prime Video, League Pass and every Aussie in the NBA.
 - 2026-27 NBA season preview: Rankings, predictions, odds | Mon Oct 19, 2:31 PM ET | https://www.espn.com/nba/story/_/id/49998634/2026-27-nba-season-preview-rankings-predictions | Here's everything you need to know for all 30 NBA teams for the season, including storylines, stats and predictions ahead of opening night.
@@ -47,16 +47,14 @@ News (last days, newest first):
 - Amar'e Stoudemire graduates from Miami Dade law enforcement academy | Thu Oct 15, 12:09 PM ET | https://www.espn.com/nba/story/_/id/50189623/amare-stoudemire-law-enforcement-academy-police | Stoudemire will now train with the Miami-Dade Schools Police Department.
 - Brooklyn Nets vs. Miami Heat: Game Highlights | Wed Oct 14, 10:25 PM ET | https://www.espn.com/video/clip/_/id/50186240/game-highlights | Brooklyn Nets vs. Miami Heat: Game Highlights
 - NBA Now or Later rankings: Which teams most need to win immediately? | Wed Oct 14, 6:58 AM ET | https://www.espn.com/nba/story/_/id/50167312/2026-27-now-later-rankings-finals | Which teams must win immediately, with their current cores, and which could bide their time and win later instead? We ranked all 30.
-- Which NBA deals will get done? Bobby Marks' biggest extension decisions to watch | Tue Oct 13, 3:51 PM ET | https://www.espn.com/nba/story/_/id/50166436/rookie-veteran-contract-extensions-towns-giannis-jokic | With Monday's extension deadline looming, Bobby Marks breaks down the biggest decisions around the league.
-Injuries / player notes (ESPN; 3 of 3 entries shown):
-- Dru Smith (G) | Day-To-Day | Mon Oct 19, 7:17 PM ET | Smith (calf) participated in practice Monday, Anthony Chiang of the Miami Herald reports.
-- Bam Adebayo (C) | Day-To-Day | Mon Oct 19, 7:15 PM ET | Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.
-- Pelle Larsson (G) | Day-To-Day | Mon Oct 19, 7:15 PM ET | Larsson (illness) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.
+Injuries / player notes (ESPN; 1 of 1 entries shown):
+- Vladislav Goldin (C) | Day-To-Day | Tue Oct 20, 3:48 PM ET | Goldin is questionable for Wednesday's season opener against Minnesota with a right ankle sprain.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Panthers' Brady Tkachuk to donate Senators jerseys thrown in protest | Tue Oct 20, 2:00 PM ET | https://www.espn.com/nhl/story/_/id/50229361/panthers-brady-tkachuk-donate-senators-jerseys-thrown-protest | Brady Tkachuk, who was traded from Ottawa to Florida in June, says he'll donate any Senators jerseys thrown in protest of his return to the Boys and Girls Club of Ottawa.
+- NHL Power Rankings: Each team's biggest shock of 2026-27 | Tue Oct 20, 10:32 AM ET | https://www.espn.com/nhl/story/_/id/50190257/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | The Hurricanes are back on top of our 1-32 poll. Plus, we identify the big surprises -- both good and bad.
 - Panthers bring win streak into game against the Senators | Tue Oct 20, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892551 | Florida Panthers (5-2-2, in the Atlantic Division) vs. Ottawa Senators (6-3, in the Atlantic Division)
-- NHL Power Rankings: Each team's biggest shock of 2026-27 | Mon Oct 19, 6:17 AM ET | https://www.espn.com/nhl/story/_/id/50190257/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | The Hurricanes are back on top of our 1-32 poll. Plus, we identify the big surprises -- both good and bad.
 - Panthers become 1st NHL team to author natural hat tricks in 3 straight games | Sun Oct 18, 2:14 PM ET | https://www.espn.com/nhl/story/_/id/50206303/verhaeghe-bennett-keep-panthers-hat-trick-streak-tact | Carter Verhaeghe and Sam Bennett each scored three goals as the Panthers became first team in NHL history with natural hat tricks in three straight games during an 8-3 win over the Kraken.
 - Verhaeghe, Bennett each get hat tricks, Panthers roll past Kraken 8-3 | Sat Oct 17, 8:52 PM ET | http://www.espn.com/nhl/recap?gameId=401892522 | — Carter Verhaeghe had a history-making natural hat trick, Sam Bennett scored his first three goals of the season and the Florida Panthers rolled past the Seattle Kraken 8-3 on Saturday night.
 - Seattle Kraken vs. Florida Panthers: Game Highlights | Sat Oct 17, 8:48 PM ET | https://www.espn.com/video/clip/_/id/50206041/game-highlights | Seattle Kraken vs. Florida Panthers: Game Highlights
@@ -66,15 +64,15 @@ News (last days, newest first):
 - Vancouver Canucks vs. Florida Panthers: Game Highlights | Thu Oct 15, 10:04 PM ET | https://www.espn.com/video/clip/_/id/50193335/game-highlights | Vancouver Canucks vs. Florida Panthers: Game Highlights
 - Brady Tkachuk completes his 2nd straight natural hat trick in OT as Panthers stun Canucks | Thu Oct 15, 10:01 PM ET | http://www.espn.com/nhl/recap?gameId=401892510 | — Brady Tkachuk completed his second straight natural hat trick with a nifty move up the middle in overtime to give the Florida Panthers a 3-2 victory over the Vancouver Canucks on Thursday night.
 - NHL Tonight: Previews, stats, betting info for all 11 games on Thursday | Thu Oct 15, 10:41 AM ET | https://www.espn.com/nhl/story/_/id/50183186/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | It's another big night on the calendar for hockey fans. Here's what to watch in each contest.
-- Florida takes on Vancouver following Tkachuk's hat trick | Wed Oct 14, 4:12 AM ET | http://www.espn.com/nhl/preview?gameId=401892510 | Vancouver Canucks (2-6, in the Pacific Division) vs. Florida Panthers (3-2-2, in the Atlantic Division)
 Injuries / player notes (ESPN; 4 of 4 entries shown):
-- Radko Gudas (D) | Day-To-Day | Sun Oct 18, 9:09 AM ET | day-to-day
+- Jacob Markstrom (G) | Injured Reserve | Tue Oct 20, 5:23 PM ET | ir
 - Brad Marchand (LW) | Injured Reserve | Mon Oct 12, 5:11 PM ET | ir
 - Aleksander Barkov (C) | Injured Reserve | Tue Oct 6, 2:38 PM ET | Barkov (lower body) will be out for approximately 6-8 weeks, Jameson Olive of the Panthers' official site reports Tuesday.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Sep 17, 4:53 PM ET | Gadjovich (upper body) is out indefinitely, the team announced Thursday.
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- College Football Playoff Bubble Watch after Week 7 | Tue Oct 20, 11:12 AM ET | https://www.espn.com/college-football/story/_/id/50219416/cfp-playoff-2026-bubble-watch-week-7 | A conference-by-conference look at who is contending for the playoff, who's close and who's out.
 - Harper, Cubelic analyze the CFP chances of SEC contenders | Mon Oct 19, 7:08 PM ET | https://www.espn.com/video/clip/_/id/50222146/harper-cubelic-analyze-cfp-chances-sec-contenders | SEC Network's Roman Harper and Cole Cubelic look at the AllState Playoff Predictor numbers to analyze SEC teams with the highest chance to make the College Football Playoff.
 - Allstate Playoff Predictor | Mon Oct 19, 3:44 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
 - Doering, Burns reveal their SECTM Week 7 Power Rankings | Mon Oct 19, 2:02 PM ET | https://www.espn.com/video/clip/_/id/50220014/doering-burns-reveal-their-sectm-week-7-power-rankings | After a Week 7 full of marquee victories and defeats across the conference, SEC This Morning's Chris Doering ranks what went wrong while Peter Burns focuses on the positives.
@@ -86,11 +84,11 @@ News (last days, newest first):
 - Week 7's best game? Impossible to choose on a wild Saturday | Sun Oct 18, 2:20 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal101726/week-7-top-games-highlights-takeaways | With five top-seven teams losing and dramatic finishes across the board, college football brought the heat in Week 7.
 - No. 1 Georgia, No. 2 Notre Dame among top-eight teams to fall | Sun Oct 18, 2:20 AM ET | https://www.espn.com/college-football/story/_/id/50206151/georgia-alabama-sec-elite-fall-day-upsets | No. 1 Georgia, No. 2 Notre Dame and No. 6 Alabama were among top-eight teams to stumble on a wild Saturday of upsets.
 - Jon Sumrall, Auburn top trolls from Week 7 in college football | Sun Oct 18, 12:41 AM ET | https://www.espn.com/college-football/story/_/id/50201050/college-football-trolls-week-7 | After the upset, Sumrall was in a celebratory mood, donning a cowboy hat fit for a Texan while striding through the hallways of Darrell K Royal-Texas Memorial Stadium.
-- All the top scenes from a wild, historic day in college football | Sun Oct 18, 12:27 AM ET | https://www.espn.com/college-football/story/_/id/50206906/college-football-week-7-scenes | There were some incredible college football scenes Saturday. Here are the best sights from a special day in the ever-chaotic sport we all love.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Transfer rumors, news: Premier League clubs eye Alexander-Arnold amid Real Madrid uncertainty | Tue Oct 20, 3:18 AM ET | https://www.espn.com/soccer/story/_/id/50225503/transfer-rumors-news-premier-league-clubs-eye-alexander-arnold-amid-real-madrid-uncertainty | Real Madrid defender Trent Alexander-Arnold is considering his future at the Bernabéu, with Liverpool, Chelsea, Arsenal and Man City monitoring his situation. Transfer Talk has the latest.
+- Morgan Rogers: João Pedro's 'hunger' to score makes everyone at Chelsea better | Tue Oct 20, 9:25 AM ET | https://www.espn.com/soccer/story/_/id/50227941/morgan-rogers-joao-pedro-chelsea-xabi-alonso | Morgan Rogers feels João Pedro is at the height of his powers and has hailed his in-form teammate's "hunger to score" for Xabi Alonso's Chelsea.
+- PSG unveil jersey for Steelers vs. Saints NFL game in Paris | Tue Oct 20, 9:23 AM ET | https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game | If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.
 - Jordan Henderson not giving up on England after Chelsea revitalisation | Sun Oct 18, 12:30 PM ET | https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation | Jordan Henderson has not given up on extending his England career after insisting he will use a new lease of life at Chelsea to prove he can still perform at the highest level.
 - Chelsea's Emi Martínez has jaw surgery, will be 'back in a few weeks' | Sun Oct 18, 8:28 AM ET | https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league | Emi Martínez said he would be "back in a few weeks" after undergoing surgery following a head injury suffered during Chelsea's Premier League win over Everton on Saturday.
 - Henderson, the Premier League's oldest player, is becoming undroppable for Chelsea | Sat Oct 17, 12:17 PM ET | https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea | At 36 years old, Jordan Henderson is the Premier League's elder statesman. He is also one of Chelsea's most important players.
@@ -101,10 +99,11 @@ News (last days, newest first):
 - Xabi Alonso not ready to say if Chelsea heading 'right way' | Fri Oct 16, 6:03 PM ET | https://www.espn.com/soccer/story/_/id/50198374/xabi-alonso-chelsea-heading-right-way | Xabi Alonso said it is too early to tell whether Chelsea are going the "right way" as he looks for greater balance from his free-scoring team.
 - Chelsea's Reece James may be sidelined beyond Christmas- Xabi Alonso | Fri Oct 16, 2:36 PM ET | https://www.espn.com/soccer/story/_/id/50194856/chelsea-reece-james-undergoes-minor-knee-surgery | Chelsea have confirmed that their captain Reece James has undergone successful minor knee surgery.
 - Alonso: Reece James could be sidelined beyond Christmas | Fri Oct 16, 2:16 PM ET | https://www.espn.com/video/clip/_/id/50197431/reece-james-sidelined-christmas | Alonso: Reece James could be sidelined beyond Christmas
-- Premier League Top 50: Ranking the best players so far this season | Fri Oct 16, 7:13 AM ET | https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea | The Premier League Top 50 returns for the 2026-27 season to rank the best players across the league so far.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
-News: none returned
+News (last days, newest first):
+- 2026 MLB ABS challenge system tracker: Team, player rankings | Tue Oct 20, 1:40 PM ET | https://www.espn.com/mlb/story/_/id/48305211/2026-mlb-abs-challenge-system-tracker-team-player-rankings | The ABS challenge system leaderboard ranks batters, catchers, teams and umpires throughout the MLB season.
+- Where 2026 ranks among best World Series matchups since 2000 | Tue Oct 20, 8:25 AM ET | https://www.espn.com/mlb/story/_/id/50223790/ranking-best-world-series-matchups-2000 | This year's Fall Classic will crown a first-time winner. Here's where it stands among the best matchups of this century.
 Injuries / player notes (ESPN; 11 of 11 entries shown):
 - Jakob Marsee (CF) | Out | Mon Oct 12, 3:26 PM ET | Marsee underwent an internal brace procedure on Monday to repair his left elbow UCL, FishOnFirst.com reports.
 - Tyler Zuber (RP) | 15-Day-IL | Thu Oct 8, 10:49 AM ET | Zuber will undergo UCL surgery with an internal brace on his right elbow Monday, Christina De Nicola of MLB.com reports.
