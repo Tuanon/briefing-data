@@ -1,4 +1,4 @@
-# Team digest (generated Thu Oct 22, 4:50 AM ET)
+# Team digest (generated Thu Oct 22, 5:35 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -73,6 +73,7 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Bryce Thornton on Gators' defensive turnaround, rivalry against Georgia | Wed Oct 21, 10:29 PM ET | https://www.espn.com/video/clip/_/id/50243408/bryce-thornton-gators-defensive-turnaround-rivalry-georgia | Thornton joins SEC Now to discuss how Florida's defense banded together through adversity and shares his experience growing up watching one of college football's biggest rivalries.
 - What's gone right and wrong for Power 4's first-year coaches? | Wed Oct 21, 1:26 PM ET | https://www.espn.com/college-football/story/_/id/50228018/new-power-4-coach-review | After an unprecendented amount of change in 2025, let's take stock of how those new coaches are doing.
 - Texas bans fan who made obscene gesture at Florida players | Wed Oct 21, 12:50 PM ET | https://www.espn.com/college-football/story/_/id/50238721/texas-bans-fan-made-obscene-gesture-florida-players | Texas AD Chris Del Conte said that a fan who was filmed making obscene gestures at Florida players on the field on Saturday has been permanently banned from Darrell K Royal-Texas Memorial Stadium.
 - Top 25 betting lines: Texas favored vs. Ole Miss, Utah the fave vs. Houston | Wed Oct 21, 8:17 AM ET | https://www.espn.com/espn/betting/story/_/id/50216670/2026-college-football-week-8-top-25-betting-lines-odds | This week's odds and FPI predictions for Texas-Ole Miss, Utah-Houston and every top 25 matchup.
@@ -84,7 +85,6 @@ News (last days, newest first):
 - 2026-27 Week 7 College Football Playoff, bowl projections | Mon Oct 19, 7:24 AM ET | https://www.espn.com/college-football/story/_/id/50206179/2026-week-7-college-football-playoff-bowl-projections | Following an exhilarating Week 7, our bowl gurus take a look at how the postseason picture changed.
 - Connelly on upset-filled Week 7: How it happened and what it all means | Sun Oct 18, 5:08 PM ET | https://www.espn.com/college-football/story/_/id/50211284/connelly-week-7-upsets-mean | Bill Connelly makes sense of an upset-filled Saturday the likes of which college football has never seen.
 - SEC Football Final dissects QB play in Florida's triumph over Texas | Sun Oct 18, 2:13 PM ET | https://www.espn.com/video/clip/_/id/50211708/sec-football-final-dissects-qb-play-florida-triumph-texas | Chris Doering, Benjamin Watson, and Peter Burns analyze the Gators' and Longhorns' Week 7 offense through Arch Manning and Tramell Jones Jr.'s performance.
-- Week 7's best game? Impossible to choose on a wild Saturday | Sun Oct 18, 2:20 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal101726/week-7-top-games-highlights-takeaways | With five top-seven teams losing and dramatic finishes across the board, college football brought the heat in Week 7.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
