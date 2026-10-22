@@ -1,10 +1,8 @@
-# Sports digest (generated Wed Oct 21, 5:33 AM ET)
+# Sports digest (generated Thu Oct 22, 4:50 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
 ## NFL
-Finals (last ~40h):
-- Washington Commanders 17 at San Francisco 49ers 23 | Final | Mon Oct 19, 8:15 PM ET | TV: ESPN, ABC | Levi's Stadium
 Next 7 days, my teams:
 - [MY TEAM] Miami Dolphins at New York Jets | 10/25 - 1:00 PM EDT | Sun Oct 25, 1:00 PM ET | TV: CBS | MetLife Stadium
 Next 7 days, others (first 25):
@@ -24,43 +22,56 @@ Next 7 days, others (first 25):
 
 ## NBA
 Finals (last ~40h):
+- Sacramento Kings 96 at LA Clippers 121 | Final | Wed Oct 21, 10:30 PM ET | TV: NBA League Pass, KTLA, ClipperVision | Intuit Dome
+- Golden State Warriors 105 at Los Angeles Lakers 127 | Final | Wed Oct 21, 10:00 PM ET | TV: ESPN | crypto.com Arena
+- Phoenix Suns 83 at Portland Trail Blazers 124 | Final | Wed Oct 21, 10:00 PM ET | TV: NBA League Pass, Suns Live, Arizona's Family 3TV, KUNP 16, BlazerVision | Moda Center
+- Dallas Mavericks 110 at Houston Rockets 128 | Final | Wed Oct 21, 8:30 PM ET | TV: NBA League Pass, KFAA-TV, MavsTV | Toyota Center (Houston)
+- Utah Jazz 103 at Memphis Grizzlies 123 | Final | Wed Oct 21, 8:00 PM ET | TV: NBA League Pass, KJZZ-TV, Jazz+, DAZN MEM | FedExForum
+- Indiana Pacers 123 at New Orleans Pelicans 120 | Final | Wed Oct 21, 8:00 PM ET | TV: NBA League Pass, DAZN IND, GCSEN, Pelicans.com | Smoothie King Center
+- [MY TEAM] Minnesota Timberwolves 131 at Miami Heat 106 | Final | Wed Oct 21, 7:30 PM ET | TV: ESPN | Kaseya Center
+- Charlotte Hornets 110 at Brooklyn Nets 103 | Final | Wed Oct 21, 7:30 PM ET | TV: NBA League Pass, DAZN (YES) | Barclays Center
+- Chicago Bulls 92 at Toronto Raptors 135 | Final | Wed Oct 21, 7:30 PM ET | TV: NBA League Pass | Scotiabank Arena
+- Atlanta Hawks 132 at Orlando Magic 125 | Final | Wed Oct 21, 7:00 PM ET | TV: NBA League Pass | Kia Center
+- Milwaukee Bucks 116 at Washington Wizards 128 | Final | Wed Oct 21, 7:00 PM ET | TV: MNMT, NBA League Pass, MyMi, Bucks App | Capital One Arena
 - Oklahoma City Thunder 116 at San Antonio Spurs 104 | Final | Tue Oct 20, 9:50 PM ET | TV: NBC | Frost Bank Center
 - Philadelphia 76ers 106 at New York Knicks 100 | Final | Tue Oct 20, 7:00 PM ET | TV: NBC | Madison Square Garden
 - Boston Celtics 113 at Detroit Pistons 121 | Final | Tue Oct 20, 3:00 PM ET | TV: NBC | Little Caesars Arena
 Next 7 days, my teams:
-- [MY TEAM] Minnesota Timberwolves at Miami Heat | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: ESPN | Kaseya Center
 - [MY TEAM] Detroit Pistons at Miami Heat | 10/23 - 8:00 PM EDT | Fri Oct 23, 8:00 PM ET | TV: NBA League Pass | Kaseya Center
 - [MY TEAM] Miami Heat at Charlotte Hornets | 10/24 - 6:00 PM EDT | Sat Oct 24, 6:00 PM ET | TV: NBA League Pass | Spectrum Center
-- [MY TEAM] Dallas Mavericks at Miami Heat | 10/26 - 7:30 PM EDT | Mon Oct 26, 7:30 PM ET | TV: NBA TV | Kaseya Center
+- [MY TEAM] Dallas Mavericks at Miami Heat | 10/26 - 7:30 PM EDT | Mon Oct 26, 7:30 PM ET | TV: NBA TV, KFAA-TV, MavsTV | Kaseya Center
+- [MY TEAM] Miami Heat at Atlanta Hawks | 10/28 - 7:00 PM EDT | Wed Oct 28, 7:00 PM ET | TV: NBA League Pass | State Farm Arena
 Next 7 days, others (first 25):
-- Atlanta Hawks at Orlando Magic | 10/21 - 7:00 PM EDT | Wed Oct 21, 7:00 PM ET | TV: NBA League Pass | Kia Center
-- Milwaukee Bucks at Washington Wizards | 10/21 - 7:00 PM EDT | Wed Oct 21, 7:00 PM ET | TV: MNMT, NBA League Pass | Capital One Arena
-- Charlotte Hornets at Brooklyn Nets | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: NBA League Pass | Barclays Center
-- Chicago Bulls at Toronto Raptors | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: NBA League Pass | Scotiabank Arena
-- Utah Jazz at Memphis Grizzlies | 10/21 - 8:00 PM EDT | Wed Oct 21, 8:00 PM ET | TV: NBA League Pass | FedExForum
-- Indiana Pacers at New Orleans Pelicans | 10/21 - 8:00 PM EDT | Wed Oct 21, 8:00 PM ET | TV: NBA League Pass | Smoothie King Center
-- Dallas Mavericks at Houston Rockets | 10/21 - 8:30 PM EDT | Wed Oct 21, 8:30 PM ET | TV: NBA League Pass | Toyota Center (Houston)
-- Golden State Warriors at Los Angeles Lakers | 10/21 - 10:00 PM EDT | Wed Oct 21, 10:00 PM ET | TV: ESPN | crypto.com Arena
-- Phoenix Suns at Portland Trail Blazers | 10/21 - 10:00 PM EDT | Wed Oct 21, 10:00 PM ET | TV: NBA League Pass | Moda Center
-- Sacramento Kings at LA Clippers | 10/21 - 10:30 PM EDT | Wed Oct 21, 10:30 PM ET | TV: NBA League Pass | Intuit Dome
 - Cleveland Cavaliers at Philadelphia 76ers | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN | Xfinity Mobile Arena
 - Denver Nuggets at Oklahoma City Thunder | 10/22 - 9:30 PM EDT | Thu Oct 22, 9:30 PM ET | TV: ESPN | Paycom Center
-- Chicago Bulls at Milwaukee Bucks | 10/23 - 4:00 PM EDT | Fri Oct 23, 4:00 PM ET | TV: NBA League Pass | Fiserv Forum
+- Chicago Bulls at Milwaukee Bucks | 10/23 - 4:00 PM EDT | Fri Oct 23, 4:00 PM ET | TV: NBA League Pass, MyMi, Bucks App | Fiserv Forum
 - New York Knicks at Boston Celtics | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: Prime Video | TD Garden
 - Atlanta Hawks at Charlotte Hornets | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: NBA League Pass | Spectrum Center
-- Dallas Mavericks at Indiana Pacers | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: NBA League Pass | Gainbridge Fieldhouse
-- Minnesota Timberwolves at Orlando Magic | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: NBA League Pass | Kia Center
+- Dallas Mavericks at Indiana Pacers | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: NBA League Pass, KFAA-TV, MavsTV | Gainbridge Fieldhouse
+- Minnesota Timberwolves at Orlando Magic | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: NBA League Pass, DAZN MIN | Kia Center
 - Toronto Raptors at Washington Wizards | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: MNMT, NBA League Pass | Capital One Arena
 - Houston Rockets at San Antonio Spurs | 10/23 - 9:30 PM EDT | Fri Oct 23, 9:30 PM ET | TV: Prime Video | Moody Center
-- New Orleans Pelicans at Utah Jazz | 10/23 - 9:30 PM EDT | Fri Oct 23, 9:30 PM ET | TV: NBA League Pass | Delta Center
+- New Orleans Pelicans at Utah Jazz | 10/23 - 9:30 PM EDT | Fri Oct 23, 9:30 PM ET | TV: NBA League Pass, GCSEN, Pelicans.com, KJZZ-TV, Jazz+ | Delta Center
 - Memphis Grizzlies at Golden State Warriors | 10/23 - 10:00 PM EDT | Fri Oct 23, 10:00 PM ET | TV: NBA League Pass | Chase Center
-- LA Clippers at Los Angeles Lakers | 10/23 - 10:00 PM EDT | Fri Oct 23, 10:00 PM ET | TV: NBA League Pass | crypto.com Arena
-- Portland Trail Blazers at Sacramento Kings | 10/23 - 10:00 PM EDT | Fri Oct 23, 10:00 PM ET | TV: NBA League Pass | Golden 1 Center
-- Brooklyn Nets at Cleveland Cavaliers | 10/24 - 7:30 PM EDT | Sat Oct 24, 7:30 PM ET | TV: NBA League Pass | Rocket Arena
-- Milwaukee Bucks at Philadelphia 76ers | 10/24 - 7:30 PM EDT | Sat Oct 24, 7:30 PM ET | TV: NBA TV | Xfinity Mobile Arena
+- LA Clippers at Los Angeles Lakers | 10/23 - 10:00 PM EDT | Fri Oct 23, 10:00 PM ET | TV: NBA League Pass, ClipperVision, Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena
+- Portland Trail Blazers at Sacramento Kings | 10/23 - 10:00 PM EDT | Fri Oct 23, 10:00 PM ET | TV: NBA League Pass, KUNP 16, BlazerVision | Golden 1 Center
+- Brooklyn Nets at Cleveland Cavaliers | 10/24 - 7:30 PM EDT | Sat Oct 24, 7:30 PM ET | TV: NBA League Pass, DAZN (YES), DAZN CLE | Rocket Arena
+- Milwaukee Bucks at Philadelphia 76ers | 10/24 - 7:30 PM EDT | Sat Oct 24, 7:30 PM ET | TV: NBA TV, MyMi, Bucks App | Xfinity Mobile Arena
+- Washington Wizards at Chicago Bulls | 10/24 - 8:00 PM EDT | Sat Oct 24, 8:00 PM ET | TV: MNMT, NBA League Pass | United Center
+- San Antonio Spurs at Dallas Mavericks | 10/24 - 8:00 PM EDT | Sat Oct 24, 8:00 PM ET | TV: NBA League Pass, DAZN SAS, KFAA-TV, MavsTV | American Airlines Center
+- Houston Rockets at Atlanta Hawks | 10/24 - 8:30 PM EDT | Sat Oct 24, 8:30 PM ET | TV: NBA League Pass | State Farm Arena
+- New Orleans Pelicans at Denver Nuggets | 10/24 - 9:00 PM EDT | Sat Oct 24, 9:00 PM ET | TV: NBA League Pass, GCSEN, Pelicans.com | Ball Arena
+- Golden State Warriors at Phoenix Suns | 10/24 - 10:00 PM EDT | Sat Oct 24, 10:00 PM ET | TV: NBA TV, Suns Live, Arizona's Family CBS5 | Mortgage Matchup Center
+- Los Angeles Lakers at Utah Jazz | 10/25 - 5:00 PM EDT | Sun Oct 25, 5:00 PM ET | TV: NBA League Pass, Spectrum Sports Net, Spectrum Sports Net +, KJZZ-TV, Jazz+ | Delta Center
+- Indiana Pacers at Brooklyn Nets | 10/25 - 6:00 PM EDT | Sun Oct 25, 6:00 PM ET | TV: NBA League Pass, DAZN IND, DAZN (YES) | Barclays Center
+- Orlando Magic at New York Knicks | 10/25 - 7:00 PM EDT | Sun Oct 25, 7:00 PM ET | TV: NBA League Pass | Madison Square Garden
+- Toronto Raptors at Minnesota Timberwolves | 10/25 - 7:00 PM EDT | Sun Oct 25, 7:00 PM ET | TV: NBA TV, DAZN MIN | Target Center
+- LA Clippers at Oklahoma City Thunder | 10/25 - 7:00 PM EDT | Sun Oct 25, 7:00 PM ET | TV: NBA League Pass, ClipperVision, KSBI, Thunder App | Paycom Center
 
 ## NHL (ESPN)
 Finals (last ~40h):
+- Philadelphia Flyers 3 at Buffalo Sabres 1 | Final | Wed Oct 21, 7:30 PM ET | TV: TNT, truTV | KeyBank Center
+- [MY TEAM] Florida Panthers 1 at Ottawa Senators 5 | Final | Wed Oct 21, 7:30 PM ET | TV: ESPN+, Scripps Sports | Canadian Tire Centre
 - Tampa Bay Lightning 6 at Vegas Golden Knights 2 | Final | Tue Oct 20, 10:45 PM ET | TV: ESPN | T-Mobile Arena
 - Carolina Hurricanes 6 at Vancouver Canucks 3 | Final | Tue Oct 20, 10:00 PM ET | TV: ESPN+, CARNHL | Rogers Arena
 - Detroit Red Wings 3 at Seattle Kraken 4 | Final/SO | Tue Oct 20, 9:40 PM ET | TV: ESPN+, DSN, KONG, KHN, Prime Video (Local) | Climate Pledge Arena
@@ -72,17 +83,11 @@ Finals (last ~40h):
 - Anaheim Ducks 2 at New York Islanders 3 | Final | Tue Oct 20, 7:00 PM ET | TV: ESPN+, MSGSN, KCOP, Prime Video (Local), Fox 11 Plus | UBS Arena
 - Los Angeles Kings 5 at Washington Capitals 2 | Final | Tue Oct 20, 7:00 PM ET | TV: ESPN+, MNMT, ABTV | Capital One Arena
 - Toronto Maple Leafs 6 at Columbus Blue Jackets 2 | Final | Tue Oct 20, 7:00 PM ET | TV: ESPN+, CBJNHL | Nationwide Arena
-- Pittsburgh Penguins 4 at Utah Mammoth 5 | Final | Mon Oct 19, 9:00 PM ET | TV: ESPN+, Utah 16, Mammoth+ | Delta Center
-- San Jose Sharks 1 at Toronto Maple Leafs 3 | Final | Mon Oct 19, 7:30 PM ET | TV: ESPN+, NBC Sports BA | Scotiabank Arena
-- Anaheim Ducks 2 at New York Rangers 5 | Final | Mon Oct 19, 7:00 PM ET | TV: ESPN+, MSG, KCOP, Prime Video (Local), Fox 11 Plus | Madison Square Garden
-- Colorado Avalanche 2 at Philadelphia Flyers 3 | Final | Mon Oct 19, 7:00 PM ET | TV: ESPN+, NBC Sports Phil, Altitude Sports | Xfinity Mobile Arena
 Next 7 days, my teams:
-- [MY TEAM] Florida Panthers at Ottawa Senators | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: ESPN+, Scripps Sports | Canadian Tire Centre
 - [MY TEAM] Florida Panthers at Pittsburgh Penguins | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN+, Scripps Sports | PPG Paints Arena
 - [MY TEAM] Florida Panthers at Chicago Blackhawks | 10/25 - 3:00 PM EDT | Sun Oct 25, 3:00 PM ET | TV: ESPN+, Scripps Sports, CHSN | United Center
 - [MY TEAM] Florida Panthers at Winnipeg Jets | 10/27 - 8:00 PM EDT | Tue Oct 27, 8:00 PM ET | TV: ESPN+, Scripps Sports | Canada Life Centre
 Next 7 days, others (first 25):
-- Philadelphia Flyers at Buffalo Sabres | 10/21 - 7:30 PM EDT | Wed Oct 21, 7:30 PM ET | TV: TNT, truTV | KeyBank Center
 - Nashville Predators at Boston Bruins | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN+, Scripps Sports, NESN | TD Garden
 - New York Rangers at Toronto Maple Leafs | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN+, MSG | Scotiabank Arena
 - San Jose Sharks at Ottawa Senators | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPN+, NBC Sports BA | Canadian Tire Centre
@@ -107,28 +112,29 @@ Next 7 days, others (first 25):
 - Toronto Maple Leafs at Edmonton Oilers | 10/24 - 7:00 PM EDT | Sat Oct 24, 7:00 PM ET | TV: ESPN+ | Rogers Place
 - Tampa Bay Lightning at Utah Mammoth | 10/24 - 9:00 PM EDT | Sat Oct 24, 9:00 PM ET | TV: ESPN+, Utah 16, The Spot - MTN | Delta Center
 - Detroit Red Wings at Calgary Flames | 10/24 - 10:00 PM EDT | Sat Oct 24, 10:00 PM ET | TV: ESPN+, DSN | Scotiabank Saddledome
+- Minnesota Wild at Seattle Kraken | 10/24 - 10:00 PM EDT | Sat Oct 24, 10:00 PM ET | TV: ESPN+, MINNHL, KONG, KHN, Prime Video (Local) | Climate Pledge Arena
 
 ## College football (FBS)
 Finals (last ~40h):
+- New Mexico State Aggies 30 at Sam Houston Bearkats 24 | Final | Wed Oct 21, 8:00 PM ET | TV: ESPN2 | Elliott T. Bowers Stadium
 - South Alabama Jaguars 13 at Marshall Thundering Herd 20 | Final | Tue Oct 20, 7:30 PM ET | TV: ESPN2 | Joan C. Edwards Stadium
 - Middle Tennessee Blue Raiders 26 at Florida International Panthers 23 | Final | Tue Oct 20, 7:00 PM ET | TV: CBSSN | Pitbull Stadium
 - Missouri State Bears 38 at Delaware Blue Hens 61 | Final | Tue Oct 20, 7:00 PM ET | TV: ESPNU | Delaware Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- New Mexico State Aggies at Sam Houston Bearkats | 10/21 - 8:00 PM EDT | Wed Oct 21, 8:00 PM ET | TV: ESPN2 | Elliott T. Bowers Stadium
 - James Madison Dukes at App State Mountaineers | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: ESPNU | Kidd Brewer Stadium
 - Liberty Flames at Kennesaw State Owls | 10/22 - 7:00 PM EDT | Thu Oct 22, 7:00 PM ET | TV: CBSSN | Walens Family Field at Fifth Third Stadium
 - East Carolina Pirates at Memphis Tigers | 10/22 - 7:30 PM EDT | Thu Oct 22, 7:30 PM ET | TV: ESPN2 | Simmons Bank Liberty Stadium
 - Duke Blue Devils at Virginia Cavaliers | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: ESPN | Scott Stadium
 - Massachusetts Minutemen at UConn Huskies | 10/23 - 7:00 PM EDT | Fri Oct 23, 7:00 PM ET | TV: CBSSN | Pratt & Whitney Stadium
 - Army Black Knights at Tulsa Golden Hurricane | 10/23 - 8:30 PM EDT | Fri Oct 23, 8:30 PM ET | TV: ESPN2 | H. A. Chapman Stadium
-- Air Force Falcons at Wyoming Cowboys | 10/23 - 9:00 PM EDT | Fri Oct 23, 9:00 PM ET | TV: CW, ESPN Unlmtd | War Memorial Stadium
+- Air Force Falcons at Wyoming Cowboys | 10/23 - 9:00 PM EDT | Fri Oct 23, 9:00 PM ET | TV: CW | War Memorial Stadium
 - NC State Wolfpack at Stanford Cardinal | 10/23 - 10:30 PM EDT | Fri Oct 23, 10:30 PM ET | TV: ESPN | Stanford Stadium
 - Pittsburgh Panthers at Miami Hurricanes | ranks: Miami Hurricanes #1 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: ESPN, Disney+ | Hard Rock Stadium
 - Indiana Hoosiers at Michigan Wolverines | ranks: Indiana Hoosiers #6 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: Fox | Michigan Stadium
 - Texas Tech Red Raiders at Cincinnati Bearcats | ranks: Texas Tech Red Raiders #8 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: FS1 | Nippert Stadium
 - LSU Tigers at Auburn Tigers | ranks: LSU Tigers #18 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: ABC | Jordan-Hare Stadium
-- California Golden Bears at SMU Mustangs | ranks: SMU Mustangs #23 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: CW, ESPN Unlmtd | Gerald J. Ford Stadium
+- California Golden Bears at SMU Mustangs | ranks: SMU Mustangs #23 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: CW | Gerald J. Ford Stadium
 - Rutgers Scarlet Knights at Northwestern Wildcats | ranks: Northwestern Wildcats #24 | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: Peacock | Ryan Field
 - West Virginia Mountaineers at TCU Horned Frogs | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: ESPN2 | Amon G. Carter Stadium
 - Rice Owls at Florida Atlantic Owls | 10/24 - 12:00 PM EDT | Sat Oct 24, 12:00 PM ET | TV: ESPNU | Flagler Credit Union Stadium
@@ -140,10 +146,9 @@ Next 7 days, others (first 25):
 - BYU Cougars at UCF Knights | ranks: BYU Cougars #2 | 10/24 - 3:30 PM EDT | Sat Oct 24, 3:30 PM ET | TV: Fox | Acrisure Bounce House
 - Michigan State Spartans at UCLA Bruins | ranks: UCLA Bruins #9 | 10/24 - 3:30 PM EDT | Sat Oct 24, 3:30 PM ET | TV: CBS | Rose Bowl
 - Tennessee Volunteers at South Carolina Gamecocks | ranks: Tennessee Volunteers #11 | 10/24 - 3:30 PM EDT | Sat Oct 24, 3:30 PM ET | TV: ESPN, Disney+ | Williams-Brice Stadium
+- Texas A&M Aggies at Alabama Crimson Tide | ranks: Alabama Crimson Tide #13 | 10/24 - 3:30 PM EDT | Sat Oct 24, 3:30 PM ET | TV: ABC | Bryant-Denny Stadium
 
 ## Premier League
-Finals (last ~40h):
-- Coventry City 1 at Tottenham Hotspur 3 | FT | Mon Oct 19, 3:00 PM ET | TV: USA Net, Universo | Tottenham Hotspur Stadium
 Next 7 days, my teams:
 - [MY TEAM] Tottenham Hotspur at Chelsea | Scheduled | Sat Oct 24, 12:30 PM ET | TV: Tele, Peacock | Stamford Bridge
 Next 7 days, others (first 25):
@@ -159,6 +164,15 @@ Next 7 days, others (first 25):
 
 ## Champions League
 Finals (last ~40h):
+- Viking FK 1 at Aston Villa 3 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Villa Park
+- Arsenal 2 at Bayern Munich 2 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Allianz Arena
+- Lens 0 at Club Brugge 3 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Jan Breydel Stadium
+- Shakhtar Donetsk 0 at Internazionale 1 | FT | Wed Oct 21, 3:00 PM ET | TV: CBSSN, Paramount+ | San Siro
+- Feyenoord Rotterdam 0 at Real Betis 1 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Estadio La Cartuja
+- RB Leipzig 1 at Real Madrid 4 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Santiago Bernabéu
+- LASK Linz 3 at Sporting CP 2 | FT | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Estádio José Alvalade
+- Manchester United 1 at Como 4 | FT | Wed Oct 21, 12:45 PM ET | TV: Paramount+ | Giuseppe Sinigaglia
+- Galatasaray 4 at Lille 2 | FT | Wed Oct 21, 12:45 PM ET | TV: Paramount+ | Decathlon Arena - Stade Pierre-Mauroy
 - Slovan Bratislava 0 at AS Roma 4 | FT | Tue Oct 20, 3:00 PM ET | TV: Paramount+ | Olimpico
 - PSV Eindhoven 1 at FC Porto 0 | FT | Tue Oct 20, 3:00 PM ET | TV: CBSSN, Paramount+ | Estádio do Dragão
 - Villarreal 3 at Liverpool 4 | FT | Tue Oct 20, 3:00 PM ET | TV: Paramount+ | Anfield
@@ -166,19 +180,6 @@ Finals (last ~40h):
 - Bodo/Glimt 3 at Napoli 4 | FT | Tue Oct 20, 3:00 PM ET | TV: Paramount+ | Stadio Diego Armando Maradona
 - Barcelona 2 at Paris Saint-Germain 4 | FT | Tue Oct 20, 3:00 PM ET | TV: Paramount+ | Parc des Princes
 - Atlético Madrid 1 at VfB Stuttgart 1 | FT | Tue Oct 20, 3:00 PM ET | TV: Paramount+ | MHPArena
-- Slavia Prague 2 at Fenerbahce 2 | FT | Tue Oct 20, 12:45 PM ET | TV: Paramount+ | Şükrü Saracoğlu Stadium
-- Borussia Dortmund 2 at Sabah FK 1 | FT | Tue Oct 20, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
-Next 7 days: no game for my teams in this league's data
-Next 7 days, others (first 25):
-- Manchester United at Como | Scheduled | Wed Oct 21, 12:45 PM ET | TV: Paramount+ | Giuseppe Sinigaglia
-- Galatasaray at Lille | Scheduled | Wed Oct 21, 12:45 PM ET | TV: Paramount+ | Decathlon Arena - Stade Pierre-Mauroy
-- Viking FK at Aston Villa | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Villa Park
-- Arsenal at Bayern Munich | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Allianz Arena
-- Lens at Club Brugge | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Jan Breydel Stadium
-- Shakhtar Donetsk at Internazionale | Scheduled | Wed Oct 21, 3:00 PM ET | TV: CBSSN, Paramount+ | San Siro
-- Feyenoord Rotterdam at Real Betis | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Estadio La Cartuja
-- RB Leipzig at Real Madrid | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Santiago Bernabéu
-- LASK Linz at Sporting CP | Scheduled | Wed Oct 21, 3:00 PM ET | TV: Paramount+ | Estádio José Alvalade
 
 ## UFC
 Next 7 days: no game for my teams in this league's data
@@ -189,6 +190,7 @@ Next 7 days, others (first 25):
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Butterfield Bermuda Championship | [Kevin Streelman (E); Brice Garnett (E); Harry Higgs (E); Dylan Frittelli (E); Greyson Sigg (E); Chandler Phillips (E); Aaron Baddeley (E); David Lingmerth (E); Robert Streb (E); Eric Cole (E)] | Scheduled | Thu Oct 22, 12:00 AM ET | TV: Golf Chnl
+- VidantaWorld Mexico Open | Scheduled | Thu Oct 29, 12:00 AM ET | TV: Golf Chnl
 
 ## ATP tennis
 Next 7 days: no game for my teams in this league's data
@@ -202,14 +204,19 @@ Next 7 days, others (first 25):
 - Guangzhou Open | TBD | Mon Oct 26, 12:00 AM ET
 - Toray Pan Pacific Open Tennis | TBD | Mon Oct 26, 12:00 AM ET
 - Queretaro Open | TBD | Mon Oct 26, 12:00 AM ET
-- Abierto de Curitiba | TBD | Mon Oct 26, 12:00 AM ET
+- Curitiba Open | TBD | Mon Oct 26, 12:00 AM ET
 - Valle D'Aosta Ladies Open | TBD | Mon Oct 26, 12:00 AM ET
 
 ## EFL Cup (Chelsea)
-Next 7 days: no game for my teams in this league's data
+Next 7 days, my teams:
+- [MY TEAM] Chelsea at Liverpool | Scheduled | Wed Oct 28, 4:00 PM ET | TV: Paramount+ | Anfield
 Next 7 days, others (first 25):
 - Peterborough United at Bradford City | Scheduled | Tue Oct 27, 3:45 PM ET | TV: Paramount+ | Valley Parade
 - Arsenal at Fleetwood Town | Scheduled | Tue Oct 27, 4:00 PM ET | TV: Paramount+ | Highbury Stadium
+- Brighton & Hove Albion at Manchester City | Scheduled | Wed Oct 28, 3:30 PM ET | TV: Paramount+ | Etihad Stadium
+- Aston Villa at AFC Bournemouth | Scheduled | Wed Oct 28, 3:45 PM ET | TV: Padres.TV | Vitality Stadium
+- Crystal Palace at Fulham | Scheduled | Wed Oct 28, 3:45 PM ET | TV: Paramount+ | Craven Cottage
+- Brentford at Sunderland | Scheduled | Wed Oct 28, 3:45 PM ET | TV: Paramount+ | Stadium of Light
 
 ## Europa League
 Next 7 days: no game for my teams in this league's data
@@ -256,17 +263,18 @@ Next 7 days, others (first 25):
 - FC Twente at Lincoln Red Imps | Scheduled | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | Europa Point Stadium
 
 ## MLB (official StatsAPI)
-Finals (last ~40h):
-- Cleveland Guardians 3 at Tampa Bay Rays 7 | Final | Mon Oct 19, 8:08 PM ET | ALCS Game 6 | TB wins 4-2
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Tampa Bay Rays at Milwaukee Brewers | Scheduled | Fri Oct 23, 8:00 PM ET | World Series Game 1 | World Series Game 1
 - Tampa Bay Rays at Milwaukee Brewers | Scheduled | Sat Oct 24, 8:00 PM ET | World Series Game 2 | World Series Game 2
 - Milwaukee Brewers at Tampa Bay Rays | Scheduled | Mon Oct 26, 8:00 PM ET | World Series Game 3 | World Series Game 3
 - Milwaukee Brewers at Tampa Bay Rays | Scheduled | Tue Oct 27, 8:00 PM ET | World Series Game 4 | World Series Game 4
+- Milwaukee Brewers at Tampa Bay Rays | Scheduled | Wed Oct 28, 8:00 PM ET | World Series Game 5 | World Series Game 5
 
 ## NHL (official schedule API)
 Finals (last ~40h):
+- Philadelphia Flyers 3 at Buffalo Sabres 1 | OFF | Wed Oct 21, 7:30 PM ET | TV: TNT, truTV, HBO MAX | KeyBank Center
+- [MY TEAM] Florida Panthers 1 at Ottawa Senators 5 | OFF | Wed Oct 21, 7:30 PM ET | TV: Prime, SCRIPPS | Canadian Tire Centre
 - Tampa Bay Lightning 6 at Vegas Golden Knights 2 | OFF | Tue Oct 20, 10:30 PM ET | TV: ESPN, SN+ | T-Mobile Arena
 - Carolina Hurricanes 6 at Vancouver Canucks 3 | OFF | Tue Oct 20, 10:00 PM ET | TV: CARNHL, HHN, SN | Rogers Arena
 - Detroit Red Wings 3 at Seattle Kraken 4 | OFF (SO) | Tue Oct 20, 9:40 PM ET | TV: DSN, Prime Video, KONG | Climate Pledge Arena
@@ -278,17 +286,11 @@ Finals (last ~40h):
 - Anaheim Ducks 2 at New York Islanders 3 | OFF | Tue Oct 20, 7:00 PM ET | TV: FOXLA+, Prime Video, MSGSN | UBS Arena
 - Los Angeles Kings 5 at Washington Capitals 2 | OFF | Tue Oct 20, 7:00 PM ET | TV: ABTV , MNMT | Capital One Arena
 - Toronto Maple Leafs 6 at Columbus Blue Jackets 2 | OFF | Tue Oct 20, 7:00 PM ET | TV: CBJNHL, CBJHN, SN | Nationwide Arena
-- Pittsburgh Penguins 4 at Utah Mammoth 5 | OFF | Mon Oct 19, 9:00 PM ET | TV: Mammoth+, SN+, TVAS, Utah16, SN-PIT | Delta Center
-- San Jose Sharks 1 at Toronto Maple Leafs 3 | OFF | Mon Oct 19, 7:30 PM ET | TV: SN+, TVAS, NBCSCA | Scotiabank Arena
-- Anaheim Ducks 2 at New York Rangers 5 | OFF | Mon Oct 19, 7:00 PM ET | TV: FOXLA+, Prime Video, MSG | Madison Square Garden
-- Colorado Avalanche 2 at Philadelphia Flyers 3 | OFF | Mon Oct 19, 7:00 PM ET | TV: ALT, NBCSP | Xfinity Mobile Arena
 Next 7 days, my teams:
-- [MY TEAM] Florida Panthers at Ottawa Senators | FUT | Wed Oct 21, 7:30 PM ET | TV: Prime, SCRIPPS | Canadian Tire Centre
 - [MY TEAM] Florida Panthers at Pittsburgh Penguins | FUT | Thu Oct 22, 7:00 PM ET | TV: SN, TVAS, SN-PIT, SCRIPPS | PPG Paints Arena
 - [MY TEAM] Florida Panthers at Chicago Blackhawks | FUT | Sun Oct 25, 3:00 PM ET | TV: SN, TVAS, CHSN, SCRIPPS | United Center
 - [MY TEAM] Florida Panthers at Winnipeg Jets | FUT | Tue Oct 27, 8:00 PM ET | TV: TSN3, SCRIPPS | Canada Life Centre
 Next 7 days, others (first 25):
-- Philadelphia Flyers at Buffalo Sabres | FUT | Wed Oct 21, 7:30 PM ET | TV: TNT, truTV, HBO MAX | KeyBank Center
 - Nashville Predators at Boston Bruins | FUT | Thu Oct 22, 7:00 PM ET | TV: NESN, SCRIPPS | TD Garden
 - New York Rangers at Toronto Maple Leafs | FUT | Thu Oct 22, 7:00 PM ET | TV: TSN4, MSG | Scotiabank Arena
 - San Jose Sharks at Ottawa Senators | FUT | Thu Oct 22, 7:00 PM ET | TV: TSN5, RDS, NBCSCA | Canadian Tire Centre
@@ -313,3 +315,4 @@ Next 7 days, others (first 25):
 - Toronto Maple Leafs at Edmonton Oilers | FUT | Sat Oct 24, 7:00 PM ET | TV: SN | Rogers Place
 - Tampa Bay Lightning at Utah Mammoth | FUT | Sat Oct 24, 9:00 PM ET | TV: Mammoth+, The Spot, Utah16 | Delta Center
 - Detroit Red Wings at Calgary Flames | FUT | Sat Oct 24, 10:00 PM ET | TV: DSN, SN, TVAS | Scotiabank Saddledome
+- Minnesota Wild at Seattle Kraken | FUT | Sat Oct 24, 10:00 PM ET | TV: MINNHL, Wild+, Prime Video, KONG | Climate Pledge Arena
