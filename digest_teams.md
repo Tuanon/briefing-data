@@ -1,4 +1,4 @@
-# Team digest (generated Fri Oct 23, 4:46 AM ET)
+# Team digest (generated Fri Oct 23, 5:33 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -53,9 +53,7 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- Panthers' Cooper Black, all 6-9 of him, becomes NHL's tallest goalie | Fri Oct 23, 12:12 AM ET | https://www.espn.com/nhl/story/_/id/50253433/panthers-cooper-black-becomes-nhl-tallest-goalie-6-9 | The 6-9 Cooper Black is listed 2 inches taller than the goalies who previously held the mark -- Ben Bishop, Ivan Fedotov, Mads Sogaard and Mikko Koskinen.
-- Florida Panthers vs. Pittsburgh Penguins: Game Highlights | Thu Oct 22, 10:01 PM ET | https://www.espn.com/video/clip/_/id/50254223/game-highlights | Florida Panthers vs. Pittsburgh Penguins: Game Highlights
-- Silovs, Penguins blank Panthers 4-0 to spoil Florida goalie Cooper Black’s record-setting NHL debut | Thu Oct 22, 9:53 PM ET | http://www.espn.com/nhl/recap?gameId=401892556 | — Pittsburgh's Arturs Silovs stopped 25 shots to spoil the history-making debut of Florida counterpart Cooper Black as the Penguins...
+- Panthers' Cooper Black, all 6-9 of him, becomes NHL's tallest goalie | Thu Oct 22, 8:58 PM ET | https://www.espn.com/nhl/story/_/id/50253433/panthers-cooper-black-becomes-nhl-tallest-goalie-6-9 | The 6-9 Cooper Black is listed 2 inches taller than the goalies who previously held the mark -- Ben Bishop, Ivan Fedotov, Mads Sogaard and Mikko Koskinen.
 - How Brady Tkachuk (and the Senators) prepared for his Ottawa return | Thu Oct 22, 1:42 PM ET | https://www.espn.com/nhl/story/_/id/50229493/nhl-2026-27-brady-tkachuk-panthers-senators-return-trade-rivalry-playoffs | After a summer blockbuster, the former Senators captain will be playing his first game against his old team (and its vocal fans).
 - NHL Tonight: Previews, stats and betting intel for Thursday's dozen games | Thu Oct 22, 11:04 AM ET | https://www.espn.com/nhl/story/_/id/50240758/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Get your multi-view ready, hockey fans, it's another busy night!
 - Pittsburgh takes losing streak into matchup with Florida | Thu Oct 22, 4:12 AM ET | http://www.espn.com/nhl/preview?gameId=401892556 | Florida Panthers (5-3-2, in the Atlantic Division) vs. Pittsburgh Penguins (3-6-1, in the Metropolitan Division)
@@ -65,6 +63,8 @@ News (last days, newest first):
 - Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns | Wed Oct 21, 8:14 PM ET | https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans | Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team.
 - Brady Tkachuk returns to Ottawa for first time since trade | Wed Oct 21, 1:57 PM ET | https://www.espn.com/nhl/story/_/id/50239618/brady-tkachuk-returns-ottawa-first-trade | Brady Tkachuk is playing in Ottawa for the first time asking for and getting a trade from the Senators.
 - Panthers' Brady Tkachuk to donate Senators jerseys thrown in protest | Wed Oct 21, 6:23 AM ET | https://www.espn.com/nhl/story/_/id/50229361/panthers-brady-tkachuk-donate-senators-jerseys-thrown-protest | Brady Tkachuk, who was traded from Ottawa to Florida in June, says he'll donate any Senators jerseys thrown in protest of his return to the Boys and Girls Club of Ottawa.
+- NHL Tonight: Previews for Sabres-Flyers, Senators-Panthers | Wed Oct 21, 6:00 AM ET | https://www.espn.com/nhl/story/_/id/50228378/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Another light Wednesday on the NHL calendar, but here's what to watch in each game.
+- NHL Power Rankings: Each team's biggest shock of 2026-27 | Tue Oct 20, 10:32 AM ET | https://www.espn.com/nhl/story/_/id/50190257/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | The Hurricanes are back on top of our 1-32 poll. Plus, we identify the big surprises -- both good and bad.
 Injuries / player notes (ESPN; 5 of 5 entries shown):
 - Gustav Forsling (D) | Day-To-Day | Thu Oct 22, 10:28 PM ET | day-to-day
 - Jacob Markstrom (G) | Injured Reserve | Tue Oct 20, 5:23 PM ET | ir
@@ -89,6 +89,8 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- João Pedro: I told Cole Palmer 'I didn't want to take his spot' at Chelsea | Fri Oct 23, 4:34 AM ET | https://www.espn.com/soccer/story/_/id/50226791/joao-pedro-chelsea-brazil-aims-goals-cole-palmer-morgan-rogers | João Pedro has said that a "friendship was born" when he assured Cole Palmer that he wasn't coming to Chelsea to steal his place in the team.
+- Transfer rumors, news: Como's Paz destroyed Man United, now they want to sign him | Fri Oct 23, 3:08 AM ET | https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him | Manchester United are monitoring Como attacking midfielder Nico Paz ahead of next season, while Chelsea are also keen. Transfer Talk has the latest.
 - Trevoh Chalobah reveals Chelsea regret after £30m Como move | Wed Oct 21, 11:29 AM ET | https://www.espn.com/soccer/story/_/id/50238421/trevoh-chalobah-reveals-chelsea-regret-30-million-como-move | Trevoh Chalobah has revealed his regret at his Chelsea exit and admitted he wanted to be a "legend" at Stamford Bridge.
 - Morgan Rogers: João Pedro's 'hunger' to score makes everyone at Chelsea better | Tue Oct 20, 9:25 AM ET | https://www.espn.com/soccer/story/_/id/50227941/morgan-rogers-joao-pedro-chelsea-xabi-alonso | Morgan Rogers feels João Pedro is at the height of his powers and has hailed his in-form teammate's "hunger to score" for Xabi Alonso's Chelsea.
 - PSG unveil jersey for Steelers vs. Saints NFL game in Paris | Tue Oct 20, 9:23 AM ET | https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game | If you've ever wondered what reigning Champions League holders PSG might look like should they suddenly relaunch as an NFL franchise, this is it.
@@ -99,8 +101,6 @@ News (last days, newest first):
 - Hislop: Neto was outstanding for Chelsea vs. Everton | Sat Oct 17, 10:29 AM ET | https://www.espn.com/video/clip/_/id/50201234/neto-was-outstanding-chelsea-vs-everton | Hislop: Neto was outstanding for Chelsea vs. Everton
 - Hislop blames Pickford for Chelsea's first goal vs. Everton | Sat Oct 17, 10:28 AM ET | https://www.espn.com/video/clip/_/id/50201209/hislop-blames-pickford-chelsea-first-goal-vs-everton | Hislop blames Pickford for Chelsea's first goal vs. Everton
 - Pedro Neto nets brace as Chelsea end Everton's unbeaten run | Sat Oct 17, 10:18 AM ET | http://www.espn.com/soccer/report/_/gameId/401878771 | Pedro Neto scored twice in the second half to guide Chelsea to a 2-0 win at Everton on Saturday in a Premier League match marred by a serious-looking head injury to Chelsea goalkeeper Emi Martínez.
-- Xabi Alonso not ready to say if Chelsea heading 'right way' | Fri Oct 16, 6:03 PM ET | https://www.espn.com/soccer/story/_/id/50198374/xabi-alonso-chelsea-heading-right-way | Xabi Alonso said it is too early to tell whether Chelsea are going the "right way" as he looks for greater balance from his free-scoring team.
-- Chelsea's Reece James may be sidelined beyond Christmas- Xabi Alonso | Fri Oct 16, 2:36 PM ET | https://www.espn.com/soccer/story/_/id/50194856/chelsea-reece-james-undergoes-minor-knee-surgery | Chelsea have confirmed that their captain Reece James has undergone successful minor knee surgery.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):

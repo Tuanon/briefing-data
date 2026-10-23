@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Oct 23, 4:46 AM ET)
+# Sports digest (generated Fri Oct 23, 5:33 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -194,8 +194,8 @@ Next 7 days, others (first 25):
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Toray Pan Pacific Open Tennis | TBD | Sun Oct 25, 12:00 AM ET
-- Guangzhou Open | TBD | Mon Oct 26, 12:00 AM ET
+- Toray Pan Pacific Open Tennis | 10/23 - 9:30 PM EDT | Fri Oct 23, 12:00 AM ET
+- Guangzhou Open | TBD | Sun Oct 25, 12:00 AM ET
 - Queretaro Open | TBD | Mon Oct 26, 12:00 AM ET
 - Curitiba Open | TBD | Mon Oct 26, 12:00 AM ET
 - Valle D'Aosta Ladies Open | TBD | Mon Oct 26, 12:00 AM ET
