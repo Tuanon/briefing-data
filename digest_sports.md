@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Oct 24, 4:44 AM ET)
+# Sports digest (generated Sat Oct 24, 5:29 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -222,14 +222,6 @@ Finals (last ~40h):
 - Benfica 4 at Omonia Nicosia 1 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | GSP Stadium
 - Lyon 0 at TSG Hoffenheim 3 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | PreZero Arena
 - Levski Sofia 2 at Viktoria Plzen 1 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | Doosan Arena
-- AZ Alkmaar 4 at Ararat-Armenia 0 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Vazgen Sargsyan Republican Stadium
-- NEC Nijmegen 4 at Dinamo Zagreb 2 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Maksimir Stadium
-- Torreense 1 at Ferencvaros 4 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Groupama Arena
-- Stade Rennais 2 at Juventus 2 | FT | Thu Oct 22, 12:45 PM ET | TV: CBSSN, Paramount+ | Allianz Stadium
-- Sunderland 1 at Lech Poznan 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Municipal Stadium-Poznan
-- Bayer Leverkusen 2 at OFI Crete 0 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Pankritio Stadium
-- Marseille 0 at SK Sturm Graz 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Merkur Arena
-- Hapoel Be'er 0 at Union St.-Gilloise 4 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Merkur Spiel-Arena
 
 ## Conference League
 Finals (last ~40h):
@@ -241,15 +233,6 @@ Finals (last ~40h):
 - Sint-Truidense 1 at FC Midtjylland 0 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | MCH Arena
 - Hajduk Split 1 at FC Thun 0 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | Stockhorn Arena
 - FC Twente 4 at Lincoln Red Imps 1 | FT | Thu Oct 22, 3:00 PM ET | TV: Paramount+ | Europa Point Stadium
-- CSKA Sofia 2 at FC Nordsjælland 2 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Right to Dream Park
-- FC Lugano 5 at Getafe 2 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Estadio Coliseum
-- Mjällby AIF 1 at Iberia 1999 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Mikheil Meskhi Stadioni
-- CSU Craiova 3 at Inter D'Escaldes 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Estadi de la FAF d'Encamp
-- Brighton & Hove Albion 0 at Jablonec 0 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Stadion Strelnice
-- SK Brann 4 at Kauno Zalgiris 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | S. Darius and S. Gireno Stadium
-- Riga FC 1 at Pafos 1 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Alphamega Stadium
-- F.C. København 2 at Red Star Belgrade 2 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Rajko Mitic Stadium
-- Heart of Midlothian 0 at Trabzonspor 2 | FT | Thu Oct 22, 12:45 PM ET | TV: Paramount+ | Papara Park
 
 ## MLB (official StatsAPI)
 Finals (last ~40h):

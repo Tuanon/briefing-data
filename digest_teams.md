@@ -1,4 +1,4 @@
-# Team digest (generated Sat Oct 24, 4:44 AM ET)
+# Team digest (generated Sat Oct 24, 5:29 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -88,6 +88,7 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Transfer rumors, news: Chelsea, Bayern, Barcelona battle for Brighton defender | Sat Oct 24, 4:31 AM ET | https://www.espn.com/soccer/story/_/id/50264204/transfer-rumors-news-chelsea-bayern-barcelona-battle-brighton-defender | Chelsea, Bayern Munich and Barcelona are targeting Brighton & Hove Albion defender Luka Vuskovic. Transfer Talk has the latest.
 - Roberto De Zerbi defends Spurs' 'high level' medical staff amid injury crisis | Fri Oct 23, 6:50 PM ET | https://www.espn.com/soccer/story/_/id/50261206/roberto-de-zerbi-spurs-medical-staff-injury-crisis | Roberto De Zerbi has defended Tottenham's medical staff despite an ongoing injury crisis.
 - João Pedro: I told Cole Palmer 'I didn't want to take his spot' at Chelsea | Fri Oct 23, 2:29 PM ET | https://www.espn.com/soccer/story/_/id/50226791/joao-pedro-chelsea-brazil-aims-goals-cole-palmer-morgan-rogers | João Pedro has said that a "friendship was born" when he assured Cole Palmer that he wasn't coming to Chelsea to steal his place in the team.
 - Tottenham's Roberto De Zerbi denies Chelsea raids of former club Brighton are extra motivation for derby | Fri Oct 23, 2:26 PM ET | https://www.espn.com/soccer/story/_/id/50258030/roberto-de-zerbi-tottenham-chelsea-derby-brighton-team-news-injury-news | Roberto De Zerbi has hinted at his frustration over Chelsea's frequent raids of former club Brighton but insisted he has no extra motivation when Tottenham visit Stamford Bridge on Saturday.
@@ -99,7 +100,6 @@ News (last days, newest first):
 - Jordan Henderson not giving up on England after Chelsea revitalisation | Sun Oct 18, 12:30 PM ET | https://www.espn.com/soccer/story/_/id/50210890/jordan-henderson-england-chelsea-revitalisation | Jordan Henderson has not given up on extending his England career after insisting he will use a new lease of life at Chelsea to prove he can still perform at the highest level.
 - Chelsea's Emi Martínez has jaw surgery, will be 'back in a few weeks' | Sun Oct 18, 8:28 AM ET | https://www.espn.com/soccer/story/_/id/50200995/emi-martinez-hospital-head-injury-chelsea-everton-premier-league | Emi Martínez said he would be "back in a few weeks" after undergoing surgery following a head injury suffered during Chelsea's Premier League win over Everton on Saturday.
 - Henderson, the Premier League's oldest player, is becoming undroppable for Chelsea | Sat Oct 17, 12:17 PM ET | https://www.espn.com/soccer/story/_/id/50201454/jordan-henderson-premier-league-oldest-player-undroppable-chelsea | At 36 years old, Jordan Henderson is the Premier League's elder statesman. He is also one of Chelsea's most important players.
-- Everton 0-2 Chelsea: Pedro Neto ends hosts' unbeaten run in game overshadowed by Emi Martínez injury - as it happened | Sat Oct 17, 10:32 AM ET | https://www.espn.com/soccer/story/_/id/50200250/everton-chelsea-live-commentary-score-updates-result-premier-league-2026-27 | Pedro Neto scored a brace at either end of the second half, which also saw Emi Martinez stretchered off with a head injury.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
