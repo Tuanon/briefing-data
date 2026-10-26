@@ -1,37 +1,38 @@
-# Team digest (generated Sun Oct 25, 5:29 AM ET)
+# Team digest (generated Mon Oct 26, 4:55 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games | Mon Oct 26, 12:29 AM ET | https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.
+- Week 7 NFL highlights: Best plays, moments, touchdowns, more | Mon Oct 26, 12:06 AM ET | https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026 | Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.
+- Jeff Hafley, Dolphins hold off Jets, then revel in first win of season | Sun Oct 25, 8:08 PM ET | https://www.espn.com/nfl/story/_/id/50281453/jeff-hafley-dolphins-revel-first-win-season | The Dolphins snapped a five-game losing streak to win their first game of the season, holding off a late New York Jets rally for a 28-25 victory.
+- Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals | Sun Oct 25, 7:18 PM ET | https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
+- Caleb Douglas proves he's the Dolphins' top receiver | Sun Oct 25, 7:16 PM ET | https://www.espn.com/video/clip/_/id/50282216/caleb-douglas-proves-dolphins-top-receiver | Marcel Louis-Jacques details Douglas' explosive return after missing three games with an ankle injury.
+- Malik Willis sparks first win for Jeff Hafley and Dolphins hold off late Jets rally in 28-25 victory | Sun Oct 25, 5:49 PM ET | http://www.espn.com/nfl/recap?gameId=401873015 | — Jeff Hafley had a towel draped around his neck as he stepped to the podium and the Miami Dolphins coach wiped his face one last time before taking questions from reporters.
+- Miami Dolphins vs. New York Jets Game Highlights | Sun Oct 25, 5:00 PM ET | https://www.espn.com/video/clip/_/id/50280433/miami-dolphins-vs-new-york-jets-game-highlights | Miami Dolphins vs. New York Jets Game Highlights
 - NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black | Sat Oct 24, 1:02 PM ET | https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms | Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.
 - NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more | Sat Oct 24, 6:00 AM ET | https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026 | Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.
 - NFL Week 7 betting odds: Lines and totals for every game | Fri Oct 23, 2:45 PM ET | https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals | A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.
 - Dolphins rookie WR Caleb Douglas set to return vs. Jets | Fri Oct 23, 1:58 PM ET | https://www.espn.com/nfl/story/_/id/50259154/dolphins-rookie-wr-caleb-douglas-set-return-vs-jets | Miami Dolphins rookie receiver Caleb Douglas will play Sunday against the New York Jets after missing the past three games with a right ankle injury.
 - NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Oct 23, 1:32 PM ET | https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026 | Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.
-- What are the longest field goals in NFL history? | Thu Oct 22, 11:27 PM ET | https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history | Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.
-- Bears QB Caleb Williams leads NFL Week 7's best arrivals | Thu Oct 22, 6:13 PM ET | https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
-- Jets face a 'huge' home test vs. winless Dolphins as AFC East rivals square off | Thu Oct 22, 1:31 PM ET | http://www.espn.com/nfl/preview?gameId=401873015 | — Must-win games in October might seem like an overstatement with so much of the NFL's regular season remaining. Garrett Wilson and the New York Jets aren't downplaying any of it, though.
-- Miami Dolphins, New York Jets have clear plans for future success | Thu Oct 22, 10:53 AM ET | https://www.espn.com/nfl/story/_/id/50233043/miami-dolphins-new-york-jets-afc-east-rebuild | New York and Miami are rebuilding in 2026, but ahead of their matchup there's light at the end of the chaos.
-- 2027 NFL mock draft: Yates' early predictions for top 10 picks, QB landing spots | Wed Oct 21, 10:02 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/50229467/2027-nfl-mock-draft-yates-top-10-picks-predictions-qbs | We're two months into the college football season, and Field Yates is projecting which prospects could go in the top 10 picks of the 2027 NFL draft -- including three QBs.
-- Dolphins release Riley Patterson after Week 5 problems defending kickoffs | Tue Oct 20, 2:11 PM ET | https://www.espn.com/nfl/story/_/id/50229491/sources-dolphins-release-riley-patterson-amid-kickoff-woes | The Dolphins released kicker Riley Patterson in a move aimed to improve one of the NFL's worst special teams units.
-- Early bets for NFL Week 7: Three games we're jumping on right now | Tue Oct 20, 1:20 PM ET | https://www.espn.com/espn/betting/story/_/id/50179319/nfl-week-7-betting-odds-props-early-picks-predictions | Which Week 7 lines offered immediate value once odds came out? Here are three early bets we like.
-Injuries / player notes (ESPN; 15 of 25 entries shown):
+Injuries / player notes (ESPN; 16 of 25 entries shown):
+- Caleb Douglas (WR) | Active | Sun Oct 25, 5:01 PM ET | Douglas (ankle) caught two of three targets for 70 yards and two touchdowns in Sunday's 28-25 win over the Jets.
+- Jaylen Wright (RB) | Questionable | Sun Oct 25, 4:00 PM ET | Wright (quadriceps) left Sunday's game against the Jets and did not return to the contest.
+- Dante Trader Jr. (S) | Active | Sun Oct 25, 3:50 PM ET | Trader (shoulder) has returned to Sunday's game against the Jets, David Furones of the South Florida Sun Sentinel reports.
+- Robert Beal Jr. (DE) | Out | Sun Oct 25, 12:12 PM ET | Beal (hamstring) is inactive for Sunday's game against the Jets.
+- Willie Gay Jr. (LB) | Out | Sun Oct 25, 11:52 AM ET | Gay (illness) is inactive for Sunday's game against the Jets.
+- Reese Taylor (CB) | Out | Sun Oct 25, 11:34 AM ET | inactive
+- Jalen Tolbert (WR) | Out | Sun Oct 25, 11:34 AM ET | inactive
+- Chukwuebuka Godrick (OT) | Out | Sun Oct 25, 11:34 AM ET | inactive
+- DJ Campbell (G) | Out | Sun Oct 25, 11:34 AM ET | inactive
+- Marcellas Dial Jr. (CB) | Out | Sun Oct 25, 11:34 AM ET | inactive
 - Kyle Louis (LB) | Active | Sat Oct 24, 3:01 PM ET | The Dolphins activated Louis (knee) from injured reserve Saturday.
-- Reese Taylor (CB) | Out | Fri Oct 23, 10:00 PM ET | Taylor (quadriceps) has been ruled out ahead of Sunday's game against the Jets, David Furones of the South Florida Sun Sentinel reports.
-- Jaylen Wright (RB) | Active | Fri Oct 23, 5:33 PM ET | Wright (foot) doesn't have an injury designation for Sunday's game at the Jets, David Furones of the South Florida Sun Sentinel reports.
-- Robert Beal Jr. (DE) | Doubtful | Fri Oct 23, 4:18 PM ET | doubtful
-- Caleb Douglas (WR) | Active | Fri Oct 23, 11:15 AM ET | Dolphins coach Jeff Hafley said Friday that Douglas (ankle) will play Sunday against the Jets, C. Isaiah Smalls II of the Miami Herald reports.
 - Will Kacmarek (TE) | Active | Thu Oct 22, 7:55 PM ET | Kacmarek (hamstring) was limited in Thursday's practice, but he said he expects to play Sunday versus the Jets, Joe Schad of The Palm Beach Post reports.
-- Willie Gay Jr. (LB) | Questionable | Thu Oct 22, 4:18 PM ET | questionable
 - Jonah Savaiinaea (G) | Active | Wed Oct 21, 9:45 PM ET | Savaiinaea (ankle) was a full participant in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports.
 - Justin Joly (TE) | Active | Wed Oct 21, 8:25 PM ET | Joly (concussion) did not appear on the Dolphins' injury report Wednesday, David Furones of the South Florida Sun Sentinel reports.
 - Michael Taaffe (S) | Active | Wed Oct 21, 8:18 PM ET | Taaffe (chest) did not appear on the Dolphins' injury report Wednesday, David Furones of the South Florida Sun Sentinel reports.
-- Malik Willis (QB) | Active | Wed Oct 21, 4:52 PM ET | Willis was a full participant in Wednesday's practice after being listed on the Dolphins' injury report with a right thumb issue, David Furones of the South Florida Sun Sentinel reports.
 - Malik Washington (WR) | Active | Sun Oct 11, 7:54 PM ET | Washington secured six of eight targets for 43 yards, rushed once for 18 yards, returned two kickoffs for 45 yards and ran back one punt for 28 yards in the Dolphins' 31-24 loss to the Bengals on Sun…
-- Jordyn Brooks (LB) | Active | Sun Oct 11, 3:02 PM ET | Brooks (foot) returned to Sunday's game against the Bengals in the third quarter, Travis Wingfield of the Dolphins' official site reports.
-- Jackson Woodard (LB) | Active | Sun Oct 11, 12:53 PM ET | Woodard (ankle) is listed as active for Sunday's game against the Bengals.
-- Kenneth Grant (DT) | Active | Sat Oct 10, 8:31 PM ET | The Dolphins activated Grant (toe) from injured reserve Saturday.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
@@ -51,20 +52,19 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Jets take on the Panthers on losing streak | Mon Oct 26, 4:10 AM ET | http://www.espn.com/nhl/preview?gameId=401892591 | Florida Panthers (6-4-2, in the Atlantic Division) vs. Winnipeg Jets (4-4-3, in the Central Division)
+- Lars Eller scores late goal as Panthers top Blackhawks 3-2 | Sun Oct 25, 6:08 PM ET | http://www.espn.com/nhl/recap?gameId=401892578 | — Lars Eller's first goal of the season, with 2:23 left in the third period, lifted the Florida Panthers to a 3-2 win over the Chicago Blackhawks on Sunday.
+- Florida Panthers vs. Chicago Blackhawks: Game Highlights | Sun Oct 25, 5:58 PM ET | https://www.espn.com/video/clip/_/id/50280993/game-highlights | Florida Panthers vs. Chicago Blackhawks: Game Highlights
+- NHL Power Rankings: Fantasy hockey pickups for all 32 teams | Sun Oct 25, 7:38 AM ET | https://www.espn.com/nhl/story/_/id/50250699/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey | The Hurricanes hang on to the No. 1 spot, with some major jumbles in the poll thereafter.
+- NHL Tonight: Revenge games aplenty in Sunday's five-pack of matchups | Sun Oct 25, 7:34 AM ET | https://www.espn.com/nhl/story/_/id/50265164/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Game previews, betting intel, updated stat leaders, highlights and more.
 - Chicago hosts Florida in a non-conference matchup | Sat Oct 24, 4:10 AM ET | http://www.espn.com/nhl/preview?gameId=401892578 | Florida Panthers (5-4-2, in the Atlantic Division) vs. Chicago Blackhawks (3-7, in the Central Division)
-- NHL Power Rankings: Fantasy hockey pickups for all 32 teams | Fri Oct 23, 5:43 AM ET | https://www.espn.com/nhl/story/_/id/50250699/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey | The Hurricanes hang on to the No. 1 spot, with some major jumbles in the poll thereafter.
 - Panthers' Cooper Black, all 6-9 of him, becomes NHL's tallest goalie | Fri Oct 23, 12:12 AM ET | https://www.espn.com/nhl/story/_/id/50253433/panthers-cooper-black-becomes-nhl-tallest-goalie-6-9 | The 6-9 Cooper Black is listed 2 inches taller than the goalies who previously held the mark -- Ben Bishop, Ivan Fedotov, Mads Sogaard and Mikko Koskinen.
 - Florida Panthers vs. Pittsburgh Penguins: Game Highlights | Thu Oct 22, 10:01 PM ET | https://www.espn.com/video/clip/_/id/50254223/game-highlights | Florida Panthers vs. Pittsburgh Penguins: Game Highlights
 - Silovs, Penguins blank Panthers 4-0 to spoil Florida goalie Cooper Black’s record-setting NHL debut | Thu Oct 22, 9:53 PM ET | http://www.espn.com/nhl/recap?gameId=401892556 | — Pittsburgh's Arturs Silovs stopped 25 shots to spoil the history-making debut of Florida counterpart Cooper Black as the Penguins...
 - How Brady Tkachuk (and the Senators) prepared for his Ottawa return | Thu Oct 22, 1:42 PM ET | https://www.espn.com/nhl/story/_/id/50229493/nhl-2026-27-brady-tkachuk-panthers-senators-return-trade-rivalry-playoffs | After a summer blockbuster, the former Senators captain will be playing his first game against his old team (and its vocal fans).
 - NHL Tonight: Previews, stats and betting intel for Thursday's dozen games | Thu Oct 22, 11:04 AM ET | https://www.espn.com/nhl/story/_/id/50240758/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Get your multi-view ready, hockey fans, it's another busy night!
 - Pittsburgh takes losing streak into matchup with Florida | Thu Oct 22, 4:12 AM ET | http://www.espn.com/nhl/preview?gameId=401892556 | Florida Panthers (5-3-2, in the Atlantic Division) vs. Pittsburgh Penguins (3-6-1, in the Metropolitan Division)
-- Brady Tkachuk embraces boos, scores in acrimonious return to Ottawa | Thu Oct 22, 1:09 AM ET | https://www.espn.com/nhl/story/_/id/50243435/brady-tkachuk-embraces-boos-scores-acrimonious-return-ottawa | Brady Tkachuk embraced the overwhelming antagonism he faced in his first game back in Ottawa as fans welcomed back the former captain with constant boos.
-- Senators beat Panthers 5-1 as Brady Tkachuk scores in return to Ottawa but gets hostile reception | Thu Oct 22, 12:19 AM ET | http://www.espn.com/nhl/recap?gameId=401892551 | — With fans chanting “We don’t need you!,” the Ottawa Senators defeated Brady Tkachuk and his Florida Panthers 5-1 on Wednesday night.
-- Florida Panthers vs. Ottawa Senators: Game Highlights | Wed Oct 21, 11:51 PM ET | https://www.espn.com/video/clip/_/id/50244988/game-highlights | Florida Panthers vs. Ottawa Senators: Game Highlights
-- Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns | Wed Oct 21, 8:14 PM ET | https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans | Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team.
-Injuries / player notes (ESPN; 5 of 5 entries shown):
-- Gustav Forsling (D) | Day-To-Day | Thu Oct 22, 10:28 PM ET | day-to-day
+Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Jacob Markstrom (G) | Injured Reserve | Tue Oct 20, 5:23 PM ET | ir
 - Brad Marchand (LW) | Injured Reserve | Mon Oct 12, 5:11 PM ET | ir
 - Aleksander Barkov (C) | Injured Reserve | Tue Oct 6, 2:38 PM ET | Barkov (lower body) will be out for approximately 6-8 weeks, Jameson Olive of the Panthers' official site reports Tuesday.
@@ -72,6 +72,9 @@ Injuries / player notes (ESPN; 5 of 5 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- No. 3 Georgia and No. 17 Florida meet in Atlanta, Georgia | Sun Oct 25, 3:43 PM ET | http://www.espn.com/ncf/preview?gameId=401856734 | No. 17 Florida (5-2) vs. No. 3 Georgia (6-1), Oct. 31 at 3:30 p.m. EDT.
+- Allstate Playoff Predictor | Sun Oct 25, 3:20 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
+- Ohio State replaces BYU at No. 2 as Top 25 jumbled again by top-10 losses | Sun Oct 25, 2:50 PM ET | https://www.espn.com/college-football/story/_/id/50278326/ohio-state-replaces-byu-no-2-ap-top-25 | No. 1 Miami was the only team to hold its spot in The Associated Press Top 25 on Sunday as idle Ohio State moved up to No. 2 and the poll went through another major reordering in the wake of BYU's loss at UCF and subseq…
 - Top 25 betting lines: Texas favored vs. Ole Miss, Utah the fave vs. Houston | Fri Oct 23, 2:50 PM ET | https://www.espn.com/espn/betting/story/_/id/50216670/2026-college-football-week-8-top-25-betting-lines-odds | This week's odds and FPI predictions for Texas-Ole Miss, Utah-Houston and every top 25 matchup.
 - Can Week 8 up the ante again with more upsets and drama? | Thu Oct 22, 7:08 AM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff102226/week-8-top-games-upsets-preview | With plenty of SEC drama last week, could Week 8 bring even more chaos?
 - Bryce Thornton on Gators' defensive turnaround, rivalry against Georgia | Wed Oct 21, 10:29 PM ET | https://www.espn.com/video/clip/_/id/50243408/bryce-thornton-gators-defensive-turnaround-rivalry-georgia | Thornton joins SEC Now to discuss how Florida's defense banded together through adversity and shares his experience growing up watching one of college football's biggest rivalries.
@@ -79,14 +82,12 @@ News (last days, newest first):
 - Texas bans fan who made obscene gesture at Florida players | Wed Oct 21, 12:50 PM ET | https://www.espn.com/college-football/story/_/id/50238721/texas-bans-fan-made-obscene-gesture-florida-players | Texas AD Chris Del Conte said that a fan who was filmed making obscene gestures at Florida players on the field on Saturday has been permanently banned from Darrell K Royal-Texas Memorial Stadium.
 - College Football Playoff Bubble Watch after Week 7 | Tue Oct 20, 11:12 AM ET | https://www.espn.com/college-football/story/_/id/50219416/cfp-playoff-2026-bubble-watch-week-7 | A conference-by-conference look at who is contending for the playoff, who's close and who's out.
 - Harper, Cubelic analyze the CFP chances of SEC contenders | Mon Oct 19, 7:08 PM ET | https://www.espn.com/video/clip/_/id/50222146/harper-cubelic-analyze-cfp-chances-sec-contenders | SEC Network's Roman Harper and Cole Cubelic look at the AllState Playoff Predictor numbers to analyze SEC teams with the highest chance to make the College Football Playoff.
-- Allstate Playoff Predictor | Mon Oct 19, 3:44 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
 - Doering, Burns reveal their SECTM Week 7 Power Rankings | Mon Oct 19, 2:02 PM ET | https://www.espn.com/video/clip/_/id/50220014/doering-burns-reveal-their-sectm-week-7-power-rankings | After a Week 7 full of marquee victories and defeats across the conference, SEC This Morning's Chris Doering ranks what went wrong while Peter Burns focuses on the positives.
 - College football Power Rankings: How a wild Week 7 changed top 25 | Mon Oct 19, 11:08 AM ET | https://www.espn.com/college-football/story/_/id/50205060/2026-college-football-power-rankings-top-25-week-7 | After big wins and shocking upsets, we breakdown the top 25 following Week 7.
-- 2026-27 Week 7 College Football Playoff, bowl projections | Mon Oct 19, 7:24 AM ET | https://www.espn.com/college-football/story/_/id/50206179/2026-week-7-college-football-playoff-bowl-projections | Following an exhilarating Week 7, our bowl gurus take a look at how the postseason picture changed.
-- Connelly on upset-filled Week 7: How it happened and what it all means | Sun Oct 18, 5:08 PM ET | https://www.espn.com/college-football/story/_/id/50211284/connelly-week-7-upsets-mean | Bill Connelly makes sense of an upset-filled Saturday the likes of which college football has never seen.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it? | Mon Oct 26, 3:36 AM ET | https://www.espn.com/soccer/story/_/id/50258779/messi-cup-2026-how-watch-uk-taking-part-it | The second edition of the Messi Cup is almost here. Here's everything you need to know about the tournament.
 - Spurs claim 2nd-ever Premier League win at Chelsea | Sat Oct 24, 9:57 PM ET | https://www.espn.com/video/clip/_/id/50272702/spurs-claim-2nd-ever-premier-league-win-chelsea | A spectacular goal by Mathys Tel seals a 2-0 Spurs victory as Tottenham end their Stamford Bridge hoodoo with their second-ever win at Chelsea in the EPL era.
 - De Zerbi: Tottenham is a big club, and must show personality | Sat Oct 24, 4:47 PM ET | https://www.espn.com/video/clip/_/id/50269622/tottenham-big-club-show-personality | De Zerbi: Tottenham is a big club, and must show personality
 - Dele Alli proves Spurs' good luck charm at Stamford Bridge again | Sat Oct 24, 4:24 PM ET | https://www.espn.com/soccer/story/_/id/50269221/dele-alli-spurs-good-luck-charm-stamford-bridge | Dele Alli was the hero during Tottenham's win at Chelsea in 2018 and he provided good luck for his old club on Saturday after he watched on at Stamford Bridge.
@@ -98,7 +99,6 @@ News (last days, newest first):
 - Nicol: Alonso got everything wrong vs. Tottenham | Sat Oct 24, 3:09 PM ET | https://www.espn.com/video/clip/_/id/50268228/alonso-got-everything-wrong-vs-tottenham | Nicol: Alonso got everything wrong vs. Tottenham
 - Premier League recap: Spurs stun Chelsea, City lose unbeaten record to Villa | Sat Oct 24, 3:04 PM ET | https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur | Tottenham Hotspur get a rare away win against Chelsea, as Arsenal and Man City are both joint-top of the Premier League, on a Saturday full of matches across Europe.
 - Palmer sent off as Spurs get 2nd-ever Premier League win at Chelsea | Sat Oct 24, 2:58 PM ET | http://www.espn.com/soccer/report/_/gameId/401878767 | Cole Palmer was sent off as Chelsea fell to a 2-0 defeat to Tottenham at Stamford Bridge on Saturday.
-- Cole Palmer sent off for first time, Chelsea reach unwanted red card milestone | Sat Oct 24, 2:55 PM ET | https://www.espn.com/soccer/story/_/id/50267923/cole-palmer-first-red-card-chelsea-100-premier-league | Cole Palmer was sent off for the first time in his senior career as Chelsea became the third team in history to be shown 100 red cards in the Premier League.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
