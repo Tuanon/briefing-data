@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Oct 26, 4:55 AM ET)
+# Sports digest (generated Mon Oct 26, 5:41 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -99,7 +99,6 @@ Finals (last ~40h):
 - Carolina Hurricanes 4 at St. Louis Blues 0 | Final | Sat Oct 24, 7:00 PM ET | TV: ESPN+, CARNHL, Blues App, BN+ | Enterprise Center
 - Toronto Maple Leafs 7 at Edmonton Oilers 2 | Final | Sat Oct 24, 7:00 PM ET | TV: ESPN+ | Rogers Place
 - Los Angeles Kings 1 at New Jersey Devils 3 | Final | Sat Oct 24, 3:30 PM ET | TV: ESPN+, MSGSN, ABTV | Prudential Center
-- Anaheim Ducks 5 at Philadelphia Flyers 4 | Final | Sat Oct 24, 1:00 PM ET | TV: NHL Net, NBC Sports Phil, KCOP, Prime Video (Local), Fox 11 Plus | Xfinity Mobile Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Winnipeg Jets | 10/27 - 8:00 PM EDT | Tue Oct 27, 8:00 PM ET | TV: ESPN+, Scripps Sports | Canada Life Centre
 - [MY TEAM] Winnipeg Jets at Florida Panthers | 10/30 - 7:00 PM EDT | Fri Oct 30, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
@@ -164,9 +163,6 @@ Finals (last ~40h):
 - Sacramento State Hornets 17 at Ball State Cardinals 34 | Final | Sat Oct 24, 3:30 PM ET | TV: ESPN+ | Scheumann Stadium
 - Bowling Green Falcons 24 at Buffalo Bulls 31 | Final | Sat Oct 24, 3:30 PM ET | TV: ESPN+ | Broadview Stadium
 - Oregon Ducks 10 at Illinois Fighting Illini 21 | Final | Sat Oct 24, 3:00 PM ET | TV: BTN | Gies Memorial Stadium
-- Baylor Bears 24 at Kansas Jayhawks 25 | Final | Sat Oct 24, 1:00 PM ET | TV: TNT | David Booth Kansas Memorial Stadium
-- Akron Zips 20 at Kent State Golden Flashes 35 | Final | Sat Oct 24, 1:00 PM ET | TV: ESPN+ | Zoeller Field at Dix Stadium
-- Miami (OH) RedHawks 28 at Central Michigan Chippewas 27 | Final | Sat Oct 24, 1:00 PM ET | TV: ESPN+ | Kelly/Shorts Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Georgia Bulldogs | ranks: Georgia Bulldogs #3, Florida Gators #17 | 10/31 - 3:30 PM EDT | Sat Oct 31, 3:30 PM ET | TV: ABC | Mercedes-Benz Stadium
 Next 7 days, others (first 25):
@@ -285,7 +281,6 @@ Finals (last ~40h):
 - Carolina Hurricanes 4 at St. Louis Blues 0 | OFF | Sat Oct 24, 7:00 PM ET | TV: CARNHL, STLNHL, BN+, HHN | Enterprise Center
 - Toronto Maple Leafs 7 at Edmonton Oilers 2 | OFF | Sat Oct 24, 7:00 PM ET | TV: SN | Rogers Place
 - Los Angeles Kings 1 at New Jersey Devils 3 | OFF | Sat Oct 24, 3:30 PM ET | TV: ABTV , SN, SN1, MSGSN | Prudential Center
-- Anaheim Ducks 5 at Philadelphia Flyers 4 | OFF | Sat Oct 24, 1:00 PM ET | TV: FOXLA+, NHLN, SN, Prime Video, NBCSP | Xfinity Mobile Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Winnipeg Jets | FUT | Tue Oct 27, 8:00 PM ET | TV: TSN3, SCRIPPS | Canada Life Centre
 - [MY TEAM] Winnipeg Jets at Florida Panthers | FUT | Fri Oct 30, 7:00 PM ET | TV: TVAS, TSN3, SCRIPPS | Amerant Bank Arena
