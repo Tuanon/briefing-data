@@ -1,4 +1,4 @@
-# Team digest (generated Tue Oct 27, 4:53 AM ET)
+# Team digest (generated Tue Oct 27, 5:38 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -30,7 +30,6 @@ Injuries / player notes (ESPN; 10 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
-- Miami takes on Atlanta, aims to end 4-game skid | Tue Oct 27, 3:02 AM ET | http://www.espn.com/nba/preview?gameId=401909881 | Miami Heat (0-4, 15th in the Eastern Conference) vs. Atlanta Hawks (2-2, seventh in the Eastern Conference)
 - Milwaukee Bucks poke fun at Rays' World Series loss, Heat's 0-4 start in postgame jab | Tue Oct 27, 12:34 AM ET | https://www.espn.com/nba/story/_/id/50294283/milwaukee-bucks-troll-rays-heat | The Bucks' neighbors, the Brewers, defeated the Rays in Game 3 of the World Series on Monday, and the Heat fell to 0-4.
 - Cooper Flagg dominates with 29 points, Dallas adds to winless Miami's misery with 113-109 victory | Mon Oct 26, 11:28 PM ET | http://www.espn.com/nba/recap?gameId=401909871 | — Cooper Flagg had 29 points and 11 assists, plus blocked a shot that would have given Miami the lead in the final moments, and the Dallas Mavericks sent the reeling Heat to 0-4 with a 113-109 win on Monday night.
 - Dallas Mavericks vs. Miami Heat: Game Highlights | Mon Oct 26, 10:26 PM ET | https://www.espn.com/video/clip/_/id/50293342/game-highlights | Dallas Mavericks vs. Miami Heat: Game Highlights
@@ -42,6 +41,7 @@ News (last days, newest first):
 - Charlotte faces Miami in conference showdown | Sat Oct 24, 2:02 AM ET | http://www.espn.com/nba/preview?gameId=401909853 | Miami Heat (0-2, 13th in the Eastern Conference) vs. Charlotte Hornets (1-1, eighth in the Eastern Conference)
 - Giannis Antetokounmpo stays hot with 36 in loss, confident 0-2 Heat will click | Sat Oct 24, 12:41 AM ET | https://www.espn.com/nba/story/_/id/50263163/giannis-antetokounmpo-stays-hot-confident-0-2-heat-click | Giannis Antetokounmpo scored 36 points Friday, giving him 71 through the first two games, and stayed hopeful the Heat would rebound from their winless start.
 - Pistons roll past Heat 128-111, adding to Miami's season-opening woes on defensive end | Fri Oct 23, 11:39 PM ET | http://www.espn.com/nba/recap?gameId=401909847 | — John Collins scored 23 points, Paul Reed added 19 off the bench and the Detroit Pistons added to Miami's season-opening defensive misery by beating the Heat 128-111 on Friday night.
+- Detroit Pistons vs. Miami Heat: Game Highlights | Fri Oct 23, 11:01 PM ET | https://www.espn.com/video/clip/_/id/50262746/game-highlights | Detroit Pistons vs. Miami Heat: Game Highlights
 Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
@@ -81,7 +81,6 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Is it too soon for Chelsea to regret getting rid of Aston Villa's Nicolas Jackson? | Tue Oct 27, 3:59 AM ET | https://www.espn.com/espn/story/_/id/50295147/is-too-soon-chelsea-regret-getting-rid-aston-villa-nicolas-jackson | Nicolas Jackson scored twice to beat Manchester City 2-1 this past weekend, ending their perfect start to the Premier League season while hauling Villa up the table after a slow start.
 - Real Madrid best Barça in brilliant Clásico; Man United mess deepens; Spurs win again | Mon Oct 26, 9:04 AM ET | https://www.espn.com/soccer/story/_/id/50284670/marcotti-musings-analysis-clasico-real-madrid-barcelona-man-united-carrick-tottenham-chelsea | The weekend's big games brought plenty to unpack, with Real Madrid's Clásico win slowing Barcelona down in LaLiga and Man United's heavy home defeat surely pushing Michael Carrick toward the exit.
 - Chelsea will 'keep confidence' in Mike Penders - Xabi Alonso | Mon Oct 26, 8:23 AM ET | https://www.espn.com/soccer/story/_/id/50286547/chelsea-confidence-mike-penders-xabi-alonso | Xabi Alonso and Maxence Lacroix have thrown their support behind Mike Penders after the 21-year-old's own goal led to Saturday's 2-0 loss to Tottenham.
 - Messi Cup 2026: How to watch in the UK, who is taking part, when and what is it? | Mon Oct 26, 3:36 AM ET | https://www.espn.com/soccer/story/_/id/50258779/messi-cup-2026-how-watch-uk-taking-part-it | The second edition of the Messi Cup is almost here. Here's everything you need to know about the tournament.
@@ -93,6 +92,7 @@ News (last days, newest first):
 - Chelsea's Xabi Alonso after Tottenham defeat: 'We lose together,' not fault of Mike Penders | Sat Oct 24, 4:06 PM ET | https://www.espn.com/soccer/story/_/id/50268841/chelsea-xabi-alonso-tottenham-defeat-lose-together-not-fault-mike-penders | Chelsea manager Xabi Alonso refused to blame stand-in goalkeeper Mike Penders for his key error which helped Tottenham to a 2-0 win at Stamford Bridge on Saturday, and said Cole Palmer will learn from his red card.
 - Roberto De Zerbi: Tottenham are 'a complete team' after win at Chelsea | Sat Oct 24, 4:06 PM ET | https://www.espn.com/soccer/story/_/id/50268600/roberto-de-zerbi-tottenham-complete-team-chelsea | Roberto De Zerbi has described Tottenham as "the complete team" after Saturday's 2-0 win at 10-man Chelsea.
 - Chelsea 0-2 Tottenham: De Zerbi's men dominate at Stamford Bridge as Palmer shown red card - as it happened | Sat Oct 24, 3:12 PM ET | https://www.espn.com/soccer/story/_/id/50266092/chelsea-tottenham-live-premier-league-updates-commentary-analysis-score-result | Tottenham outclassed Chelsea at Stamford Bridge with a 2-0 win on Saturday that also saw Cole Palmer sent off.
+- Nicol: Alonso got everything wrong vs. Tottenham | Sat Oct 24, 3:09 PM ET | https://www.espn.com/video/clip/_/id/50268228/alonso-got-everything-wrong-vs-tottenham | Nicol: Alonso got everything wrong vs. Tottenham
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
