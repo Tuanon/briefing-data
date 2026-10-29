@@ -1,4 +1,4 @@
-# Team digest (generated Thu Oct 29, 5:01 AM ET)
+# Team digest (generated Thu Oct 29, 5:49 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -34,6 +34,7 @@ Injuries / player notes (ESPN; 14 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- Heat and Pacers meet Friday in NBA Cup group stage | Thu Oct 29, 3:02 AM ET | http://www.espn.com/nba/preview?gameId=401909282 | Indiana Pacers (2-3, 10th in the Eastern Conference) vs. Miami Heat (1-4, 14th in the Eastern Conference)
 - Giannis Antetokounmpo, Bam Adebayo lead Heat into win column | Wed Oct 28, 11:27 PM ET | https://www.espn.com/nba/story/_/id/50313794/giannis-antetokounmpo-bam-adebayo-lead-heat-win-column | Giannis Antetokounmpo had 24 points and 18 rebounds in his first victory with the Heat, who watched Bam Adebayo become the franchise's rebounding leader.
 - Giannis Antetokounmpo has 24 points, 18 rebounds as the Heat beat the Hawks 129-117 for first win | Wed Oct 28, 10:34 PM ET | http://www.espn.com/nba/recap?gameId=401909881 | — Giannis Antetokounmpo had 24 points and 18 rebounds in his first victory with the Heat, leading Miami over the Atlanta Hawks 129-117 on Wednesday night.
 - Miami Heat vs. Atlanta Hawks: Game Highlights | Wed Oct 28, 9:53 PM ET | https://www.espn.com/video/clip/_/id/50312931/game-highlights | Miami Heat vs. Atlanta Hawks: Game Highlights
@@ -45,7 +46,6 @@ News (last days, newest first):
 - Cooper Flagg dominates with 29 points, Dallas adds to winless Miami's misery with 113-109 victory | Mon Oct 26, 11:28 PM ET | http://www.espn.com/nba/recap?gameId=401909871 | — Cooper Flagg had 29 points and 11 assists, plus blocked a shot that would have given Miami the lead in the final moments, and the Dallas Mavericks sent the reeling Heat to 0-4 with a 113-109 win on Monday night.
 - Dallas Mavericks vs. Miami Heat: Game Highlights | Mon Oct 26, 10:26 PM ET | https://www.espn.com/video/clip/_/id/50293342/game-highlights | Dallas Mavericks vs. Miami Heat: Game Highlights
 - NBA breakout players: 30 ready for the next step (yes, even Wemby and Luka) | Mon Oct 26, 1:56 PM ET | https://www.espn.com/nba/story/_/id/50272822/breakout-players-flagg-maxey-luka-rookies | Steady starter to an All-Star lock? Top-10 talent to an MVP? Breakout seasons take many forms in the NBA. Ben Golliver identifies 30 players primed to take the next step.
-- Miami faces Dallas, looks to end 3-game slide | Sun Oct 25, 2:03 AM ET | http://www.espn.com/nba/preview?gameId=401909871 | Dallas Mavericks (1-2, 12th in the Western Conference) vs. Miami Heat (0-3, 14th in the Eastern Conference)
 Injuries / player notes (ESPN; 1 of 1 entries shown):
 - Simone Fontecchio (F) | Day-To-Day | Thu Oct 29, 12:32 AM ET | Fontecchio (illness) is out for Wednesday's game against the Hawks.
 
