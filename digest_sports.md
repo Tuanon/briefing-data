@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Oct 30, 5:01 AM ET)
+# Sports digest (generated Fri Oct 30, 5:50 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -210,7 +210,7 @@ Next 7 days, others (first 25):
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Prudential Hong Kong Tennis Open | TBD | Mon Nov 2, 12:00 AM ET
+- Prudential Hong Kong Tennis Open | 10/30 - 10:00 PM EDT | Fri Oct 30, 12:00 AM ET
 - Chennai Open | TBD | Mon Nov 2, 12:00 AM ET
 - Reto Win Tennis Cali Open | TBD | Mon Nov 2, 12:00 AM ET
 - Angola Ladies Open | TBD | Mon Nov 2, 12:00 AM ET
