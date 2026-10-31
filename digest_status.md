@@ -2,51 +2,51 @@
 
 HEALTH: OK
 HEALTH_REASONS: none
-GENERATED_UTC: 2026-10-31T08:52:27Z
-GENERATED_ET: Sat Oct 31, 4:52 AM ET
+GENERATED_UTC: 2026-10-31T09:38:01Z
+GENERATED_ET: Sat Oct 31, 5:38 AM ET
 COLLECTOR_VERSION: 10
 
 News feeds OK: 84 of 89 (1505 items in window). Sports sources OK: 26 of 26.
 
 Feeds that worked (items in last 48h; newest item):
-- CBS News: 30 items; newest Sat Oct 31, 4:31 AM ET
-- NPR: 10 items; newest Fri Oct 30, 6:06 PM ET
-- ABC News: 24 items; newest Sat Oct 31, 3:45 AM ET
+- CBS News: 30 items; newest Sat Oct 31, 5:00 AM ET
+- NPR: 10 items; newest Sat Oct 31, 5:01 AM ET
+- ABC News: 24 items; newest Sat Oct 31, 5:10 AM ET
 - PBS NewsHour: 20 items; newest Fri Oct 30, 8:01 PM ET
-- Fox News (latest): 25 items; newest Sat Oct 31, 4:00 AM ET
+- Fox News (latest): 25 items; newest Sat Oct 31, 5:00 AM ET
 - Fox News (world): 7 items; newest Fri Oct 30, 6:32 PM ET
-- Fox News (politics): 25 items; newest Sat Oct 31, 4:00 AM ET
-- NBC News: 25 items; newest Fri Oct 30, 10:46 PM ET
+- Fox News (politics): 25 items; newest Sat Oct 31, 5:00 AM ET
+- NBC News: 25 items; newest Sat Oct 31, 5:15 AM ET
 - CNBC (top news): 30 items; newest Sat Oct 31, 2:00 AM ET
 - CNBC (economy): 5 items; newest Fri Oct 30, 7:16 AM ET
-- Al Jazeera: 25 items; newest Sat Oct 31, 4:30 AM ET
-- Jerusalem Post: 21 items; newest Sat Oct 31, 6:08 AM ET
-- Politico: 11 items; newest Fri Oct 30, 8:46 PM ET
+- Al Jazeera: 25 items; newest Sat Oct 31, 5:26 AM ET
+- Jerusalem Post: 21 items; newest Sat Oct 31, 6:58 AM ET
+- Politico: 10 items; newest Fri Oct 30, 8:46 PM ET
 - Yahoo News: 9 items; newest Fri Oct 30, 9:05 PM ET
 - CBS Sports: 36 items; newest Fri Oct 30, 9:57 PM ET
-- NPR Politics: 10 items; newest Fri Oct 30, 5:56 PM ET
-- NPR World: 9 items; newest Fri Oct 30, 9:01 AM ET
-- NPR Business: 10 items; newest Fri Oct 30, 5:44 PM ET
-- NPR Technology: 3 items; newest Fri Oct 30, 5:00 AM ET
-- CBS News Politics: 27 items; newest Sat Oct 31, 4:31 AM ET
+- NPR Politics: 10 items; newest Sat Oct 31, 5:00 AM ET
+- NPR World: 8 items; newest Fri Oct 30, 9:01 AM ET
+- NPR Business: 10 items; newest Sat Oct 31, 5:00 AM ET
+- NPR Technology: 4 items; newest Sat Oct 31, 5:00 AM ET
+- CBS News Politics: 27 items; newest Sat Oct 31, 5:00 AM ET
 - CBS News World: 25 items; newest Sat Oct 31, 4:31 AM ET
 - ABC News Politics: 6 items; newest Fri Oct 30, 7:37 AM ET
 - ABC News World: 20 items; newest Sat Oct 31, 4:33 AM ET
 - The Hill: 100 items; newest Fri Oct 30, 11:01 PM ET
 - LA Times: 5 items; newest Fri Oct 30, 4:47 PM ET
-- Christian Science Monitor: 10 items; newest Fri Oct 30, 4:57 PM ET
-- New York Times: 14 items; newest Sat Oct 31, 12:15 AM ET
-- The Guardian (world): 37 items; newest Sat Oct 31, 4:00 AM ET
-- The Guardian (US): 33 items; newest Sat Oct 31, 2:00 AM ET
+- Christian Science Monitor: 10 items; newest Sat Oct 31, 5:00 AM ET
+- New York Times: 14 items; newest Sat Oct 31, 5:19 AM ET
+- The Guardian (world): 37 items; newest Sat Oct 31, 5:13 AM ET
+- The Guardian (US): 33 items; newest Sat Oct 31, 5:00 AM ET
 - Sky News (world): 8 items; newest Fri Oct 30, 9:16 PM ET
 - Deutsche Welle: 31 items; newest Sat Oct 31, 3:26 AM ET
 - France 24: 24 items; newest Sat Oct 31, 3:40 AM ET
-- New York Post: 21 items; newest Sat Oct 31, 4:34 AM ET
-- Newsweek: 20 items; newest Sat Oct 31, 4:45 AM ET
+- New York Post: 21 items; newest Sat Oct 31, 5:11 AM ET
+- Newsweek: 20 items; newest Sat Oct 31, 5:15 AM ET
 - MarketWatch: 10 items; newest Sat Oct 31, 12:30 AM ET
 - Bloomberg Markets: 20 items; newest Fri Oct 30, 6:21 PM ET
-- Fortune: 10 items; newest Sat Oct 31, 1:00 AM ET
-- Business Insider: 20 items; newest Sat Oct 31, 4:37 AM ET
+- Fortune: 10 items; newest Sat Oct 31, 3:05 AM ET
+- Business Insider: 20 items; newest Sat Oct 31, 5:27 AM ET
 - Federal Reserve press releases: 1 items; newest Thu Oct 29, 4:30 PM ET
 - SEC press releases: 2 items; newest Fri Oct 30, 3:30 PM ET
 - BLS latest releases: 1 items; newest Fri Oct 30, 8:30 AM ET
@@ -57,16 +57,16 @@ Feeds that worked (items in last 48h; newest item):
 - TechCrunch: 20 items; newest Sat Oct 31, 12:16 AM ET
 - The Verge: 10 items; newest Fri Oct 30, 6:32 PM ET
 - Ars Technica: 20 items; newest Fri Oct 30, 8:07 PM ET
-- Wired: 36 items; newest Sat Oct 31, 1:00 AM ET
+- Wired: 37 items; newest Sat Oct 31, 5:30 AM ET
 - Engadget: 20 items; newest Fri Oct 30, 4:21 PM ET
 - Hacker News front page: 20 items; newest Sat Oct 31, 4:02 AM ET
 - JNS: 30 items; newest Fri Oct 30, 5:18 PM ET
 - Al-Monitor: 20 items; newest Fri Oct 30, 9:46 PM ET
-- Yahoo Sports: 50 items; newest Sat Oct 31, 4:47 AM ET
+- Yahoo Sports: 50 items; newest Sat Oct 31, 5:30 AM ET
 - MLB.com news: 25 items; newest Sat Oct 31, 12:00 AM ET
-- Sky Sports (football): 19 items; newest Sat Oct 31, 4:30 AM ET
-- The Guardian (football): 23 items; newest Sat Oct 31, 4:00 AM ET
-- Variety: 10 items; newest Sat Oct 31, 4:40 AM ET
+- Sky Sports (football): 19 items; newest Sat Oct 31, 5:00 AM ET
+- The Guardian (football): 23 items; newest Sat Oct 31, 5:28 AM ET
+- Variety: 10 items; newest Sat Oct 31, 5:33 AM ET
 - Hollywood Reporter: 10 items; newest Fri Oct 30, 11:11 PM ET
 - CBS Sports (NFL): 36 items; newest Fri Oct 30, 6:30 PM ET
 - CBS Sports (NBA): 15 items; newest Fri Oct 30, 9:00 PM ET
@@ -78,8 +78,8 @@ Feeds that worked (items in last 48h; newest item):
 - CBS Sports (golf): 1 items; newest Thu Oct 29, 11:40 AM ET
 - The Guardian (Chelsea): 5 items; newest Sat Oct 31, 3:30 AM ET
 - Sky Sports (Premier League): 20 items; newest Sat Oct 31, 4:30 AM ET
-- The Guardian (sport): 25 items; newest Sat Oct 31, 4:46 AM ET
-- The Guardian (Premier League): 8 items; newest Sat Oct 31, 4:44 AM ET
+- The Guardian (sport): 25 items; newest Sat Oct 31, 5:23 AM ET
+- The Guardian (Premier League): 8 items; newest Sat Oct 31, 5:34 AM ET
 - The Guardian (Manchester City): 2 items; newest Fri Oct 30, 4:00 PM ET
 - ESPN (NFL): 32 items; newest Sat Oct 31, 3:01 AM ET
 - ESPN (NBA): 30 items; newest Sat Oct 31, 3:26 AM ET
@@ -131,8 +131,8 @@ Team data (ESPN news and injuries):
 - Miami Marlins (MLB): 3 news items, 8 injury entries
 
 ## Failures and warnings this run (full detail; the same lines go to failure_log.md)
-- Sat Oct 31, 4:52 AM ET | FAIL | step: Feed sweep | Washington Post | https://feeds.washingtonpost.com/rss/national | HTTP_ERROR 502: 502 Bad Gateway | attempts: 2 | impact: no items from this outlet in the digest | likely cause: INFERRED: a problem on the server side.
-- Sat Oct 31, 4:52 AM ET | FAIL | step: Feed sweep | Middle East Eye | https://www.middleeasteye.net/rss | PARSE_ERROR: invalid XML: not well-formed (invalid token): line 1, column 0 | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the response was probably a web page (a block or error page), not a feed or valid data.
-- Sat Oct 31, 4:52 AM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Fri Oct 23, 8:49 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Sat Oct 31, 4:52 AM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Wed Oct 7, 8:58 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Sat Oct 31, 4:52 AM ET | FAIL | step: Feed sweep | Sky Sports (all sports) | https://www.skysports.com/rss/0 | EMPTY_RESPONSE: HTTP request succeeded but the response body was empty | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the server (or its bot protection) answered with nothing instead of the feed. The response was an empty body, not a web page.
+- Sat Oct 31, 5:38 AM ET | FAIL | step: Feed sweep | Washington Post | https://feeds.washingtonpost.com/rss/national | HTTP_ERROR 502: 502 Bad Gateway | attempts: 2 | impact: no items from this outlet in the digest | likely cause: INFERRED: a problem on the server side.
+- Sat Oct 31, 5:38 AM ET | FAIL | step: Feed sweep | Middle East Eye | https://www.middleeasteye.net/rss | PARSE_ERROR: invalid XML: not well-formed (invalid token): line 1, column 0 | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the response was probably a web page (a block or error page), not a feed or valid data.
+- Sat Oct 31, 5:38 AM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Fri Oct 23, 8:49 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Sat Oct 31, 5:38 AM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Wed Oct 7, 8:58 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Sat Oct 31, 5:38 AM ET | FAIL | step: Feed sweep | Sky Sports (all sports) | https://www.skysports.com/rss/0 | EMPTY_RESPONSE: HTTP request succeeded but the response body was empty | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the server (or its bot protection) answered with nothing instead of the feed. The response was an empty body, not a web page.
