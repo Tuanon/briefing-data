@@ -1,4 +1,4 @@
-# Team digest (generated Sun Nov 1, 3:55 AM ET)
+# Team digest (generated Sun Nov 1, 4:42 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -46,6 +46,7 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Panthers take win streak into game against the Red Wings | Sun Nov 1, 3:10 AM ET | http://www.espn.com/nhl/preview?gameId=401892630 | Detroit Red Wings (6-5-3, in the Atlantic Division) vs. Florida Panthers (8-4-2, in the Atlantic Division)
 - Winnipeg Jets vs. Florida Panthers: Game Highlights | Fri Oct 30, 10:01 PM ET | https://www.espn.com/video/clip/_/id/50332569/game-highlights | Winnipeg Jets vs. Florida Panthers: Game Highlights
 - Anton Lundell scores 3 goals, Seth Jones caps record month and Panthers beat reeling Jets 5-2 | Fri Oct 30, 9:50 PM ET | http://www.espn.com/nhl/recap?gameId=401892612 | — Anton Lundell had a hat trick, Seth Jones capped a record-setting month with a goal and two assists, and the Florida Panthers topped the reeling Winnipeg Jets 5-2 on Friday night for their sixth win in eight games.
 - NHL Power Rankings: Updated poll, plus all 32 teams as horror movies | Fri Oct 30, 7:29 AM ET | https://www.espn.com/nhl/story/_/id/50322131/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-halloween | Carolina remains on top, with big risers and fallers elsewhere. Plus, which film represents your favorite team?
@@ -57,7 +58,6 @@ News (last days, newest first):
 - NHL Power Rankings: Fantasy hockey pickups for all 32 teams | Tue Oct 27, 10:54 AM ET | https://www.espn.com/nhl/story/_/id/50250699/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey | The Hurricanes hang on to the No. 1 spot, with some major jumbles in the poll thereafter.
 - Jets take on the Panthers on losing streak | Mon Oct 26, 4:10 AM ET | http://www.espn.com/nhl/preview?gameId=401892591 | Florida Panthers (6-4-2, in the Atlantic Division) vs. Winnipeg Jets (4-4-3, in the Central Division)
 - Lars Eller scores late goal as Panthers top Blackhawks 3-2 | Sun Oct 25, 6:08 PM ET | http://www.espn.com/nhl/recap?gameId=401892578 | — Lars Eller's first goal of the season, with 2:23 left in the third period, lifted the Florida Panthers to a 3-2 win over the Chicago Blackhawks on Sunday.
-- Florida Panthers vs. Chicago Blackhawks: Game Highlights | Sun Oct 25, 5:58 PM ET | https://www.espn.com/video/clip/_/id/50280993/game-highlights | Florida Panthers vs. Chicago Blackhawks: Game Highlights
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Brad Marchand (LW) | Injured Reserve | Thu Oct 29, 12:22 PM ET | Marchand (leg) has started skating and is tentatively three weeks away from returning, per George Richards.
 - Aleksander Barkov (C) | Injured Reserve | Thu Oct 29, 12:13 PM ET | Barkov (lower body) resumed skating Wednesday, George Richards of Florida Hockey Now reports.
@@ -66,9 +66,8 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
-- Kickers and a resurgent USC steal the show in Week 9 | Sun Nov 1, 1:36 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal103126/week-9-top-games-highlights-takeaways | Kickers came through in the clutch in Week 9, elsewhere Miami, Utah and UCLA all stayed undefeated.
-- Georgia bounces back from upset, handles Florida in Atlanta | Sun Nov 1, 12:50 AM ET | https://www.espn.com/college-football/story/_/id/50342444/georgia-bounces-back-upset-handles-florida-atlanta | Playing in their state capital Saturday afternoon, the No. 3 Georgia Bulldogs raced past the No. 17 Florida Gators 27-8 in Atlanta, shedding the memory of an uncharacteristic home loss to unranked Auburn two weeks ago.
 - Doering, Watson highlight UGA's optimistic outlook on defense vs. UF | Sat Oct 31, 9:59 PM ET | https://www.espn.com/video/clip/_/id/50343172/doering-watson-highlight-uga-optimistic-outlook-defense-vs-uf | SEC Now's Benjamin Watson and Chris Doering explain how the No. 3 Bulldogs' forced turnovers and stout run defense got them the win over the No. 17 Gators.
+- Georgia bounces back from upset, handles Florida in Atlanta | Sat Oct 31, 9:35 PM ET | https://www.espn.com/college-football/story/_/id/50342444/georgia-bounces-back-upset-handles-florida-atlanta | Playing in their state capital Saturday afternoon, the No. 3 Georgia Bulldogs raced past the No. 17 Florida Gators 27-8 in Atlanta, shedding the memory of an uncharacteristic home loss to unranked Auburn two weeks ago.
 - No. 3 Georgia takes advantage of 4 turnovers by No. 17 Florida to beat Gators 27-8 | Sat Oct 31, 8:36 PM ET | http://www.espn.com/ncf/recap?gameId=401856734 | — Chris Cole returned a fumble recovery 66 yards for a touchdown and No. 3 Georgia took advantage of four turnovers by No. 17 Florida to beat the Gators 27-8 on Saturday.
 - Florida Gators vs. Georgia Bulldogs: Game Highlights | Sat Oct 31, 7:49 PM ET | https://www.espn.com/video/clip/_/id/50341246/game-highlights | Florida Gators vs. Georgia Bulldogs: Game Highlights
 - 2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position | Sat Oct 31, 7:38 PM ET | https://www.espn.com/nfl/draft2027/story/_/id/50182998/2027-nfl-draft-rankings-kiper-big-board-top-prospects | Seven quarterbacks ranked in the top 25? This NFL draft class could be fun. Mel Kiper Jr. stacks the best players on the board as of late October.
@@ -78,6 +77,7 @@ News (last days, newest first):
 - Benjamin Watson dissects Georgia's mindset vs. Florida | Fri Oct 30, 6:52 PM ET | https://www.espn.com/video/clip/_/id/50331398/benjamin-watson-dissects-georgia-mindset-vs-florida | SEC Network's Watson joins The Paul Finebaum Show and explains how the No. 3 Bulldogs are approaching their rivalry matchup against the No. 17 Gators coming off a defeat.
 - How consistent change of college football landscape impacts SEC | Fri Oct 30, 6:03 PM ET | https://www.espn.com/video/clip/_/id/50331107/how-consistent-change-college-football-landscape-impacts-sec | Matt Barrie joins The Paul Finebaum Show to discuss how continuous changes across the college football world has impacted the SEC as he previews the Florida vs. Georgia matchup.
 - Tim Tebow reminisces on his time as a Gator, dissects Florida vs. UGA | Fri Oct 30, 5:38 PM ET | https://www.espn.com/video/clip/_/id/50331035/tim-tebow-reminisces-a-gator-dissects-florida-vs-uga | Tebow shares stories about the significance of the Florida vs. Georgia rivalry through his perspective as a former player, then breaks down Saturday's keys to success.
+- Roman Harper gives an interesting way Florida can win vs. Georgia | Fri Oct 30, 5:22 PM ET | https://www.espn.com/video/clip/_/id/50330974/roman-harper-gives-interesting-way-florida-win-vs-georgia | SEC Nation's Harper chimes in on The Paul Finebaum Show to explain how an unorthodox offensive approach could help the No. 17 Gators beat the No. 3 Bulldogs.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
