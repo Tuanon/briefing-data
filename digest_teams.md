@@ -1,4 +1,4 @@
-# Team digest (generated Mon Nov 2, 4:16 AM ET)
+# Team digest (generated Mon Nov 2, 5:00 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -32,6 +32,7 @@ Injuries / player notes (ESPN; 12 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- Miami visits Los Angeles following Doncic's 45-point game | Mon Nov 2, 2:02 AM ET | http://www.espn.com/nba/preview?gameId=401909921 | Miami Heat (2-4, 11th in the Eastern Conference) vs. Los Angeles Lakers (5-2, fourth in the Western Conference)
 - 2026 NBA Cup: Schedule, format, groups, updates and more | Sat Oct 31, 10:45 AM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament.
 - Giannis has triple-double, Heat open NBA Cup play with 145-125 win over Pacers | Fri Oct 30, 11:52 PM ET | http://www.espn.com/nba/recap?gameId=401909282 | — Giannis Antetokounmpo scored 31 points and had his second triple-double of the season, Bam Adebayo added 27 points and the Miami Heat opened NBA Cup play by beating the short-handed Indiana Pacers 145-125 on Friday ni…
 - Indiana Pacers vs. Miami Heat: Game Highlights | Fri Oct 30, 10:54 PM ET | https://www.espn.com/video/clip/_/id/50332897/game-highlights | Indiana Pacers vs. Miami Heat: Game Highlights
@@ -43,7 +44,6 @@ News (last days, newest first):
 - Miami Heat vs. Atlanta Hawks: Game Highlights | Wed Oct 28, 9:53 PM ET | https://www.espn.com/video/clip/_/id/50312931/game-highlights | Miami Heat vs. Atlanta Hawks: Game Highlights
 - NBA Power Rankings: How all 30 teams stack up after one week | Wed Oct 28, 12:37 PM ET | https://www.espn.com/nba/story/_/id/50290392/nba-power-rankings-30-teams-rank-one-week-stat-trend | Here's where all 30 NBA teams rank after one week of the 2026-27 regular season, plus the most surprising statistic or trend for each franchise.
 - Bam Adebayo says critics 'make me the scapegoat' for Heat's winless start | Wed Oct 28, 7:25 AM ET | https://www.espn.com/nba/story/_/id/50297902/bam-adebayo-says-scapegoat-heat-0-4-start | Bam Adebayo says he is being singled out as the "scapegoat" for the new-look Heat's worst start to a season in nearly two decades.
-- 'C'mon bro!': Stephen A. pleads with Bam Adebayo to stop complaining about media | Tue Oct 27, 11:45 AM ET | https://www.espn.com/video/clip/_/id/50298259/stephen-pleads-bam-adebayo-stop-complaining-media | 'C'mon bro!': Stephen A. pleads with Bam Adebayo to stop complaining about media
 Injuries / player notes (ESPN; 1 of 1 entries shown):
 - Tim Hardaway Jr. (G) | Day-To-Day | Sun Nov 1, 7:24 PM ET | Hardaway (personal) is listed as questionable for Monday's game against the Lakers.
 

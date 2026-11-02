@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Nov 2, 4:16 AM ET)
+# Sports digest (generated Mon Nov 2, 5:00 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -92,8 +92,6 @@ Finals (last ~40h):
 - Toronto Maple Leafs 4 at Vancouver Canucks 2 | Final | Sat Oct 31, 7:00 PM ET | TV: ESPN+ | Rogers Arena
 - Buffalo Sabres 3 at Los Angeles Kings 2 | Final | Sat Oct 31, 4:00 PM ET | TV: ESPN+, MSGB, ABTV | crypto.com Arena
 - Ottawa Senators 5 at San Jose Sharks 1 | Final | Sat Oct 31, 4:00 PM ET | TV: ESPN+, NBC Sports BA | SAP Center at San Jose
-- Tampa Bay Lightning 4 at Nashville Predators 5 | Final/SO | Sat Oct 31, 2:00 PM ET | TV: ESPN+, Scripps Sports, The Spot - MTN | Bridgestone Arena
-- Edmonton Oilers 4 at New York Islanders 0 | Final | Sat Oct 31, 2:00 PM ET | TV: ESPN+, MSGSN | UBS Arena
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | 11/2 - 7:00 PM EST | Mon Nov 2, 7:00 PM ET | TV: ESPN+, DSN, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Chicago Blackhawks at Florida Panthers | 11/4 - 7:30 PM EST | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV | Amerant Bank Arena
@@ -161,8 +159,6 @@ Finals (last ~40h):
 - UConn Huskies 26 at Air Force Falcons 35 | Final | Sat Oct 31, 3:00 PM ET | TV: MW+ | Falcon Stadium
 - Temple Owls 9 at East Carolina Pirates 17 | Final | Sat Oct 31, 3:00 PM ET | TV: ESPN+ | Dowdy-Ficklen Stadium
 - Louisiana Tech Bulldogs 35 at South Alabama Jaguars 20 | Final | Sat Oct 31, 3:00 PM ET | TV: ESPN+ | Hancock Whitney Stadium
-- Kansas State Wildcats 24 at Colorado Buffaloes 27 | Final/OT | Sat Oct 31, 2:00 PM ET | TV: TNT | Folsom Field
-- Coastal Carolina Chanticleers 31 at Georgia State Panthers 20 | Final | Sat Oct 31, 2:00 PM ET | TV: ESPN+ | Center Parc Stadium
 Next 7 days, my teams:
 - [MY TEAM] Oklahoma Sooners at Florida Gators | ranks: Florida Gators #25 | 11/7 - 7:45 PM EST | Sat Nov 7, 7:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -196,7 +192,6 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Arsenal 1 at Liverpool 0 | FT | Sun Nov 1, 11:30 AM ET | TV: NBCSN, Tele, Peacock | Anfield
 - Fulham 1 at Aston Villa 1 | FT | Sat Oct 31, 4:00 PM ET | TV: NBCSN, Peacock | Villa Park
-- Crystal Palace 0 at Tottenham Hotspur 2 | FT | Sat Oct 31, 1:30 PM ET | TV: NBC, Universo | Tottenham Hotspur Stadium
 Next 7 days, my teams:
 - [MY TEAM] Chelsea at Sunderland | Scheduled | Sun Nov 8, 9:00 AM ET | Stadium of Light
 Next 7 days, others (first 25):
@@ -344,8 +339,6 @@ Finals (last ~40h):
 - Toronto Maple Leafs 4 at Vancouver Canucks 2 | OFF | Sat Oct 31, 7:00 PM ET | TV: SN | Rogers Arena
 - Buffalo Sabres 3 at Los Angeles Kings 2 | OFF | Sat Oct 31, 4:00 PM ET | TV: ABTV , SN1, MSG-B | Crypto.com Arena
 - Ottawa Senators 5 at San Jose Sharks 1 | OFF | Sat Oct 31, 4:00 PM ET | TV: TSN5, RDSI, NBCSCA | SAP Center at San Jose
-- Tampa Bay Lightning 4 at Nashville Predators 5 | OFF (SO) | Sat Oct 31, 2:00 PM ET | TV: The Spot, SCRIPPS | Bridgestone Arena
-- Edmonton Oilers 4 at New York Islanders 0 | OFF | Sat Oct 31, 2:00 PM ET | TV: SN, MSGSN | UBS Arena
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | FUT | Mon Nov 2, 7:00 PM ET | TV: DSN, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Chicago Blackhawks at Florida Panthers | FUT | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV, HBO MAX | Amerant Bank Arena
