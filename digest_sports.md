@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Nov 3, 11:15 AM ET)
+# Sports digest (generated Tue Nov 3, 11:57 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 

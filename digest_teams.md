@@ -1,10 +1,10 @@
-# Team digest (generated Tue Nov 3, 11:15 AM ET)
+# Team digest (generated Tue Nov 3, 11:57 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades | Tue Nov 3, 9:59 AM ET | https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline | How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.
+- NFL Power Rankings: Stacking all 32 teams for Week 9, plus best in-season trades | Tue Nov 3, 11:44 AM ET | https://www.espn.com/nfl/story/_/id/50359434/nfl-power-rankings-week-9-teams-best-season-trades-deadline | How does every NFL team stack up heading into Week 9? We made our 1-32 list and picked the best trade deadline acquisitions of all time.
 - 2027 NFL draft order projections for Round 1, chances for top pick, more | Tue Nov 3, 6:26 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - NFL Week 8's best arrivals, led by Rams' Quentin Lake | Mon Nov 2, 6:57 PM ET | https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion | Here's a look at the best-dressed players around the NFL in Week 8.
 - Dolphins' blown lead another lesson in a season full of them | Mon Nov 2, 4:47 PM ET | https://www.espn.com/nfl/story/_/id/50360735/miami-dolphins-blow-lead-vs-patriots-improving | The Dolphins are hoping to learn another lesson from the Patiots: It takes from kickoff until the final whistle.
