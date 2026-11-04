@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Nov 4, 11:19 AM ET)
+# Sports digest (generated Wed Nov 4, 12:04 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -31,14 +31,6 @@ Finals (last ~40h):
 - Portland Trail Blazers 118 at Denver Nuggets 110 | Final | Mon Nov 2, 9:00 PM ET | TV: NBA League Pass, KUNP 16, BlazerVision, ALT2/KTVD | Ball Arena
 - Boston Celtics 93 at Houston Rockets 109 | Final | Mon Nov 2, 8:30 PM ET | TV: NBA League Pass | Toyota Center (Houston)
 - Utah Jazz 97 at San Antonio Spurs 119 | Final | Mon Nov 2, 8:30 PM ET | TV: NBA League Pass, KJZZ-TV, Jazz+, DAZN SAS | Frost Bank Center
-- Sacramento Kings 115 at Dallas Mavericks 100 | Final | Mon Nov 2, 8:00 PM ET | TV: NBA League Pass, KFAA-TV, MavsTV | American Airlines Center
-- New Orleans Pelicans 135 at Memphis Grizzlies 134 | Final/OT | Mon Nov 2, 8:00 PM ET | TV: NBA League Pass, GCSEN, Pelicans.com | FedExForum
-- Milwaukee Bucks 100 at Minnesota Timberwolves 112 | Final | Mon Nov 2, 8:00 PM ET | TV: NBA League Pass, MyMi, Bucks App, DAZN MIN | Target Center
-- Detroit Pistons 124 at Charlotte Hornets 91 | Final | Mon Nov 2, 7:30 PM ET | TV: NBA League Pass | Spectrum Center
-- Atlanta Hawks 108 at Indiana Pacers 104 | Final | Mon Nov 2, 7:30 PM ET | TV: NBA League Pass, DAZN IND | Gainbridge Fieldhouse
-- Brooklyn Nets 90 at New York Knicks 103 | Final | Mon Nov 2, 7:30 PM ET | TV: NBA League Pass, DAZN (YES) | Madison Square Garden
-- Washington Wizards 103 at Orlando Magic 94 | Final | Mon Nov 2, 7:30 PM ET | TV: MNMT, NBA League Pass | Kia Center
-- Chicago Bulls 107 at Philadelphia 76ers 126 | Final | Mon Nov 2, 7:30 PM ET | TV: NBA League Pass | Xfinity Mobile Arena
 Next 7 days, my teams:
 - [MY TEAM] Miami Heat at LA Clippers | 11/4 - 10:30 PM EST | Wed Nov 4, 10:30 PM ET | TV: ClipperVision | Intuit Dome
 - [MY TEAM] Miami Heat at Golden State Warriors | 11/5 - 10:00 PM EST | Thu Nov 5, 10:00 PM ET | TV: NBA TV | Chase Center
@@ -85,7 +77,6 @@ Finals (last ~40h):
 - Dallas Stars 6 at Washington Capitals 5 | Final | Tue Nov 3, 7:00 PM ET | TV: ESPN+, MNMT, Prime Video (Local) | Capital One Arena
 - Colorado Avalanche 2 at Columbus Blue Jackets 7 | Final | Tue Nov 3, 7:00 PM ET | TV: ESPN+, Altitude Sports, CBJNHL | Nationwide Arena
 - Calgary Flames 2 at San Jose Sharks 1 | Final | Mon Nov 2, 9:00 PM ET | TV: ESPN+, NBC Sports BA | SAP Center at San Jose
-- Colorado Avalanche 5 at Chicago Blackhawks 2 | Final | Mon Nov 2, 8:00 PM ET | TV: ESPN+, CHSN+, Altitude Sports | United Center
 Next 7 days, my teams:
 - [MY TEAM] Chicago Blackhawks at Florida Panthers | 11/4 - 7:30 PM EST | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Washington Capitals | 11/7 - 12:30 PM EST | Sat Nov 7, 12:30 PM ET | TV: ESPN+, MNMT, Scripps Sports | Capital One Arena
@@ -240,7 +231,7 @@ Next 7 days, others (first 25):
 
 ## Europa League
 Live now:
-- Olympiacos 0 at Stade Rennais 0 | HT | Wed Nov 4, 10:30 AM ET | TV: Paramount+ | Roazhon Park
+- Olympiacos 0 at Stade Rennais 0 | 77' | Wed Nov 4, 10:30 AM ET | TV: Paramount+ | Roazhon Park
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Ferencvaros at AC Milan | Scheduled | Thu Nov 5, 12:45 PM ET | TV: Paramount+ | San Siro
@@ -302,7 +293,6 @@ Finals (last ~40h):
 - Dallas Stars 6 at Washington Capitals 5 | OFF | Tue Nov 3, 7:00 PM ET | TV: Prime Video, MNMT | Capital One Arena
 - Colorado Avalanche 2 at Columbus Blue Jackets 7 | OFF | Tue Nov 3, 7:00 PM ET | TV: CBJNHL, CBJHN, ALT | Nationwide Arena
 - Calgary Flames 2 at San Jose Sharks 1 | OFF | Mon Nov 2, 9:00 PM ET | TV: SN+, TVAS, NBCSCA | SAP Center at San Jose
-- Colorado Avalanche 5 at Chicago Blackhawks 2 | OFF | Mon Nov 2, 8:00 PM ET | TV: CHSN+, ALT | United Center
 Next 7 days, my teams:
 - [MY TEAM] Chicago Blackhawks at Florida Panthers | FUT | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV, HBO MAX | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Sat Nov 7, 12:30 PM ET | TV: SN, MNMT, SCRIPPS | Capital One Arena

@@ -1,4 +1,4 @@
-# Team digest (generated Wed Nov 4, 11:19 AM ET)
+# Team digest (generated Wed Nov 4, 12:04 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -43,6 +43,7 @@ Injuries / player notes (ESPN; 2 of 2 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- NHL Tonight: Sharks-Kings takes center stage on Wednesday | Wed Nov 4, 8:58 AM ET | https://www.espn.com/nhl/story/_/id/50370347/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - Blackhawks bring losing streak into game against the Panthers | Tue Nov 3, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892645 | Chicago Blackhawks (4-10-1, in the Central Division) vs. Florida Panthers (8-5-2, in the Atlantic Division)
 - Detroit Red Wings vs. Florida Panthers: Game Highlights | Mon Nov 2, 10:06 PM ET | https://www.espn.com/video/clip/_/id/50364109/game-highlights | Detroit Red Wings vs. Florida Panthers: Game Highlights
 - Faulk, Brandsegg-Nygård score early in 3rd, lift Red Wings past Panthers 5-3 | Mon Nov 2, 9:35 PM ET | http://www.espn.com/nhl/recap?gameId=401892630 | — Justin Faulk and Michael Brandsegg-Nygård scored 45 seconds apart early in the third period, goalie Daniil Tarasov defeated his former team and the surging Detroit Red Wings beat the Florida Panthers 5-3 on Monday nig…
@@ -54,7 +55,6 @@ News (last days, newest first):
 - Anton Lundell scores 3 goals, Seth Jones caps record month and Panthers beat reeling Jets 5-2 | Fri Oct 30, 9:50 PM ET | http://www.espn.com/nhl/recap?gameId=401892612 | — Anton Lundell had a hat trick, Seth Jones capped a record-setting month with a goal and two assists, and the Florida Panthers topped the reeling Winnipeg Jets 5-2 on Friday night for their sixth win in eight games.
 - NHL Power Rankings: Updated poll, plus all 32 teams as horror movies | Fri Oct 30, 7:29 AM ET | https://www.espn.com/nhl/story/_/id/50322131/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-halloween | Carolina remains on top, with big risers and fallers elsewhere. Plus, which film represents your favorite team?
 - NHL Tonight: What to watch in Devils-Knights, Jets-Panthers, Kraken-Flames | Fri Oct 30, 6:01 AM ET | https://www.espn.com/nhl/story/_/id/50318513/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
-- Panthers play the Jets after Verhaeghe's 2-goal performance | Fri Oct 30, 4:10 AM ET | http://www.espn.com/nhl/preview?gameId=401892612 | Winnipeg Jets (4-6-3, in the Central Division) vs. Florida Panthers (7-4-2, in the Atlantic Division)
 Injuries / player notes (ESPN; 3 of 3 entries shown):
 - Brad Marchand (LW) | Injured Reserve | Thu Oct 29, 12:22 PM ET | Marchand (leg) has started skating and is tentatively three weeks away from returning, per George Richards.
 - Aleksander Barkov (C) | Injured Reserve | Thu Oct 29, 12:13 PM ET | Barkov (lower body) resumed skating Wednesday, George Richards of Florida Hockey Now reports.
@@ -92,7 +92,6 @@ News (last days, newest first):
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
-- Grading bold 2026 season predictions for all 30 MLB teams | Wed Nov 4, 9:59 AM ET | https://www.espn.com/mlb/story/_/id/50359998/grading-bold-2026-season-predictions | It's time to see if what we said about each club going into the season was accurate or not -- and what it means for 2027.
 - MLB free agency tracker: 2026-27 offseason trades, moves | Tue Nov 3, 2:30 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 - Rankings, contract projections: Top 50 2026-27 MLB free agents | Tue Nov 3, 8:46 AM ET | https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents | How much will the biggest stars get paid this winter? Kiley McDaniel breaks down the 2026-27 free agent class.
 - Michael King, Sonny Gray among 14 MLB players to become free agents | Sat Oct 31, 1:03 AM ET | https://www.espn.com/mlb/story/_/id/50331633/michael-king-sonny-gray-14-mlb-players-become-free-agents | Sandy Alcantara was blocked from becoming a free agent by the Miami Marlins, while Michael King and Sonny Gray were among 14 MLB players who went on the market Friday.
