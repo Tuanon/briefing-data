@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Nov 5, 11:28 AM ET)
+# Sports digest (generated Thu Nov 5, 12:18 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -75,8 +75,6 @@ Finals (last ~40h):
 - Ottawa Senators 2 at Buffalo Sabres 1 | Final | Wed Nov 4, 7:30 PM ET | TV: ESPN+, MSGB | KeyBank Center
 - [MY TEAM] Chicago Blackhawks 3 at Florida Panthers 5 | Final | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV | Amerant Bank Arena
 - Anaheim Ducks 5 at Vancouver Canucks 4 | Final | Tue Nov 3, 9:00 PM ET | TV: ESPN+, Prime Video (Local) | Rogers Arena
-- Carolina Hurricanes 1 at Nashville Predators 4 | Final | Tue Nov 3, 8:00 PM ET | TV: ESPN+, Scripps Sports, CARNHL | Bridgestone Arena
-- Edmonton Oilers 3 at New Jersey Devils 4 | Final/SO | Tue Nov 3, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Prudential Center
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | 11/7 - 12:30 PM EST | Sat Nov 7, 12:30 PM ET | TV: ESPN+, MNMT, Scripps Sports | Capital One Arena
 - [MY TEAM] Florida Panthers at Boston Bruins | 11/8 - 1:00 PM EST | Sun Nov 8, 1:00 PM ET | TV: NHL Net, Scripps Sports, NESN | TD Garden
@@ -113,7 +111,6 @@ Finals (last ~40h):
 - Central Michigan Chippewas 35 at Eastern Michigan Eagles 7 | Final | Wed Nov 4, 7:30 PM ET | TV: ESPN2 | Ford Field
 - Ball State Cardinals 30 at Massachusetts Minutemen 31 | Final/OT | Wed Nov 4, 7:00 PM ET | TV: ESPNU | Warren McGuirk Alumni Stadium
 - Toledo Rockets 20 at Sacramento State Hornets 17 | Final | Wed Nov 4, 7:00 PM ET | TV: CBSSN | Hornet Stadium
-- Buffalo Bulls 34 at Miami (OH) RedHawks 31 | Final/OT | Tue Nov 3, 8:00 PM ET | TV: ESPN | Yager Stadium
 Next 7 days, my teams:
 - [MY TEAM] Oklahoma Sooners at Florida Gators | ranks: Florida Gators #24 | 11/7 - 7:45 PM EST | Sat Nov 7, 7:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -272,6 +269,13 @@ Next 7 days, others (first 25):
 - Chinese Taipei at Vietnam | Scheduled | Wed Nov 11, 7:00 AM ET | Thien Truong Stadium
 - India at New Zealand | Scheduled | Thu Nov 12, 1:00 AM ET | Go Media Stadium
 - Russia at Uzbekistan | Scheduled | Thu Nov 12, 10:00 AM ET | Pakhtakor Markaziy Stadium
+- Suriname at Lithuania | Scheduled | Thu Nov 12, 12:00 PM ET | S. Darius and S. Gireno Stadium
+
+## UEFA Nations League
+Next 7 days: no game for my teams in this league's data
+Next 7 days, others (first 25):
+- Cyprus at Armenia | Scheduled | Thu Nov 12, 12:00 PM ET | Vazgen Sargsyan Republican Stadium
+- Belgium at Türkiye | Scheduled | Thu Nov 12, 12:00 PM ET | Göztepe Gürsel Aksel Stadi
 
 ## NHL (official schedule API)
 Finals (last ~40h):
@@ -280,8 +284,6 @@ Finals (last ~40h):
 - Ottawa Senators 2 at Buffalo Sabres 1 | OFF | Wed Nov 4, 7:30 PM ET | TV: Prime, MSG-B | KeyBank Center
 - [MY TEAM] Chicago Blackhawks 3 at Florida Panthers 5 | OFF | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV, HBO MAX | Amerant Bank Arena
 - Anaheim Ducks 5 at Vancouver Canucks 4 | OFF | Tue Nov 3, 9:00 PM ET | TV: SNP, Prime Video | Rogers Arena
-- Carolina Hurricanes 1 at Nashville Predators 4 | OFF | Tue Nov 3, 8:00 PM ET | TV: CARNHL, HHN, SN+, SCRIPPS | Bridgestone Arena
-- Edmonton Oilers 3 at New Jersey Devils 4 | OFF (SO) | Tue Nov 3, 7:30 PM ET | TV: ESPN+, HULU, SN, Disney+ | Prudential Center
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Sat Nov 7, 12:30 PM ET | TV: SN, MNMT, SCRIPPS | Capital One Arena
 - [MY TEAM] Florida Panthers at Boston Bruins | FUT | Sun Nov 8, 1:00 PM ET | TV: NHLN, SN1, TVAS, NESN, SCRIPPS | TD Garden

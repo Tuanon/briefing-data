@@ -1,4 +1,4 @@
-# Team digest (generated Thu Nov 5, 11:28 AM ET)
+# Team digest (generated Thu Nov 5, 12:18 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -66,6 +66,7 @@ Injuries / player notes (ESPN; 3 of 3 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Top 25 betting lines: No. 4 Notre Dame favored over No. 1 Miami | Thu Nov 5, 10:20 AM ET | https://www.espn.com/espn/betting/story/_/id/50355297/2026-college-football-week-10-top-25-betting-lines-odds | This week's odds and FPI predictions for Notre Dame-Miami, Utah-BYU and every top 25 matchup.
 - Source: Gators' Tramell Jones set to replace Aaron Philo as starter vs. Sooners | Thu Nov 5, 9:29 AM ET | https://www.espn.com/college-football/story/_/id/50388555/source-florida-start-qb-tramell-jones-jr-oklahoma | Tramell Jones Jr. is set to make his second career start for Florida when the No. 24 Gators host Oklahoma, a source confirmed to ESPN.
 - Will college football's top team stand up in Week 10? | Thu Nov 5, 9:07 AM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff110526/week-10-top-games-upsets-preview | With four weeks left in the regular season, Nos. 1 and 2 have already lost six times. What's in store for Week 10?
 - Florida suspends DT Jeramiah McCloud 1 game for detrimental conduct | Thu Nov 5, 6:32 AM ET | https://www.espn.com/college-football/story/_/id/50383936/florida-suspends-jeramiah-mccloud-1-game-conduct-detrimental-team | Florida defensive tackle Jeramiah McCloud has been suspended one game for conduct detrimental to the team and will miss Saturday's matchup against Oklahoma.
@@ -75,7 +76,6 @@ News (last days, newest first):
 - Who's No. 1? CFP committee's first top 25 and bracket of 2026 | Tue Nov 3, 7:46 PM ET | https://www.espn.com/college-football/story/_/id/50290390/cfp-2026-first-committee-top-25-bracket | A look at the new bracket based on the College Football Playoff committee's first set of rankings.
 - Jon Sumrall on Florida: 'We have to be better around the quarterback' | Mon Nov 2, 6:28 PM ET | https://www.espn.com/video/clip/_/id/50361876/be-better-quarterback | Sumrall vies for the quarterback play to improve, but he emphasizes that the Gators must play better across the offense.
 - Connelly's CFP tiers: How 29 contenders stack up after Week 9 | Mon Nov 2, 12:13 PM ET | https://www.espn.com/college-football/story/_/id/50348637/connelly-cfp-tiers-contenders-week-9 | With the first CFP rankings coming Tuesday, we break down every candidate's chances of landing a bid.
-- Top 25 betting lines: No. 4 Notre Dame favored over No. 1 Miami | Mon Nov 2, 8:45 AM ET | https://www.espn.com/espn/betting/story/_/id/50355297/2026-college-football-week-10-top-25-betting-lines-odds | This week's odds and FPI predictions for Notre Dame-Miami, Utah-BYU and every top 25 matchup.
 - 2026-27 Week 9 College Football Playoff, bowl projections | Mon Nov 2, 7:27 AM ET | https://www.espn.com/college-football/story/_/id/50350313/2026-week-9-college-football-playoff-bowl-projections | After an eventful Week 9, our bowl gurus take a look at how the postseason picture changed.
 - No. 25 Florida meets Oklahoma in SEC action | Sun Nov 1, 3:44 PM ET | http://www.espn.com/ncf/preview?gameId=401856739 | Oklahoma (4-4) at No. 25 Florida (5-3), Nov. 7 at 7:45 p.m. EST.
 
