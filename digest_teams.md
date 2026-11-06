@@ -1,10 +1,11 @@
-# Team digest (generated Fri Nov 6, 10:55 AM ET)
+# Team digest (generated Fri Nov 6, 11:41 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Nov 6, 10:05 AM ET | https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026 | Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.
+- NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Nov 6, 11:21 AM ET | https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026 | Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.
+- NFL Week 9 betting odds: Lines and totals for every game | Fri Nov 6, 10:44 AM ET | https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 9.
 - Regrading 2025 NFL deadline trades: How Gardner, Williams deals look right now | Fri Nov 6, 9:31 AM ET | https://www.espn.com/nfl/story/_/id/50359560/regrading-deals-2025-nfl-trade-deadline-williams-gardner | How do the Sauce Gardner and Quinnen Williams blockbuster trades look one year later? What about the Jakobi Meyers, Rashid Shaheed and Jaelan Phillips deals?
 - Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage | Fri Nov 6, 8:28 AM ET | https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings | The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.
 - Dolphins coach Hafley brings familiarity with Lions | Fri Nov 6, 6:00 AM ET | https://www.espn.com/nfl/story/_/id/50393038/miami-dolphins-hafley-familiar-lions | Dolphins coach Jeff Hafley saw plenty of the Lions' top-ranked offense while leading Packers defense.
@@ -12,12 +13,11 @@ News (last days, newest first):
 - NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin | Thu Nov 5, 7:38 PM ET | https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals | NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.
 - Dolphins host Lions with Hafley's team aiming for grit that Campbell has built in Detroit | Thu Nov 5, 6:23 PM ET | http://www.espn.com/nfl/preview?gameId=401873042 | — When Dan Campbell was hired as the Lions' head coach in 2021, he famously declared that Detroit would be a team that would “bite...
 - Dolphins look to get run game back on track | Thu Nov 5, 6:06 PM ET | https://www.espn.com/video/clip/_/id/50393185/dolphins-look-get-run-game-back-track | Marcel Louis-Jacques reports Kadyn Proctor's potential return could give Miami's run game a boost against Detroit.
-- NFL Week 9 betting odds: Lines and totals for every game | Thu Nov 5, 3:22 PM ET | https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 9.
 - What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season | Thu Nov 5, 3:08 PM ET | https://www.espn.com/nfl/story/_/id/50369047/2026-nfl-season-10-new-coaches-midseason-good-bad | There are 10 new head coaches in the NFL this season, which ties the most ever. How are things going for each of them after eight weeks?
 - 2026 NFL trade deadline: Players to watch, buzz and goals for all 32 teams | Wed Nov 4, 3:00 PM ET | https://www.espn.com/nfl/story/_/id/50370030/trade-deadline-team-preview-goals-buzz-players-deals-2026 | We outlined deadline plans for all 32 teams, including who could be dealt before 4 p.m. ET on Tuesday. Here's what you need to know.
 - Fantasy football D/ST outlook for Weeks 9-12: Fire up Texans, and how 'bout them Cowboys? | Tue Nov 3, 12:03 PM ET | https://www.espn.com/fantasy/football/story/_/id/50369005/fantasy-football-defense-special-teams-streaming-week-9 | Looking for the right D/ST units to stream over the next four weeks? Here's what you need to know.
 Injuries / player notes (ESPN; 11 of 25 entries shown):
-- Jaylen Wright (RB) | Questionable | Thu Nov 5, 5:01 PM ET | Wright (quadriceps) was limited in Thursday's practice, Marcel Louis-Jacques of ESPN.com reports.
+- Jaylen Wright (RB) | Questionable | Fri Nov 6, 11:13 AM ET | Wright (quadriceps) will practice Friday, Barry Jackson of the Miami Herald reports.
 - Kadyn Proctor (OT) | Questionable | Wed Nov 4, 10:55 PM ET | Proctor (concussion) practiced fully Wednesday.
 - Malik Herring (DE) | Questionable | Wed Nov 4, 10:53 PM ET | Herring (neck) was limited in Wednesday's practice.
 - Kaytron Allen (RB) | Questionable | Wed Nov 4, 8:51 PM ET | Allen (quadriceps) was a limited participant at the Dolphins' practice Wednesday.
@@ -31,7 +31,8 @@ Injuries / player notes (ESPN; 11 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
-- Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit | Fri Nov 6, 10:21 AM ET | https://www.espn.com/nba/story/_/id/50399276/doc-rivers-giannis-antetokounmpo-bucks-exit-coaching-star | Former Bucks coach Doc Rivers said Giannis Antetokounmpo "didn't want to be the bad guy" when he was trying to seek a trade out of Milwaukee last season.
+- Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit | Fri Nov 6, 10:55 AM ET | https://www.espn.com/nba/story/_/id/50399276/doc-rivers-giannis-antetokounmpo-bucks-exit-coaching-star | Former Bucks coach Doc Rivers said Giannis Antetokounmpo "didn't want to be the bad guy" when he was trying to seek a trade out of Milwaukee last season.
+- Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach | Fri Nov 6, 10:44 AM ET | https://www.espn.com/video/clip/_/id/50399783/stephen-reacts-doc-rivers-saying-giannis-not-easy-coach | Stephen A. reacts to Doc Rivers saying Giannis is 'not easy' to coach
 - Warriors win sixth in a row after taking down the Heat at home | Fri Nov 6, 12:48 AM ET | https://www.espn.com/video/clip/_/id/50397141/warriors-win-sixth-row-taking-heat-home | Warriors win sixth in a row after taking down the Heat at home
 - Stephen Curry scores 29 points as Warriors win 6th straight since 0-3 start, 120-100 over Heat | Fri Nov 6, 12:45 AM ET | http://www.espn.com/nba/recap?gameId=401909937 | — Stephen Curry scored 29 points, Yaxel Lendeborg added 17 points, eight rebounds and six assists, and the Golden State Warriors won their sixth straight game by beating the Miami Heat 120-100 on Thursday night.
 - Heat's Klay Thompson hits eight 3s, but none as dramatic as game winner | Thu Nov 5, 8:09 AM ET | https://www.espn.com/nba/story/_/id/50387296/klay-thompson-hits-game-winner-miami-heat-comeback | The Heat engulfed Klay Thompson in a jubilant celebration after his corner 3 -- his eighth of the game -- went in with one second left in overtime of Miami's 117-116 victory over the Clippers.
@@ -42,7 +43,6 @@ News (last days, newest first):
 - NBA Power Rankings: Summing up all 30 teams' starts | Wed Nov 4, 8:48 AM ET | https://www.espn.com/nba/story/_/id/50371604/nba-power-rankings-30-teams-rank-week-two-describe-season | Here's where all 30 NBA teams rank after two weeks of action, plus the four words used to describe how each team has started the season.
 - Shams to McAfee: Luka Doncic has been a treat to watch | Tue Nov 3, 1:19 PM ET | https://www.espn.com/video/clip/_/id/50370515/luka-doncic-treat-watch | Shams to McAfee: Luka Doncic has been a treat to watch
 - Clippers face the Heat on 6-game slide | Tue Nov 3, 3:02 AM ET | http://www.espn.com/nba/preview?gameId=401909935 | Miami Heat (2-5, 10th in the Eastern Conference) vs. Los Angeles Clippers (1-6, 13th in the Western Conference)
-- Miami Heat vs. Los Angeles Lakers: Game Highlights | Tue Nov 3, 12:47 AM ET | https://www.espn.com/video/clip/_/id/50366111/game-highlights | Miami Heat vs. Los Angeles Lakers: Game Highlights
 Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
@@ -60,8 +60,8 @@ News (last days, newest first):
 - Inside Florida Panthers' audacious 'pink' Hometown Remix jerseys | Mon Nov 2, 9:59 AM ET | https://www.espn.com/nhl/story/_/id/50356979/nhl-2026-27-florida-panthers-hometown-remix-jerseys | Using "tropical sunrise colors," the new jersey is something that could transcend the sport.
 - NHL Tonight: What to watch in Golden Knights-Bruins, Monday's other games | Mon Nov 2, 5:57 AM ET | https://www.espn.com/nhl/story/_/id/50348951/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 Injuries / player notes (ESPN; 3 of 3 entries shown):
-- Brad Marchand (LW) | Injured Reserve | Thu Oct 29, 12:22 PM ET | Marchand (leg) has started skating and is tentatively three weeks away from returning, per George Richards.
-- Aleksander Barkov (C) | Injured Reserve | Thu Oct 29, 12:13 PM ET | Barkov (lower body) resumed skating Wednesday, George Richards of Florida Hockey Now reports.
+- Brad Marchand (LW) | Injured Reserve | Fri Nov 6, 11:34 AM ET | Head coach Paul Maurice said Friday that Marchand (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
+- Aleksander Barkov (C) | Injured Reserve | Fri Nov 6, 11:30 AM ET | Head coach Paul Maurice said Friday that Barkov (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Sep 17, 4:53 PM ET | Gadjovich (upper body) is out indefinitely, the team announced Thursday.
 
 ## Florida Gators (college football) (ESPN team id 57)

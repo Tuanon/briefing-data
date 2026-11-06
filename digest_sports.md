@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Nov 6, 10:55 AM ET)
+# Sports digest (generated Fri Nov 6, 11:41 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -36,11 +36,6 @@ Finals (last ~40h):
 - Indiana Pacers 107 at Memphis Grizzlies 103 | Final | Wed Nov 4, 8:00 PM ET | TV: DAZN MEM, DAZN IND | FedExForum
 - Utah Jazz 113 at New Orleans Pelicans 120 | Final/OT | Wed Nov 4, 8:00 PM ET | TV: GCSEN, Pelicans.com, KJZZ-TV, Jazz+ | Smoothie King Center
 - Cleveland Cavaliers 116 at Oklahoma City Thunder 124 | Final | Wed Nov 4, 8:00 PM ET | TV: KSBI, Thunder App, DAZN CLE | Paycom Center
-- Milwaukee Bucks 102 at Boston Celtics 109 | Final | Wed Nov 4, 7:30 PM ET | TV: MyMi, Bucks App | TD Garden
-- Charlotte Hornets 104 at Brooklyn Nets 114 | Final | Wed Nov 4, 7:30 PM ET | TV: DAZN (YES) | Barclays Center
-- Chicago Bulls 105 at New York Knicks 135 | Final | Wed Nov 4, 7:30 PM ET | Madison Square Garden
-- Philadelphia 76ers 112 at Detroit Pistons 106 | Final | Wed Nov 4, 7:00 PM ET | TV: ESPN | Little Caesars Arena
-- Atlanta Hawks 120 at Washington Wizards 105 | Final | Wed Nov 4, 7:00 PM ET | TV: MNMT | Capital One Arena
 Next 7 days, my teams:
 - [MY TEAM] Miami Heat at Sacramento Kings | 11/8 - 9:00 PM EST | Sun Nov 8, 9:00 PM ET | Golden 1 Center
 - [MY TEAM] Miami Heat at Utah Jazz | 11/10 - 9:00 PM EST | Tue Nov 10, 9:00 PM ET | TV: KJZZ-TV, Jazz+ | Delta Center
@@ -86,8 +81,6 @@ Finals (last ~40h):
 - Vancouver Canucks 2 at Winnipeg Jets 6 | Final | Thu Nov 5, 7:00 PM ET | TV: ESPN+ | Canada Life Centre
 - San Jose Sharks 2 at Los Angeles Kings 7 | Final | Wed Nov 4, 10:00 PM ET | TV: TNT, truTV | crypto.com Arena
 - Calgary Flames 1 at Seattle Kraken 2 | Final/OT | Wed Nov 4, 10:00 PM ET | TV: ESPN+, KONG, Prime Video (Local) | Climate Pledge Arena
-- Ottawa Senators 2 at Buffalo Sabres 1 | Final | Wed Nov 4, 7:30 PM ET | TV: ESPN+, MSGB | KeyBank Center
-- [MY TEAM] Chicago Blackhawks 3 at Florida Panthers 5 | Final | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV | Amerant Bank Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | 11/7 - 12:30 PM EST | Sat Nov 7, 12:30 PM ET | TV: ESPN+, MNMT, Scripps Sports | Capital One Arena
 - [MY TEAM] Florida Panthers at Boston Bruins | 11/8 - 1:00 PM EST | Sun Nov 8, 1:00 PM ET | TV: NHL Net, Scripps Sports, NESN | TD Garden
@@ -124,9 +117,6 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - James Madison Dukes 54 at Southern Miss Golden Eagles 23 | Final | Thu Nov 5, 8:00 PM ET | TV: ESPN2 | M. M. Roberts Stadium
 - UTSA Roadrunners 29 at Florida Atlantic Owls 60 | Final | Thu Nov 5, 7:30 PM ET | TV: ESPN | Flagler Credit Union Stadium
-- Central Michigan Chippewas 35 at Eastern Michigan Eagles 7 | Final | Wed Nov 4, 7:30 PM ET | TV: ESPN2 | Ford Field
-- Ball State Cardinals 30 at Massachusetts Minutemen 31 | Final/OT | Wed Nov 4, 7:00 PM ET | TV: ESPNU | Warren McGuirk Alumni Stadium
-- Toledo Rockets 20 at Sacramento State Hornets 17 | Final | Wed Nov 4, 7:00 PM ET | TV: CBSSN | Hornet Stadium
 Next 7 days, my teams:
 - [MY TEAM] Oklahoma Sooners at Florida Gators | ranks: Florida Gators #24 | 11/7 - 7:45 PM EST | Sat Nov 7, 7:45 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -315,8 +305,6 @@ Finals (last ~40h):
 - Vancouver Canucks 2 at Winnipeg Jets 6 | OFF | Thu Nov 5, 7:00 PM ET | TV: SNP, TSN3 | Canada Life Centre
 - San Jose Sharks 2 at Los Angeles Kings 7 | OFF | Wed Nov 4, 10:00 PM ET | TV: TNT, truTV, HBO MAX | Crypto.com Arena
 - Calgary Flames 1 at Seattle Kraken 2 | OFF (OT) | Wed Nov 4, 10:00 PM ET | TV: SNW, Prime Video, KONG | Climate Pledge Arena
-- Ottawa Senators 2 at Buffalo Sabres 1 | OFF | Wed Nov 4, 7:30 PM ET | TV: Prime, MSG-B | KeyBank Center
-- [MY TEAM] Chicago Blackhawks 3 at Florida Panthers 5 | OFF | Wed Nov 4, 7:30 PM ET | TV: TNT, truTV, HBO MAX | Amerant Bank Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Sat Nov 7, 12:30 PM ET | TV: SN, MNMT, SCRIPPS | Capital One Arena
 - [MY TEAM] Florida Panthers at Boston Bruins | FUT | Sun Nov 8, 1:00 PM ET | TV: NHLN, SN1, TVAS, NESN, SCRIPPS | TD Garden
