@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Nov 7, 9:54 AM ET)
+# Sports digest (generated Sat Nov 7, 10:36 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -158,11 +158,12 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Tottenham Hotspur 0 at Leeds United 1 | FT | Sat Nov 7, 7:30 AM ET | TV: USA Net, Universo | Elland Road
 - Coventry City 1 at Everton 3 | FT | Fri Nov 6, 3:00 PM ET | TV: USA Net, Universo | Hill Dickinson Stadium
+Live now:
+- Hull City 0 at Arsenal 0 | 35' | Sat Nov 7, 10:00 AM ET | TV: Peacock, Universo | Emirates Stadium
+- Newcastle United 0 at Fulham 0 | 35' | Sat Nov 7, 10:00 AM ET | TV: USA Net, Peacock | Craven Cottage
 Next 7 days, my teams:
 - [MY TEAM] Chelsea at Sunderland | Scheduled | Sun Nov 8, 9:00 AM ET | TV: USA Net, Tele | Stadium of Light
 Next 7 days, others (first 25):
-- Hull City at Arsenal | Scheduled | Sat Nov 7, 10:00 AM ET | TV: Peacock, Universo | Emirates Stadium
-- Newcastle United at Fulham | Scheduled | Sat Nov 7, 10:00 AM ET | TV: USA Net, Peacock | Craven Cottage
 - Manchester City at Nottingham Forest | Scheduled | Sat Nov 7, 12:30 PM ET | TV: NBC, Tele | The City Ground
 - Brentford at Brighton & Hove Albion | Scheduled | Sun Nov 8, 9:00 AM ET | TV: Peacock | American Express Stadium
 - Liverpool at Crystal Palace | Scheduled | Sun Nov 8, 9:00 AM ET | TV: Peacock | Selhurst Park
@@ -176,7 +177,7 @@ Next 7 days, others (first 25):
 
 ## PGA Tour
 Live now:
-- World Wide Technology Championship | [Ben James (-15); Peter Malnati (-14); Zac Blair (-12); Stephan Jaeger (-11); Denny McCarthy (-11); Sudarshan Yellamaraju (-10); Rasmus Neergaard-Petersen (-10); Lucas Glover (-10); Ben Kohles (-10); Austin Eckroat (-10)] | In Progress | Thu Nov 5, 12:00 AM ET | TV: Golf Chnl
+- World Wide Technology Championship | [Ben James (-15); Peter Malnati (-14); Zac Blair (-12); Denny McCarthy (-11); Stephan Jaeger (-11); Sudarshan Yellamaraju (-10); Lucas Glover (-10); Rasmus Neergaard-Petersen (-10); Keith Mitchell (-10); Austin Eckroat (-10)] | In Progress | Thu Nov 5, 12:00 AM ET | TV: Golf Chnl
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Austin Championship pres. by Compliance Solutions | Scheduled | Thu Nov 12, 12:00 AM ET | TV: ESPN+, Golf Chnl
@@ -195,33 +196,47 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Leicester City 4 at Oxford City 2 | FT | Fri Nov 6, 2:45 PM ET | TV: ESPN+ | RAW Charging Stadium
 - Cambridge United 0 at Bristol Rovers 2 | FT | Fri Nov 6, 2:30 PM ET | Memorial Stadium
+Live now:
+- Wycombe Wanderers 1 at Accrington Stanley 0 | 37' | Sat Nov 7, 10:00 AM ET | Wham Stadium
+- Blackpool 0 at AFC Hornchurch 1 | 35' | Sat Nov 7, 10:00 AM ET | Hornchurch Stadium
+- Tranmere Rovers 0 at Barnet 0 | 36' | Sat Nov 7, 10:00 AM ET | The Hive Stadium
+- Aldershot Town 0 at Barnsley 3 | 35' | Sat Nov 7, 10:00 AM ET | Oakwell
+- Wigan Athletic 2 at Boreham Wood 0 | 37' | Sat Nov 7, 10:00 AM ET | Meadow Park
+- Marine 0 at Bradford City 4 | 36' | Sat Nov 7, 10:00 AM ET | Valley Parade
+- Rotherham United 0 at Bromley 0 | 37' | Sat Nov 7, 10:00 AM ET | RELOC8 EM Community Stadium
+- AFC Rushden & Diamonds 0 at Burton Albion 1 | 35' | Sat Nov 7, 10:00 AM ET | Pirelli Stadium
+- Salford City 0 at Carlisle United 0 | 37' | Sat Nov 7, 10:00 AM ET | Brunton Park
+- FC Halifax Town 0 at Cheltenham Town 1 | 36' | Sat Nov 7, 10:00 AM ET | The Completely-Suzuki Stadium
+- Yeovil Town 0 at Chesterfield 0 | 37' | Sat Nov 7, 10:00 AM ET | SMH Group Stadium
+- Worcester City 0 at Colchester United 1 | 37' | Sat Nov 7, 10:00 AM ET | JobServe Community Stadium
+- AFC Wimbledon 0 at Crewe Alexandra 1 | 37' | Sat Nov 7, 10:00 AM ET | Mornflake Stadium
+- Wealdstone 0 at Dover Athletic 1 | 34' | Sat Nov 7, 10:00 AM ET | Crabble Athletic Ground
+- Shrewsbury Town 0 at Eastleigh 0 | 37' | Sat Nov 7, 10:00 AM ET | Silverlake Stadium
+- Rochdale 1 at Fleetwood Town 0 | 37' | Sat Nov 7, 10:00 AM ET | Highbury Stadium
+- Barrow 0 at Gillingham 0 | 35' | Sat Nov 7, 10:00 AM ET | Priestfield Stadium
+- Sutton United 0 at Guiseley 0 | 37' | Sat Nov 7, 10:00 AM ET | Nethermoor Park
+- AFC Fylde 1 at Harrogate Town 1 | 35' | Sat Nov 7, 10:00 AM ET | EnviroVent Stadium
+- Exeter City 1 at Huddersfield Town 0 | 37' | Sat Nov 7, 10:00 AM ET | John Smith's Stadium
+- Doncaster Rovers 0 at Kidderminster Harriers 2 | 37' | Sat Nov 7, 10:00 AM ET | Aggborough Stadium
+- Harborough Town 0 at Leyton Orient 2 | 37' | Sat Nov 7, 10:00 AM ET | Gaughan Group Stadium
+- Forest Green Rovers 0 at Luton Town 1 | 35' | Sat Nov 7, 10:00 AM ET | Kenilworth Road
+- Macclesfield FC 0 at Mansfield Town 1 | 37' | Sat Nov 7, 10:00 AM ET | One Call Stadium
+- Swindon Town 0 at Milton Keynes Dons 2 | 37' | Sat Nov 7, 10:00 AM ET | Stadium MK
+- Walsall 1 at Newport County 2 | 37' | Sat Nov 7, 10:00 AM ET | Rodney Parade
+- Stevenage 1 at Oxford United 0 | 37' | Sat Nov 7, 10:00 AM ET | The Kassam Stadium
+- Alvechurch 0 at Plymouth Argyle 0 | 36' | Sat Nov 7, 10:00 AM ET | Home Park
+- Scunthorpe United 0 at Port Vale 1 | 36' | Sat Nov 7, 10:00 AM ET | Vale Park
+- Sholing 0 at Salisbury FC 2 | 37' | Sat Nov 7, 10:00 AM ET | The Raymond McEnhill Stadium
+- Northampton Town 0 at York City 3 | 36' | Sat Nov 7, 10:00 AM ET | LNER Community Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Wycombe Wanderers at Accrington Stanley | Scheduled | Sat Nov 7, 10:00 AM ET | Wham Stadium
-- Blackpool at AFC Hornchurch | Scheduled | Sat Nov 7, 10:00 AM ET | Hornchurch Stadium
-- Tranmere Rovers at Barnet | Scheduled | Sat Nov 7, 10:00 AM ET | The Hive Stadium
-- Aldershot Town at Barnsley | Scheduled | Sat Nov 7, 10:00 AM ET | Oakwell
-- Wigan Athletic at Boreham Wood | Scheduled | Sat Nov 7, 10:00 AM ET | Meadow Park
-- Marine at Bradford City | Scheduled | Sat Nov 7, 10:00 AM ET | Valley Parade
-- Rotherham United at Bromley | Scheduled | Sat Nov 7, 10:00 AM ET | RELOC8 EM Community Stadium
-- AFC Rushden & Diamonds at Burton Albion | Scheduled | Sat Nov 7, 10:00 AM ET | Pirelli Stadium
-- Salford City at Carlisle United | Scheduled | Sat Nov 7, 10:00 AM ET | Brunton Park
-- FC Halifax Town at Cheltenham Town | Scheduled | Sat Nov 7, 10:00 AM ET | The Completely-Suzuki Stadium
-- Yeovil Town at Chesterfield | Scheduled | Sat Nov 7, 10:00 AM ET | SMH Group Stadium
-- Worcester City at Colchester United | Scheduled | Sat Nov 7, 10:00 AM ET | JobServe Community Stadium
-- AFC Wimbledon at Crewe Alexandra | Scheduled | Sat Nov 7, 10:00 AM ET | Mornflake Stadium
-- Wealdstone at Dover Athletic | Scheduled | Sat Nov 7, 10:00 AM ET | Crabble Athletic Ground
-- Shrewsbury Town at Eastleigh | Scheduled | Sat Nov 7, 10:00 AM ET | Silverlake Stadium
-- Rochdale at Fleetwood Town | Scheduled | Sat Nov 7, 10:00 AM ET | Highbury Stadium
-- Barrow at Gillingham | Scheduled | Sat Nov 7, 10:00 AM ET | Priestfield Stadium
-- Sutton United at Guiseley | Scheduled | Sat Nov 7, 10:00 AM ET | Nethermoor Park
-- AFC Fylde at Harrogate Town | Scheduled | Sat Nov 7, 10:00 AM ET | EnviroVent Stadium
-- Exeter City at Huddersfield Town | Scheduled | Sat Nov 7, 10:00 AM ET | John Smith's Stadium
-- Doncaster Rovers at Kidderminster Harriers | Scheduled | Sat Nov 7, 10:00 AM ET | Aggborough Stadium
-- Harborough Town at Leyton Orient | Scheduled | Sat Nov 7, 10:00 AM ET | Gaughan Group Stadium
-- Forest Green Rovers at Luton Town | Scheduled | Sat Nov 7, 10:00 AM ET | Kenilworth Road
-- Macclesfield FC at Mansfield Town | Scheduled | Sat Nov 7, 10:00 AM ET | One Call Stadium
-- Swindon Town at Milton Keynes Dons | Scheduled | Sat Nov 7, 10:00 AM ET | Stadium MK
+- Notts County at Altrincham | Scheduled | Sat Nov 7, 12:30 PM ET | TV: ESPN+ | J. Davidson Stadium
+- Reading at Peterborough United | Scheduled | Sat Nov 7, 3:00 PM ET | TV: ESPN+ | London Road Stadium
+- Grimsby Town at Stafford Rangers | Scheduled | Sun Nov 8, 7:00 AM ET | TV: ESPN+ | The Stan Robinson Stadium
+- Stockport County at Cray Wanderers | Scheduled | Sun Nov 8, 9:15 AM ET | TV: ESPN+ | Flamingo Park
+- Crawley Town at Wimborne Town | Scheduled | Sun Nov 8, 10:00 AM ET | TV: ESPN+ | The Wyatt Homes Stadium
+- Sheffield Wednesday at Oldham Athletic | Scheduled | Sun Nov 8, 12:15 PM ET | TV: ESPN+ | Boundary Park
+- Berkhamsted at Plymouth Parkway | Scheduled | Mon Nov 9, 2:30 PM ET | TV: ESPN+ | Manadon Sports Hub
 
 ## International friendlies
 Finals (last ~40h):
