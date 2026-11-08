@@ -1,10 +1,10 @@
-# Sports digest (generated Sun Nov 8, 10:12 AM ET)
+# Sports digest (generated Sun Nov 8, 10:54 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
 ## NFL
 Live now:
-- Cincinnati Bengals 7 at Atlanta Falcons 10 | 15:00 - 2nd | Sun Nov 8, 9:30 AM ET | TV: NFL Net | Santiago Bernabéu
+- Cincinnati Bengals 21 at Atlanta Falcons 10 | 0:57 - 2nd | Sun Nov 8, 9:30 AM ET | TV: NFL Net | Santiago Bernabéu
 Next 7 days, my teams:
 - [MY TEAM] Detroit Lions at Miami Dolphins | 11/8 - 1:00 PM EST | Sun Nov 8, 1:00 PM ET | TV: Fox | Hard Rock Stadium
 Next 7 days, others (first 25):
@@ -216,10 +216,10 @@ Finals (last ~40h):
 - Newcastle United 1 at Fulham 1 | FT | Sat Nov 7, 10:00 AM ET | TV: USA Net, Peacock | Craven Cottage
 - Tottenham Hotspur 0 at Leeds United 1 | FT | Sat Nov 7, 7:30 AM ET | TV: USA Net, Universo | Elland Road
 Live now:
-- Brentford 0 at Brighton & Hove Albion 2 | 52' | Sun Nov 8, 9:00 AM ET | TV: Peacock | American Express Stadium
-- Liverpool 1 at Crystal Palace 0 | 52' | Sun Nov 8, 9:00 AM ET | TV: Peacock | Selhurst Park
-- AFC Bournemouth 2 at Ipswich Town 0 | 56' | Sun Nov 8, 9:00 AM ET | TV: Peacock | Portman Road
-- [MY TEAM] Chelsea 0 at Sunderland 1 | 48' | Sun Nov 8, 9:00 AM ET | TV: USA Net, Tele | Stadium of Light
+- Brentford 0 at Brighton & Hove Albion 2 | 90'+4' | Sun Nov 8, 9:00 AM ET | TV: Peacock | American Express Stadium
+- Liverpool 3 at Crystal Palace 0 | 90'+4' | Sun Nov 8, 9:00 AM ET | TV: Peacock | Selhurst Park
+- AFC Bournemouth 2 at Ipswich Town 1 | 90'+8' | Sun Nov 8, 9:00 AM ET | TV: Peacock | Portman Road
+- [MY TEAM] Chelsea 0 at Sunderland 1 | 90' | Sun Nov 8, 9:00 AM ET | TV: USA Net, Tele | Stadium of Light
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Aston Villa at Manchester United | Scheduled | Sun Nov 8, 11:30 AM ET | TV: USA Net, Tele | Old Trafford
@@ -233,7 +233,7 @@ Next 7 days, others (first 25):
 
 ## PGA Tour
 Live now:
-- World Wide Technology Championship | [Ben James (-21); Ryan Gerard (-17); Chris Kirk (-16); Denny McCarthy (-16); Alvaro Ortiz (-15); Paul Peterson (-15); Keith Mitchell (-15); Kensei Hirata (-15); Michael Kim (-14); David Ford (-14)] | In Progress | Thu Nov 5, 12:00 AM ET | TV: Golf Chnl
+- World Wide Technology Championship | [Ben James (-21); Ryan Gerard (-17); Chris Kirk (-16); Denny McCarthy (-16); Paul Peterson (-15); Alvaro Ortiz (-15); Keith Mitchell (-15); Kensei Hirata (-15); Michael Kim (-14); David Ford (-14)] | In Progress | Thu Nov 5, 12:00 AM ET | TV: Golf Chnl
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Austin Championship pres. by Compliance Solutions | Scheduled | Thu Nov 12, 12:00 AM ET | TV: ESPN+, Golf Chnl
@@ -244,7 +244,7 @@ Finals (last ~40h):
 
 ## WTA tennis
 Live now:
-- DIRECTV Open Presentado por Compesar | 1st | Sun Nov 8, 12:00 AM ET
+- DIRECTV Open Presentado por Compesar | 2nd | Sun Nov 8, 12:00 AM ET
 
 ## FA Cup (Chelsea)
 Finals (last ~40h):
@@ -283,8 +283,8 @@ Finals (last ~40h):
 - Sholing 0 at Salisbury FC 6 | FT | Sat Nov 7, 10:00 AM ET | The Raymond McEnhill Stadium
 - Northampton Town 0 at York City 4 | FT | Sat Nov 7, 10:00 AM ET | LNER Community Stadium
 Live now:
-- Stockport County 0 at Cray Wanderers 2 | HT | Sun Nov 8, 9:15 AM ET | TV: ESPN+ | Flamingo Park
-- Crawley Town 0 at Wimborne Town 1 | 12' | Sun Nov 8, 10:00 AM ET | TV: ESPN+ | The Wyatt Homes Stadium
+- Stockport County 0 at Cray Wanderers 2 | 77' | Sun Nov 8, 9:15 AM ET | TV: ESPN+ | Flamingo Park
+- Crawley Town 0 at Wimborne Town 1 | HT | Sun Nov 8, 10:00 AM ET | TV: ESPN+ | The Wyatt Homes Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Sheffield Wednesday at Oldham Athletic | Scheduled | Sun Nov 8, 12:15 PM ET | TV: ESPN+ | Boundary Park

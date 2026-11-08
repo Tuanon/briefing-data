@@ -1,10 +1,10 @@
-# Team digest (generated Sun Nov 8, 10:12 AM ET)
+# Team digest (generated Sun Nov 8, 10:54 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- Week 9 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 8, 10:10 AM ET | https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026 | Check here for Sunday's top moments, TDs and analysis.
+- Week 9 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 8, 10:22 AM ET | https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026 | Check here for Sunday's top moments, TDs and analysis.
 - NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers' | Sat Nov 7, 9:18 PM ET | https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms | Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.
 - NFL Week 9 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more | Sat Nov 7, 6:38 AM ET | https://www.espn.com/nfl/story/_/id/50390199/week-9-predictions-upsets-fantasy-sleepers-stats-2026 | QB controversy in Minnesota? Browns upsetting the Saints? Touchdowns for two rookie RBs? Let's predict 15 things for Week 9.
 - NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Nov 6, 9:39 PM ET | https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026 | Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.
@@ -42,6 +42,7 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- NHL Tonight: What to know about Sunday's six-pack of showdowns | Sun Nov 8, 7:41 AM ET | https://www.espn.com/nhl/story/_/id/50408704/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - Bruins try to keep win streak alive, host the Panthers | Sun Nov 8, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892674 | Florida Panthers (9-6-2, in the Atlantic Division) vs. Boston Bruins (12-4-1, in the Atlantic Division)
 - Panthers' Sandis Vilmanis exits game after hit by Capitals' Tom Wilson | Sat Nov 7, 4:48 PM ET | https://www.espn.com/nhl/story/_/id/50410074/panthers-sandis-vilmanis-exits-game-hard-hit | Panthers forward Sandis Vilmanis was shaken up after a hit by Washington's Tom Wilson, who was given a major penalty for boarding and a game misconduct.
 - Florida Panthers vs. Washington Capitals: Game Highlights | Sat Nov 7, 3:22 PM ET | https://www.espn.com/video/clip/_/id/50410992/game-highlights | Florida Panthers vs. Washington Capitals: Game Highlights
@@ -53,7 +54,6 @@ News (last days, newest first):
 - Sandis Vilmanis has 1st 2-goal game, Panthers top Blackhawks 5-3 to cap homestand | Wed Nov 4, 10:34 PM ET | http://www.espn.com/nhl/recap?gameId=401892645 | — Sandis Vilmanis had the first two-goal game of his career, Sam Reinhart provided a goal and two assists, and the Florida Panthers beat the Chicago Blackhawks 5-3 on Wednesday night to wrap up a three-game homestand.
 - Chicago Blackhawks vs. Florida Panthers: Game Highlights | Wed Nov 4, 10:28 PM ET | https://www.espn.com/video/clip/_/id/50384748/game-highlights | Chicago Blackhawks vs. Florida Panthers: Game Highlights
 - NHL Tonight: Sharks-Kings takes center stage on Wednesday | Wed Nov 4, 8:58 AM ET | https://www.espn.com/nhl/story/_/id/50370347/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
-- Blackhawks bring losing streak into game against the Panthers | Tue Nov 3, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892645 | Chicago Blackhawks (4-10-1, in the Central Division) vs. Florida Panthers (8-5-2, in the Atlantic Division)
 Injuries / player notes (ESPN; 5 of 5 entries shown):
 - Anton Lundell (C) | Day-To-Day | Sun Nov 8, 8:39 AM ET | day-to-day
 - Sandis Vilmanis (LW) | Out | Sat Nov 7, 4:02 PM ET | Vilmanis (undisclosed) will probably miss a few games, according to George Richards of Florida Hockey Now on Saturday.
@@ -78,7 +78,7 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Premier League live updates: Liverpool, Chelsea both in action | Sun Nov 8, 9:13 AM ET | https://www.espn.com/soccer/story/_/id/50391135/premier-league-live-updates-liverpool-chelsea-aston-villa-manchester-united | Both Liverpool and Chelsea are playing in the first Premier League matches of the final day of club fixtures across Europe before the international break.
+- Premier League live updates: Liverpool, Chelsea both in action | Sun Nov 8, 10:17 AM ET | https://www.espn.com/soccer/story/_/id/50391135/premier-league-live-updates-liverpool-chelsea-aston-villa-manchester-united | Both Liverpool and Chelsea are playing in the first Premier League matches of the final day of club fixtures across Europe before the international break.
 - Premier League VAR review: Arsenal robbed of a penalty through misapplied law | Sun Nov 8, 5:42 AM ET | https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology | VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.
 - Chelsea's Xabi Alonso 'very happy' with Cole Palmer despite England omission | Fri Nov 6, 1:08 PM ET | https://www.espn.com/soccer/story/_/id/50400302/xabi-alonso-cole-palmer-chelsea-england-snub | Xabi Alonso said he has no time to spend worrying about international call-ups for his players after Cole Palmer was omitted from the England's Nations League squad.
 - Tuchel: Palmer misses too many opportunities to impress | Fri Nov 6, 8:53 AM ET | https://www.espn.com/video/clip/_/id/50399228/palmer-misses-too-many-opportunities-impress | Tuchel: Palmer misses too many opportunities to impress
