@@ -1,4 +1,4 @@
-# Team digest (generated Mon Nov 9, 1:48 PM ET)
+# Team digest (generated Mon Nov 9, 2:43 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -66,10 +66,10 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
-- How every 2027 five-star college football prospect will fit | Mon Nov 9, 10:57 AM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
 - 2026-27 Week 10 College Football Playoff, bowl projections | Mon Nov 9, 7:12 AM ET | https://www.espn.com/college-football/story/_/id/50423390/2026-week-10-college-football-playoff-bowl-projections | Week 10 brought the drama! Our bowl gurus take a look at how the postseason picture shifted.
 - Florida visits No. 13 Kentucky in SEC matchup | Sun Nov 8, 11:03 PM ET | http://www.espn.com/ncf/preview?gameId=401856884 | Florida (5-4) at No. 13 Kentucky (7-2), Nov. 14 at 6:15 p.m. EST.
 - Brent Venables lauds Jason Witten as Sooners shine in Oklahoma playcaller's debut | Sun Nov 8, 3:24 PM ET | https://www.espn.com/college-football/story/_/id/50417320/venables-lauds-witten-sooners-shine-play-caller-debut | In his debut as Oklahoma's offensive playcaller, Jason Witten, a former NFL tight end who coached high school in Texas last year, engineered an impressive Sooners attack that throttled No. 24 Florida in a 23-7 victory.
+- How every 2027 five-star college football prospect will fit | Sun Nov 8, 2:41 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
 - In the face of adversity, Oklahoma rises to the challenge at Florida | Sun Nov 8, 2:05 PM ET | https://www.espn.com/video/clip/_/id/50422790/in-face-adversity-oklahoma-rises-challenge-florida | SEC Network's Chris Doering and Benjamin Waston discuss their biggest takeaways from the Sooners' win over the Gators after Jason Witten takes over the offense for Ben Arbuckle.
 - Allstate Playoff Predictor | Sun Nov 8, 12:52 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
 - It's Week 10 and everything remains up for grabs in college football | Sun Nov 8, 1:15 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal110726/week-10-top-games-highlights-takeaways | There were plenty of top-ranked matchups in Week 10, but the results didn't solidify anything.

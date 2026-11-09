@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Nov 9, 1:48 PM ET)
+# Sports digest (generated Mon Nov 9, 2:43 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -43,7 +43,6 @@ Finals (last ~40h):
 - Utah Jazz 100 at Minnesota Timberwolves 115 | Final | Sun Nov 8, 7:00 PM ET | TV: DAZN MIN, KJZZ-TV, Jazz+ | Target Center
 - Los Angeles Lakers 121 at Detroit Pistons 116 | Final | Sun Nov 8, 6:00 PM ET | TV: NBA TV, Spectrum Sports Net, Spectrum Sports Net + | Little Caesars Arena
 - Philadelphia 76ers 127 at Chicago Bulls 121 | Final | Sun Nov 8, 3:30 PM ET | United Center
-- San Antonio Spurs 125 at Portland Trail Blazers 103 | Final | Sat Nov 7, 10:00 PM ET | TV: KUNP 16, BlazerVision, DAZN SAS | Moda Center
 Next 7 days, my teams:
 - [MY TEAM] Miami Heat at Utah Jazz | 11/10 - 9:00 PM EST | Tue Nov 10, 9:00 PM ET | TV: KJZZ-TV, Jazz+ | Delta Center
 - [MY TEAM] Cleveland Cavaliers at Miami Heat | 11/13 - 8:00 PM EST | Fri Nov 13, 8:00 PM ET | TV: DAZN CLE | Kaseya Center
@@ -83,7 +82,6 @@ Finals (last ~40h):
 - Tampa Bay Lightning 3 at Winnipeg Jets 4 | Final | Sun Nov 8, 6:00 PM ET | TV: ESPN+, The Spot - MTN | Canada Life Centre
 - Vegas Golden Knights 4 at Buffalo Sabres 1 | Final | Sun Nov 8, 3:30 PM ET | TV: ESPN+, MSGB, Scripps Sports | KeyBank Center
 - [MY TEAM] Florida Panthers 1 at Boston Bruins 4 | Final | Sun Nov 8, 1:00 PM ET | TV: NHL Net, Scripps Sports, NESN | TD Garden
-- Vancouver Canucks 2 at Edmonton Oilers 4 | Final | Sat Nov 7, 10:00 PM ET | TV: ESPN+ | Rogers Place
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | 11/10 - 7:30 PM EST | Tue Nov 10, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Nationwide Arena
 - [MY TEAM] Detroit Red Wings at Florida Panthers | 11/12 - 7:30 PM EST | Thu Nov 12, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Amerant Bank Arena
@@ -117,9 +115,6 @@ Next 7 days, others (first 25):
 - New York Islanders at Los Angeles Kings | 11/12 - 10:00 PM EST | Thu Nov 12, 10:00 PM ET | TV: Disney+, ESPN+, Hulu | crypto.com Arena
 
 ## College football (FBS)
-Finals (last ~40h):
-- Texas State Bobcats 42 at Oregon State Beavers 21 | Final | Sat Nov 7, 10:30 PM ET | TV: CW | Reser Stadium
-- Wyoming Cowboys 41 at UNLV Rebels 35 | Final | Sat Nov 7, 10:30 PM ET | TV: CBSSN | Allegiant Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Kentucky Wildcats | ranks: Kentucky Wildcats #6, Florida Gators #24 | 11/14 - 6:15 PM EST | Sat Nov 14, 6:15 PM ET | TV: ESPN | Kroger Field
 Next 7 days, others (first 25):
@@ -181,9 +176,8 @@ Finals (last ~40h):
 - Crawley Town 0 at Wimborne Town 2 | FT | Sun Nov 8, 10:00 AM ET | TV: ESPN+ | The Wyatt Homes Stadium
 - Stockport County 3 at Cray Wanderers 2 | AET | Sun Nov 8, 9:15 AM ET | TV: ESPN+ | Flamingo Park
 - Grimsby Town 3 at Stafford Rangers 3 | FT-Pens | Sun Nov 8, 7:00 AM ET | TV: ESPN+ | The Stan Robinson Stadium
-Next 7 days: no game for my teams in this league's data
-Next 7 days, others (first 25):
-- Berkhamsted at Plymouth Parkway | Scheduled | Mon Nov 9, 2:30 PM ET | TV: ESPN+ | Manadon Sports Hub
+Live now:
+- Berkhamsted 0 at Plymouth Parkway 0 | 14' | Mon Nov 9, 2:30 PM ET | TV: ESPN+ | Manadon Sports Hub
 
 ## International friendlies
 Finals (last ~40h):
@@ -262,6 +256,8 @@ Next 7 days, others (first 25):
 - Belize at St. Vincent and the Grenadines | Scheduled | Sat Nov 14, 7:00 PM ET | Arnos Vale Stadium
 - Mexico at Jamaica | Scheduled | Sat Nov 14, 8:00 PM ET | Independence Park
 - Curaçao at Panama | Scheduled | Sun Nov 15, 6:00 PM ET | Estadio Rommel Fernández Gutiérrez
+- Bermuda at Guadeloupe | Scheduled | Mon Nov 16, 2:00 PM ET | Stade Roger Zami
+- Puerto Rico at Guyana | Scheduled | Mon Nov 16, 2:00 PM ET | Leonora National Track and Field Facility
 
 ## NHL (official schedule API)
 Finals (last ~40h):
@@ -271,7 +267,6 @@ Finals (last ~40h):
 - Tampa Bay Lightning 3 at Winnipeg Jets 4 | OFF | Sun Nov 8, 6:00 PM ET | TV: TSN3, The Spot | Canada Life Centre
 - Vegas Golden Knights 4 at Buffalo Sabres 1 | OFF | Sun Nov 8, 3:30 PM ET | TV: SN1, TVAS, MSG-B, SCRIPPS | KeyBank Center
 - [MY TEAM] Florida Panthers 1 at Boston Bruins 4 | OFF | Sun Nov 8, 1:00 PM ET | TV: NHLN, SN1, TVAS, NESN, SCRIPPS | TD Garden
-- Vancouver Canucks 2 at Edmonton Oilers 4 | OFF | Sat Nov 7, 10:00 PM ET | TV: SN, TVAS | Rogers Place
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Columbus Blue Jackets | FUT | Tue Nov 10, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN | Nationwide Arena
 - [MY TEAM] Detroit Red Wings at Florida Panthers | FUT | Thu Nov 12, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Amerant Bank Arena
