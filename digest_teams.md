@@ -1,4 +1,4 @@
-# Team digest (generated Tue Nov 10, 11:25 AM ET)
+# Team digest (generated Tue Nov 10, 11:57 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -17,7 +17,7 @@ News (last days, newest first):
 - Who are the winningest NFL coaches of all time? | Sun Nov 8, 7:26 PM ET | https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins | From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.
 - Who stepped up for Dolphins in loss? | Sun Nov 8, 6:59 PM ET | https://www.espn.com/video/clip/_/id/50427111/who-stepped-dolphins-loss | Marcel Louis-Jacques breaks down the Dolphins' 19-9 loss to the Lions.
 Injuries / player notes (ESPN; 6 of 25 entries shown):
-- Zach Sieler (DT) | Out | Tue Nov 10, 11:09 AM ET | out
+- Zach Sieler (DT) | Out | Tue Nov 10, 11:27 AM ET | Sieler ruptured his biceps during Sunday's 19-9 loss to the Lions and will require season-ending surgery, Adam Schefter of ESPN reports.
 - Jaylen Wright (RB) | Questionable | Tue Nov 10, 10:44 AM ET | questionable
 - Malik Willis (QB) | Questionable | Sun Nov 8, 6:46 PM ET | Willis completed 13 of 25 passes for 128 yards with no touchdowns and one interception and added two rushes for seven yards in the Dolphins' 19-9 loss to the Lions on Sunday.
 - Will Kacmarek (TE) | Questionable | Sun Nov 8, 3:00 PM ET | Kacmarek is dealing with a quad injury and is questionable to return to Sunday's clash against Detroit.
@@ -63,7 +63,7 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
-- College Football Playoff Bubble Watch after Week 10 | Tue Nov 10, 6:16 AM ET | https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10 | A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.
+- College Football Playoff Bubble Watch after Week 10 | Tue Nov 10, 10:03 AM ET | https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10 | A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.
 - Top 25 betting lines: LSU favored over Texas, and Indiana over USC | Mon Nov 9, 6:47 PM ET | https://www.espn.com/espn/betting/story/_/id/50434742/2026-college-football-week-11-top-25-betting-lines-odds | This week's odds and FPI predictions for LSU-Texas, Indiana-USC and every top-25 matchup.
 - CFP 24-team format: What you need to know about the new playoff | Mon Nov 9, 6:35 PM ET | https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq | The expanded College Football Playoff is official and begins next season. Here's what you need to know.
 - How every 2027 five-star college football prospect will fit | Mon Nov 9, 5:56 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.

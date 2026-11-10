@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Nov 10, 11:25 AM ET)
+# Sports digest (generated Tue Nov 10, 11:57 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -36,7 +36,6 @@ Finals (last ~40h):
 - New Orleans Pelicans 123 at LA Clippers 139 | Final | Sun Nov 8, 9:00 PM ET | TV: ClipperVision, GCSEN, Pelicans.com | Intuit Dome
 - [MY TEAM] Miami Heat 114 at Sacramento Kings 108 | Final | Sun Nov 8, 9:00 PM ET | Golden 1 Center
 - Boston Celtics 117 at Milwaukee Bucks 97 | Final | Sun Nov 8, 8:00 PM ET | TV: MyMi, Bucks App | Fiserv Forum
-- Brooklyn Nets 93 at Dallas Mavericks 130 | Final | Sun Nov 8, 7:30 PM ET | TV: DAZN (YES), KFAA-TV, MavsTV | American Airlines Center
 Next 7 days, my teams:
 - [MY TEAM] Miami Heat at Utah Jazz | 11/10 - 9:00 PM EST | Tue Nov 10, 9:00 PM ET | TV: KJZZ-TV, Jazz+ | Delta Center
 - [MY TEAM] Cleveland Cavaliers at Miami Heat | 11/13 - 8:00 PM EST | Fri Nov 13, 8:00 PM ET | TV: DAZN CLE | Kaseya Center
