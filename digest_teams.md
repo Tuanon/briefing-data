@@ -1,35 +1,32 @@
-# Team digest (generated Mon Nov 9, 2:43 PM ET)
+# Team digest (generated Tue Nov 10, 11:25 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- NFL Power Rankings: Stacking all 32 teams for Week 10, plus important games left | Tue Nov 10, 10:35 AM ET | https://www.espn.com/nfl/story/_/id/50435694/nfl-power-rankings-week-10-most-important-games-remaining | How does every NFL team stack up as we hit midseason? We made our 1-32 list and picked key games in the second half of the season.
+- NFL Week 10 betting odds: Lines and totals for every game | Tue Nov 10, 9:55 AM ET | https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals | Updated odds, spreads, totals and FPI predictions for every NFL game in Week 10.
+- 2027 NFL draft order projections for Round 1, chances for top pick, more | Tue Nov 10, 6:24 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
+- NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF' | Mon Nov 9, 8:12 PM ET | https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals | NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.
+- Jeff Hafley calls out Dolphins' discipline after 11 penalties | Mon Nov 9, 5:17 PM ET | https://www.espn.com/nfl/story/_/id/50435393/dolphins-coach-jeff-hafley-laments-penalties-vs-lions | Jeff Hafley said penalties helped negate what was arguably Miami's best defensive performance of the season.
 - Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage | Mon Nov 9, 12:14 PM ET | https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings | The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.
 - As the 'Peanut Punch' takes over NFL, how do teams counter it? | Mon Nov 9, 11:55 AM ET | https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo | After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.
-- NFL Week 10 betting odds: Lines and totals for every game | Mon Nov 9, 9:34 AM ET | https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 10.
-- 2027 NFL draft order projections for Round 1, chances for top pick, more | Mon Nov 9, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games | Mon Nov 9, 12:58 AM ET | https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.
 - Week 9 NFL highlights: Best plays, moments, touchdowns, more | Mon Nov 9, 12:55 AM ET | https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026 | Check here for Sunday's top moments, TDs and analysis.
 - How active NFL players continue to redefine all-time sack list | Sun Nov 8, 9:11 PM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
-- NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF' | Sun Nov 8, 7:31 PM ET | https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals | NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.
 - Who are the winningest NFL coaches of all time? | Sun Nov 8, 7:26 PM ET | https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins | From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.
 - Who stepped up for Dolphins in loss? | Sun Nov 8, 6:59 PM ET | https://www.espn.com/video/clip/_/id/50427111/who-stepped-dolphins-loss | Marcel Louis-Jacques breaks down the Dolphins' 19-9 loss to the Lions.
-- Lions grind past Dolphins 19-9 as Jahmyr Gibbs scores and Jake Bates makes 4 field goals | Sun Nov 8, 5:29 PM ET | http://www.espn.com/nfl/recap?gameId=401873042 | — The Detroit Lions have repeated a mantra all week in the aftermath of a scary neck injury to All-Pro linebacker Jack Campbell.
-- Detroit Lions vs. Miami Dolphins Game Highlights | Sun Nov 8, 4:27 PM ET | https://www.espn.com/video/clip/_/id/50424762/detroit-lions-vs-miami-dolphins-game-highlights | Detroit Lions vs. Miami Dolphins Game Highlights
-Injuries / player notes (ESPN; 10 of 25 entries shown):
+Injuries / player notes (ESPN; 6 of 25 entries shown):
+- Zach Sieler (DT) | Out | Tue Nov 10, 11:09 AM ET | out
+- Jaylen Wright (RB) | Questionable | Tue Nov 10, 10:44 AM ET | questionable
 - Malik Willis (QB) | Questionable | Sun Nov 8, 6:46 PM ET | Willis completed 13 of 25 passes for 128 yards with no touchdowns and one interception and added two rushes for seven yards in the Dolphins' 19-9 loss to the Lions on Sunday.
 - Will Kacmarek (TE) | Questionable | Sun Nov 8, 3:00 PM ET | Kacmarek is dealing with a quad injury and is questionable to return to Sunday's clash against Detroit.
-- Jaylen Wright (RB) | Out | Sun Nov 8, 11:51 AM ET | Wright (quadriceps) is listed as inactive Sunday against the Lions.
-- Reese Taylor (CB) | Out | Sun Nov 8, 11:48 AM ET | inactive
-- Jalen Tolbert (WR) | Out | Sun Nov 8, 11:48 AM ET | inactive
-- Chukwuebuka Godrick (OT) | Out | Sun Nov 8, 11:48 AM ET | inactive
-- Christian Haynes (G) | Out | Sun Nov 8, 11:48 AM ET | inactive
-- Justin Joly (TE) | Out | Sun Nov 8, 11:48 AM ET | inactive
-- Marcellas Dial Jr. (CB) | Out | Sun Nov 8, 11:48 AM ET | inactive
 - Kadyn Proctor (OT) | Active | Fri Nov 6, 10:30 PM ET | Proctor (concussion) does not have a designation for Sunday's Week 9 matchup versus Detroit, David Furones of the South Florida Sun Sentinel reports.
+- Darrell Baker Jr. (CB) | Out | Wed Nov 4, 7:35 PM ET | Baker (undisclosed) is not ready to return to practice, David Furones of the South Florida Sun Sentinel reports.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique | Mon Nov 9, 8:31 PM ET | https://www.espn.com/nba/story/_/id/50436679/doc-rivers-apologized-antetokounmpo-clarifies-critiques | Doc Rivers said he reached out to apologize to Giannis Antetokounmpo for questioning the Miami Heat star's basketball IQ, saying he meant more that the force Antetokounmpo plays with can get "in the way of his feel."
 - What's fueling the rocky start for Giannis Antetokounmpo and the Miami Heat | Mon Nov 9, 11:01 AM ET | https://www.espn.com/nba/story/_/id/50425453/miami-heat-giannis-antetokounmpo-erik-spoelstra | At 4-6, the Heat aren't pointing fingers -- yet. But with each loss, the pressure rises on this season and next -- with Giannis' free agency looming.
 - Bobby Marks' NBA core danger tiers: 19 teams with major decisions looming | Mon Nov 9, 10:26 AM ET | https://www.espn.com/nba/story/_/id/50427876/heat-lakers-knicks-76ers-roster-decisions | With tax and apron penalties lurking everywhere, Bobby Marks examines 19 teams barreling toward core-altering decisions.
 - Giannis Antetokounmpo 'speechless' over Doc Rivers barbs, warns against 'bitterness or pettiness' | Mon Nov 9, 8:26 AM ET | https://www.espn.com/nba/story/_/id/50432359/giannis-antetokounmpo-speechless-doc-rivers-criticism | Giannis Antetokounmpo said he was "speechless" over Doc Rivers' recent comments, adding that athletes should not be dismayed by "bitterness or pettiness."
@@ -41,11 +38,13 @@ News (last days, newest first):
 - 2026 NBA Cup: Schedule, format, groups, updates and more | Sat Nov 7, 1:35 AM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament.
 - Miami Heat unveil 'A Night in Vice City' jerseys ahead of GTA VI release | Fri Nov 6, 12:25 PM ET | https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game | With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.
 - Doc Rivers: Giannis 'didn't want to be the bad guy' when seeking Bucks exit | Fri Nov 6, 11:01 AM ET | https://www.espn.com/nba/story/_/id/50399276/doc-rivers-giannis-antetokounmpo-bucks-exit-coaching-star | Former Bucks coach Doc Rivers said Giannis Antetokounmpo "didn't want to be the bad guy" when he was trying to seek a trade out of Milwaukee last season.
-- Warriors win sixth in a row after taking down the Heat at home | Fri Nov 6, 12:48 AM ET | https://www.espn.com/video/clip/_/id/50397141/warriors-win-sixth-row-taking-heat-home | Warriors win sixth in a row after taking down the Heat at home
-Injuries (ESPN list): none listed
+Injuries / player notes (ESPN; 1 of 1 entries shown):
+- Giannis Antetokounmpo (F) | Day-To-Day | Mon Nov 9, 6:05 PM ET | Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- NHL Awards Watch: Believe it or not, McDavid not the unanimous MVP pick right now | Tue Nov 10, 10:24 AM ET | https://www.espn.com/nhl/story/_/id/50432982/2026-27-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke | Our panel of PHWA voters identify their finalists for all the awards, with some tight races in a few spots.
+- NHL Tonight: Guide to all seven games on Tuesday | Tue Nov 10, 7:50 AM ET | https://www.espn.com/nhl/story/_/id/50433742/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - Blue Jackets bring home winning streak into matchup with the Panthers | Mon Nov 9, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892686 | Florida Panthers (9-7-2, in the Atlantic Division) vs. Columbus Blue Jackets (7-8, in the Metropolitan Division)
 - Florida Panthers vs. Boston Bruins: Game Highlights | Sun Nov 8, 4:16 PM ET | https://www.espn.com/video/clip/_/id/50424689/game-highlights | Florida Panthers vs. Boston Bruins: Game Highlights
 - Elias Lindholm scores 1st of Boston's 3 goals in 1st period, carrying Bruins past Panthers, 4-1 | Sun Nov 8, 4:14 PM ET | http://www.espn.com/nhl/recap?gameId=401892674 | — Elias Lindholm, Mikey Eyssimont and Morgan Geekie each scored a goal in an opening period that started out testy, carrying the Boston Bruins past the Florida Panthers 4-1 on Sunday.
@@ -56,8 +55,6 @@ News (last days, newest first):
 - Capitals rally for a 4-3 win over Florida despite Wilson's ejection for a hit on Vilmanis | Sat Nov 7, 3:20 PM ET | http://www.espn.com/nhl/recap?gameId=401892662 | — Alex Tuch and Aliaksei Protas scored in the second period to lift the Washington Capitals to a 4-3 victory over the Florida Panthers on Saturday.
 - NHL Tonight: Your guide to all 12 games on Saturday's schedule | Sat Nov 7, 6:07 AM ET | https://www.espn.com/nhl/story/_/id/50400113/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - NHL Power Rankings: Updated poll, plus fantasy hockey surprises for all 32 teams | Sat Nov 7, 5:56 AM ET | https://www.espn.com/nhl/story/_/id/50390728/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey | Another week with the Canes at No. 1, but a big shakeup in the Top 5.
-- Panthers visit the Capitals after Vilmanis' 2-goal game | Fri Nov 6, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892662 | Florida Panthers (9-5-2, in the Atlantic Division) vs. Washington Capitals (8-6, in the Metropolitan Division)
-- Panthers' Brad Marchand could be back in 6 weeks after knee injury | Thu Nov 5, 2:17 PM ET | https://www.espn.com/nhl/story/_/id/50390364/panthers-brad-marchand-back-6-weeks-knee-injury | Brad Marchand said Thursday he's glad his knee injury wasn't more serious as he rehabs.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Sandis Vilmanis (LW) | Out | Sat Nov 7, 4:02 PM ET | Vilmanis (undisclosed) will probably miss a few games, according to George Richards of Florida Hockey Now on Saturday.
 - Brad Marchand (LW) | Injured Reserve | Fri Nov 6, 11:34 AM ET | Head coach Paul Maurice said Friday that Marchand (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
@@ -66,21 +63,22 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
-- 2026-27 Week 10 College Football Playoff, bowl projections | Mon Nov 9, 7:12 AM ET | https://www.espn.com/college-football/story/_/id/50423390/2026-week-10-college-football-playoff-bowl-projections | Week 10 brought the drama! Our bowl gurus take a look at how the postseason picture shifted.
+- College Football Playoff Bubble Watch after Week 10 | Tue Nov 10, 6:16 AM ET | https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10 | A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.
+- Top 25 betting lines: LSU favored over Texas, and Indiana over USC | Mon Nov 9, 6:47 PM ET | https://www.espn.com/espn/betting/story/_/id/50434742/2026-college-football-week-11-top-25-betting-lines-odds | This week's odds and FPI predictions for LSU-Texas, Indiana-USC and every top-25 matchup.
+- CFP 24-team format: What you need to know about the new playoff | Mon Nov 9, 6:35 PM ET | https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq | The expanded College Football Playoff is official and begins next season. Here's what you need to know.
+- How every 2027 five-star college football prospect will fit | Mon Nov 9, 5:56 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
+- 2026-27 Week 10 College Football Playoff, bowl projections | Mon Nov 9, 12:36 PM ET | https://www.espn.com/college-football/story/_/id/50423390/2026-week-10-college-football-playoff-bowl-projections | Week 10 brought the drama! Our bowl gurus take a look at how the postseason picture shifted.
 - Florida visits No. 13 Kentucky in SEC matchup | Sun Nov 8, 11:03 PM ET | http://www.espn.com/ncf/preview?gameId=401856884 | Florida (5-4) at No. 13 Kentucky (7-2), Nov. 14 at 6:15 p.m. EST.
 - Brent Venables lauds Jason Witten as Sooners shine in Oklahoma playcaller's debut | Sun Nov 8, 3:24 PM ET | https://www.espn.com/college-football/story/_/id/50417320/venables-lauds-witten-sooners-shine-play-caller-debut | In his debut as Oklahoma's offensive playcaller, Jason Witten, a former NFL tight end who coached high school in Texas last year, engineered an impressive Sooners attack that throttled No. 24 Florida in a 23-7 victory.
-- How every 2027 five-star college football prospect will fit | Sun Nov 8, 2:41 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
 - In the face of adversity, Oklahoma rises to the challenge at Florida | Sun Nov 8, 2:05 PM ET | https://www.espn.com/video/clip/_/id/50422790/in-face-adversity-oklahoma-rises-challenge-florida | SEC Network's Chris Doering and Benjamin Waston discuss their biggest takeaways from the Sooners' win over the Gators after Jason Witten takes over the offense for Ben Arbuckle.
 - Allstate Playoff Predictor | Sun Nov 8, 12:52 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
 - It's Week 10 and everything remains up for grabs in college football | Sun Nov 8, 1:15 AM ET | https://www.espn.com/college-football/story/_/page/gamedayfinal110726/week-10-top-games-highlights-takeaways | There were plenty of top-ranked matchups in Week 10, but the results didn't solidify anything.
 - Oklahoma throttles No. 25 Florida for a 23-7 victory | Sun Nov 8, 12:42 AM ET | http://www.espn.com/ncf/recap?gameId=401856739 | — Oklahoma coach Brent Venables fired his offensive coordinator and wanted more points, and he didn't care how quickly the Sooners scored.
 - Oklahoma Sooners vs. Florida Gators: Full Highlights | Sat Nov 7, 11:37 PM ET | https://www.espn.com/video/clip/_/id/50416812/full-highlights | Oklahoma Sooners vs. Florida Gators: Full Highlights
-- Former coach Urban Meyer inducted into Florida's ring of honor | Sat Nov 7, 10:03 PM ET | https://www.espn.com/college-football/story/_/id/50415468/former-coach-urban-meyer-inducted-florida-ring-honor | Former Florida coach Urban Meyer, whose teams won two national titles, was inducted into the Gators' ring of honor Saturday night.
-- Analyzing how new Oklahoma OC Jason Witten can help the offense | Fri Nov 6, 11:45 PM ET | https://www.espn.com/video/clip/_/id/50405060/analyzing-how-new-oklahoma-oc-jason-witten-help-offense | SEC Network's Chris Doering and Benjamin Watson discuss how the Sooners' offense could change while previewing their matchup against No. 24 Florida.
-- Chris Doering expects five SEC teams to compete in 2026 CFP | Fri Nov 6, 5:37 PM ET | https://www.espn.com/video/clip/_/id/50402360/chris-doering-expects-five-sec-teams-compete-2026-cfp | SEC This Morning's Doering and Peter Burns use historical data and the Allstate Playoff Predictor to discuss the SEC presence in this year's College Football Playoffs.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Chelsea warn staff over team leaks on Fantasy Premier League - sources | Mon Nov 9, 4:05 PM ET | https://www.espn.com/soccer/story/_/id/50435016/chelsea-staff-fantasy-premier-league-leaks | Chelsea have warned staff about the risks of playing Fantasy Premier League, sources have told ESPN.
 - Xabi Alonso insists Chelsea were not 'bullied' by Sunderland after defeat | Mon Nov 9, 12:33 PM ET | https://www.espn.com/soccer/story/_/id/50433897/chelsea-sunderland-premier-league-bullied | Chelsea boss Xabi Alonso does not believe his side were bullied during their 1-0 defeat to Sunderland on Sunday.
 - Premier League VAR review: Should Man United's equalizing goal have been allowed? | Mon Nov 9, 5:32 AM ET | https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology | VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.
 - Nicol: Chelsea are a shambles defensively under Alonso | Sun Nov 8, 6:00 PM ET | https://www.espn.com/video/clip/_/id/50426167/chelsea-shambles-defensively-alonso | Nicol: Chelsea are a shambles defensively under Alonso
@@ -95,9 +93,8 @@ News (last days, newest first):
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
+- MLB free agency tracker: 2026-27 offseason trades, moves | Mon Nov 9, 4:11 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 - Grading bold 2026 season predictions for all 30 MLB teams | Wed Nov 4, 11:29 AM ET | https://www.espn.com/mlb/story/_/id/50359998/grading-bold-2026-season-predictions | It's time to see if what we said about each club going into the season was accurate or not -- and what it means for 2027.
-- MLB free agency tracker: 2026-27 offseason trades, moves | Tue Nov 3, 2:30 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
-- Rankings, contract projections: Top 50 2026-27 MLB free agents | Tue Nov 3, 8:46 AM ET | https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents | How much will the biggest stars get paid this winter? Kiley McDaniel breaks down the 2026-27 free agent class.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.
 - Adam Mazur (SP) | Out | Mon Nov 2, 7:30 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.
