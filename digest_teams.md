@@ -1,4 +1,4 @@
-# Team digest (generated Wed Nov 11, 11:10 AM ET)
+# Team digest (generated Wed Nov 11, 12:02 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -42,6 +42,7 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Bennett scores twice as Panthers stop 2-game skid with a 4-1 win over Blue Jackets | Wed Nov 11, 11:26 AM ET | http://www.espn.com/nhl/recap?gameId=401892686 | — Sam Bennett scored twice, and the Florida Panthers snapped a two-game skid with a 4-1 win over the Columbus Blue Jackets on Tuesday night.
 - Red Wings bring losing streak into matchup with the Panthers | Wed Nov 11, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892699 | Detroit Red Wings (7-9-3, in the Atlantic Division) vs. Florida Panthers (10-7-2, in the Atlantic Division)
 - Florida Panthers vs. Columbus Blue Jackets: Game Highlights | Tue Nov 10, 10:38 PM ET | https://www.espn.com/video/clip/_/id/50449526/game-highlights | Florida Panthers vs. Columbus Blue Jackets: Game Highlights
 - NHL Awards Watch: Believe it or not, McDavid not the unanimous MVP pick right now | Tue Nov 10, 10:24 AM ET | https://www.espn.com/nhl/story/_/id/50432982/2026-27-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke | Our panel of PHWA voters identify their finalists for all the awards, with some tight races in a few spots.
@@ -53,7 +54,6 @@ News (last days, newest first):
 - Bruins try to keep win streak alive, host the Panthers | Sun Nov 8, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892674 | Florida Panthers (9-6-2, in the Atlantic Division) vs. Boston Bruins (12-4-1, in the Atlantic Division)
 - Panthers' Sandis Vilmanis exits game after hit by Capitals' Tom Wilson | Sat Nov 7, 4:48 PM ET | https://www.espn.com/nhl/story/_/id/50410074/panthers-sandis-vilmanis-exits-game-hard-hit | Panthers forward Sandis Vilmanis was shaken up after a hit by Washington's Tom Wilson, who was given a major penalty for boarding and a game misconduct.
 - Florida Panthers vs. Washington Capitals: Game Highlights | Sat Nov 7, 3:22 PM ET | https://www.espn.com/video/clip/_/id/50410992/game-highlights | Florida Panthers vs. Washington Capitals: Game Highlights
-- Capitals rally for a 4-3 win over Florida despite Wilson's ejection for a hit on Vilmanis | Sat Nov 7, 3:20 PM ET | http://www.espn.com/nhl/recap?gameId=401892662 | — Alex Tuch and Aliaksei Protas scored in the second period to lift the Washington Capitals to a 4-3 victory over the Florida Panthers on Saturday.
 Injuries / player notes (ESPN; 4 of 4 entries shown):
 - Sandis Vilmanis (LW) | Out | Sat Nov 7, 4:02 PM ET | Vilmanis (undisclosed) will probably miss a few games, according to George Richards of Florida Hockey Now on Saturday.
 - Brad Marchand (LW) | Injured Reserve | Fri Nov 6, 11:34 AM ET | Head coach Paul Maurice said Friday that Marchand (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
@@ -62,13 +62,13 @@ Injuries / player notes (ESPN; 4 of 4 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- How every 2027 five-star college football prospect will fit | Wed Nov 11, 11:00 AM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
+- College Football Playoff Bubble Watch after second ranking | Wed Nov 11, 9:47 AM ET | https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10 | A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.
 - CFP Top 25: Strengths to know for every ranked team | Wed Nov 11, 7:06 AM ET | https://www.espn.com/college-football/story/_/id/50446592/cfp-top-25-strengths-every-team | Identifying strengths for every top 25 team in the latest CFP ranking.
-- College Football Playoff Bubble Watch after second ranking | Tue Nov 10, 10:54 PM ET | https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10 | A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.
 - Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era | Tue Nov 10, 3:24 PM ET | https://www.espn.com/college-football/story/_/id/50445136/eli-drinkwitz-questions-need-conferences-24-team-cfp | Missouri's Eli Drinkwitz became the latest coach from a Power 4 school to ask if conferences are necessary anymore without title games in the 24-team CFP era.
 - Florida cancels Notre Dame series; Irish then add games vs. Washington | Tue Nov 10, 3:18 PM ET | https://www.espn.com/college-football/story/_/id/50445022/florida-cancels-notre-dame-series-irish-add-washington | Florida has canceled a future home-and-home series vs. Notre Dame, freeing up the Irish to book a two-game series against Washington.
 - Top 25 betting lines: LSU favored over Texas, and Indiana over USC | Mon Nov 9, 6:47 PM ET | https://www.espn.com/espn/betting/story/_/id/50434742/2026-college-football-week-11-top-25-betting-lines-odds | This week's odds and FPI predictions for LSU-Texas, Indiana-USC and every top-25 matchup.
 - CFP 24-team format: What you need to know about the new playoff | Mon Nov 9, 6:35 PM ET | https://www.espn.com/college-football/story/_/id/50433738/cfp-playoff-24-team-format-faq | The expanded College Football Playoff is official and begins next season. Here's what you need to know.
-- How every 2027 five-star college football prospect will fit | Mon Nov 9, 5:56 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
 - 2026-27 Week 10 College Football Playoff, bowl projections | Mon Nov 9, 12:36 PM ET | https://www.espn.com/college-football/story/_/id/50423390/2026-week-10-college-football-playoff-bowl-projections | Week 10 brought the drama! Our bowl gurus take a look at how the postseason picture shifted.
 - Florida visits No. 13 Kentucky in SEC matchup | Sun Nov 8, 11:03 PM ET | http://www.espn.com/ncf/preview?gameId=401856884 | Florida (5-4) at No. 13 Kentucky (7-2), Nov. 14 at 6:15 p.m. EST.
 - Brent Venables lauds Jason Witten as Sooners shine in Oklahoma playcaller's debut | Sun Nov 8, 3:24 PM ET | https://www.espn.com/college-football/story/_/id/50417320/venables-lauds-witten-sooners-shine-play-caller-debut | In his debut as Oklahoma's offensive playcaller, Jason Witten, a former NFL tight end who coached high school in Texas last year, engineered an impressive Sooners attack that throttled No. 24 Florida in a 23-7 victory.
@@ -91,8 +91,7 @@ News (last days, newest first):
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
-- MLB free agency tracker: 2026-27 offseason trades, moves | Mon Nov 9, 4:11 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
-- Grading bold 2026 season predictions for all 30 MLB teams | Wed Nov 4, 11:29 AM ET | https://www.espn.com/mlb/story/_/id/50359998/grading-bold-2026-season-predictions | It's time to see if what we said about each club going into the season was accurate or not -- and what it means for 2027.
+- MLB free agency tracker: 2026-27 offseason trades, moves | Wed Nov 11, 11:07 AM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.
 - Adam Mazur (SP) | Out | Mon Nov 2, 7:30 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.

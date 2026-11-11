@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Nov 11, 11:10 AM ET)
+# Sports digest (generated Wed Nov 11, 12:02 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -33,8 +33,6 @@ Finals (last ~40h):
 - New Orleans Pelicans 87 at Golden State Warriors 138 | Final | Mon Nov 9, 10:00 PM ET | TV: NBA TV, GCSEN, Pelicans.com | Chase Center
 - San Antonio Spurs 122 at Phoenix Suns 96 | Final | Mon Nov 9, 9:00 PM ET | TV: Arizona's Family 3TV, Suns Live, DAZN SAS | Mortgage Matchup Center
 - Denver Nuggets 100 at Houston Rockets 110 | Final | Mon Nov 9, 8:30 PM ET | TV: ALT2/KTVD, KUSA-TV (9NEWS) | Toyota Center (Houston)
-- Indiana Pacers 122 at Dallas Mavericks 125 | Final | Mon Nov 9, 8:00 PM ET | TV: KFAA-TV, MavsTV, DAZN IND | American Airlines Center
-- Memphis Grizzlies 118 at Toronto Raptors 102 | Final | Mon Nov 9, 7:30 PM ET | TV: DAZN MEM | Scotiabank Arena
 Next 7 days, my teams:
 - [MY TEAM] Cleveland Cavaliers at Miami Heat | 11/13 - 8:00 PM EST | Fri Nov 13, 8:00 PM ET | TV: DAZN CLE | Kaseya Center
 - [MY TEAM] Detroit Pistons at Miami Heat | 11/14 - 8:00 PM EST | Sat Nov 14, 8:00 PM ET | TV: NBA TV | Kaseya Center
@@ -77,7 +75,6 @@ Finals (last ~40h):
 - New Jersey Devils 2 at Winnipeg Jets 4 | Final | Tue Nov 10, 7:00 PM ET | TV: ESPN+, MSGSN | Canada Life Centre
 - New York Islanders 2 at San Jose Sharks 3 | Final/SO | Mon Nov 9, 10:00 PM ET | TV: ESPN+, MSGSN, NBC Sports BA | SAP Center at San Jose
 - Philadelphia Flyers 3 at Vancouver Canucks 1 | Final | Mon Nov 9, 9:30 PM ET | TV: ESPN+, NBC Sports Phil | Rogers Arena
-- New York Rangers 1 at Edmonton Oilers 3 | Final | Mon Nov 9, 8:00 PM ET | TV: ESPN+, MSG | Rogers Place
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | 11/12 - 7:30 PM EST | Thu Nov 12, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at St. Louis Blues | 11/14 - 7:00 PM EST | Sat Nov 14, 7:00 PM ET | TV: ESPN+, Scripps Sports, Blues App, BN+ | Enterprise Center
@@ -262,7 +259,6 @@ Finals (last ~40h):
 - New Jersey Devils 2 at Winnipeg Jets 4 | OFF | Tue Nov 10, 7:00 PM ET | TV: TSN3, MSGSN | Canada Life Centre
 - New York Islanders 2 at San Jose Sharks 3 | OFF (SO) | Mon Nov 9, 10:00 PM ET | TV: TVAS, NBCSCA, MSGSN | SAP Center at San Jose
 - Philadelphia Flyers 3 at Vancouver Canucks 1 | OFF | Mon Nov 9, 9:30 PM ET | TV: SN+, NBCSP | Rogers Arena
-- New York Rangers 1 at Edmonton Oilers 3 | OFF | Mon Nov 9, 8:00 PM ET | TV: SN+, TVAS, MSG | Rogers Place
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | FUT | Thu Nov 12, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at St. Louis Blues | FUT | Sat Nov 14, 7:00 PM ET | TV: BN+, STLNHL, SCRIPPS | Enterprise Center
