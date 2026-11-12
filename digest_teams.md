@@ -1,4 +1,4 @@
-# Team digest (generated Thu Nov 12, 11:48 AM ET)
+# Team digest (generated Thu Nov 12, 12:30 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -95,7 +95,7 @@ News (last days, newest first):
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
-- MLB free agency tracker: 2026-27 offseason trades, moves | Wed Nov 11, 7:04 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
+- MLB free agency tracker: 2026-27 offseason trades, moves | Thu Nov 12, 11:56 AM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.
 - Adam Mazur (SP) | Out | Mon Nov 2, 7:30 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.

@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Nov 12, 11:48 AM ET)
+# Sports digest (generated Thu Nov 12, 12:30 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -36,7 +36,6 @@ Finals (last ~40h):
 - Orlando Magic 107 at Sacramento Kings 100 | Final | Tue Nov 10, 10:00 PM ET | Golden 1 Center
 - LA Clippers 110 at Phoenix Suns 133 | Final | Tue Nov 10, 9:00 PM ET | TV: Suns Live, Arizona's Family 3TV, ClipperVision | Mortgage Matchup Center
 - [MY TEAM] Miami Heat 115 at Utah Jazz 109 | Final | Tue Nov 10, 9:00 PM ET | TV: KJZZ-TV, Jazz+ | Delta Center
-- Boston Celtics 123 at Philadelphia 76ers 101 | Final | Tue Nov 10, 8:00 PM ET | TV: NBC | Xfinity Mobile Arena
 Next 7 days, my teams:
 - [MY TEAM] Cleveland Cavaliers at Miami Heat | 11/13 - 8:00 PM EST | Fri Nov 13, 8:00 PM ET | TV: DAZN CLE | Kaseya Center
 - [MY TEAM] Detroit Pistons at Miami Heat | 11/14 - 8:00 PM EST | Sat Nov 14, 8:00 PM ET | TV: NBA TV | Kaseya Center
@@ -78,14 +77,14 @@ Finals (last ~40h):
 - New York Rangers 3 at Calgary Flames 1 | Final | Wed Nov 11, 7:30 PM ET | TV: ESPN+, MSGSN | Scotiabank Saddledome
 - Tampa Bay Lightning 8 at Buffalo Sabres 3 | Final | Wed Nov 11, 7:00 PM ET | TV: TNT, truTV | KeyBank Center
 - Nashville Predators 3 at Los Angeles Kings 0 | Final | Tue Nov 10, 10:00 PM ET | TV: Disney+, ESPN+, Hulu | crypto.com Arena
-- Detroit Red Wings 2 at St. Louis Blues 3 | Final | Tue Nov 10, 8:00 PM ET | TV: TNT | Enterprise Center
+Live now:
+- Carolina Hurricanes 0 at Seattle Kraken 0 | 12:33 - 1st | Thu Nov 12, 12:00 PM ET | TV: NHL Net, CARNHL, KONG, Prime Video (Local) | Veikkaus Arena
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | 11/12 - 7:30 PM EST | Thu Nov 12, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at St. Louis Blues | 11/14 - 7:00 PM EST | Sat Nov 14, 7:00 PM ET | TV: ESPN+, Scripps Sports, Blues App, BN+ | Enterprise Center
 - [MY TEAM] Florida Panthers at Dallas Stars | 11/15 - 8:00 PM EST | Sun Nov 15, 8:00 PM ET | TV: NHL Net, Scripps Sports, Prime Video (Local) | American Airlines Center
 - [MY TEAM] Edmonton Oilers at Florida Panthers | 11/17 - 7:00 PM EST | Tue Nov 17, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Carolina Hurricanes at Seattle Kraken | 11/12 - 12:00 PM EST | Thu Nov 12, 12:00 PM ET | TV: NHL Net, CARNHL, KONG, Prime Video (Local) | Veikkaus Arena
 - Montreal Canadiens at Boston Bruins | 11/12 - 7:00 PM EST | Thu Nov 12, 7:00 PM ET | TV: ESPN+, NESN | TD Garden
 - Minnesota Wild at Toronto Maple Leafs | 11/12 - 7:00 PM EST | Thu Nov 12, 7:00 PM ET | TV: ESPN+, MINNHL | Scotiabank Arena
 - Colorado Avalanche at Ottawa Senators | 11/12 - 7:00 PM EST | Thu Nov 12, 7:00 PM ET | TV: ESPN+, Altitude Sports | Canadian Tire Centre
@@ -110,13 +109,13 @@ Next 7 days, others (first 25):
 - San Jose Sharks at Utah Mammoth | 11/14 - 9:00 PM EST | Sat Nov 14, 9:00 PM ET | TV: ESPN+, NBC Sports BA, Utah 16, Mammoth+ | Delta Center
 - New York Islanders at Anaheim Ducks | 11/14 - 10:00 PM EST | Sat Nov 14, 10:00 PM ET | TV: ESPN+, MSGSN, KCOP, Prime Video (Local) | Honda Center
 - Calgary Flames at Los Angeles Kings | 11/14 - 10:00 PM EST | Sat Nov 14, 10:00 PM ET | TV: ESPN+, ABTV | crypto.com Arena
+- Edmonton Oilers at Philadelphia Flyers | 11/15 - 7:30 PM EST | Sun Nov 15, 7:30 PM ET | TV: ESPN+, NBC Sports Phil | Xfinity Mobile Arena
 
 ## College football (FBS)
 Finals (last ~40h):
 - Buffalo Bulls 28 at Ball State Cardinals 7 | Final | Wed Nov 11, 7:30 PM ET | TV: ESPN2 | Scheumann Stadium
 - Sacramento State Hornets 7 at Central Michigan Chippewas 28 | Final | Wed Nov 11, 7:30 PM ET | TV: ESPNU | Kelly/Shorts Stadium
 - Massachusetts Minutemen 0 at Toledo Rockets 24 | Final | Wed Nov 11, 7:30 PM ET | TV: CBSSN | Glass Bowl
-- Ohio Bobcats 17 at Miami (OH) RedHawks 34 | Final | Tue Nov 10, 8:00 PM ET | TV: ESPN2 | Yager Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Kentucky Wildcats | ranks: Kentucky Wildcats #11 | 11/14 - 6:15 PM EST | Sat Nov 14, 6:15 PM ET | TV: ESPN | Kroger Field
 Next 7 days, others (first 25):
@@ -171,13 +170,13 @@ Next 7 days, others (first 25):
 ## International friendlies
 Finals (last ~40h):
 - Indonesia 0 at Jordan 0 | Canceled | Fri Nov 13, 3:00 PM ET | Amman International Stadium
+- Russia 3 at Uzbekistan 2 | FT | Thu Nov 12, 10:00 AM ET | Pakhtakor Markaziy Stadium
 - India 0 at New Zealand 5 | FT | Thu Nov 12, 1:00 AM ET | Go Media Stadium
 - Chinese Taipei 0 at Vietnam 2 | FT | Wed Nov 11, 7:00 AM ET | Thien Truong Stadium
 Live now:
-- Russia 3 at Uzbekistan 2 | 85' | Thu Nov 12, 10:00 AM ET | Pakhtakor Markaziy Stadium
+- Suriname 0 at Lithuania 0 | 30' | Thu Nov 12, 12:00 PM ET | S. Darius and S. Gireno Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Suriname at Lithuania | Scheduled | Thu Nov 12, 12:00 PM ET | S. Darius and S. Gireno Stadium
 - Eswatini at Malta | Scheduled | Thu Nov 12, 12:30 PM ET | Ta' Qali National Stadium
 - Paraguay at Singapore | Scheduled | Fri Nov 13, 7:00 AM ET | Singapore National Stadium
 - Honduras at United Arab Emirates | Scheduled | Fri Nov 13, 9:15 AM ET | Mohammed bin Zayed Stadium
@@ -202,12 +201,14 @@ Next 7 days, others (first 25):
 - Yemen at Malaysia | Scheduled | Tue Nov 17, 1:00 AM ET | Zhaoqing New District Sports Center Stadium
 - Brazil at Singapore | Scheduled | Tue Nov 17, 5:00 AM ET | Singapore National Stadium
 - Bahrain at China | Scheduled | Tue Nov 17, 7:00 AM ET | Zhaoqing New District Sports Center Stadium
+- Vietnam at Kyrgyz Republic | Scheduled | Tue Nov 17, 7:00 AM ET | Thien Truong Stadium
 
 ## UEFA Nations League
+Live now:
+- Cyprus 1 at Armenia 0 | 30' | Thu Nov 12, 12:00 PM ET | Vazgen Sargsyan Republican Stadium
+- Belgium 1 at Türkiye 1 | 29' | Thu Nov 12, 12:00 PM ET | TV: FS1 | Göztepe Gürsel Aksel Stadi
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Cyprus at Armenia | Scheduled | Thu Nov 12, 12:00 PM ET | Vazgen Sargsyan Republican Stadium
-- Belgium at Türkiye | Scheduled | Thu Nov 12, 12:00 PM ET | TV: FS1 | Göztepe Gürsel Aksel Stadi
 - Finland at Albania | Scheduled | Thu Nov 12, 2:45 PM ET | Air Albania Stadium
 - Spain at Czechia | Scheduled | Thu Nov 12, 2:45 PM ET | Generali Arena
 - Croatia at England | Scheduled | Thu Nov 12, 2:45 PM ET | Wembley Stadium
@@ -231,6 +232,8 @@ Next 7 days, others (first 25):
 - Ukraine at Northern Ireland | Scheduled | Sat Nov 14, 2:45 PM ET | Windsor Park
 - Denmark at Portugal | Scheduled | Sat Nov 14, 2:45 PM ET | TV: FS2 | Estádio Municipal de Braga
 - Poland at Romania | Scheduled | Sat Nov 14, 2:45 PM ET | National Arena
+- Bosnia-Herzegovina at Sweden | Scheduled | Sat Nov 14, 2:45 PM ET | Friends Arena
+- Montenegro at Cyprus | Scheduled | Sun Nov 15, 9:00 AM ET | TV: FS2 | Alphamega Stadium
 
 ## CONCACAF Nations League
 Next 7 days, my teams:
@@ -272,14 +275,14 @@ Finals (last ~40h):
 - New York Rangers 3 at Calgary Flames 1 | OFF | Wed Nov 11, 7:30 PM ET | TV: Prime, MSGSN | Scotiabank Saddledome
 - Tampa Bay Lightning 8 at Buffalo Sabres 3 | OFF | Wed Nov 11, 7:00 PM ET | TV: TNT, truTV, HBO MAX | KeyBank Center
 - Nashville Predators 3 at Los Angeles Kings 0 | OFF | Tue Nov 10, 10:00 PM ET | TV: ESPN+, HULU, Disney+, SNE | Crypto.com Arena
-- Detroit Red Wings 2 at St. Louis Blues 3 | OFF | Tue Nov 10, 8:00 PM ET | TV: TNT, HBO MAX, SN+ | Enterprise Center
+Live now:
+- Carolina Hurricanes 0 at Seattle Kraken 0 | LIVE | Thu Nov 12, 12:00 PM ET | TV: NHLN, SN+, TVAS, HHN, Prime Video, CARNHL, KONG | Veikkaus Arena
 Next 7 days, my teams:
 - [MY TEAM] Detroit Red Wings at Florida Panthers | FUT | Thu Nov 12, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at St. Louis Blues | FUT | Sat Nov 14, 7:00 PM ET | TV: BN+, STLNHL, SCRIPPS | Enterprise Center
 - [MY TEAM] Florida Panthers at Dallas Stars | FUT | Sun Nov 15, 8:00 PM ET | TV: NHLN, Prime Video, SCRIPPS | American Airlines Center
 - [MY TEAM] Edmonton Oilers at Florida Panthers | FUT | Tue Nov 17, 7:00 PM ET | TV: SN, TVAS, SCRIPPS | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Carolina Hurricanes at Seattle Kraken | PRE | Thu Nov 12, 12:00 PM ET | TV: NHLN, SN+, TVAS, HHN, Prime Video, CARNHL, KONG | Veikkaus Arena
 - Montréal Canadiens at Boston Bruins | FUT | Thu Nov 12, 7:00 PM ET | TV: TSN2, RDS, NESN | TD Garden
 - Minnesota Wild at Toronto Maple Leafs | FUT | Thu Nov 12, 7:00 PM ET | TV: SN, Wild+, MINNHL | Scotiabank Arena
 - Colorado Avalanche at Ottawa Senators | FUT | Thu Nov 12, 7:00 PM ET | TV: TSN5, RDS2, ALT | Canadian Tire Centre
@@ -304,3 +307,4 @@ Next 7 days, others (first 25):
 - San Jose Sharks at Utah Mammoth | FUT | Sat Nov 14, 9:00 PM ET | TV: Mammoth+, Utah16, NBCSCA | Delta Center
 - New York Islanders at Anaheim Ducks | FUT | Sat Nov 14, 10:00 PM ET | TV: FOXLA+, Prime Video, MSGSN | Honda Center
 - Calgary Flames at Los Angeles Kings | FUT | Sat Nov 14, 10:00 PM ET | TV: SN, TVAS, ABTV  | Crypto.com Arena
+- Edmonton Oilers at Philadelphia Flyers | FUT | Sun Nov 15, 7:30 PM ET | TV: SN, TVAS, NBCSP | Xfinity Mobile Arena
