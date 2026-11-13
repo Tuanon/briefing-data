@@ -1,4 +1,4 @@
-# Team digest (generated Fri Nov 13, 11:24 AM ET)
+# Team digest (generated Fri Nov 13, 12:07 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -17,7 +17,7 @@ News (last days, newest first):
 - Dolphins put QB Malik Willis on IR with groin injury | Wed Nov 11, 9:12 AM ET | https://www.espn.com/nfl/story/_/id/50445819/dolphins-put-qb-malik-willis-ir-groin-injury | The Dolphins have put quarterback Malik Wills on injured reserve because of a groin injury. He's eligible to return in Week 14.
 - Dolphins captain Zach Sieler out for rest of season with ruptured biceps | Tue Nov 10, 4:11 PM ET | https://www.espn.com/nfl/story/_/id/50443653/source-dolphins-captain-zach-sieler-rest-season | Dolphins DT Zach Sieler will miss the rest of the season with a ruptured biceps, a source told ESPN, leaving Miami without a critical team leader and captain.
 Injuries / player notes (ESPN; 10 of 25 entries shown):
-- Chris Bell (WR) | Doubtful | Fri Nov 13, 10:38 AM ET | doubtful
+- Chris Bell (WR) | Doubtful | Fri Nov 13, 11:36 AM ET | Bell (knee) is unlikely to play in Sunday's game against the Colts, but his injury isn't considered long-term and isn't related to the ACL repair surgery he had last December, Barry Jackson of the Mi…
 - Aaron Brewer (C) | Out | Fri Nov 13, 10:38 AM ET | out
 - Jared Wayne (WR) | Questionable | Thu Nov 12, 4:33 PM ET | questionable
 - Darrell Baker Jr. (CB) | Out | Wed Nov 11, 8:05 PM ET | The Dolphins designated Baker (knee) for return to practice from the reserve/PUP list Wednesday, Barry Jackson of the Miami Herald reports.
@@ -49,7 +49,6 @@ Injuries / player notes (ESPN; 3 of 3 entries shown):
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
-- NHL Power Rankings: Updated poll, plus each team's points vs. preseason projections | Fri Nov 13, 8:59 AM ET | https://www.espn.com/nhl/story/_/id/50464480/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings | Which teams are the most ahead of (or behind) their preseason expectations?
 - Florida visits St. Louis after Lundell's 2-goal game | Fri Nov 13, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892716 | Florida Panthers (11-7-2, in the Atlantic Division) vs. St. Louis Blues (9-8-2, in the Central Division)
 - Detroit Red Wings vs. Florida Panthers: Game Highlights | Thu Nov 12, 10:17 PM ET | https://www.espn.com/video/clip/_/id/50467733/game-highlights | Detroit Red Wings vs. Florida Panthers: Game Highlights
 - Panthers erase 4-1 deficit, top Red Wingst 5-4 behind 2 goals from Lundell | Thu Nov 12, 10:11 PM ET | http://www.espn.com/nhl/recap?gameId=401892699 | — Anton Lundell scored his second goal of the night with 2:40 left to cap a rally from three goals down, and the Florida Panthers pulled off their biggest comeback of the season to beat the Detroit Red Wings 5-4 on Thur…
@@ -61,6 +60,7 @@ News (last days, newest first):
 - NHL Tonight: Guide to all seven games on Tuesday | Tue Nov 10, 7:50 AM ET | https://www.espn.com/nhl/story/_/id/50433742/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - Blue Jackets bring home winning streak into matchup with the Panthers | Mon Nov 9, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892686 | Florida Panthers (9-7-2, in the Atlantic Division) vs. Columbus Blue Jackets (7-8, in the Metropolitan Division)
 - Florida Panthers vs. Boston Bruins: Game Highlights | Sun Nov 8, 4:16 PM ET | https://www.espn.com/video/clip/_/id/50424689/game-highlights | Florida Panthers vs. Boston Bruins: Game Highlights
+- Elias Lindholm scores 1st of Boston's 3 goals in 1st period, carrying Bruins past Panthers, 4-1 | Sun Nov 8, 4:14 PM ET | http://www.espn.com/nhl/recap?gameId=401892674 | — Elias Lindholm, Mikey Eyssimont and Morgan Geekie each scored a goal in an opening period that started out testy, carrying the Boston Bruins past the Florida Panthers 4-1 on Sunday.
 Injuries / player notes (ESPN; 3 of 3 entries shown):
 - Brad Marchand (LW) | Injured Reserve | Fri Nov 6, 11:34 AM ET | Head coach Paul Maurice said Friday that Marchand (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
 - Aleksander Barkov (C) | Injured Reserve | Fri Nov 6, 11:30 AM ET | Head coach Paul Maurice said Friday that Barkov (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
