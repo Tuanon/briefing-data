@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Nov 14, 10:05 AM ET)
+# Sports digest (generated Sat Nov 14, 10:43 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -201,7 +201,7 @@ Finals (last ~40h):
 - Honduras 1 at United Arab Emirates 3 | FT | Fri Nov 13, 9:10 AM ET | Mohammed bin Zayed Stadium
 - Paraguay 4 at Singapore 1 | FT | Fri Nov 13, 7:00 AM ET | Singapore National Stadium
 Live now:
-- Iran 0 at Palestine 0 | 2' | Sat Nov 14, 10:00 AM ET | Basra International Stadium
+- Iran 0 at Palestine 0 | 41' | Sat Nov 14, 10:00 AM ET | Basra International Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - India at New Zealand | Scheduled | Sat Nov 14, 10:10 PM ET | One New Zealand Stadium
@@ -239,7 +239,7 @@ Finals (last ~40h):
 - Switzerland 0 at Slovenia 0 | FT | Fri Nov 13, 2:45 PM ET | Ljudski vrt
 - Kazakhstan 1 at Moldova 2 | FT | Fri Nov 13, 12:00 PM ET | Stadionul Zimbru
 Live now:
-- Israel 0 at Kosovo 0 | 50' | Sat Nov 14, 9:00 AM ET | Stadiumi Fadil Vokrri
+- Israel 0 at Kosovo 0 | 89' | Sat Nov 14, 9:00 AM ET | Stadiumi Fadil Vokrri
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Hungary at Georgia | Scheduled | Sat Nov 14, 12:00 PM ET | Mikheil Meskhi Stadioni

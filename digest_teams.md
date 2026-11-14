@@ -1,9 +1,10 @@
-# Team digest (generated Sat Nov 14, 10:05 AM ET)
+# Team digest (generated Sat Nov 14, 10:43 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- NFL reassigns backup refs to work games closer to home | Sat Nov 14, 10:29 AM ET | https://www.espn.com/nfl/story/_/id/50479995/nfl-reassigns-backup-refs-work-games-closer-home | The NFL, trying to avoid further travel issues from Friday's FAA ground stop, has reassigned officials to Week 10 games within driving distance of their homes.
 - NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more | Sat Nov 14, 6:53 AM ET | https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026 | Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers? Trick play from the Raiders? Let's predict 15 things for Week 10.
 - 3 things to know ahead of the Dolphins' matchup vs. Colts | Fri Nov 13, 3:14 PM ET | https://www.espn.com/video/clip/_/id/50473841/3-things-know-ahead-dolphins-matchup-vs-colts | Marcel Louis-Jacques reports on the 3 things to know for the Dolphins ahead of their upcoming matchup against the Colts.
 - NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black | Fri Nov 13, 2:27 PM ET | https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms | Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.
@@ -15,7 +16,6 @@ News (last days, newest first):
 - QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams | Thu Nov 12, 6:10 PM ET | http://www.espn.com/nfl/preview?gameId=401873059 | — Miami Dolphins quarterback Kyle McCord has dreamed about this moment his entire life.
 - 2026 NFL midseason report: Questions, stats for all 32 teams entering second half | Thu Nov 12, 7:48 AM ET | https://www.espn.com/nfl/story/_/id/50448976/2026-nfl-midseason-report-questions-stats-fantasy | The 2026 NFL season has hit the midway point. Here's what to watch in the second half, key QB stats and fantasy nuggets for all 32 teams.
 - Dolphins hopeful QB Malik Willis will be back this season | Wed Nov 11, 8:12 PM ET | https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter | Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.
-- Kyle McCord prepares for first career start | Wed Nov 11, 6:09 PM ET | https://www.espn.com/video/clip/_/id/50455900/kyle-mccord-prepares-first-career-start | Marcel Louis-Jacques shares what teammates are saying about Kyle McCord ahead of his first start.
 Injuries / player notes (ESPN; 8 of 25 entries shown):
 - Aaron Brewer (C) | Out | Fri Nov 13, 8:25 PM ET | Brewer (concussion) has been ruled out ahead of Sunday's game against the Colts, Barry Jackson of the Miami Herald reports.
 - Will Kacmarek (TE) | Active | Fri Nov 13, 7:16 PM ET | Kacmarek (quadriceps) does not have any injury designation ahead of Sunday's game against the Colts, David Furones of the South Florida Sun Sentinel reports.
