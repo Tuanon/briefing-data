@@ -1,11 +1,11 @@
-# Team digest (generated Sun Nov 15, 10:39 AM ET)
+# Team digest (generated Sun Nov 15, 11:15 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop | Sun Nov 15, 10:08 AM ET | https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop | Four NFL officials will pull a rare double shift Sunday, officiating two different games as a result of travel issues created by Friday's FAA ground stop.
-- Week 10 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 15, 9:11 AM ET | https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026 | Check here for all of Sunday's top moments, TDs and analysis from our reporters.
+- Week 10 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 15, 10:43 AM ET | https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026 | Check here for all of Sunday's top moments, TDs and analysis from our reporters.
+- Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop | Sun Nov 15, 10:43 AM ET | https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop | Four NFL officials will pull a rare double shift Sunday, officiating two different games as a result of travel issues created by Friday's FAA ground stop.
 - Ranking the top 10 Super Bowl performances by a defender | Sun Nov 15, 5:56 AM ET | https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances | Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.
 - NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black | Sat Nov 14, 9:09 PM ET | https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms | Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.
 - Fantasy football last-minute pickups: 12 players who can help in deeper leagues | Sat Nov 14, 2:23 PM ET | https://www.espn.com/fantasy/football/story/_/id/50435678/fantasy-football-streamers-last-minute-pickups-week-10 | If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.

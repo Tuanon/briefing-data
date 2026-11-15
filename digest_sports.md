@@ -1,10 +1,10 @@
-# Sports digest (generated Sun Nov 15, 10:39 AM ET)
+# Sports digest (generated Sun Nov 15, 11:15 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
 ## NFL
 Live now:
-- New England Patriots 3 at Detroit Lions 14 | 5:47 - 2nd | Sun Nov 15, 9:30 AM ET | TV: Fox | FC Bayern Munich Stadium
+- New England Patriots 3 at Detroit Lions 21 | Halftime | Sun Nov 15, 9:30 AM ET | TV: Fox | FC Bayern Munich Stadium
 Next 7 days, my teams:
 - [MY TEAM] Miami Dolphins at Indianapolis Colts | 11/15 - 1:00 PM EST | Sun Nov 15, 1:00 PM ET | TV: CBS | Lucas Oil Stadium
 Next 7 days, others (first 25):
@@ -35,8 +35,6 @@ Finals (last ~40h):
 - [MY TEAM] Cleveland Cavaliers 121 at Miami Heat 133 | Final | Fri Nov 13, 8:00 PM ET | TV: DAZN CLE | Kaseya Center
 - Atlanta Hawks 117 at Chicago Bulls 125 | Final/OT | Fri Nov 13, 8:00 PM ET | United Center
 - Memphis Grizzlies 142 at New Orleans Pelicans 111 | Final | Fri Nov 13, 8:00 PM ET | TV: GCSEN, Pelicans.com, DAZN MEM | Smoothie King Center
-- New York Knicks 104 at Indiana Pacers 106 | Final | Fri Nov 13, 7:00 PM ET | TV: Prime Video | Gainbridge Fieldhouse
-- Milwaukee Bucks 99 at Orlando Magic 107 | Final | Fri Nov 13, 7:00 PM ET | TV: MyMi, Bucks App | Kia Center
 Next 7 days, my teams:
 - [MY TEAM] Houston Rockets at Miami Heat | 11/16 - 7:30 PM EST | Mon Nov 16, 7:30 PM ET | Kaseya Center
 - [MY TEAM] Milwaukee Bucks at Miami Heat | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: ESPN, MyMi, Bucks App | Kaseya Center
@@ -175,7 +173,6 @@ Finals (last ~40h):
 - James Madison Dukes 22 at UConn Huskies 46 | Final | Sat Nov 14, 12:00 PM ET | TV: CBSSN | Pratt & Whitney Stadium
 - Houston Cougars 32 at Colorado Buffaloes 42 | ranks: Houston Cougars #14 | Final | Fri Nov 13, 10:15 PM ET | TV: ESPN | Folsom Field
 - Illinois Fighting Illini 14 at UCLA Bruins 22 | ranks: UCLA Bruins #4 | Final | Fri Nov 13, 9:00 PM ET | TV: Fox | Rose Bowl
-- Florida State Seminoles 16 at Pittsburgh Panthers 10 | Final | Fri Nov 13, 7:00 PM ET | TV: ESPN | Acrisure Stadium
 Next 7 days, my teams:
 - [MY TEAM] Vanderbilt Commodores at Florida Gators | 11/21 - 12:00 PM EST | Sat Nov 21, 12:00 PM ET | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -235,6 +232,10 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Nitto ATP Finals | Final | Sun Nov 15, 12:00 AM ET
 
+## WTA tennis
+Live now:
+- LP Open by IND | 1st | Sun Nov 15, 12:00 AM ET
+
 ## International friendlies
 Finals (last ~40h):
 - India 0 at New Zealand 3 | FT | Sat Nov 14, 10:00 PM ET | One New Zealand Stadium
@@ -245,8 +246,6 @@ Finals (last ~40h):
 - Yemen 1 at Bahrain 3 | FT | Sat Nov 14, 1:00 AM ET | Tianhe Stadium
 - Cook Islands 0 at Tahiti 4 | FT | Sat Nov 14, 12:30 AM ET | Stade Louis Ganivet
 - Bolivia 0 at Peru 2 | FT | Fri Nov 13, 8:00 PM ET | Estadio Alejandro Villanueva
-- Chile 0 at Colombia 1 | FT | Fri Nov 13, 7:00 PM ET | Pascual Guerrero
-- Costa Rica 0 at Ecuador 2 | FT | Fri Nov 13, 7:00 PM ET | Estadio Olímpico Atahualpa
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Eswatini at Suriname | Scheduled | Sun Nov 15, 12:00 PM ET | Stadion De Vliert
@@ -272,6 +271,8 @@ Next 7 days, others (first 25):
 
 ## UEFA Nations League
 Finals (last ~40h):
+- Montenegro 4 at Cyprus 1 | FT | Sun Nov 15, 9:00 AM ET | TV: FS2 | Alphamega Stadium
+- Armenia 0 at Latvia 0 | FT | Sun Nov 15, 9:00 AM ET | Skonto Stadions
 - Republic of Ireland 0 at Austria 1 | FT | Sat Nov 14, 2:45 PM ET | Raiffeisen Arena (Linz)
 - Ukraine 0 at Northern Ireland 1 | FT | Sat Nov 14, 2:45 PM ET | Windsor Park
 - Denmark 4 at Portugal 1 | FT | Sat Nov 14, 2:45 PM ET | TV: FS2 | Estádio Municipal de Braga
@@ -280,9 +281,6 @@ Finals (last ~40h):
 - Hungary 2 at Georgia 0 | FT | Sat Nov 14, 12:00 PM ET | Mikheil Meskhi Stadioni
 - Wales 1 at Norway 3 | FT | Sat Nov 14, 12:00 PM ET | TV: FS2 | Ullevaal Stadion
 - Israel 0 at Kosovo 0 | FT | Sat Nov 14, 9:00 AM ET | Stadiumi Fadil Vokrri
-Live now:
-- Montenegro 3 at Cyprus 1 | 82' | Sun Nov 15, 9:00 AM ET | TV: FS2 | Alphamega Stadium
-- Armenia 0 at Latvia 0 | 82' | Sun Nov 15, 9:00 AM ET | Skonto Stadions
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Albania at Belarus | Scheduled | Sun Nov 15, 12:00 PM ET | Illovszky Rudolf Stadion
@@ -317,7 +315,6 @@ Finals (last ~40h):
 - [MY TEAM] United States 6 at Haiti 0 | FT | Sat Nov 14, 4:30 PM ET | TV: TBS, truTV, Universo, HBO Max, Peacock | Nu Stadium
 - French Guiana 5 at Sint Maarten 1 | FT | Sat Nov 14, 2:00 PM ET | Arnos Vale Stadium
 - Canada 3 at Guatemala 2 | FT | Fri Nov 13, 9:00 PM ET | TV: FS2 | Estadio El Trébol
-- Nicaragua 2 at Montserrat 1 | FT | Fri Nov 13, 7:00 PM ET | Estadio Cibao
 Next 7 days, my teams:
 - [MY TEAM] Haiti at United States | Scheduled | Tue Nov 17, 7:00 PM ET | TV: TBS, truTV, Universo, HBO Max, Peacock | TQL Stadium
 Next 7 days, others (first 25):
