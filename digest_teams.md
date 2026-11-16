@@ -1,10 +1,10 @@
-# Team digest (generated Mon Nov 16, 1:33 PM ET)
+# Team digest (generated Mon Nov 16, 2:29 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts | Mon Nov 16, 1:16 PM ET | https://www.espn.com/nfl/story/_/id/50502391/dolphins-cut-kicker-zane-gonzalez-day-costly-misses | The Dolphins waived kicker Zane Gonzalez on Monday, a day after he missed two field goals and an extra point in a 24-22 loss to the Colts.
+- Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts | Mon Nov 16, 1:46 PM ET | https://www.espn.com/nfl/story/_/id/50502391/dolphins-cut-kicker-zane-gonzalez-day-costly-misses | The Dolphins waived kicker Zane Gonzalez on Monday, a day after he missed two field goals and an extra point in a 24-22 loss to the Colts.
 - How an NFL referee crew worked two games in one day | Mon Nov 16, 1:12 PM ET | https://www.espn.com/nfl/story/_/id/50497412/nfl-referee-ref-crew-two-games | An inside look at the 14-hour day of four referees who worked an afternoon game in Indianapolis and the Sunday night game in Cincinnati.
 - NFL Week 11 betting odds: Lines and totals for every game | Mon Nov 16, 11:58 AM ET | https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals | Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.
 - NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture | Mon Nov 16, 11:21 AM ET | https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc | We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.

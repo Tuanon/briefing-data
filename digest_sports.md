@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Nov 16, 1:33 PM ET)
+# Sports digest (generated Mon Nov 16, 2:29 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -81,8 +81,6 @@ Finals (last ~40h):
 - [MY TEAM] Florida Panthers 1 at Dallas Stars 2 | Final/OT | Sun Nov 15, 8:00 PM ET | TV: NHL Net, Scripps Sports, Prime Video (Local) | American Airlines Center
 - Calgary Flames 1 at Anaheim Ducks 6 | Final | Sun Nov 15, 8:00 PM ET | TV: ESPN+, KCOP, Prime Video (Local), Fox 11 Plus | Honda Center
 - Edmonton Oilers 5 at Philadelphia Flyers 2 | Final | Sun Nov 15, 7:30 PM ET | TV: ESPN+, NBC Sports Phil | Xfinity Mobile Arena
-- New York Islanders 6 at Anaheim Ducks 2 | Final | Sat Nov 14, 10:00 PM ET | TV: ESPN+, MSGSN, KCOP, Prime Video (Local), Fox 11 Plus | Honda Center
-- Calgary Flames 3 at Los Angeles Kings 2 | Final | Sat Nov 14, 10:00 PM ET | TV: ESPN+, ABTV | crypto.com Arena
 Next 7 days, my teams:
 - [MY TEAM] Edmonton Oilers at Florida Panthers | 11/17 - 7:00 PM EST | Tue Nov 17, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Buffalo Sabres at Florida Panthers | 11/21 - 6:00 PM EST | Sat Nov 21, 6:00 PM ET | TV: ESPN+, MSGB, Scripps Sports | Amerant Bank Arena
@@ -119,7 +117,6 @@ Finals (last ~40h):
 - North Dakota State Bison 21 at Hawai'i Rainbow Warriors 13 | Final | Sat Nov 14, 11:00 PM ET | TV: CW | Clarence T.C. Ching Athletics Complex
 - Colorado State Rams 7 at Washington State Cougars 73 | Final | Sat Nov 14, 10:45 PM ET | TV: CBSSN | Martin Stadium
 - Utah Utes 40 at Arizona Wildcats 39 | ranks: Arizona Wildcats #23, Utah Utes #2 | Final | Sat Nov 14, 10:30 PM ET | TV: Fox | Casino Del Sol Stadium
-- Wyoming Cowboys 27 at UTEP Miners 15 | Final | Sat Nov 14, 10:00 PM ET | TV: FS1 | Sun Bowl
 Next 7 days, my teams:
 - [MY TEAM] Vanderbilt Commodores at Florida Gators | 11/21 - 12:00 PM EST | Sat Nov 21, 12:00 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
@@ -169,7 +166,7 @@ Next 7 days, others (first 25):
 
 ## PGA Tour
 Live now:
-- Austin Championship pres. by Compliance Solutions | [Chad Ramey (-16); Hayden Springer (-15); Joel Dahmen (-14); Austin Smotherman (-14); Ben Kohles (-14); Sami Välimäki (-14); Trace Crowe (-14); Mac Meissner (-13); Blades Brown (-13); Jordan Smith (-13)] | In Progress | Thu Nov 12, 12:00 AM ET | TV: ESPN+, Golf Chnl
+- Austin Championship pres. by Compliance Solutions | [Chad Ramey (-18); Ben Kohles (-16); Jordan Smith (-15); Blades Brown (-15); Hayden Springer (-15); Austin Smotherman (-15); Erik van Rooyen (-15); Trace Crowe (-15); Joel Dahmen (-14); Max Greyserman (-14)] | In Progress | Thu Nov 12, 12:00 AM ET | TV: ESPN+, Golf Chnl
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - The RSM Classic | Scheduled | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
@@ -188,9 +185,8 @@ Next 7 days, others (first 25):
 ## International friendlies
 Finals (last ~40h):
 - Eswatini 0 at Suriname 4 | FT | Sun Nov 15, 12:00 PM ET | Stadion De Vliert
-- India 0 at New Zealand 3 | FT | Sat Nov 14, 10:00 PM ET | One New Zealand Stadium
 Live now:
-- Azerbaijan 1 at Andorra 0 | 32' | Mon Nov 16, 1:00 PM ET | Estadi de la FAF d'Encamp
+- Azerbaijan 3 at Andorra 1 | 73' | Mon Nov 16, 1:00 PM ET | Estadi de la FAF d'Encamp
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Cook Islands at Tahiti | Scheduled | Tue Nov 17, 12:30 AM ET | Stade Louis Ganivet
@@ -214,6 +210,9 @@ Next 7 days, others (first 25):
 
 ## UEFA Nations League
 Finals (last ~40h):
+- Bulgaria 1 at Estonia 2 | FT | Mon Nov 16, 12:00 PM ET | TV: FS2 | A. Le Coq Arena
+- Luxembourg 0 at Iceland 3 | FT | Mon Nov 16, 12:00 PM ET | Laugardalsvöllur
+- Liechtenstein 1 at Lithuania 2 | FT | Mon Nov 16, 12:00 PM ET | S. Darius and S. Gireno Stadium
 - Moldova 0 at Faroe Islands 1 | FT | Mon Nov 16, 10:00 AM ET | Tórsvollur
 - Slovakia 2 at Kazakhstan 2 | FT | Mon Nov 16, 10:00 AM ET | TV: FS2 | Astana Arena
 - Italy 1 at Belgium 4 | FT | Sun Nov 15, 2:45 PM ET | King Baudouin Stadium
@@ -224,10 +223,6 @@ Finals (last ~40h):
 - San Marino 2 at Finland 7 | FT | Sun Nov 15, 12:00 PM ET | Bolt Arena
 - Montenegro 4 at Cyprus 1 | FT | Sun Nov 15, 9:00 AM ET | TV: FS2 | Alphamega Stadium
 - Armenia 0 at Latvia 0 | FT | Sun Nov 15, 9:00 AM ET | Skonto Stadions
-Live now:
-- Bulgaria 1 at Estonia 2 | 76' | Mon Nov 16, 12:00 PM ET | TV: FS2 | A. Le Coq Arena
-- Luxembourg 0 at Iceland 3 | 75' | Mon Nov 16, 12:00 PM ET | Laugardalsvöllur
-- Liechtenstein 1 at Lithuania 2 | 74' | Mon Nov 16, 12:00 PM ET | S. Darius and S. Gireno Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Netherlands at Germany | Scheduled | Mon Nov 16, 2:45 PM ET | TV: FS1 | Olympic Stadium Berlin
@@ -247,12 +242,13 @@ Next 7 days, others (first 25):
 ## CONCACAF Nations League
 Finals (last ~40h):
 - Curaçao 0 at Panama 2 | FT | Sun Nov 15, 6:00 PM ET | TV: FS2 | Estadio Rommel Fernández Gutiérrez
+Live now:
+- Grenada 0 at Cuba 2 | 31' | Mon Nov 16, 2:00 PM ET | Estadio La Polar
+- Bermuda 0 at Guadeloupe 1 | 31' | Mon Nov 16, 2:00 PM ET | Stade Roger Zami
+- Puerto Rico 1 at Guyana 0 | 31' | Mon Nov 16, 2:00 PM ET | Leonora National Track and Field Facility
 Next 7 days, my teams:
 - [MY TEAM] Haiti at United States | Scheduled | Tue Nov 17, 7:00 PM ET | TV: TBS, truTV, Universo, HBO Max, Peacock | TQL Stadium
 Next 7 days, others (first 25):
-- Grenada at Cuba | Scheduled | Mon Nov 16, 2:00 PM ET | Estadio La Polar
-- Bermuda at Guadeloupe | Scheduled | Mon Nov 16, 2:00 PM ET | Stade Roger Zami
-- Puerto Rico at Guyana | Scheduled | Mon Nov 16, 2:00 PM ET | Leonora National Track and Field Facility
 - Aruba at Martinique | Scheduled | Mon Nov 16, 7:00 PM ET | Stade Pierre-Aliker
 - Antigua and Barbuda at Trinidad and Tobago | Scheduled | Mon Nov 16, 7:00 PM ET | Hasely Crawford Stadium
 - Guatemala at Canada | Scheduled | Mon Nov 16, 8:00 PM ET | BMO Field
@@ -272,8 +268,6 @@ Finals (last ~40h):
 - [MY TEAM] Florida Panthers 1 at Dallas Stars 2 | OFF (OT) | Sun Nov 15, 8:00 PM ET | TV: NHLN, Prime Video, SCRIPPS | American Airlines Center
 - Calgary Flames 1 at Anaheim Ducks 6 | OFF | Sun Nov 15, 8:00 PM ET | TV: SN1, FOXLA+, Prime Video | Honda Center
 - Edmonton Oilers 5 at Philadelphia Flyers 2 | OFF | Sun Nov 15, 7:30 PM ET | TV: SN, TVAS, NBCSP | Xfinity Mobile Arena
-- New York Islanders 6 at Anaheim Ducks 2 | OFF | Sat Nov 14, 10:00 PM ET | TV: FOXLA+, Prime Video, MSGSN | Honda Center
-- Calgary Flames 3 at Los Angeles Kings 2 | OFF | Sat Nov 14, 10:00 PM ET | TV: SN, TVAS, ABTV  | Crypto.com Arena
 Next 7 days, my teams:
 - [MY TEAM] Edmonton Oilers at Florida Panthers | FUT | Tue Nov 17, 7:00 PM ET | TV: SN, TVAS, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Buffalo Sabres at Florida Panthers | FUT | Sat Nov 21, 6:00 PM ET | TV: MSG-B, SCRIPPS | Amerant Bank Arena
