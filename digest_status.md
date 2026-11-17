@@ -2,87 +2,88 @@
 
 HEALTH: OK
 HEALTH_REASONS: none
-GENERATED_UTC: 2026-11-17T17:38:20Z
-GENERATED_ET: Tue Nov 17, 12:38 PM ET
+GENERATED_UTC: 2026-11-17T18:26:03Z
+GENERATED_ET: Tue Nov 17, 1:26 PM ET
 COLLECTOR_VERSION: 10
 
-News feeds OK: 80 of 89 (1505 items in window). Sports sources OK: 26 of 26.
+News feeds OK: 81 of 89 (1530 items in window). Sports sources OK: 26 of 26.
 
 Feeds that worked (items in last 48h; newest item):
-- CBS News: 30 items; newest Tue Nov 17, 12:35 PM ET
-- NPR: 10 items; newest Tue Nov 17, 7:20 AM ET
-- ABC News: 25 items; newest Tue Nov 17, 12:34 PM ET
-- PBS NewsHour: 20 items; newest Tue Nov 17, 12:33 PM ET
-- Fox News (latest): 25 items; newest Tue Nov 17, 12:20 PM ET
-- Fox News (world): 14 items; newest Tue Nov 17, 12:15 PM ET
-- Fox News (politics): 25 items; newest Tue Nov 17, 11:57 AM ET
-- NBC News: 22 items; newest Tue Nov 17, 11:54 AM ET
-- CNBC (top news): 30 items; newest Tue Nov 17, 12:33 PM ET
+- CBS News: 30 items; newest Tue Nov 17, 1:22 PM ET
+- NPR: 10 items; newest Tue Nov 17, 12:36 PM ET
+- ABC News: 25 items; newest Tue Nov 17, 1:08 PM ET
+- PBS NewsHour: 20 items; newest Tue Nov 17, 1:17 PM ET
+- Fox News (latest): 25 items; newest Tue Nov 17, 1:18 PM ET
+- Fox News (world): 15 items; newest Tue Nov 17, 1:04 PM ET
+- Fox News (politics): 25 items; newest Tue Nov 17, 12:48 PM ET
+- NBC News: 23 items; newest Tue Nov 17, 1:05 PM ET
+- CNBC (top news): 30 items; newest Tue Nov 17, 1:21 PM ET
 - CNBC (economy): 3 items; newest Tue Nov 17, 10:35 AM ET
-- Al Jazeera: 25 items; newest Tue Nov 17, 12:09 PM ET
-- Jerusalem Post: 20 items; newest Tue Nov 17, 1:55 PM ET
+- Al Jazeera: 25 items; newest Tue Nov 17, 1:14 PM ET
+- Jerusalem Post: 20 items; newest Tue Nov 17, 3:00 PM ET
 - Politico: 3 items; newest Tue Nov 17, 5:45 AM ET
 - Yahoo News: 14 items; newest Tue Nov 17, 12:16 PM ET
-- CBS Sports: 36 items; newest Tue Nov 17, 12:20 PM ET
-- NPR Politics: 10 items; newest Tue Nov 17, 7:20 AM ET
+- CBS Sports: 36 items; newest Tue Nov 17, 12:49 PM ET
+- NPR Politics: 10 items; newest Tue Nov 17, 12:36 PM ET
 - NPR World: 10 items; newest Tue Nov 17, 7:20 AM ET
-- NPR Business: 3 items; newest Tue Nov 17, 6:30 AM ET
-- NPR Technology: 7 items; newest Tue Nov 17, 6:00 AM ET
-- CBS News Politics: 28 items; newest Tue Nov 17, 12:35 PM ET
-- CBS News World: 27 items; newest Tue Nov 17, 12:16 PM ET
+- NPR Business: 4 items; newest Tue Nov 17, 12:36 PM ET
+- NPR Technology: 8 items; newest Tue Nov 17, 12:36 PM ET
+- CBS News Politics: 28 items; newest Tue Nov 17, 1:12 PM ET
+- CBS News World: 27 items; newest Tue Nov 17, 1:22 PM ET
 - ABC News Politics: 6 items; newest Mon Nov 16, 3:06 PM ET
 - ABC News World: 25 items; newest Tue Nov 17, 11:01 AM ET
-- The Hill: 100 items; newest Tue Nov 17, 12:30 PM ET
+- The Hill: 100 items; newest Tue Nov 17, 1:23 PM ET
 - LA Times: 9 items; newest Tue Nov 17, 12:00 PM ET
 - Christian Science Monitor: 8 items; newest Tue Nov 17, 11:57 AM ET
-- New York Times: 25 items; newest Tue Nov 17, 12:35 PM ET
-- Washington Post: 28 items; newest Tue Nov 17, 11:51 AM ET
-- The Guardian (world): 39 items; newest Tue Nov 17, 12:19 PM ET
-- The Guardian (US): 30 items; newest Tue Nov 17, 12:12 PM ET
-- Sky News (world): 4 items; newest Tue Nov 17, 7:46 AM ET
+- New York Times: 19 items; newest Tue Nov 17, 1:20 PM ET
+- Washington Post: 29 items; newest Tue Nov 17, 12:45 PM ET
+- The Guardian (world): 39 items; newest Tue Nov 17, 1:10 PM ET
+- The Guardian (US): 30 items; newest Tue Nov 17, 1:10 PM ET
+- Sky News (world): 5 items; newest Tue Nov 17, 12:34 PM ET
 - Deutsche Welle: 29 items; newest Tue Nov 17, 12:02 PM ET
 - France 24: 24 items; newest Tue Nov 17, 11:34 AM ET
-- New York Post: 24 items; newest Tue Nov 17, 12:37 PM ET
-- Newsweek: 20 items; newest Tue Nov 17, 12:35 PM ET
-- MarketWatch: 10 items; newest Tue Nov 17, 12:12 PM ET
-- Bloomberg Markets: 20 items; newest Tue Nov 17, 12:11 PM ET
-- Fortune: 10 items; newest Tue Nov 17, 11:26 AM ET
-- Business Insider: 20 items; newest Tue Nov 17, 12:12 PM ET
+- New York Post: 22 items; newest Tue Nov 17, 1:25 PM ET
+- Newsweek: 20 items; newest Tue Nov 17, 1:25 PM ET
+- MarketWatch: 10 items; newest Tue Nov 17, 12:40 PM ET
+- Bloomberg Markets: 20 items; newest Tue Nov 17, 12:53 PM ET
+- Fortune: 10 items; newest Tue Nov 17, 12:44 PM ET
+- Business Insider: 20 items; newest Tue Nov 17, 1:19 PM ET
 - BLS latest releases: 1 items; newest Tue Nov 17, 8:30 AM ET
 - SCOTUSblog: 7 items; newest Tue Nov 17, 10:00 AM ET
-- DOJ press releases: 8 items; newest Tue Nov 17, 7:00 AM ET
+- DOJ press releases: 9 items; newest Tue Nov 17, 7:00 AM ET
 - USGS significant earthquakes: 1 items; newest Tue Nov 17, 12:31 AM ET
-- National Hurricane Center: 2 items; newest Wed Nov 18, 6:48 PM ET
-- TechCrunch: 20 items; newest Tue Nov 17, 12:32 PM ET
-- The Verge: 10 items; newest Tue Nov 17, 12:00 PM ET
-- Ars Technica: 19 items; newest Tue Nov 17, 11:50 AM ET
-- Wired: 39 items; newest Tue Nov 17, 12:32 PM ET
-- Engadget: 20 items; newest Tue Nov 17, 12:15 PM ET
-- Hacker News front page: 20 items; newest Tue Nov 17, 12:13 PM ET
+- National Hurricane Center: 2 items; newest Thu Nov 19, 12:46 AM ET
+- TechCrunch: 20 items; newest Tue Nov 17, 1:10 PM ET
+- The Verge: 10 items; newest Tue Nov 17, 12:50 PM ET
+- Ars Technica: 20 items; newest Tue Nov 17, 1:13 PM ET
+- Wired: 40 items; newest Tue Nov 17, 1:03 PM ET
+- Engadget: 20 items; newest Tue Nov 17, 1:15 PM ET
+- Hacker News front page: 20 items; newest Tue Nov 17, 12:49 PM ET
 - JNS: 30 items; newest Tue Nov 17, 11:17 AM ET
+- Middle East Eye: 20 items; newest Tue Nov 17, 1:09 PM ET
 - Al-Monitor: 20 items; newest Tue Nov 17, 12:30 PM ET
-- Yahoo Sports: 50 items; newest Tue Nov 17, 12:29 PM ET
-- MLB.com news: 20 items; newest Tue Nov 17, 11:54 AM ET
+- Yahoo Sports: 50 items; newest Tue Nov 17, 1:20 PM ET
+- MLB.com news: 21 items; newest Tue Nov 17, 11:54 AM ET
 - Sky Sports (football): 19 items; newest Tue Nov 17, 11:51 AM ET
-- The Guardian (football): 28 items; newest Tue Nov 17, 12:18 PM ET
-- Variety: 10 items; newest Tue Nov 17, 12:37 PM ET
-- Hollywood Reporter: 10 items; newest Tue Nov 17, 12:11 PM ET
+- The Guardian (football): 28 items; newest Tue Nov 17, 12:46 PM ET
+- Variety: 10 items; newest Tue Nov 17, 1:19 PM ET
+- Hollywood Reporter: 10 items; newest Tue Nov 17, 1:26 PM ET
 - CBS Sports (NFL): 36 items; newest Tue Nov 17, 12:17 PM ET
 - CBS Sports (NBA): 14 items; newest Tue Nov 17, 12:05 PM ET
 - CBS Sports (NHL): 1 items; newest Mon Nov 16, 3:09 PM ET
-- CBS Sports (MLB): 7 items; newest Tue Nov 17, 12:20 PM ET
-- CBS Sports (college football): 33 items; newest Tue Nov 17, 12:10 PM ET
-- CBS Sports (college basketball): 18 items; newest Tue Nov 17, 11:38 AM ET
-- CBS Sports (soccer): 4 items; newest Tue Nov 17, 11:22 AM ET
+- CBS Sports (MLB): 7 items; newest Tue Nov 17, 12:49 PM ET
+- CBS Sports (college football): 32 items; newest Tue Nov 17, 12:10 PM ET
+- CBS Sports (college basketball): 19 items; newest Tue Nov 17, 1:15 PM ET
+- CBS Sports (soccer): 4 items; newest Tue Nov 17, 1:00 PM ET
 - CBS Sports (golf): 3 items; newest Tue Nov 17, 10:21 AM ET
 - Sky Sports (Premier League): 16 items; newest Tue Nov 17, 11:45 AM ET
-- The Guardian (sport): 24 items; newest Tue Nov 17, 12:18 PM ET
-- ESPN (NFL): 26 items; newest Tue Nov 17, 12:36 PM ET
-- ESPN (NBA): 31 items; newest Tue Nov 17, 12:26 PM ET
+- The Guardian (sport): 23 items; newest Tue Nov 17, 12:18 PM ET
+- ESPN (NFL): 30 items; newest Tue Nov 17, 1:23 PM ET
+- ESPN (NBA): 31 items; newest Tue Nov 17, 1:04 PM ET
 - ESPN (NHL): 29 items; newest Tue Nov 17, 11:20 AM ET
-- ESPN (MLB): 12 items; newest Tue Nov 17, 12:30 PM ET
+- ESPN (MLB): 13 items; newest Tue Nov 17, 1:06 PM ET
 - ESPN (college football): 30 items; newest Tue Nov 17, 10:58 AM ET
-- ESPN (college basketball): 40 items; newest Tue Nov 17, 11:03 AM ET
+- ESPN (college basketball): 39 items; newest Tue Nov 17, 1:22 PM ET
 - ESPN (Premier League): 12 items; newest Tue Nov 17, 12:06 PM ET
 - ESPN (Champions League): 3 items; newest Mon Nov 16, 9:27 AM ET
 - ESPN (UFC): 4 items; newest Tue Nov 17, 10:45 AM ET
@@ -127,12 +128,11 @@ Team data (ESPN news and injuries):
 - Miami Marlins (MLB): 3 news items, 7 injury entries
 
 ## Failures and warnings this run (full detail; the same lines go to failure_log.md)
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | Federal Reserve press releases | https://www.federalreserve.gov/feeds/press_all.xml | STALE: newest dated item is Fri Nov 13, 4:15 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | SEC press releases | https://www.sec.gov/news/pressreleases.rss | STALE: newest dated item is Fri Nov 13, 11:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | Middle East Eye | https://www.middleeasteye.net/rss | PARSE_ERROR: invalid XML: not well-formed (invalid token): line 1, column 0 | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the response was probably a web page (a block or error page), not a feed or valid data.
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Fri Oct 23, 8:49 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Wed Oct 7, 8:58 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | The Guardian (Chelsea) | https://www.theguardian.com/football/chelsea/rss | STALE: newest dated item is Fri Nov 13, 2:00 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | Sky Sports (all sports) | https://www.skysports.com/rss/0 | EMPTY_RESPONSE: HTTP request succeeded but the response body was empty | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the server (or its bot protection) answered with nothing instead of the feed. The response was an empty body, not a web page.
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | The Guardian (Premier League) | https://www.theguardian.com/football/premierleague/rss | STALE: newest dated item is Thu Nov 12, 9:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
-- Tue Nov 17, 12:38 PM ET | FAIL | step: Feed sweep | The Guardian (Manchester City) | https://www.theguardian.com/football/manchestercity/rss | STALE: newest dated item is Mon Nov 9, 4:40 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | Federal Reserve press releases | https://www.federalreserve.gov/feeds/press_all.xml | STALE: newest dated item is Fri Nov 13, 4:15 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | SEC press releases | https://www.sec.gov/news/pressreleases.rss | STALE: newest dated item is Fri Nov 13, 11:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | CBS Sports (MMA) | https://www.cbssports.com/rss/headlines/mma/ | STALE: newest dated item is Fri Oct 23, 8:49 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | CBS Sports (tennis) | https://www.cbssports.com/rss/headlines/tennis/ | STALE: newest dated item is Wed Oct 7, 8:58 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | The Guardian (Chelsea) | https://www.theguardian.com/football/chelsea/rss | STALE: newest dated item is Fri Nov 13, 2:00 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | Sky Sports (all sports) | https://www.skysports.com/rss/0 | EMPTY_RESPONSE: HTTP request succeeded but the response body was empty | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the server (or its bot protection) answered with nothing instead of the feed. The response was an empty body, not a web page.
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | The Guardian (Premier League) | https://www.theguardian.com/football/premierleague/rss | STALE: newest dated item is Thu Nov 12, 9:57 AM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).
+- Tue Nov 17, 1:26 PM ET | FAIL | step: Feed sweep | The Guardian (Manchester City) | https://www.theguardian.com/football/manchestercity/rss | STALE: newest dated item is Mon Nov 9, 4:40 PM ET, older than 48 hours; feed excluded | attempts: 1 | impact: no items from this outlet in the digest | likely cause: INFERRED: the publisher stopped updating this feed, or the feed is cached (it may be a frozen archive).

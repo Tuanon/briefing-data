@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Nov 17, 12:38 PM ET)
+# Sports digest (generated Tue Nov 17, 1:26 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -31,7 +31,6 @@ Finals (last ~40h):
 - Orlando Magic 115 at Boston Celtics 105 | Final | Mon Nov 16, 7:00 PM ET | TV: NBCSN | TD Garden
 - Chicago Bulls 115 at Cleveland Cavaliers 126 | Final | Mon Nov 16, 7:00 PM ET | TV: DAZN CLE | Rocket Arena
 - Memphis Grizzlies 136 at Washington Wizards 120 | Final | Mon Nov 16, 7:00 PM ET | TV: MNMT | Capital One Arena
-- Oklahoma City Thunder 125 at Sacramento Kings 103 | Final | Sun Nov 15, 9:00 PM ET | TV: KSBI, Thunder App | Golden 1 Center
 Next 7 days, my teams:
 - [MY TEAM] Milwaukee Bucks at Miami Heat | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: ESPN, MyMi, Bucks App | Kaseya Center
 - [MY TEAM] Oklahoma City Thunder at Miami Heat | 11/22 - 6:00 PM EST | Sun Nov 22, 6:00 PM ET | TV: KSBI, Thunder App | Kaseya Center
@@ -66,8 +65,6 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Vancouver Canucks 3 at Utah Mammoth 2 | Final | Mon Nov 16, 9:30 PM ET | TV: ESPN+, Utah 16, Mammoth+ | Delta Center
 - Montreal Canadiens 1 at New York Rangers 3 | Final | Mon Nov 16, 7:30 PM ET | TV: TNT, truTV | Madison Square Garden
-- Vancouver Canucks 6 at Vegas Golden Knights 3 | Final | Sun Nov 15, 9:00 PM ET | TV: ESPN+, Scripps Sports | T-Mobile Arena
-- Nashville Predators 2 at San Jose Sharks 4 | Final | Sun Nov 15, 9:00 PM ET | TV: ESPN+, Scripps Sports, NBC Sports BA | SAP Center at San Jose
 Next 7 days, my teams:
 - [MY TEAM] Edmonton Oilers at Florida Panthers | 11/17 - 7:00 PM EST | Tue Nov 17, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Buffalo Sabres at Florida Panthers | 11/21 - 6:00 PM EST | Sat Nov 21, 6:00 PM ET | TV: ESPN+, MSGB, Scripps Sports | Amerant Bank Arena
@@ -142,6 +139,12 @@ Next 7 days, others (first 25):
 - Manchester United at Liverpool | Scheduled | Sun Nov 22, 11:30 AM ET | Anfield
 - Everton at Brentford | Scheduled | Mon Nov 23, 3:00 PM ET | Gtech Community Stadium
 
+## Champions League
+Next 7 days: no game for my teams in this league's data
+Next 7 days, others (first 25):
+- LASK Linz at Bodo/Glimt | Scheduled | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | Aspmyra Stadion
+- Aston Villa at Galatasaray | Scheduled | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | RAMS Park
+
 ## UFC
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
@@ -150,7 +153,7 @@ Next 7 days, others (first 25):
 ## PGA Tour
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- The RSM Classic | [Matt Kuchar (E); Jonathan Byrd (E); Lucas Glover (E); Luke List (E); Kevin Streelman (E); Brian Harman (E); Camilo Villegas (E); Ryan Brehm (E); Jeff Overton (E); Webb Simpson (E)] | Scheduled | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
+- The RSM Classic | [David Skinns (E); John Parry (E); Robert Streb (E); Emiliano Grillo (E); Patrick Rodgers (E); Ben Silverman (E); Zac Blair (E); Max Greyserman (E); Rasmus Højgaard (E); Max McGreevy (E)] | Scheduled | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
 
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data
@@ -159,6 +162,10 @@ Next 7 days, others (first 25):
 
 ## International friendlies
 Finals (last ~40h):
+- Honduras 2 at Kuwait 0 | FT | Tue Nov 17, 11:30 AM ET | Al-Sadaqua Walsalam Stadium
+- Iran 1 at Iraq 1 | FT | Tue Nov 17, 11:15 AM ET | Basra International Stadium
+- Australia 0 at Jordan 2 | FT | Tue Nov 17, 11:00 AM ET | Suheim bin Hamad Stadium
+- Venezuela 0 at Russia 2 | FT | Tue Nov 17, 11:00 AM ET | Krasnodar Stadium
 - Uzbekistan 2 at Saudi Arabia 1 | FT | Tue Nov 17, 10:30 AM ET | Jassim Bin Hamad Stadium
 - Syria 2 at United Arab Emirates 4 | FT | Tue Nov 17, 9:10 AM ET | Hazza Bin Zayed Stadium
 - South Korea 1 at Qatar 0 | FT | Tue Nov 17, 9:00 AM ET | Abdullah bin Khalifa Stadium
@@ -170,11 +177,6 @@ Finals (last ~40h):
 - Yemen 1 at Malaysia 2 | FT | Tue Nov 17, 1:00 AM ET | Zhaoqing New District Sports Center Stadium
 - Cook Islands 3 at Tahiti 3 | FT | Tue Nov 17, 12:30 AM ET | Stade Louis Ganivet
 - Azerbaijan 3 at Andorra 1 | FT | Mon Nov 16, 1:00 PM ET | Estadi de la FAF d'Encamp
-Live now:
-- Australia 0 at Jordan 1 | 81' | Tue Nov 17, 11:00 AM ET | Suheim bin Hamad Stadium
-- Venezuela 0 at Russia 1 | 73' | Tue Nov 17, 11:00 AM ET | Krasnodar Stadium
-- Iran 0 at Iraq 1 | 62' | Tue Nov 17, 11:15 AM ET | Basra International Stadium
-- Honduras 2 at Kuwait 0 | 51' | Tue Nov 17, 11:30 AM ET | Al-Sadaqua Walsalam Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Costa Rica at Argentina | Scheduled | Tue Nov 17, 6:00 PM ET | Mario Alberto Kempes
@@ -229,8 +231,6 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Vancouver Canucks 3 at Utah Mammoth 2 | OFF | Mon Nov 16, 9:30 PM ET | TV: SN+, Mammoth+, Utah16 | Delta Center
 - Montréal Canadiens 1 at New York Rangers 3 | OFF | Mon Nov 16, 7:30 PM ET | TV: TNT, truTV, HBO MAX, SN+, TVAS | Madison Square Garden
-- Vancouver Canucks 6 at Vegas Golden Knights 3 | OFF | Sun Nov 15, 9:00 PM ET | TV: SNP, SCRIPPS | T-Mobile Arena
-- Nashville Predators 2 at San Jose Sharks 4 | OFF | Sun Nov 15, 9:00 PM ET | TV: NBCSCA, SCRIPPS | SAP Center at San Jose
 Next 7 days, my teams:
 - [MY TEAM] Edmonton Oilers at Florida Panthers | FUT | Tue Nov 17, 7:00 PM ET | TV: SN, TVAS, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Buffalo Sabres at Florida Panthers | FUT | Sat Nov 21, 6:00 PM ET | TV: MSG-B, SCRIPPS | Amerant Bank Arena
