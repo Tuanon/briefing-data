@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Nov 18, 12:15 PM ET)
+# Sports digest (generated Wed Nov 18, 12:56 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -160,6 +160,8 @@ Next 7 days, others (first 25):
 - Lens at RB Leipzig | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Red Bull Arena
 - PSV Eindhoven at Real Madrid | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Santiago Bernabéu
 - Real Betis at Slovan Bratislava | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Národny Futbalovy Stadión
+- Barcelona at Sabah FK | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
+- Villarreal at Slavia Prague | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Fortuna Arena
 
 ## UFC
 Next 7 days: no game for my teams in this league's data
