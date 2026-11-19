@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Nov 19, 12:23 PM ET)
+# Sports digest (generated Thu Nov 19, 1:09 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -19,6 +19,7 @@ Next 7 days, others (first 25):
 - Minnesota Vikings at San Francisco 49ers | 11/22 - 8:20 PM EST | Sun Nov 22, 8:20 PM ET | TV: NBC | Estadio Banorte
 - Cincinnati Bengals at Washington Commanders | 11/23 - 8:15 PM EST | Mon Nov 23, 8:15 PM ET | TV: ESPN | Northwest Stadium
 - Green Bay Packers at Los Angeles Rams | 11/25 - 8:00 PM EST | Wed Nov 25, 8:00 PM ET | TV: Netflix | SoFi Stadium
+- Chicago Bears at Detroit Lions | 11/26 - 1:00 PM EST | Thu Nov 26, 1:00 PM ET | TV: CBS | Ford Field
 
 ## NBA
 Finals (last ~40h):
@@ -186,10 +187,31 @@ Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - IEB+ Argentina Open | TBD | Mon Nov 23, 12:00 AM ET
 
+## Europa League
+Next 7 days: no game for my teams in this league's data
+Next 7 days, others (first 25):
+- Hapoel Be'er at Besiktas | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Batumi Stadium (Adjarabet Arena)
+- AFC Bournemouth at Celta Vigo | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Balaidos
+- Bayer Leverkusen at Dinamo Zagreb | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Maksimir Stadium
+- Levski Sofia at Marseille | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stade Vélodrome
+- AC Milan at Olympiacos | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Georgios Karaiskakis Stadium
+- Ararat-Armenia at RB Salzburg | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Red Bull Arena Salzburg
+- Lech Poznan at Union St.-Gilloise | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | King Power at Den Dreef Stadion
+- Benfica at Viktoria Plzen | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Doosan Arena
+
 ## Conference League
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Mjällby AIF at Kairat Almaty | Scheduled | Thu Nov 26, 10:30 AM ET | TV: Paramount+ | Almaty Ortalyk Stadium
+- FC Thun at Ajax Amsterdam | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Johan Cruijff Arena
+- CSU Craiova at Brighton & Hove Albion | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | American Express Stadium
+- Lincoln Red Imps at Egnatia | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Air Albania Stadium
+- AS Monaco at Heart of Midlothian | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Tynecastle Park
+- Getafe at Iberia 1999 | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Mikheil Meskhi Stadioni
+- FC Lugano at Jablonec | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stadion Strelnice
+- Riga FC at Kauno Zalgiris | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | S. Darius and S. Gireno Stadium
+- FC Midtjylland at Pafos | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Alphamega Stadium
+- AGF at SK Brann | Scheduled | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Brann Stadium
 
 ## CONCACAF Nations League
 Finals (last ~40h):

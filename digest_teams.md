@@ -1,10 +1,10 @@
-# Team digest (generated Thu Nov 19, 12:23 PM ET)
+# Team digest (generated Thu Nov 19, 1:09 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- Midseason reports on every NFL team's offensive coordinator, playcaller | Thu Nov 19, 12:03 PM ET | https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report | Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.
+- Midseason reports on every NFL team's offensive coordinator, playcaller | Thu Nov 19, 12:37 PM ET | https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report | Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.
 - NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser' | Thu Nov 19, 9:38 AM ET | https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms | Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.
 - NFL Week 11 betting odds: Lines and totals for every game | Wed Nov 18, 2:39 PM ET | https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals | Updated odds, spreads, totals and FPI predictions for every NFL game in Week 11.
 - 2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks | Wed Nov 18, 12:51 PM ET | https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions | Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.
@@ -70,7 +70,7 @@ Injuries / player notes (ESPN; 3 of 3 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
-- Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness | Thu Nov 19, 10:30 AM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview | What to expect in Week 12, from top games and players to teams on upset alert.
+- Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness | Thu Nov 19, 12:08 PM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview | What to expect in Week 12, from top games and players to teams on upset alert.
 - Georgia AG asks SEC to take action against LSU's 'contempt for the rules' | Thu Nov 19, 9:06 AM ET | https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion | The Georgia Attorney General blasted LSU in a letter to SEC commissioner Greg Sankey, encouraging sanctions against the Tigers, "up to and including expulsion."
 - What Chizik knows, wants to know about Bama, UF, Ole Miss | Wed Nov 18, 11:54 PM ET | https://www.espn.com/video/clip/_/id/50528108/what-chizik-knows-wants-know-bama-uf-ole-miss | There are things that Gene Chizik knows about SEC football, like the Crimson Tide's defensive power or the Gators' resiliency, but on the other hand he has lingering questions.
 - Top 25 betting lines: UGA big faves over Gamecocks, Vols slim favorites vs. LSU | Wed Nov 18, 9:36 AM ET | https://www.espn.com/espn/betting/story/_/id/50498153/2026-college-football-week-12-top-25-betting-lines-odds | This week's odds and FPI predictions for South Carolina-Georgia, Tennessee-LSU and more.
