@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Nov 18, 12:56 PM ET)
+# Sports digest (generated Thu Nov 19, 12:23 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -18,30 +18,28 @@ Next 7 days, others (first 25):
 - Jacksonville Jaguars at New York Giants | 11/22 - 4:25 PM EST | Sun Nov 22, 4:25 PM ET | TV: CBS | MetLife Stadium
 - Minnesota Vikings at San Francisco 49ers | 11/22 - 8:20 PM EST | Sun Nov 22, 8:20 PM ET | TV: NBC | Estadio Banorte
 - Cincinnati Bengals at Washington Commanders | 11/23 - 8:15 PM EST | Mon Nov 23, 8:15 PM ET | TV: ESPN | Northwest Stadium
+- Green Bay Packers at Los Angeles Rams | 11/25 - 8:00 PM EST | Wed Nov 25, 8:00 PM ET | TV: Netflix | SoFi Stadium
 
 ## NBA
 Finals (last ~40h):
+- Utah Jazz 109 at Los Angeles Lakers 97 | Final | Wed Nov 18, 10:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net +, KJZZ-TV, Jazz+ | crypto.com Arena
+- Phoenix Suns 128 at Sacramento Kings 107 | Final | Wed Nov 18, 10:00 PM ET | TV: Suns Live, Arizona's Family 3TV | Golden 1 Center
+- Boston Celtics 101 at Denver Nuggets 105 | Final | Wed Nov 18, 9:30 PM ET | TV: ESPN | Ball Arena
+- Detroit Pistons 122 at New Orleans Pelicans 109 | Final | Wed Nov 18, 8:00 PM ET | TV: GCSEN, Pelicans.com | Smoothie King Center
+- Atlanta Hawks 117 at Oklahoma City Thunder 112 | Final | Wed Nov 18, 8:00 PM ET | TV: KSBI, Thunder App | Paycom Center
+- Golden State Warriors 94 at Dallas Mavericks 116 | Final | Wed Nov 18, 8:00 PM ET | TV: KFAA-TV, MavsTV | American Airlines Center
+- Chicago Bulls 137 at Brooklyn Nets 107 | Final | Wed Nov 18, 7:30 PM ET | TV: DAZN (YES) | Barclays Center
+- Washington Wizards 103 at Toronto Raptors 99 | Final | Wed Nov 18, 7:30 PM ET | TV: MNMT | Scotiabank Arena
+- Memphis Grizzlies 124 at Cleveland Cavaliers 121 | Final | Wed Nov 18, 7:00 PM ET | TV: DAZN CLE, DAZN MEM | Rocket Arena
+- Houston Rockets 119 at Indiana Pacers 104 | Final | Wed Nov 18, 7:00 PM ET | TV: DAZN IND | Gainbridge Fieldhouse
+- [MY TEAM] Milwaukee Bucks 130 at Miami Heat 137 | Final | Wed Nov 18, 7:00 PM ET | TV: ESPN, MyMi, Bucks App | Kaseya Center
+- Philadelphia 76ers 121 at Orlando Magic 116 | Final | Wed Nov 18, 7:00 PM ET | Kia Center
 - Charlotte Hornets 114 at Los Angeles Lakers 118 | Final/OT | Tue Nov 17, 11:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net +, NBC | crypto.com Arena
 - Utah Jazz 132 at LA Clippers 107 | Final | Tue Nov 17, 10:30 PM ET | TV: ClipperVision, KJZZ-TV, Jazz+ | Intuit Dome
-- Portland Trail Blazers 105 at Minnesota Timberwolves 106 | Final | Tue Nov 17, 8:00 PM ET | TV: BlazerVision, DAZN MIN | Target Center
-- Detroit Pistons 105 at San Antonio Spurs 93 | Final | Tue Nov 17, 8:00 PM ET | TV: NBC | Frost Bank Center
-- New York Knicks 111 at Toronto Raptors 102 | Final | Tue Nov 17, 7:30 PM ET | Scotiabank Arena
-- Phoenix Suns 117 at Denver Nuggets 105 | Final | Mon Nov 16, 9:00 PM ET | TV: Suns Live, Arizona's Family 3TV | Ball Arena
 Next 7 days, my teams:
-- [MY TEAM] Milwaukee Bucks at Miami Heat | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: ESPN, MyMi, Bucks App | Kaseya Center
 - [MY TEAM] Oklahoma City Thunder at Miami Heat | 11/22 - 6:00 PM EST | Sun Nov 22, 6:00 PM ET | TV: KSBI, Thunder App | Kaseya Center
+- [MY TEAM] Miami Heat at Philadelphia 76ers | 11/25 - 5:00 PM EST | Wed Nov 25, 5:00 PM ET | TV: ESPN | Xfinity Mobile Arena
 Next 7 days, others (first 25):
-- Memphis Grizzlies at Cleveland Cavaliers | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: DAZN CLE, DAZN MEM | Rocket Arena
-- Houston Rockets at Indiana Pacers | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: DAZN IND | Gainbridge Fieldhouse
-- Philadelphia 76ers at Orlando Magic | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | Kia Center
-- Chicago Bulls at Brooklyn Nets | 11/18 - 7:30 PM EST | Wed Nov 18, 7:30 PM ET | TV: DAZN (YES) | Barclays Center
-- Washington Wizards at Toronto Raptors | 11/18 - 7:30 PM EST | Wed Nov 18, 7:30 PM ET | TV: MNMT | Scotiabank Arena
-- Detroit Pistons at New Orleans Pelicans | 11/18 - 8:00 PM EST | Wed Nov 18, 8:00 PM ET | TV: GCSEN, Pelicans.com | Smoothie King Center
-- Atlanta Hawks at Oklahoma City Thunder | 11/18 - 8:00 PM EST | Wed Nov 18, 8:00 PM ET | TV: KSBI, Thunder App | Paycom Center
-- Golden State Warriors at Dallas Mavericks | 11/18 - 8:00 PM EST | Wed Nov 18, 8:00 PM ET | TV: KFAA-TV, MavsTV | American Airlines Center
-- Boston Celtics at Denver Nuggets | 11/18 - 9:30 PM EST | Wed Nov 18, 9:30 PM ET | TV: ESPN | Ball Arena
-- Utah Jazz at Los Angeles Lakers | 11/18 - 10:00 PM EST | Wed Nov 18, 10:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net +, KJZZ-TV, Jazz+ | crypto.com Arena
-- Phoenix Suns at Sacramento Kings | 11/18 - 10:00 PM EST | Wed Nov 18, 10:00 PM ET | TV: Suns Live, Arizona's Family 3TV | Golden 1 Center
 - Golden State Warriors at Memphis Grizzlies | 11/19 - 8:00 PM EST | Thu Nov 19, 8:00 PM ET | TV: DAZN MEM | FedExForum
 - Portland Trail Blazers at Milwaukee Bucks | 11/19 - 8:00 PM EST | Thu Nov 19, 8:00 PM ET | TV: KUNP 16, BlazerVision, MyMi, Bucks App | Fiserv Forum
 - New York Knicks at Minnesota Timberwolves | 11/19 - 8:00 PM EST | Thu Nov 19, 8:00 PM ET | TV: NBA TV, DAZN MIN | Target Center
@@ -56,27 +54,29 @@ Next 7 days, others (first 25):
 - Houston Rockets at Denver Nuggets | 11/20 - 10:00 PM EST | Fri Nov 20, 10:00 PM ET | TV: Prime Video | Ball Arena
 - Sacramento Kings at Los Angeles Lakers | 11/20 - 10:00 PM EST | Fri Nov 20, 10:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena
 - Milwaukee Bucks at Philadelphia 76ers | 11/21 - 1:00 PM EST | Sat Nov 21, 1:00 PM ET | TV: MyMi, Bucks App | Xfinity Mobile Arena
+- Portland Trail Blazers at New York Knicks | 11/21 - 7:30 PM EST | Sat Nov 21, 7:30 PM ET | TV: NBA TV, KUNP 16, BlazerVision | Madison Square Garden
+- LA Clippers at Dallas Mavericks | 11/21 - 8:00 PM EST | Sat Nov 21, 8:00 PM ET | TV: KFAA-TV, MavsTV, ClipperVision | American Airlines Center
+- Memphis Grizzlies at Minnesota Timberwolves | 11/21 - 8:00 PM EST | Sat Nov 21, 8:00 PM ET | TV: DAZN MIN, DAZN MEM | Target Center
+- New Orleans Pelicans at San Antonio Spurs | 11/21 - 8:00 PM EST | Sat Nov 21, 8:00 PM ET | TV: DAZN SAS, GCSEN, Pelicans.com | Frost Bank Center
+- Boston Celtics at Sacramento Kings | 11/21 - 10:00 PM EST | Sat Nov 21, 10:00 PM ET | TV: NBA TV | Golden 1 Center
+- Detroit Pistons at Atlanta Hawks | 11/22 - 3:30 PM EST | Sun Nov 22, 3:30 PM ET | State Farm Arena
+- Orlando Magic at Washington Wizards | 11/22 - 7:00 PM EST | Sun Nov 22, 7:00 PM ET | TV: MNMT | Capital One Arena
+- Denver Nuggets at Chicago Bulls | 11/22 - 7:00 PM EST | Sun Nov 22, 7:00 PM ET | United Center
+- Dallas Mavericks at Utah Jazz | 11/22 - 7:00 PM EST | Sun Nov 22, 7:00 PM ET | TV: KJZZ-TV, Jazz+, KFAA-TV, MavsTV | Delta Center
+- Indiana Pacers at New York Knicks | 11/22 - 8:00 PM EST | Sun Nov 22, 8:00 PM ET | TV: DAZN IND | Madison Square Garden
+- Boston Celtics at Golden State Warriors | 11/22 - 8:30 PM EST | Sun Nov 22, 8:30 PM ET | Chase Center
 
 ## NHL (ESPN)
 Finals (last ~40h):
+- Colorado Avalanche 1 at Utah Mammoth 4 | Final | Wed Nov 18, 10:00 PM ET | TV: TNT, Utah 16, Mammoth+, Altitude Sports | Delta Center
+- Boston Bruins 4 at Detroit Red Wings 1 | Final | Wed Nov 18, 7:30 PM ET | TV: TNT | Little Caesars Arena
+- Montreal Canadiens 3 at New Jersey Devils 2 | Final | Wed Nov 18, 7:30 PM ET | TV: ESPN+, MSGSN | Prudential Center
 - Dallas Stars 4 at Vegas Golden Knights 3 | Final/OT | Tue Nov 17, 10:00 PM ET | TV: TNT, truTV | T-Mobile Arena
 - Calgary Flames 5 at San Jose Sharks 2 | Final | Tue Nov 17, 10:00 PM ET | TV: ESPN+, NBC Sports BA | SAP Center at San Jose
-- Anaheim Ducks 6 at St. Louis Blues 8 | Final | Tue Nov 17, 8:00 PM ET | TV: ESPN+, KTTV, Prime Video (Local), Blues App, BN+ | Enterprise Center
-- Nashville Predators 3 at Minnesota Wild 7 | Final | Tue Nov 17, 8:00 PM ET | TV: ESPN+, Scripps Sports, MINNHL, KSTC | Grand Casino Arena
-- Washington Capitals 2 at Tampa Bay Lightning 5 | Final | Tue Nov 17, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Benchmark International Arena
-- Toronto Maple Leafs 3 at Chicago Blackhawks 6 | Final | Tue Nov 17, 7:30 PM ET | TV: TNT | United Center
-- Los Angeles Kings 3 at Boston Bruins 0 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPN+, ABTV, NESN | TD Garden
-- [MY TEAM] Edmonton Oilers 5 at Florida Panthers 2 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
-- Columbus Blue Jackets 1 at New York Islanders 5 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPN+, MSGSN, CBJNHL | UBS Arena
-- Buffalo Sabres 3 at Philadelphia Flyers 4 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPN+, MSGB, NBC Sports Phil | Xfinity Mobile Arena
-- Ottawa Senators 2 at Winnipeg Jets 1 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPN+ | Canada Life Centre
-- Vancouver Canucks 3 at Utah Mammoth 2 | Final | Mon Nov 16, 9:30 PM ET | TV: ESPN+, Utah 16, Mammoth+ | Delta Center
 Next 7 days, my teams:
 - [MY TEAM] Buffalo Sabres at Florida Panthers | 11/21 - 6:00 PM EST | Sat Nov 21, 6:00 PM ET | TV: ESPN+, MSGB, Scripps Sports | Amerant Bank Arena
+- [MY TEAM] Ottawa Senators at Florida Panthers | 11/25 - 7:00 PM EST | Wed Nov 25, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Boston Bruins at Detroit Red Wings | 11/18 - 7:30 PM EST | Wed Nov 18, 7:30 PM ET | TV: TNT | Little Caesars Arena
-- Montreal Canadiens at New Jersey Devils | 11/18 - 7:30 PM EST | Wed Nov 18, 7:30 PM ET | TV: ESPN+, MSGSN | Prudential Center
-- Colorado Avalanche at Utah Mammoth | 11/18 - 10:00 PM EST | Wed Nov 18, 10:00 PM ET | TV: TNT, Utah 16, Mammoth+, Altitude Sports | Delta Center
 - Los Angeles Kings at Toronto Maple Leafs | 11/19 - 7:00 PM EST | Thu Nov 19, 7:00 PM ET | TV: ESPN+, ABTV | Scotiabank Arena
 - Philadelphia Flyers at Ottawa Senators | 11/19 - 7:00 PM EST | Thu Nov 19, 7:00 PM ET | TV: ESPN+, NBC Sports Phil | Canadian Tire Centre
 - St. Louis Blues at Pittsburgh Penguins | 11/19 - 7:00 PM EST | Thu Nov 19, 7:00 PM ET | TV: ESPN+, Blues App, BN+, ABC32 | PPG Paints Arena
@@ -99,17 +99,17 @@ Next 7 days, others (first 25):
 - New York Islanders at Detroit Red Wings | 11/21 - 7:00 PM EST | Sat Nov 21, 7:00 PM ET | TV: ESPN+, MSG2, DSN | Little Caesars Arena
 - New Jersey Devils at St. Louis Blues | 11/21 - 7:00 PM EST | Sat Nov 21, 7:00 PM ET | TV: ESPN+, MSGSN, Blues App, BN+ | Enterprise Center
 - Vegas Golden Knights at Winnipeg Jets | 11/21 - 7:00 PM EST | Sat Nov 21, 7:00 PM ET | TV: ESPN+, Scripps Sports | Canada Life Centre
+- Anaheim Ducks at Utah Mammoth | 11/21 - 9:00 PM EST | Sat Nov 21, 9:00 PM ET | TV: ESPN+, Utah 16, Mammoth+, KCOP, Prime Video (Local), Fox 11 Plus | Delta Center
+- Minnesota Wild at Vancouver Canucks | 11/21 - 10:00 PM EST | Sat Nov 21, 10:00 PM ET | TV: ESPN+, MINNHL | Rogers Arena
+- Seattle Kraken at San Jose Sharks | 11/21 - 10:00 PM EST | Sat Nov 21, 10:00 PM ET | TV: ESPN+, NBC Sports BA, KONG, Prime Video (Local) | SAP Center at San Jose
 
 ## College football (FBS)
 Finals (last ~40h):
-- Ball State Cardinals 28 at Ohio Bobcats 35 | Final | Tue Nov 17, 7:00 PM ET | TV: CBSSN | Peden Stadium
-- Miami (OH) RedHawks 20 at Kent State Golden Flashes 3 | Final | Tue Nov 17, 7:00 PM ET | TV: ESPNU | Zoeller Field at Dix Stadium
-- Eastern Michigan Eagles 27 at Western Michigan Broncos 34 | Final | Tue Nov 17, 6:00 PM ET | TV: ESPN2 | Waldo Stadium
+- Central Michigan Chippewas 21 at Buffalo Bulls 40 | Final | Wed Nov 18, 7:30 PM ET | TV: ESPNU | Broadview Stadium
+- Akron Zips 34 at Massachusetts Minutemen 33 | Final | Wed Nov 18, 7:00 PM ET | TV: CBSSN | Warren McGuirk Alumni Stadium
 Next 7 days, my teams:
 - [MY TEAM] Vanderbilt Commodores at Florida Gators | ranks: Florida Gators #24 | 11/21 - 12:00 PM EST | Sat Nov 21, 12:00 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 Next 7 days, others (first 25):
-- Akron Zips at Massachusetts Minutemen | 11/18 - 7:00 PM EST | Wed Nov 18, 7:00 PM ET | TV: CBSSN | Warren McGuirk Alumni Stadium
-- Central Michigan Chippewas at Buffalo Bulls | 11/18 - 7:30 PM EST | Wed Nov 18, 7:30 PM ET | TV: ESPNU | Broadview Stadium
 - Rice Owls at Temple Owls | 11/19 - 7:30 PM EST | Thu Nov 19, 7:30 PM ET | TV: ESPN | Lincoln Financial Field
 - Iowa State Cyclones at UCF Knights | 11/20 - 6:00 PM EST | Fri Nov 20, 6:00 PM ET | TV: FS1 | Acrisure Bounce House
 - Clemson Tigers at Duke Blue Devils | 11/20 - 7:30 PM EST | Fri Nov 20, 7:30 PM ET | TV: ESPN | Wallace Wade Stadium
@@ -133,6 +133,8 @@ Next 7 days, others (first 25):
 - Tennessee Tech Golden Eagles at Mississippi State Bulldogs | 11/21 - 1:00 PM EST | Sat Nov 21, 1:00 PM ET | TV: SECN+ | Davis Wade Stadium
 - Western Kentucky Hilltoppers at Liberty Flames | 11/21 - 1:00 PM EST | Sat Nov 21, 1:00 PM ET | TV: ESPN+ | Williams Stadium (VA)
 - Chattanooga Mocs at Alabama Crimson Tide | ranks: Alabama Crimson Tide #3 | 11/21 - 2:00 PM EST | Sat Nov 21, 2:00 PM ET | TV: SECN+ | Bryant-Denny Stadium
+- Charlotte 49ers at Tulsa Golden Hurricane | 11/21 - 2:00 PM EST | Sat Nov 21, 2:00 PM ET | TV: ESPN+ | H. A. Chapman Stadium
+- Missouri State Bears at Jacksonville State Gamecocks | 11/21 - 2:00 PM EST | Sat Nov 21, 2:00 PM ET | TV: ESPN+ | AmFirst Stadium
 
 ## Premier League
 Next 7 days, my teams:
@@ -162,6 +164,13 @@ Next 7 days, others (first 25):
 - Real Betis at Slovan Bratislava | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Národny Futbalovy Stadión
 - Barcelona at Sabah FK | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
 - Villarreal at Slavia Prague | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Fortuna Arena
+- Viking FK at Atlético Madrid | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Riyadh Air Metropolitano
+- Liverpool at Club Brugge | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Jan Breydel Stadium
+- VfB Stuttgart at Internazionale | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | San Siro
+- Bayern Munich at Lille | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Decathlon Arena - Stade Pierre-Mauroy
+- AS Roma at Paris Saint-Germain | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Parc des Princes
+- Fenerbahce at Shakhtar Donetsk | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Stamford Bridge
+- Manchester United at Sporting CP | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Estádio José Alvalade
 
 ## UFC
 Next 7 days: no game for my teams in this league's data
@@ -169,79 +178,35 @@ Next 7 days, others (first 25):
 - UFC Fight Night: Procházka vs. Stirling | [Diyar Nurgozhay; Alik Lorenz] | Scheduled | Sat Nov 21, 10:00 AM ET | TV: Paramount+ | ABHA Arena
 
 ## PGA Tour
-Next 7 days: no game for my teams in this league's data
-Next 7 days, others (first 25):
-- The RSM Classic | [David Skinns (E); John Parry (E); Robert Streb (E); Emiliano Grillo (E); Patrick Rodgers (E); Ben Silverman (E); Zac Blair (E); Max Greyserman (E); Rasmus Højgaard (E); Max McGreevy (E)] | Scheduled | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
+Live now:
+- The RSM Classic | [Max Greyserman (-5); Maverick McNealy (-5); Emiliano Grillo (-4); Keith Mitchell (-4); Keegan Bradley (-4); Patton Kizzire (-3); Lee Hodges (-3); Hank Lebioda (-3); Harris English (-3); Zecheng Dou (-3)] | In Progress | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
 
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - IEB+ Argentina Open | TBD | Mon Nov 23, 12:00 AM ET
 
-## International friendlies
-Finals (last ~40h):
-- Bolivia 0 at Ecuador 2 | FT | Tue Nov 17, 6:30 PM ET | Estadio Banco Pichincha
-- Dominican Republic 0 at Uruguay 5 | FT | Tue Nov 17, 6:30 PM ET | Estadio Domingo Burgueño Miguel
-- Costa Rica 0 at Argentina 7 | FT | Tue Nov 17, 6:00 PM ET | Mario Alberto Kempes
-- Colombia 0 at Chile 0 | FT | Tue Nov 17, 6:00 PM ET | Estadio Monumental David Arellano
-- Honduras 2 at Kuwait 0 | FT | Tue Nov 17, 11:30 AM ET | Al-Sadaqua Walsalam Stadium
-- Iran 1 at Iraq 1 | FT | Tue Nov 17, 11:15 AM ET | Basra International Stadium
-- Australia 0 at Jordan 2 | FT | Tue Nov 17, 11:00 AM ET | Suheim bin Hamad Stadium
-- Venezuela 0 at Russia 2 | FT | Tue Nov 17, 11:00 AM ET | Krasnodar Stadium
-- Uzbekistan 2 at Saudi Arabia 1 | FT | Tue Nov 17, 10:30 AM ET | Jassim Bin Hamad Stadium
-- Syria 2 at United Arab Emirates 4 | FT | Tue Nov 17, 9:10 AM ET | Hazza Bin Zayed Stadium
-- South Korea 1 at Qatar 0 | FT | Tue Nov 17, 9:00 AM ET | Abdullah bin Khalifa Stadium
-- Paraguay 2 at Japan 1 | FT | Tue Nov 17, 8:10 AM ET | Singapore National Stadium
-- Palestine 0 at Lebanon 0 | FT | Tue Nov 17, 8:00 AM ET | Basra International Stadium
-- Bahrain 2 at China 2 | FT | Tue Nov 17, 7:00 AM ET | Zhaoqing New District Sports Center Stadium
-- Vietnam 1 at Kyrgyz Republic 2 | FT | Tue Nov 17, 7:00 AM ET | Thien Truong Stadium
-- Brazil 7 at Singapore 0 | FT | Tue Nov 17, 5:00 AM ET | Singapore National Stadium
-- Yemen 1 at Malaysia 2 | FT | Tue Nov 17, 1:00 AM ET | Zhaoqing New District Sports Center Stadium
-- Cook Islands 3 at Tahiti 3 | FT | Tue Nov 17, 12:30 AM ET | Stade Louis Ganivet
-
-## UEFA Nations League
-Finals (last ~40h):
-- Romania 1 at Bosnia-Herzegovina 2 | FT | Tue Nov 17, 2:45 PM ET | Bilino Polje Stadium
-- Norway 3 at Denmark 2 | FT | Tue Nov 17, 2:45 PM ET | TV: FS1 | Parken Stadium
-- Northern Ireland 1 at Hungary 1 | FT | Tue Nov 17, 2:45 PM ET | TV: FS2 | Puskás Aréna
-- Austria 1 at Israel 1 | FT | Tue Nov 17, 2:45 PM ET | Nagyerdei Stadium
-- Sweden 1 at Poland 1 | FT | Tue Nov 17, 2:45 PM ET | Municipal Stadium Wroclaw
-- Kosovo 0 at Republic of Ireland 3 | FT | Tue Nov 17, 2:45 PM ET | Aviva Stadium
-- Georgia 0 at Ukraine 1 | FT | Tue Nov 17, 2:45 PM ET | Košická futbalová aréna (KFA)
-- Portugal 3 at Wales 2 | FT | Tue Nov 17, 2:45 PM ET | Cardiff City Stadium
+## Conference League
+Next 7 days: no game for my teams in this league's data
+Next 7 days, others (first 25):
+- Mjällby AIF at Kairat Almaty | Scheduled | Thu Nov 26, 10:30 AM ET | TV: Paramount+ | Almaty Ortalyk Stadium
 
 ## CONCACAF Nations League
 Finals (last ~40h):
 - Montserrat 0 at Nicaragua 2 | FT | Tue Nov 17, 10:00 PM ET | TV: FS1 | Estadio Nacional de Fútbol
 - Jamaica 0 at Mexico 1 | FT | Tue Nov 17, 9:30 PM ET | Estadio BBVA
-- St. Martin 1 at El Salvador 3 | FT | Tue Nov 17, 8:00 PM ET | TV: FS1 | Estadio Mágico González
-- St. Vincent and the Grenadines 0 at French Guiana 1 | FT | Tue Nov 17, 7:00 PM ET | TV: FS2 | Arnos Vale Stadium
-- [MY TEAM] Haiti 0 at United States 2 | FT | Tue Nov 17, 7:00 PM ET | TV: TBS, truTV, Universo, HBO Max, Peacock | TQL Stadium
-- Sint Maarten 2 at Belize 1 | FT | Tue Nov 17, 2:00 PM ET | Arnos Vale Stadium
-- Cayman Islands 0 at Dominica 5 | FT | Tue Nov 17, 2:00 PM ET | Leonora National Track and Field Facility
-- Bonaire 2 at St. Kitts and Nevis 3 | FT | Tue Nov 17, 2:00 PM ET | Estadio La Polar
-- Barbados 0 at St. Lucia 2 | FT | Tue Nov 17, 2:00 PM ET | Stade Roger Zami
 
 ## NHL (official schedule API)
 Finals (last ~40h):
+- Colorado Avalanche 1 at Utah Mammoth 4 | OFF | Wed Nov 18, 10:00 PM ET | TV: TNT, HBO MAX, ALT | Delta Center
+- Boston Bruins 4 at Detroit Red Wings 1 | OFF | Wed Nov 18, 7:30 PM ET | TV: TNT, HBO MAX | Little Caesars Arena
+- Montréal Canadiens 3 at New Jersey Devils 2 | OFF | Wed Nov 18, 7:30 PM ET | TV: Prime, MSGSN | Prudential Center
 - Dallas Stars 4 at Vegas Golden Knights 3 | OFF (OT) | Tue Nov 17, 10:00 PM ET | TV: TNT, truTV, HBO MAX | T-Mobile Arena
 - Calgary Flames 5 at San Jose Sharks 2 | OFF | Tue Nov 17, 10:00 PM ET | TV: SN, NBCSCA | SAP Center at San Jose
-- Anaheim Ducks 6 at St. Louis Blues 8 | OFF | Tue Nov 17, 8:00 PM ET | TV: BN+, Prime Video, KTTV, STLNHL | Enterprise Center
-- Nashville Predators 3 at Minnesota Wild 7 | OFF | Tue Nov 17, 8:00 PM ET | TV: Wild+, MINNHL, KSTC, SCRIPPS | Grand Casino Arena
-- Washington Capitals 2 at Tampa Bay Lightning 5 | OFF | Tue Nov 17, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SN+ | Benchmark International Arena
-- Toronto Maple Leafs 3 at Chicago Blackhawks 6 | OFF | Tue Nov 17, 7:30 PM ET | TV: TNT, HBO MAX, TSN4 | United Center
-- Los Angeles Kings 3 at Boston Bruins 0 | OFF | Tue Nov 17, 7:00 PM ET | TV: ABTV , NESN | TD Garden
-- [MY TEAM] Edmonton Oilers 5 at Florida Panthers 2 | OFF | Tue Nov 17, 7:00 PM ET | TV: SN, TVAS, SCRIPPS | Amerant Bank Arena
-- Columbus Blue Jackets 1 at New York Islanders 5 | OFF | Tue Nov 17, 7:00 PM ET | TV: CBJHN, MSGSN, CBJNHL | UBS Arena
-- Buffalo Sabres 3 at Philadelphia Flyers 4 | OFF | Tue Nov 17, 7:00 PM ET | TV: NBCSP, MSG-B | Xfinity Mobile Arena
-- Ottawa Senators 2 at Winnipeg Jets 1 | OFF | Tue Nov 17, 7:00 PM ET | TV: TSN3, TSN5, RDS | Canada Life Centre
-- Vancouver Canucks 3 at Utah Mammoth 2 | OFF | Mon Nov 16, 9:30 PM ET | TV: SN+, Mammoth+, Utah16 | Delta Center
 Next 7 days, my teams:
 - [MY TEAM] Buffalo Sabres at Florida Panthers | FUT | Sat Nov 21, 6:00 PM ET | TV: MSG-B, SCRIPPS | Amerant Bank Arena
+- [MY TEAM] Ottawa Senators at Florida Panthers | FUT | Wed Nov 25, 7:00 PM ET | TV: TSN5, RDSI, SCRIPPS | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Boston Bruins at Detroit Red Wings | FUT | Wed Nov 18, 7:30 PM ET | TV: TNT, HBO MAX | Little Caesars Arena
-- Montréal Canadiens at New Jersey Devils | FUT | Wed Nov 18, 7:30 PM ET | TV: Prime, MSGSN | Prudential Center
-- Colorado Avalanche at Utah Mammoth | FUT | Wed Nov 18, 10:00 PM ET | TV: TNT, HBO MAX, ALT | Delta Center
 - Los Angeles Kings at Toronto Maple Leafs | FUT | Thu Nov 19, 7:00 PM ET | TV: SN, ABTV  | Scotiabank Arena
 - Philadelphia Flyers at Ottawa Senators | FUT | Thu Nov 19, 7:00 PM ET | TV: TSN5, RDS2, NBCSP | Canadian Tire Centre
 - St. Louis Blues at Pittsburgh Penguins | FUT | Thu Nov 19, 7:00 PM ET | TV: ABC32, BN+, SN-PIT, STLNHL | PPG Paints Arena
@@ -264,3 +229,6 @@ Next 7 days, others (first 25):
 - New York Islanders at Detroit Red Wings | FUT | Sat Nov 21, 7:00 PM ET | TV: DSN, MSGSN2 | Little Caesars Arena
 - New Jersey Devils at St. Louis Blues | FUT | Sat Nov 21, 7:00 PM ET | TV: BN+, MSGSN, STLNHL | Enterprise Center
 - Vegas Golden Knights at Winnipeg Jets | FUT | Sat Nov 21, 7:00 PM ET | TV: SNW, SCRIPPS | Canada Life Centre
+- Anaheim Ducks at Utah Mammoth | FUT | Sat Nov 21, 9:00 PM ET | TV: FOXLA+, Mammoth+, Prime Video, Utah16 | Delta Center
+- Minnesota Wild at Vancouver Canucks | FUT | Sat Nov 21, 10:00 PM ET | TV: SN, Wild+, MINNHL | Rogers Arena
+- Seattle Kraken at San Jose Sharks | FUT | Sat Nov 21, 10:00 PM ET | TV: Prime Video, NBCSCA, KONG | SAP Center at San Jose
