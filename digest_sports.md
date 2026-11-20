@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Nov 20, 11:58 AM ET)
+# Sports digest (generated Fri Nov 20, 12:42 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -33,9 +33,6 @@ Finals (last ~40h):
 - Utah Jazz 109 at Los Angeles Lakers 97 | Final | Wed Nov 18, 10:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net +, KJZZ-TV, Jazz+ | crypto.com Arena
 - Phoenix Suns 128 at Sacramento Kings 107 | Final | Wed Nov 18, 10:00 PM ET | TV: Suns Live, Arizona's Family 3TV | Golden 1 Center
 - Boston Celtics 101 at Denver Nuggets 105 | Final | Wed Nov 18, 9:30 PM ET | TV: ESPN | Ball Arena
-- Detroit Pistons 122 at New Orleans Pelicans 109 | Final | Wed Nov 18, 8:00 PM ET | TV: GCSEN, Pelicans.com | Smoothie King Center
-- Atlanta Hawks 117 at Oklahoma City Thunder 112 | Final | Wed Nov 18, 8:00 PM ET | TV: KSBI, Thunder App | Paycom Center
-- Golden State Warriors 94 at Dallas Mavericks 116 | Final | Wed Nov 18, 8:00 PM ET | TV: KFAA-TV, MavsTV | American Airlines Center
 Next 7 days, my teams:
 - [MY TEAM] Oklahoma City Thunder at Miami Heat | 11/22 - 6:00 PM EST | Sun Nov 22, 6:00 PM ET | TV: KSBI, Thunder App | Kaseya Center
 - [MY TEAM] Miami Heat at Philadelphia 76ers | 11/25 - 5:00 PM EST | Wed Nov 25, 5:00 PM ET | TV: ESPN | Xfinity Mobile Arena
@@ -186,7 +183,7 @@ Next 7 days, others (first 25):
 
 ## PGA Tour
 Live now:
-- The RSM Classic | [Rasmus Neergaard-Petersen (-7); Michael Thorbjornsen (-7); Chris Kirk (-7); Jesper Svensson (-7); Max McGreevy (-6); Lee Hodges (-6); Hank Lebioda (-6); Davis Riley (-6); Marco Penge (-6); Ricky Castillo (-5)] | In Progress | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
+- The RSM Classic | [Rasmus Neergaard-Petersen (-7); Michael Thorbjornsen (-7); Marco Penge (-7); Ricky Castillo (-6); Chris Kirk (-6); Rasmus Højgaard (-6); Patton Kizzire (-6); Jesper Svensson (-6); Max McGreevy (-6); Harris English (-6)] | In Progress | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
 
 ## WTA tennis
 Next 7 days: no game for my teams in this league's data

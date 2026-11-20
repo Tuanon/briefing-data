@@ -1,9 +1,10 @@
-# Team digest (generated Fri Nov 20, 11:58 AM ET)
+# Team digest (generated Fri Nov 20, 12:42 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
+- Draft buzz: Interest in Oklahoma State's Drew Mestemaker could spur draft trade | Fri Nov 20, 12:16 PM ET | https://www.espn.com/nfl/story/_/id/50541939/draft-buzz-mestemaker-spur-auction-no-1-pick | If the Titans or Chargers wind up with the No. 1 selection and stick with their franchise quarterbacks, interest in Oklahoma State's Drew Mestemaker could lead to a team seeking to trade up for the top overall pick.
 - NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Nov 20, 9:47 AM ET | https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026 | Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.
 - NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser' | Thu Nov 19, 8:40 PM ET | https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms | Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.
 - NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans | Thu Nov 19, 8:01 PM ET | https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
@@ -15,7 +16,6 @@ News (last days, newest first):
 - Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury | Tue Nov 17, 5:30 PM ET | https://www.espn.com/nfl/story/_/id/50513896/source-dolphins-jordan-phillips-miss-rest-season | Dolphins DT Jordan Phillips will miss the rest of the season with torn biceps, a source confirmed to ESPN.
 - NFL Power Rankings: Stacking all 32 teams for Week 11, plus non-QB MVPs | Tue Nov 17, 3:45 PM ET | https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason | How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.
 - Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts | Tue Nov 17, 11:48 AM ET | https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts | Miami coach Jeff Hafley praised McCord's poise and the trust he showed in receivers Malik Washington and Caleb Douglas.
-- How active NFL players continue to redefine all-time sack list | Tue Nov 17, 10:19 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
 Injuries / player notes (ESPN; 14 of 25 entries shown):
 - Caleb Douglas (WR) | Questionable | Fri Nov 20, 10:51 AM ET | Douglas (shoulder) is expected to play Sunday against the Bills, Barry Jackson of the Miami Herald reports.
 - Bradley Pinion (P) | Out | Fri Nov 20, 10:43 AM ET | out
@@ -98,7 +98,6 @@ News (last days, newest first):
 - MLB free agency tracker: 2026-27 offseason trades, moves | Fri Nov 20, 9:56 AM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 - Passan: 2026-27 MLB offseason preview, free agent updates | Wed Nov 18, 10:18 PM ET | https://www.espn.com/mlb/story/_/id/50512111/passan-offseason-preview-2026-27-free-agent-updates | The hot stove is about to get blazing hot. Here's what will shape the coming weeks of offseason moves.
 - Every MLB team's chance of signing Skubal -- and their backup plans | Mon Nov 16, 10:34 AM ET | https://www.espn.com/mlb/story/_/id/50454235/tarik-skubal-all-30-teams-backup-plans | Dodger or Met blue? We break down all 30 clubs' chances of landing the offseason's biggest free agent -- and who their Plan B should be.
-- What's new in free agency? Lessons from 2026 MLB GM meetings | Fri Nov 13, 12:36 PM ET | https://www.espn.com/mlb/story/_/id/50461703/free-agency-offseason-2026-27-gm-meetings-lessons | With a wild winter ahead, here are the top offseason priorities straight from every front office.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.
 - Adam Mazur (SP) | Out | Mon Nov 2, 7:30 PM ET | Marlins president of baseball operations Peter Bendix said Tuesday that Mazur (elbow) should be ready to pitch in games by April or May of next season, Isaac Azout of FishOnFirst.com reports.
