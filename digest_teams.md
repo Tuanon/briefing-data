@@ -1,4 +1,4 @@
-# Team digest (generated Sat Nov 21, 11:09 AM ET)
+# Team digest (generated Sat Nov 21, 11:43 AM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -64,12 +64,13 @@ News (last days, newest first):
 - Panthers take on the Stars on 3-game winning streak | Sun Nov 15, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892722 | Florida Panthers (12-7-2, in the Atlantic Division) vs. Dallas Stars (11-6-2, in the Central Division)
 - Florida Panthers vs. St. Louis Blues: Game Highlights | Sat Nov 14, 9:56 PM ET | https://www.espn.com/video/clip/_/id/50486297/game-highlights | Florida Panthers vs. St. Louis Blues: Game Highlights
 Injuries / player notes (ESPN; 3 of 3 entries shown):
+- Brad Marchand (LW) | Injured Reserve | Sat Nov 21, 11:06 AM ET | Marchand (knee) is close to returning to the lineup, but he won't play against Buffalo on Saturday, per Jameson Olive of the Panthers' official site.
+- Aleksander Barkov (C) | Injured Reserve | Sat Nov 21, 10:57 AM ET | Barkov (knee) won't play against Buffalo on Saturday, but he could return within Florida's next three games, Jameson Olive of the Panthers' official site reports.
 - Jonah Gadjovich (LW) | Injured Reserve | Thu Nov 19, 11:20 AM ET | Gadjovich (neck) took the ice Thursday in a non-contact sweater, George Richards of Florida Hockey Now reports.
-- Brad Marchand (LW) | Injured Reserve | Fri Nov 6, 11:34 AM ET | Head coach Paul Maurice said Friday that Marchand (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
-- Aleksander Barkov (C) | Injured Reserve | Fri Nov 6, 11:30 AM ET | Head coach Paul Maurice said Friday that Barkov (knee) will travel with the Panthers during their upcoming three-game road trip, Jameson Olive of the Panthers' official site reports.
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Saturday Spin: Manning's return to Texas, Stockton nation's best QB? | Sat Nov 21, 11:04 AM ET | https://www.espn.com/video/clip/_/id/50550261/manning-return-texas-stockton-nation-best-qb | The SEC Nation crew spins the wheel and answers questions about what could be next for the conference's best quarterbacks.
 - Top 25 betting lines: UGA big faves over Gamecocks, Vols slim favorites vs. LSU | Fri Nov 20, 10:55 AM ET | https://www.espn.com/espn/betting/story/_/id/50498153/2026-college-football-week-12-top-25-betting-lines-odds | This week's odds and FPI predictions for South Carolina-Georgia, Tennessee-LSU and more.
 - Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness | Thu Nov 19, 12:08 PM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview | What to expect in Week 12, from top games and players to teams on upset alert.
 - Georgia AG asks SEC to take action against LSU's 'contempt for the rules' | Thu Nov 19, 9:06 AM ET | https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion | The Georgia Attorney General blasted LSU in a letter to SEC commissioner Greg Sankey, encouraging sanctions against the Tigers, "up to and including expulsion."
@@ -81,12 +82,11 @@ News (last days, newest first):
 - SEC matchup features No. 23 Florida taking on Vanderbilt | Mon Nov 16, 3:46 PM ET | http://www.espn.com/ncf/preview?gameId=401856748 | Vanderbilt (4-6) at No. 23 Florida (6-4), Nov. 21 at 12 p.m. EST.
 - 2026-27 Week 11 College Football Playoff, bowl projections | Mon Nov 16, 7:28 AM ET | https://www.espn.com/college-football/story/_/id/50473016/2026-week-11-college-football-playoff-bowl-projections | Our bowl gurus take a look at how the postseason picture shifted after Week 11.
 - Allstate Playoff Predictor | Sun Nov 15, 1:13 PM ET | https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor | Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.
-- Kentucky's CFP hopes take hit in upset loss to Gators, Philo | Sun Nov 15, 3:00 AM ET | https://www.espn.com/college-football/story/_/id/50486400/kentucky-cfp-hopes-take-hit-upset-loss-gators-philo | Florida quarterback Aaron Philo had 221 all-purpose yards and a touchdown to rally the Gators past No. 11 Kentucky 21-14 Saturday.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
-- Chelsea vs. Leeds LIVE: Premier League updates, score and commentary | Sat Nov 21, 10:34 AM ET | https://www.espn.com/soccer/story/_/id/50548968/chelsea-leeds-united-live-premier-league-updates | Follow along for live updates as Chelsea host Leeds United in the Premier League.
-- VAR review: Should Haaland's goal vs Fulham have been disallowed? | Sat Nov 21, 9:20 AM ET | https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology | VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.
+- Chelsea vs. Leeds LIVE: Premier League updates, score and commentary | Sat Nov 21, 11:15 AM ET | https://www.espn.com/soccer/story/_/id/50548968/chelsea-leeds-united-live-premier-league-updates | Follow along for live updates as Chelsea host Leeds United in the Premier League.
+- VAR review: Should Haaland's goal vs Fulham have been disallowed? | Sat Nov 21, 10:51 AM ET | https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology | VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.
 - Will Mauricio Pochettino start strongly at Man United? What his career stats say | Sat Nov 21, 2:54 AM ET | https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea | Before Mauricio Pochettino leads Manchester United, how did his debuts at his previous teams go?
 - Sources: Tom Brady buys stake in Chelsea after Birmingham exit | Fri Nov 20, 5:24 PM ET | https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources | Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.
 - Xabi Alonso: João Pedro still not available, whole team needs to step up | Fri Nov 20, 4:41 PM ET | https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news | Xabi Alonso said his Chelsea side need to learn to deal with the absence of João Pedro as the Blues struggle for goals in the absence of their injured striker.

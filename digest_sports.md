@@ -1,4 +1,4 @@
-# Sports digest (generated Sat Nov 21, 11:09 AM ET)
+# Sports digest (generated Sat Nov 21, 11:43 AM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -78,7 +78,6 @@ Finals (last ~40h):
 - Anaheim Ducks 0 at Colorado Avalanche 4 | Final | Thu Nov 19, 9:00 PM ET | TV: ESPN+, KCOP, Prime Video (Local), Fox 11 Plus, Altitude Sports, KTVD-TV (My20), KUSA-TV (9NEWS) | Ball Arena
 - Columbus Blue Jackets 4 at Chicago Blackhawks 2 | Final | Thu Nov 19, 8:00 PM ET | TV: ESPN+, CHSN, CBJNHL | United Center
 - Minnesota Wild 4 at Calgary Flames 1 | Final | Thu Nov 19, 8:00 PM ET | TV: ESPN+, MINNHL | Scotiabank Saddledome
-- Edmonton Oilers 1 at Tampa Bay Lightning 3 | Final | Thu Nov 19, 7:30 PM ET | TV: Disney+, ESPN+, Hulu | Benchmark International Arena
 Next 7 days, my teams:
 - [MY TEAM] Buffalo Sabres at Florida Panthers | 11/21 - 6:00 PM EST | Sat Nov 21, 6:00 PM ET | TV: ESPN+, MSGB, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Ottawa Senators at Florida Panthers | 11/25 - 7:00 PM EST | Wed Nov 25, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
@@ -118,7 +117,6 @@ Finals (last ~40h):
 - Clemson Tigers 20 at Duke Blue Devils 10 | Final | Fri Nov 20, 7:30 PM ET | TV: ESPN | Wallace Wade Stadium
 - Bowling Green Falcons 0 at Toledo Rockets 19 | Final | Fri Nov 20, 7:30 PM ET | TV: ESPN2 | Glass Bowl
 - Iowa State Cyclones 17 at UCF Knights 48 | Final | Fri Nov 20, 6:00 PM ET | TV: FS1 | Acrisure Bounce House
-- Rice Owls 31 at Temple Owls 27 | Final | Thu Nov 19, 7:30 PM ET | TV: ESPN | Lincoln Financial Field
 Next 7 days, my teams:
 - [MY TEAM] Vanderbilt Commodores at Florida Gators | ranks: Florida Gators #24 | 11/21 - 12:00 PM EST | Sat Nov 21, 12:00 PM ET | TV: SEC Network | Ben Hill Griffin Stadium
 - [MY TEAM] Florida Gators at Florida State Seminoles | ranks: Florida Gators #24 | 11/27 - 3:30 PM EST | Fri Nov 27, 3:30 PM ET | TV: ABC | Doak Campbell Stadium
@@ -153,11 +151,11 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Fulham 1 at Manchester City 1 | FT | Sat Nov 21, 7:30 AM ET | TV: USA Net, Universo | Etihad Stadium
 Live now:
-- Nottingham Forest 0 at AFC Bournemouth 2 | 51' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Vitality Stadium
-- Sunderland 0 at Aston Villa 0 | 52' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Villa Park
-- [MY TEAM] Leeds United 1 at Chelsea 1 | 48' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Stamford Bridge
-- Crystal Palace 2 at Coventry City 2 | 48' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Coventry Building Society Arena
-- Ipswich Town 0 at Tottenham Hotspur 1 | 51' | Sat Nov 21, 10:00 AM ET | TV: USA Net, Universo | Tottenham Hotspur Stadium
+- Nottingham Forest 0 at AFC Bournemouth 2 | 85' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Vitality Stadium
+- Sunderland 0 at Aston Villa 0 | 87' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Villa Park
+- [MY TEAM] Leeds United 3 at Chelsea 1 | 82' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Stamford Bridge
+- Crystal Palace 2 at Coventry City 2 | 81' | Sat Nov 21, 10:00 AM ET | TV: Peacock | Coventry Building Society Arena
+- Ipswich Town 0 at Tottenham Hotspur 2 | 86' | Sat Nov 21, 10:00 AM ET | TV: USA Net, Universo | Tottenham Hotspur Stadium
 Next 7 days, my teams:
 - [MY TEAM] Chelsea at Nottingham Forest | Scheduled | Fri Nov 27, 3:00 PM ET | The City Ground
 Next 7 days, others (first 25):
@@ -254,7 +252,6 @@ Finals (last ~40h):
 - Anaheim Ducks 0 at Colorado Avalanche 4 | OFF | Thu Nov 19, 9:00 PM ET | TV: TVAS, FOXLA+, Prime Video, KUSA, ALT, KTVD | Ball Arena
 - Columbus Blue Jackets 4 at Chicago Blackhawks 2 | OFF | Thu Nov 19, 8:00 PM ET | TV: CBJHN, CHSN, CBJNHL | United Center
 - Minnesota Wild 4 at Calgary Flames 1 | OFF | Thu Nov 19, 8:00 PM ET | TV: SN1, Wild+, MINNHL | Scotiabank Saddledome
-- Edmonton Oilers 1 at Tampa Bay Lightning 3 | OFF | Thu Nov 19, 7:30 PM ET | TV: ESPN+, HULU, Disney+, SNW | Benchmark International Arena
 Next 7 days, my teams:
 - [MY TEAM] Buffalo Sabres at Florida Panthers | FUT | Sat Nov 21, 6:00 PM ET | TV: MSG-B, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Ottawa Senators at Florida Panthers | FUT | Wed Nov 25, 7:00 PM ET | TV: TSN5, RDSI, SCRIPPS | Amerant Bank Arena
