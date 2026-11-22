@@ -1,4 +1,4 @@
-# Team digest (generated Sun Nov 22, 11:17 AM ET)
+# Team digest (generated Sun Nov 22, 12:03 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -16,18 +16,19 @@ News (last days, newest first):
 - 2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks | Wed Nov 18, 12:51 PM ET | https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions | Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.
 - 2027 NFL draft: Dolphins, Titans, Eagles, Jets, Chargers in race for No. 1 pick | Wed Nov 18, 8:32 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers | Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index: the Dolphins, Titans, Eagles, Jets and Chargers.
 - Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury | Tue Nov 17, 5:30 PM ET | https://www.espn.com/nfl/story/_/id/50513896/source-dolphins-jordan-phillips-miss-rest-season | Dolphins DT Jordan Phillips will miss the rest of the season with torn biceps, a source confirmed to ESPN.
-Injuries / player notes (ESPN; 13 of 25 entries shown):
-- Darrell Baker Jr. (CB) | Questionable | Sat Nov 21, 2:56 PM ET | The Dolphins activated Baker (knee) from the reserve/PUP list Saturday.
-- Jaylin Simpson (S) | Doubtful | Fri Nov 20, 8:26 PM ET | Simpson (knee) is listed as doubtful for Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Bradley Pinion (P) | Out | Fri Nov 20, 8:24 PM ET | Pinion (groin) has been ruled out ahead of Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
+Injuries / player notes (ESPN; 14 of 25 entries shown):
+- Jaylin Simpson (S) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Dante Trader Jr. (S) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Caedan Wallace (OT) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Jared Wayne (WR) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Justin Joly (TE) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Bradley Pinion (P) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Christian Haynes (G) | Out | Sun Nov 22, 11:40 AM ET | inactive
+- Darrell Baker Jr. (CB) | Active | Sat Nov 21, 2:56 PM ET | The Dolphins activated Baker (knee) from the reserve/PUP list Saturday.
 - Andrew Meyer (C) | Active | Fri Nov 20, 8:22 PM ET | Meyer (neck) does not carry an injury designation into Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Aaron Brewer (C) | Questionable | Fri Nov 20, 8:21 PM ET | Brewer (concussion) is listed as questionable for Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Marcellas Dial Jr. (CB) | Questionable | Fri Nov 20, 6:56 PM ET | questionable
 - JuJu Brents (CB) | Active | Fri Nov 20, 6:50 PM ET | Brents (neck) does not have an injury designation for Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Jared Wayne (WR) | Out | Fri Nov 20, 6:48 PM ET | Wayne (quadriceps) has been ruled out for Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
 - Chris Bell (WR) | Active | Fri Nov 20, 4:27 PM ET | Bell (knee) doesn't have an injury designation for Sunday's game against the Bills.
 - Caleb Douglas (WR) | Active | Fri Nov 20, 3:21 PM ET | Douglas (shoulder) will play Sunday against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Dante Trader Jr. (S) | Doubtful | Fri Nov 20, 2:10 PM ET | Trader (shoulder/groin) is doubtful for Sunday's game against the Bills, Barry Jackson of the Miami Herald reports.
 - Jordan Phillips (DT) | Injured Reserve | Wed Nov 18, 2:24 PM ET | Phillips underwent surgery on his injured bicep Wednesday, David Furones of the South Florida Sun Sentinel reports.
 - Zeek Biggers (DT) | Injured Reserve | Tue Nov 17, 7:26 PM ET | Biggers (knee) was placed on injured reserve by the Dolphins on Tuesday.
 
@@ -85,6 +86,7 @@ News (last days, newest first):
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Romeo Lavia warns Chelsea not to give in to panic after Leeds thrashing: 'This hurts' | Sun Nov 22, 10:41 AM ET | https://www.espn.com/soccer/story/_/id/50562254/chelsea-leeds-romeo-lavia-premier-league | Romeo Lavia said Chelsea must not give in to panic after they were hammered 4-1 at Stamford Bridge by Leeds on Saturday.
 - Will Mauricio Pochettino start strongly at Man United? What his career stats say | Sun Nov 22, 3:08 AM ET | https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea | Before Mauricio Pochettino leads Manchester United, how did his debuts at his previous teams go?
 - Chelsea in 'fragile moment' as Caicedo injury adds to pain of Leeds rout | Sat Nov 21, 6:00 PM ET | https://www.espn.com/soccer/story/_/id/50554949/chelsea-leeds-united-moises-caicedo-injury-xabi-alonso | Another crisis might be unfolding at Chelsea, just a few months into Xabi Alonso's tenure.
 - Alonso: Chelsea stopped believing after Leeds' equaliser | Sat Nov 21, 2:22 PM ET | https://www.espn.com/video/clip/_/id/50552243/chelsea-stopped-believing-leeds-equaliser | Xabi Alonso explains where it went wrong for Chelsea after a 4-1 defeat against Leeds in the Premier League.
@@ -96,7 +98,6 @@ News (last days, newest first):
 - Tom Brady tops list of athletes who became owners | Fri Nov 20, 3:47 PM ET | https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners | The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.
 - Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him? | Fri Nov 20, 4:01 AM ET | https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea | Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea this season. What's behind his lack of minutes?
 - Predicting how all 20 Premier League teams will finish the season | Thu Nov 19, 8:50 AM ET | https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea | After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.
-- Valentín Barco on Chelsea career so far: 'I think I can give a lot more' | Thu Nov 19, 8:19 AM ET | https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso | Chelsea's Valentín Barco has said he is confident that he's still a long way away from reaching his full potential.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):

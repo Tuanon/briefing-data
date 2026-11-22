@@ -1,4 +1,4 @@
-# Sports digest (generated Sun Nov 22, 11:17 AM ET)
+# Sports digest (generated Sun Nov 22, 12:03 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -34,11 +34,6 @@ Finals (last ~40h):
 - Houston Rockets 124 at Denver Nuggets 133 | Final | Fri Nov 20, 10:00 PM ET | TV: Prime Video | Ball Arena
 - Sacramento Kings 104 at Los Angeles Lakers 106 | Final | Fri Nov 20, 10:00 PM ET | TV: Spectrum Sports Net, Spectrum Sports Net + | crypto.com Arena
 - Phoenix Suns 111 at Utah Jazz 101 | Final | Fri Nov 20, 9:30 PM ET | TV: Suns Live, Arizona's Family 3TV, KJZZ-TV, Jazz+ | Delta Center
-- Washington Wizards 98 at Chicago Bulls 94 | Final | Fri Nov 20, 8:00 PM ET | TV: MNMT | United Center
-- New Orleans Pelicans 120 at Oklahoma City Thunder 126 | Final | Fri Nov 20, 8:00 PM ET | TV: KSBI, Thunder App, GCSEN, Pelicans.com | Paycom Center
-- Orlando Magic 113 at Brooklyn Nets 111 | Final | Fri Nov 20, 7:30 PM ET | TV: DAZN (YES) | Barclays Center
-- Indiana Pacers 119 at Cleveland Cavaliers 128 | Final | Fri Nov 20, 7:30 PM ET | TV: DAZN CLE | Rocket Arena
-- Toronto Raptors 105 at Detroit Pistons 102 | Final | Fri Nov 20, 7:30 PM ET | TV: Prime Video | Little Caesars Arena
 Next 7 days, my teams:
 - [MY TEAM] Oklahoma City Thunder at Miami Heat | 11/22 - 6:00 PM EST | Sun Nov 22, 6:00 PM ET | TV: KSBI, Thunder App | Kaseya Center
 - [MY TEAM] Miami Heat at Philadelphia 76ers | 11/25 - 5:00 PM EST | Wed Nov 25, 5:00 PM ET | TV: ESPN | Xfinity Mobile Arena
@@ -178,10 +173,6 @@ Finals (last ~40h):
 - Memphis Tigers 34 at Navy Midshipmen 38 | Final | Sat Nov 21, 12:00 PM ET | TV: ESPN2 | Navy-Marine Corps Memorial Stadium
 - North Texas Mean Green 24 at Tulane Green Wave 28 | Final | Sat Nov 21, 12:00 PM ET | TV: ESPNU | Yulman Stadium
 - New Mexico Lobos 24 at Wyoming Cowboys 17 | Final | Fri Nov 20, 9:00 PM ET | TV: FS1 | War Memorial Stadium
-- Oregon Ducks 45 at Michigan State Spartans 7 | ranks: Oregon Ducks #13 | Final | Fri Nov 20, 8:00 PM ET | TV: Fox | Spartan Stadium
-- UTEP Miners 3 at Air Force Falcons 52 | Final | Fri Nov 20, 8:00 PM ET | TV: CW | Falcon Stadium
-- Clemson Tigers 20 at Duke Blue Devils 10 | Final | Fri Nov 20, 7:30 PM ET | TV: ESPN | Wallace Wade Stadium
-- Bowling Green Falcons 0 at Toledo Rockets 19 | Final | Fri Nov 20, 7:30 PM ET | TV: ESPN2 | Glass Bowl
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Florida State Seminoles | ranks: Florida Gators #24 | 11/27 - 3:30 PM EST | Fri Nov 27, 3:30 PM ET | TV: ABC | Doak Campbell Stadium
 Next 7 days, others (first 25):
@@ -221,10 +212,11 @@ Finals (last ~40h):
 - Crystal Palace 2 at Coventry City 3 | FT | Sat Nov 21, 10:00 AM ET | TV: Peacock | Coventry Building Society Arena
 - Ipswich Town 0 at Tottenham Hotspur 2 | FT | Sat Nov 21, 10:00 AM ET | TV: USA Net, Universo | Tottenham Hotspur Stadium
 - Fulham 1 at Manchester City 1 | FT | Sat Nov 21, 7:30 AM ET | TV: USA Net, Universo | Etihad Stadium
+Live now:
+- Manchester United 0 at Liverpool 2 | 34' | Sun Nov 22, 11:30 AM ET | TV: USA Net, Tele | Anfield
 Next 7 days, my teams:
 - [MY TEAM] Chelsea at Nottingham Forest | Scheduled | Fri Nov 27, 3:00 PM ET | The City Ground
 Next 7 days, others (first 25):
-- Manchester United at Liverpool | Scheduled | Sun Nov 22, 11:30 AM ET | TV: USA Net, Tele | Anfield
 - Everton at Brentford | Scheduled | Mon Nov 23, 3:00 PM ET | TV: USA Net | Gtech Community Stadium
 - Coventry City at Leeds United | Scheduled | Sat Nov 28, 10:00 AM ET | Elland Road
 - Brentford at Manchester United | Scheduled | Sat Nov 28, 10:00 AM ET | Old Trafford
@@ -234,6 +226,7 @@ Next 7 days, others (first 25):
 - Hull City at Crystal Palace | Scheduled | Sun Nov 29, 9:05 AM ET | Selhurst Park
 - AFC Bournemouth at Fulham | Scheduled | Sun Nov 29, 9:05 AM ET | Craven Cottage
 - Tottenham Hotspur at Sunderland | Scheduled | Sun Nov 29, 9:05 AM ET | Stadium of Light
+- Manchester City at Arsenal | Scheduled | Sun Nov 29, 11:30 AM ET | Emirates Stadium
 
 ## Champions League
 Next 7 days: no game for my teams in this league's data
@@ -263,11 +256,11 @@ Finals (last ~40h):
 
 ## PGA Tour
 Live now:
-- The RSM Classic | [Max McGreevy (-9); Marco Penge (-9); Rasmus Neergaard-Petersen (-9); Michael Thorbjornsen (-9); Davis Riley (-8); Max Greyserman (-8); Rasmus Højgaard (-8); Haotong Li (-8); Lee Hodges (-8); Adrien Dumont de Chassart (-8)] | In Progress | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
+- The RSM Classic | [Michael Thorbjornsen (-10); Max Greyserman (-9); Max McGreevy (-9); Marco Penge (-9); Rasmus Neergaard-Petersen (-9); Davis Thompson (-8); Rasmus Højgaard (-8); Haotong Li (-8); Jackson Koivun (-7); Harris English (-7)] | In Progress | Thu Nov 19, 12:00 AM ET | TV: ESPN+, Golf Chnl
 
 ## WTA tennis
-Live now:
-- IEB+ Argentina Open | 2nd | Sun Nov 22, 12:00 AM ET
+Finals (last ~40h):
+- IEB+ Argentina Open | Final | Sun Nov 22, 12:00 AM ET
 
 ## Europa League
 Next 7 days: no game for my teams in this league's data
@@ -334,7 +327,7 @@ Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Fri Nov 27, 3:00 PM ET | TV: MNMT, SCRIPPS | Capital One Arena
 - [MY TEAM] Tampa Bay Lightning at Florida Panthers | FUT | Sat Nov 28, 6:00 PM ET | TV: The Spot, SCRIPPS | Amerant Bank Arena
 Next 7 days, others (first 25):
-- Carolina Hurricanes at New York Rangers | FUT | Sun Nov 22, 12:30 PM ET | TV: NHLN, SN, TVAS, HHN, MSG, CARNHL | Madison Square Garden
+- Carolina Hurricanes at New York Rangers | PRE | Sun Nov 22, 12:30 PM ET | TV: NHLN, SN, TVAS, HHN, MSG, CARNHL | Madison Square Garden
 - Buffalo Sabres at Tampa Bay Lightning | FUT | Sun Nov 22, 5:00 PM ET | TV: SN, NHLN, TVAS, The Spot, MSG-B | Benchmark International Arena
 - Edmonton Oilers at St. Louis Blues | FUT | Sun Nov 22, 7:00 PM ET | TV: SNW, SN1, BN+, STLNHL | Enterprise Center
 - Pittsburgh Penguins at Dallas Stars | FUT | Sun Nov 22, 7:00 PM ET | TV: TVAS, Prime Video, SN-PIT | American Airlines Center
