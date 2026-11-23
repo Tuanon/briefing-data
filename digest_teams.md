@@ -1,4 +1,4 @@
-# Team digest (generated Mon Nov 23, 3:13 PM ET)
+# Team digest (generated Mon Nov 23, 4:12 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -16,11 +16,12 @@ News (last days, newest first):
 - Who are the winningest NFL coaches of all time? | Sun Nov 22, 6:05 PM ET | https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins | From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.
 - Miami Dolphins vs. Buffalo Bills Game Highlights | Sun Nov 22, 5:58 PM ET | https://www.espn.com/video/clip/_/id/50565047/miami-dolphins-vs-buffalo-bills-game-highlights | Miami Dolphins vs. Buffalo Bills Game Highlights
 - Dolphins' defensive line hit hard by season-ending injuries | Sun Nov 22, 1:46 AM ET | https://www.espn.com/video/clip/_/id/50558032/dolphins-defensive-line-hit-hard-season-ending-injuries | Marcel Louis-Jacques explains how three season-ending injuries put pressure on Kenneth Grant ahead of the Bills matchup.
-Injuries / player notes (ESPN; 11 of 25 entries shown):
+Injuries / player notes (ESPN; 12 of 25 entries shown):
+- Ronnie Harrison Jr. (LB) | Injured Reserve | Mon Nov 23, 3:47 PM ET | The Dolphins opened Harrison's (hamstring) 21-day practice window Monday, David Furones of the South Florida Sun Sentinel reports.
+- JuJu Brents (CB) | Questionable | Mon Nov 23, 3:38 PM ET | Dolphins head coach Jeff Hafley said Monday that Brents is day-to-day with a shoulder injury, Barry Jackson of the Miami Herald reports.
 - Malik Willis (QB) | Injured Reserve | Mon Nov 23, 12:19 PM ET | Head coach Jeff Hafley said Monday that, at this time, surgery to address Willis' groin/core injury is not foreseen, Joe Schad of The Palm Beach Post reports.
 - Jared Wayne (WR) | Out | Mon Nov 23, 10:39 AM ET | out
 - Bradley Pinion (P) | Out | Mon Nov 23, 10:39 AM ET | out
-- JuJu Brents (CB) | Questionable | Sun Nov 22, 3:53 PM ET | Brents (shoulder) is questionable to return to Sunday's tilt against Buffalo.
 - Jonah Savaiinaea (G) | Active | Sun Nov 22, 2:54 PM ET | Savaiinaea (ankle) has been cleared to return to Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
 - Jaylin Simpson (S) | Out | Sun Nov 22, 12:29 PM ET | Simpson (knee) is listed as inactive for Sunday's matchup against the Bills.
 - Aaron Brewer (C) | Active | Sun Nov 22, 12:15 PM ET | Brewer (concussion) is active for Sunday's matchup versus Buffalo.
@@ -31,12 +32,12 @@ Injuries / player notes (ESPN; 11 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
+- 2026 NBA Cup: Schedule, format, groups, updates and more | Mon Nov 23, 2:44 PM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament, including the recent win by the Nuggets.
 - Bam Adebayo's triple-double ignites Heat's 123-113 victory over Thunder | Mon Nov 23, 1:25 PM ET | https://www.espn.com/nba/story/_/id/50568682/adebayo-triple-double-sparks-shorthanded-heat-victory | In a game that did not feature Oklahoma City's Shai Gilgeous-Alexander or Miami's Giannis Antetokounmpo, Bam Adebayo swiped the spotlight, scoring 24 points en route to a triple-double, as the surging Heat defeated the…
 - Too-early NBA All-Star picks: The 24 most deserving players right now | Mon Nov 23, 8:25 AM ET | https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey | So what if the All-Star Game is three months away? We're picking locks and position battles to watch across both conferences.
 - Klay Thompson blows out shoe in Heat's win over Thunder | Sun Nov 22, 9:57 PM ET | https://www.espn.com/nba/story/_/id/50567550/klay-thompson-blows-shoe-heat-thunder | Klay Thompson blew out part of a shoe while defending a fast break in the Heat's game against the Thunder on Sunday night.
 - Adebayo gets triple-double, Heat (without Giannis) top Thunder (without SGA) for 7th straight win | Sun Nov 22, 8:42 PM ET | http://www.espn.com/nba/recap?gameId=401910030 | — Bam Adebayo scored 24 points and had a triple-double, Pelle Larsson scored 21 and the shorthanded Miami Heat beat the very shorthanded Oklahoma City Thunder 123-113 on Sunday night to push their winning streak to seve…
 - Oklahoma City Thunder vs. Miami Heat: Game Highlights | Sun Nov 22, 8:31 PM ET | https://www.espn.com/video/clip/_/id/50568089/game-highlights | Oklahoma City Thunder vs. Miami Heat: Game Highlights
-- 2026 NBA Cup: Schedule, format, groups, updates and more | Sat Nov 21, 1:34 AM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament, including the recent win by the Nuggets.
 - Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else | Thu Nov 19, 2:58 PM ET | https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes | The latest entry in the Grand Theft Auto series is tied with "The Legend of Zelda: Ocarina of Time" with a 99 rating on Metacritic.
 - Milwaukee Bucks vs. Miami Heat: Game Highlights | Thu Nov 19, 1:53 AM ET | https://www.espn.com/video/clip/_/id/50527207/game-highlights | Milwaukee Bucks vs. Miami Heat: Game Highlights
 - Giannis Antetokounmpo, Bam Adebayo put Bucks drama aside as Heat hold on | Thu Nov 19, 1:45 AM ET | https://www.espn.com/nba/story/_/id/50528238/giannis-bam-adebayo-put-drama-aside-heat-hold-bucks | Heat star Giannis Antetokounmpo said Wednesday night's win over the Bucks was like any other night, while Bam Adebayo said he has moved past his issues with Tyler Herro.
@@ -94,7 +95,7 @@ News (last days, newest first):
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
-- MLB free agency tracker: 2026-27 offseason trades, moves | Mon Nov 23, 11:08 AM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
+- MLB free agency tracker: 2026-27 offseason trades, moves | Mon Nov 23, 3:10 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
 - Passan: 2026-27 MLB offseason preview, free agent updates | Wed Nov 18, 10:18 PM ET | https://www.espn.com/mlb/story/_/id/50512111/passan-offseason-preview-2026-27-free-agent-updates | The hot stove is about to get blazing hot. Here's what will shape the coming weeks of offseason moves.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.

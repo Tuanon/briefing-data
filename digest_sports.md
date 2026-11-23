@@ -1,4 +1,4 @@
-# Sports digest (generated Mon Nov 23, 3:13 PM ET)
+# Sports digest (generated Mon Nov 23, 4:12 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -147,7 +147,7 @@ Finals (last ~40h):
 - Manchester United 0 at Liverpool 4 | FT | Sun Nov 22, 11:30 AM ET | TV: USA Net, Tele | Anfield
 - Brighton & Hove Albion 0 at Hull City 2 | FT | Sun Nov 22, 9:00 AM ET | TV: USA Net, Tele | The MKM Stadium
 Live now:
-- Everton 0 at Brentford 0 | 15' | Mon Nov 23, 3:00 PM ET | TV: USA Net | Gtech Community Stadium
+- Everton 0 at Brentford 2 | HT | Mon Nov 23, 3:00 PM ET | TV: USA Net | Gtech Community Stadium
 Next 7 days, my teams:
 - [MY TEAM] Chelsea at Nottingham Forest | Scheduled | Fri Nov 27, 3:00 PM ET | The City Ground
 Next 7 days, others (first 25):
@@ -184,8 +184,6 @@ Next 7 days, others (first 25):
 - Manchester United at Sporting CP | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Estádio José Alvalade
 
 ## WTA tennis
-Finals (last ~40h):
-- IEB+ Argentina Open | Final | Sun Nov 22, 12:00 AM ET
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Open Angers Loire Trélazé | TBD | Mon Nov 30, 12:00 AM ET
