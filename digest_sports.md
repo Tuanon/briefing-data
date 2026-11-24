@@ -1,4 +1,4 @@
-# Sports digest (generated Tue Nov 24, 2:30 PM ET)
+# Sports digest (generated Tue Nov 24, 3:05 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -152,20 +152,22 @@ Next 7 days, others (first 25):
 - AFC Bournemouth at Fulham | Scheduled | Sun Nov 29, 9:05 AM ET | Craven Cottage
 - Tottenham Hotspur at Sunderland | Scheduled | Sun Nov 29, 9:05 AM ET | Stadium of Light
 - Manchester City at Arsenal | Scheduled | Sun Nov 29, 11:30 AM ET | Emirates Stadium
+- Ipswich Town at Coventry City | Scheduled | Tue Dec 1, 3:00 PM ET | Coventry Building Society Arena
 
 ## Champions League
+Finals (last ~40h):
+- LASK Linz 0 at Bodo/Glimt 1 | FT | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | Aspmyra Stadion
+- Aston Villa 0 at Galatasaray 1 | FT | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | RAMS Park
 Live now:
-- LASK Linz 0 at Bodo/Glimt 0 | 88' | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | Aspmyra Stadion
-- Aston Villa 0 at Galatasaray 1 | 89' | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | RAMS Park
+- Borussia Dortmund 0 at Arsenal 0 | 5' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Emirates Stadium
+- AEK Athens 0 at Como 0 | 3' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Giuseppe Sinigaglia
+- FC Porto 1 at Feyenoord Rotterdam 0 | 4' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | De Kuip
+- Napoli 0 at Manchester City 0 | 5' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Etihad Stadium
+- Lens 0 at RB Leipzig 0 | 6' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Red Bull Arena
+- PSV Eindhoven 0 at Real Madrid 0 | 6' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Santiago Bernabéu
+- Real Betis 0 at Slovan Bratislava 0 | 5' | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Národny Futbalovy Stadión
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Borussia Dortmund at Arsenal | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Emirates Stadium
-- AEK Athens at Como | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Giuseppe Sinigaglia
-- FC Porto at Feyenoord Rotterdam | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | De Kuip
-- Napoli at Manchester City | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Etihad Stadium
-- Lens at RB Leipzig | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Red Bull Arena
-- PSV Eindhoven at Real Madrid | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Santiago Bernabéu
-- Real Betis at Slovan Bratislava | Scheduled | Tue Nov 24, 3:00 PM ET | TV: Paramount+ | Národny Futbalovy Stadión
 - Barcelona at Sabah FK | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
 - Villarreal at Slavia Prague | Scheduled | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Fortuna Arena
 - Viking FK at Atlético Madrid | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Riyadh Air Metropolitano
