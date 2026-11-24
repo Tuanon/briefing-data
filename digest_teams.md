@@ -1,34 +1,30 @@
-# Team digest (generated Mon Nov 23, 4:12 PM ET)
+# Team digest (generated Tue Nov 24, 2:30 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- NFL Week 12 betting odds: Lines and totals for every game | Mon Nov 23, 11:54 AM ET | https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 12.
+- NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates | Tue Nov 24, 11:49 AM ET | https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates | How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.
+- 2027 NFL draft order projections for Round 1, chances for top pick, more | Tue Nov 24, 10:50 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
+- NFL Week 12 betting odds: Lines and totals for every game | Tue Nov 24, 10:40 AM ET | https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 12.
+- NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games | Tue Nov 24, 8:33 AM ET | https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.
+- Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls | Mon Nov 23, 11:59 PM ET | https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls | NFL teams remained petty in Week 11, led by a post from the Washington Commanders.
+- NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF' | Mon Nov 23, 7:12 PM ET | https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
 - How active NFL players continue to redefine all-time sack list | Mon Nov 23, 10:26 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
-- 2027 NFL draft order projections for Round 1, chances for top pick, more | Mon Nov 23, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
-- NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games | Mon Nov 23, 12:53 AM ET | https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.
 - Week 11 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 22, 11:50 PM ET | https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026 | Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.
 - The positives and negatives from Miami's loss to Buffalo | Sun Nov 22, 10:48 PM ET | https://www.espn.com/video/clip/_/id/50569481/the-positives-negatives-miami-loss-buffalo | Marcel Louis-Jacques weighs the positives and negatives of the Dolphins' Week 11 loss.
-- Bills' Grand Theft Auto VI-themed jab at Dolphins tops NFL Week 11 trolls | Sun Nov 22, 9:40 PM ET | https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls | NFL teams remained petty in Week 11, led by a post from the Buffalo Bills.
-- NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico | Sun Nov 22, 8:00 PM ET | https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
 - Bills' defense feasts in 26-9 win over injury-depleted Dolphins | Sun Nov 22, 6:30 PM ET | http://www.espn.com/nfl/recap?gameId=401873070 | — Stingy as Buffalo has been while not allowing a touchdown over the past 15-plus quarters, defensive tackle Deone Walker remains unsatisfied.
 - Who are the winningest NFL coaches of all time? | Sun Nov 22, 6:05 PM ET | https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins | From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.
 - Miami Dolphins vs. Buffalo Bills Game Highlights | Sun Nov 22, 5:58 PM ET | https://www.espn.com/video/clip/_/id/50565047/miami-dolphins-vs-buffalo-bills-game-highlights | Miami Dolphins vs. Buffalo Bills Game Highlights
-- Dolphins' defensive line hit hard by season-ending injuries | Sun Nov 22, 1:46 AM ET | https://www.espn.com/video/clip/_/id/50558032/dolphins-defensive-line-hit-hard-season-ending-injuries | Marcel Louis-Jacques explains how three season-ending injuries put pressure on Kenneth Grant ahead of the Bills matchup.
-Injuries / player notes (ESPN; 12 of 25 entries shown):
+Injuries / player notes (ESPN; 8 of 25 entries shown):
+- Jaylin Simpson (S) | Questionable | Tue Nov 24, 7:39 AM ET | questionable
+- Dante Trader Jr. (S) | Questionable | Tue Nov 24, 7:39 AM ET | questionable
+- Jared Wayne (WR) | Questionable | Tue Nov 24, 7:39 AM ET | questionable
+- Bradley Pinion (P) | Questionable | Tue Nov 24, 7:39 AM ET | questionable
 - Ronnie Harrison Jr. (LB) | Injured Reserve | Mon Nov 23, 3:47 PM ET | The Dolphins opened Harrison's (hamstring) 21-day practice window Monday, David Furones of the South Florida Sun Sentinel reports.
 - JuJu Brents (CB) | Questionable | Mon Nov 23, 3:38 PM ET | Dolphins head coach Jeff Hafley said Monday that Brents is day-to-day with a shoulder injury, Barry Jackson of the Miami Herald reports.
 - Malik Willis (QB) | Injured Reserve | Mon Nov 23, 12:19 PM ET | Head coach Jeff Hafley said Monday that, at this time, surgery to address Willis' groin/core injury is not foreseen, Joe Schad of The Palm Beach Post reports.
-- Jared Wayne (WR) | Out | Mon Nov 23, 10:39 AM ET | out
-- Bradley Pinion (P) | Out | Mon Nov 23, 10:39 AM ET | out
 - Jonah Savaiinaea (G) | Active | Sun Nov 22, 2:54 PM ET | Savaiinaea (ankle) has been cleared to return to Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Jaylin Simpson (S) | Out | Sun Nov 22, 12:29 PM ET | Simpson (knee) is listed as inactive for Sunday's matchup against the Bills.
-- Aaron Brewer (C) | Active | Sun Nov 22, 12:15 PM ET | Brewer (concussion) is active for Sunday's matchup versus Buffalo.
-- Darrell Baker Jr. (CB) | Active | Sun Nov 22, 12:11 PM ET | Baker (knee) is active for Sunday's battle against the Bills.
-- Dante Trader Jr. (S) | Out | Sun Nov 22, 12:06 PM ET | Trader (shoulder/groin) is inactive for Sunday's Week 11 tilt against Buffalo.
-- Andrew Meyer (C) | Active | Fri Nov 20, 8:22 PM ET | Meyer (neck) does not carry an injury designation into Sunday's game against the Bills, David Furones of the South Florida Sun Sentinel reports.
-- Jordan Phillips (DT) | Injured Reserve | Wed Nov 18, 2:24 PM ET | Phillips underwent surgery on his injured bicep Wednesday, David Furones of the South Florida Sun Sentinel reports.
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
@@ -45,7 +41,7 @@ News (last days, newest first):
 - Updated NBA championship and MVP odds: Heat on the rise, Wemby ahead of Luka | Wed Nov 18, 2:00 PM ET | https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds | The Heat have bounced back from a rough start to the season, while Victor Wembanyama is now the leader for MVP just ahead of Luka Doncic.
 - Miami Heat players receive GTA VI care packages from Rockstar Games | Wed Nov 18, 1:58 PM ET | https://www.espn.com/nba/story/_/id/50522801/gta-vi-miami-heat-davion-mitchell-nick-richards | Heat players received a custom game-themed care package complete with custom controllers, consoles and, of course, a copy of the game.
 Injuries / player notes (ESPN; 1 of 1 entries shown):
-- Giannis Antetokounmpo (F) | Day-To-Day | Mon Nov 23, 10:04 AM ET | Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports.
+- Giannis Antetokounmpo (F) | Day-To-Day | Tue Nov 24, 1:56 PM ET | Antetokounmpo (groin) participated in most of Tuesday's practice, Zachary Weinberger of ClutchPoints.com reports.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
@@ -57,7 +53,6 @@ News (last days, newest first):
 - Wysh List: Ovechkin, the Sharks and the NHL's other biggest disappointments of 2026-27 | Thu Nov 19, 11:17 AM ET | https://www.espn.com/nhl/story/_/id/50523931/nhl-2026-27-wysh-list-disappointments-players-stats-teams-ovechkin-sharks | This NHL season has been filled with memorable moments and outstanding achievements. These do not make that list.
 - McDavid runs season-opening points streak to 23 games, Oilers skate past Panthers 5-2 | Wed Nov 18, 10:13 AM ET | http://www.espn.com/nhl/recap?gameId=401892730 | — Connor McDavid had a goal and an assist to extend his season-opening points streak to 23 games, and the Edmonton Oilers continued their sizzling start by beating the rival Florida Panthers 5-2 on Tuesday night.
 - Edmonton Oilers vs. Florida Panthers: Game Highlights | Tue Nov 17, 9:53 PM ET | https://www.espn.com/video/clip/_/id/50516517/game-highlights | Edmonton Oilers vs. Florida Panthers: Game Highlights
-- NHL Tonight: Keys to Capitals-Lightning, 10 other Tuesday games | Tue Nov 17, 8:17 AM ET | https://www.espn.com/nhl/story/_/id/50503265/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 Injuries / player notes (ESPN; 3 of 3 entries shown):
 - Brad Marchand (LW) | Injured Reserve | Sat Nov 21, 11:06 AM ET | Marchand (knee) is close to returning to the lineup, but he won't play against Buffalo on Saturday, per Jameson Olive of the Panthers' official site.
 - Aleksander Barkov (C) | Injured Reserve | Sat Nov 21, 10:57 AM ET | Barkov (knee) won't play against Buffalo on Saturday, but he could return within Florida's next three games, Jameson Olive of the Panthers' official site reports.
@@ -65,6 +60,7 @@ Injuries / player notes (ESPN; 3 of 3 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- Who's on the College Football Playoff bubble before committee's fourth ranking? | Tue Nov 24, 11:51 AM ET | https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking | A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.
 - Top 25 betting lines: USC favored at UCLA, Texas double-digit faves at Texas A&M | Mon Nov 23, 11:31 AM ET | https://www.espn.com/espn/betting/story/_/id/50571004/2026-college-football-week-13-top-25-betting-lines-odds | This week's odds and FPI predictions for UCLA-USC, Texas A&M-Texas and more.
 - 2026-27 Week 12 College Football Playoff, bowl projections | Mon Nov 23, 7:28 AM ET | https://www.espn.com/college-football/story/_/id/50564492/2026-week-12-college-football-playoff-bowl-projections | Our bowl gurus take a look at how the postseason picture shifted after Week 12.
 - No Big Ten football teams in AP top 5 for first time since 2021 | Sun Nov 22, 3:22 PM ET | https://www.espn.com/college-football/story/_/id/50563638/no-big-ten-football-teams-ap-top-5-first-21 | A weekend of Big Ten upsets left the conference without a team in the top five of the AP Top 25 college football poll for the first time since 2021.
@@ -76,10 +72,10 @@ News (last days, newest first):
 - Top 25 betting lines: UGA big faves over Gamecocks, Vols slim favorites vs. LSU | Fri Nov 20, 10:55 AM ET | https://www.espn.com/espn/betting/story/_/id/50498153/2026-college-football-week-12-top-25-betting-lines-odds | This week's odds and FPI predictions for South Carolina-Georgia, Tennessee-LSU and more.
 - Week 12 Game Day Kickoff: Appreciating Jeremiah Smith's greatness | Thu Nov 19, 12:08 PM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview | What to expect in Week 12, from top games and players to teams on upset alert.
 - Georgia AG asks SEC to take action against LSU's 'contempt for the rules' | Thu Nov 19, 9:06 AM ET | https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion | The Georgia Attorney General blasted LSU in a letter to SEC commissioner Greg Sankey, encouraging sanctions against the Tigers, "up to and including expulsion."
-- What Chizik knows, wants to know about Bama, UF, Ole Miss | Wed Nov 18, 11:54 PM ET | https://www.espn.com/video/clip/_/id/50528108/what-chizik-knows-wants-know-bama-uf-ole-miss | There are things that Gene Chizik knows about SEC football, like the Crimson Tide's defensive power or the Gators' resiliency, but on the other hand he has lingering questions.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
+- Transfer rumors, news: PSG eye Chelsea's Estêvão, Bayern's Luis Díaz amid injury woes | Tue Nov 24, 9:02 AM ET | https://www.espn.com/soccer/story/_/id/50580721/transfer-rumors-news-psg-estevao-luis-diaz-chelsea-bayern | Paris Saint-Germain have added Bayern Munich's Luis Díaz and Chelsea's Estêvão to their shortlist. Transfer Talk has the latest.
 - Romeo Lavia warns Chelsea not to give in to panic after Leeds thrashing: 'This hurts' | Sun Nov 22, 10:41 AM ET | https://www.espn.com/soccer/story/_/id/50562254/chelsea-leeds-romeo-lavia-premier-league | Romeo Lavia said Chelsea must not give in to panic after they were hammered 4-1 at Stamford Bridge by Leeds on Saturday.
 - Will Mauricio Pochettino start strongly at Man United? What his career stats say | Sun Nov 22, 3:08 AM ET | https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea | Before Mauricio Pochettino leads Manchester United, how did his debuts at his previous teams go?
 - Chelsea in 'fragile moment' as Caicedo injury adds to pain of Leeds rout | Sat Nov 21, 6:00 PM ET | https://www.espn.com/soccer/story/_/id/50554949/chelsea-leeds-united-moises-caicedo-injury-xabi-alonso | Another crisis might be unfolding at Chelsea, just a few months into Xabi Alonso's tenure.
@@ -91,11 +87,11 @@ News (last days, newest first):
 - Tom Brady tops list of athletes who became owners | Fri Nov 20, 3:47 PM ET | https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners | The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.
 - Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him? | Fri Nov 20, 4:01 AM ET | https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea | Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea this season. What's behind his lack of minutes?
 - Predicting how all 20 Premier League teams will finish the season | Thu Nov 19, 8:50 AM ET | https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea | After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.
-- Valentín Barco on Chelsea career so far: 'I think I can give a lot more' | Thu Nov 19, 8:19 AM ET | https://www.espn.com/soccer/story/_/id/50530645/valentin-barco-chelsea-argentina-xabi-alonso | Chelsea's Valentín Barco has said he is confident that he's still a long way away from reaching his full potential.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
-- MLB free agency tracker: 2026-27 offseason trades, moves | Mon Nov 23, 3:10 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
+- MLB free agency tracker: 2026-27 offseason trades, moves | Tue Nov 24, 1:29 PM ET | https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027 | We've got you covered on all the major MLB hot stove signings and trades.
+- One trade ESPN experts would make before MLB lockout | Tue Nov 24, 1:28 PM ET | https://www.espn.com/mlb/story/_/id/50541491/offseason-trades-lockout-red-sox-yankees | An MLB lockout is looming. Our experts suggest some last-minute deals.
 - Passan: 2026-27 MLB offseason preview, free agent updates | Wed Nov 18, 10:18 PM ET | https://www.espn.com/mlb/story/_/id/50512111/passan-offseason-preview-2026-27-free-agent-updates | The hot stove is about to get blazing hot. Here's what will shape the coming weeks of offseason moves.
 Injuries / player notes (ESPN; 7 of 7 entries shown):
 - Andrew Nardi (RP) | Out | Mon Nov 2, 7:30 PM ET | Nardi (elbow) is slated to undergo season-ending surgery Friday, Christina De Nicola of MLB.com reports.
