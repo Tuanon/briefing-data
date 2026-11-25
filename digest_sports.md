@@ -1,4 +1,4 @@
-# Sports digest (generated Wed Nov 25, 1:38 PM ET)
+# Sports digest (generated Wed Nov 25, 2:07 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -27,8 +27,6 @@ Finals (last ~40h):
 - Dallas Mavericks 120 at Denver Nuggets 101 | Final | Tue Nov 24, 10:00 PM ET | TV: NBC, KFAA-TV, MavsTV | Ball Arena
 - Boston Celtics 131 at Washington Wizards 116 | Final | Tue Nov 24, 8:00 PM ET | TV: NBC | Capital One Arena
 - Detroit Pistons 104 at Orlando Magic 86 | Final | Tue Nov 24, 7:00 PM ET | Kia Center
-- Utah Jazz 94 at Los Angeles Lakers 109 | Final | Mon Nov 23, 10:00 PM ET | TV: NBA TV, Spectrum Sports Net, Spectrum Sports Net +, KJZZ-TV, Jazz+ | crypto.com Arena
-- San Antonio Spurs 123 at Sacramento Kings 107 | Final | Mon Nov 23, 10:00 PM ET | TV: DAZN SAS | Golden 1 Center
 Next 7 days, my teams:
 - [MY TEAM] Miami Heat at Philadelphia 76ers | 11/25 - 5:00 PM EST | Wed Nov 25, 5:00 PM ET | TV: ESPN | Xfinity Mobile Arena
 - [MY TEAM] Miami Heat at New York Knicks | 11/27 - 7:00 PM EST | Fri Nov 27, 7:00 PM ET | TV: Prime Video | Madison Square Garden
@@ -64,8 +62,6 @@ Next 7 days, others (first 25):
 ## NHL (ESPN)
 Finals (last ~40h):
 - Vegas Golden Knights 5 at Edmonton Oilers 3 | Final | Tue Nov 24, 8:00 PM ET | TV: TNT | Rogers Place
-- Minnesota Wild 5 at San Jose Sharks 2 | Final | Mon Nov 23, 10:00 PM ET | TV: ESPN+, NBC Sports BA, MINNHL | SAP Center at San Jose
-- Anaheim Ducks 2 at Seattle Kraken 3 | Final | Mon Nov 23, 9:40 PM ET | TV: ESPN+, KCOP, Fox 11 Plus, KONG, Prime Video (Local) | Climate Pledge Arena
 Next 7 days, my teams:
 - [MY TEAM] Ottawa Senators at Florida Panthers | 11/25 - 7:00 PM EST | Wed Nov 25, 7:00 PM ET | TV: ESPN+, Scripps Sports | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Washington Capitals | 11/27 - 3:00 PM EST | Fri Nov 27, 3:00 PM ET | TV: ESPN+, Scripps Sports, MNMT | Capital One Arena
@@ -158,8 +154,8 @@ Finals (last ~40h):
 - LASK Linz 0 at Bodo/Glimt 1 | FT | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | Aspmyra Stadion
 - Aston Villa 0 at Galatasaray 1 | FT | Tue Nov 24, 12:45 PM ET | TV: Paramount+ | RAMS Park
 Live now:
-- Barcelona 1 at Sabah FK 0 | HT | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
-- Villarreal 0 at Slavia Prague 0 | HT | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Fortuna Arena
+- Barcelona 4 at Sabah FK 1 | 66' | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Baku Olympic Stadium
+- Villarreal 1 at Slavia Prague 0 | 65' | Wed Nov 25, 12:45 PM ET | TV: Paramount+ | Fortuna Arena
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Viking FK at Atlético Madrid | Scheduled | Wed Nov 25, 3:00 PM ET | TV: Paramount+ | Riyadh Air Metropolitano
@@ -223,8 +219,6 @@ Next 7 days, others (first 25):
 ## NHL (official schedule API)
 Finals (last ~40h):
 - Vegas Golden Knights 5 at Edmonton Oilers 3 | OFF | Tue Nov 24, 8:00 PM ET | TV: TNT, HBO MAX, SN, TVAS | Rogers Place
-- Minnesota Wild 5 at San Jose Sharks 2 | OFF | Mon Nov 23, 10:00 PM ET | TV: SN, SN360, Wild+, NBCSCA, MINNHL | SAP Center at San Jose
-- Anaheim Ducks 2 at Seattle Kraken 3 | OFF | Mon Nov 23, 9:40 PM ET | TV: FOXLA+, Prime Video, Prime Video, KONG | Climate Pledge Arena
 Next 7 days, my teams:
 - [MY TEAM] Ottawa Senators at Florida Panthers | FUT | Wed Nov 25, 7:00 PM ET | TV: TSN5, RDSI, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Fri Nov 27, 3:00 PM ET | TV: MNMT, SCRIPPS | Capital One Arena
