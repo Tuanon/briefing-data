@@ -1,4 +1,4 @@
-# Team digest (generated Thu Nov 26, 1:25 PM ET)
+# Team digest (generated Thu Nov 26, 1:56 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -45,8 +45,8 @@ Injuries (ESPN list): none listed
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- Aleksander Barkov, Brad Marchand return for Panthers in win vs. Senators | Thu Nov 26, 1:36 PM ET | https://www.espn.com/nhl/story/_/id/50594065/aleksander-barkov-brad-marchand-returning-vs-senators | Aleksander Barkov and Brad Marchand were in the Panthers' lineup together for the first time since the title-clinching game of the 2025 Stanley Cup Final.
 - Florida visits Washington in Eastern Conference action | Thu Nov 26, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892801 | Florida Panthers (14-8-3, in the Atlantic Division) vs. Washington Capitals (11-11, in the Metropolitan Division)
-- Aleksander Barkov, Brad Marchand return for Panthers in win vs. Senators | Wed Nov 25, 10:59 PM ET | https://www.espn.com/nhl/story/_/id/50594065/aleksander-barkov-brad-marchand-returning-vs-senators | Aleksander Barkov and Brad Marchand were in the Panthers' lineup together for the first time since the title-clinching game of the 2025 Stanley Cup Final.
 - Ottawa Senators vs. Florida Panthers: Game Highlights | Wed Nov 25, 10:11 PM ET | https://www.espn.com/video/clip/_/id/50600866/game-highlights | Ottawa Senators vs. Florida Panthers: Game Highlights
 - Marchand has 3 assists, Barkov scores in return and Panthers beat Senators 5-3 | Wed Nov 25, 10:00 PM ET | http://www.espn.com/nhl/recap?gameId=401892784 | — Brad Marchand and Aleksander Barkov returned to the Florida lineup in style, with Marchand getting three assists and Barkov...
 - NHL Tonight: What to watch in Wednesday's massive 14-game schedule | Wed Nov 25, 1:26 PM ET | https://www.espn.com/nhl/story/_/id/50584038/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.

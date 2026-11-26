@@ -1,4 +1,4 @@
-# Sports digest (generated Thu Nov 26, 1:25 PM ET)
+# Sports digest (generated Thu Nov 26, 1:56 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -6,7 +6,7 @@ Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI 
 Finals (last ~40h):
 - Green Bay Packers 13 at Los Angeles Rams 26 | Final | Wed Nov 25, 8:00 PM ET | TV: Netflix | SoFi Stadium
 Live now:
-- Chicago Bears 0 at Detroit Lions 3 | 6:14 - 1st | Thu Nov 26, 1:00 PM ET | TV: CBS | Ford Field
+- Chicago Bears 3 at Detroit Lions 10 | 9:12 - 2nd | Thu Nov 26, 1:00 PM ET | TV: CBS | Ford Field
 Next 7 days, my teams:
 - [MY TEAM] New York Jets at Miami Dolphins | 11/29 - 1:00 PM EST | Sun Nov 29, 1:00 PM ET | TV: CBS | Hard Rock Stadium
 Next 7 days, others (first 25):
@@ -191,16 +191,15 @@ Next 7 days, others (first 25):
 - Quito Open | TBD | Mon Nov 30, 12:00 AM ET
 
 ## Europa League
-Finals (last ~40h):
-- Hapoel Be'er 0 at Besiktas 0 | Susp | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Batumi Stadium (Adjarabet Arena)
 Live now:
-- AFC Bournemouth 0 at Celta Vigo 1 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Balaidos
-- Bayer Leverkusen 1 at Dinamo Zagreb 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Maksimir Stadium
-- Levski Sofia 0 at Marseille 1 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stade Vélodrome
-- AC Milan 0 at Olympiacos 1 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Georgios Karaiskakis Stadium
-- Ararat-Armenia 0 at RB Salzburg 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Red Bull Arena Salzburg
-- Lech Poznan 2 at Union St.-Gilloise 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | King Power at Den Dreef Stadion
-- Benfica 0 at Viktoria Plzen 1 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Doosan Arena
+- Hapoel Be'er 0 at Besiktas 0 | 39' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Batumi Stadium (Adjarabet Arena)
+- AFC Bournemouth 1 at Celta Vigo 1 | 53' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Balaidos
+- Bayer Leverkusen 2 at Dinamo Zagreb 0 | 53' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Maksimir Stadium
+- Levski Sofia 0 at Marseille 1 | 53' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stade Vélodrome
+- AC Milan 0 at Olympiacos 2 | 54' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Georgios Karaiskakis Stadium
+- Ararat-Armenia 0 at RB Salzburg 2 | 55' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Red Bull Arena Salzburg
+- Lech Poznan 2 at Union St.-Gilloise 0 | 52' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | King Power at Den Dreef Stadion
+- Benfica 0 at Viktoria Plzen 4 | 54' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Doosan Arena
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Real Sociedad at Crystal Palace | Scheduled | Thu Nov 26, 3:00 PM ET | TV: Paramount+ | Selhurst Park
@@ -218,15 +217,15 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - Mjällby AIF 0 at Kairat Almaty 1 | FT | Thu Nov 26, 10:30 AM ET | TV: Paramount+ | Almaty Ortalyk Stadium
 Live now:
-- FC Thun 0 at Ajax Amsterdam 1 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Johan Cruijff Arena
-- CSU Craiova 0 at Brighton & Hove Albion 2 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | American Express Stadium
-- Lincoln Red Imps 0 at Egnatia 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Air Albania Stadium
-- AS Monaco 1 at Heart of Midlothian 1 | 37' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Tynecastle Park
-- Getafe 0 at Iberia 1999 1 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Mikheil Meskhi Stadioni
-- FC Lugano 0 at Jablonec 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stadion Strelnice
-- Riga FC 0 at Kauno Zalgiris 0 | 40' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | S. Darius and S. Gireno Stadium
-- FC Midtjylland 0 at Pafos 0 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Alphamega Stadium
-- AGF 2 at SK Brann 0 | 41' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Brann Stadium
+- FC Thun 0 at Ajax Amsterdam 2 | 52' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Johan Cruijff Arena
+- CSU Craiova 0 at Brighton & Hove Albion 2 | 51' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | American Express Stadium
+- Lincoln Red Imps 0 at Egnatia 1 | 54' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Air Albania Stadium
+- AS Monaco 2 at Heart of Midlothian 2 | 49' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Tynecastle Park
+- Getafe 0 at Iberia 1999 1 | 54' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Mikheil Meskhi Stadioni
+- FC Lugano 0 at Jablonec 0 | 53' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Stadion Strelnice
+- Riga FC 0 at Kauno Zalgiris 0 | HT | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | S. Darius and S. Gireno Stadium
+- FC Midtjylland 1 at Pafos 0 | 55' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Alphamega Stadium
+- AGF 2 at SK Brann 1 | 55' | Thu Nov 26, 12:45 PM ET | TV: Paramount+ | Brann Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
 - Atalanta at Borac Banja Luka | Scheduled | Thu Nov 26, 3:00 PM ET | TV: Paramount+ | Gradski Stadion Banja Luka
