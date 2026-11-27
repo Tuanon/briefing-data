@@ -1,4 +1,4 @@
-# Sports digest (generated Fri Nov 27, 1:11 PM ET)
+# Sports digest (generated Fri Nov 27, 1:50 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
@@ -62,12 +62,10 @@ Next 7 days, others (first 25):
 ## NHL (ESPN)
 Finals (last ~40h):
 - San Jose Sharks 0 at Anaheim Ducks 7 | Final | Wed Nov 25, 10:00 PM ET | TV: ESPN+, NBC Sports BA, KCOP, Prime Video (Local), Fox 11 Plus | Honda Center
-- Chicago Blackhawks 3 at Seattle Kraken 1 | Final | Wed Nov 25, 9:40 PM ET | TV: ESPN+, CHSN, KONG, Prime Video (Local) | Climate Pledge Arena
-- Montreal Canadiens 0 at Colorado Avalanche 6 | Final | Wed Nov 25, 9:30 PM ET | TV: ESPN+, Altitude Sports, KTVD-TV (My20) | Ball Arena
 Live now:
-- Toronto Maple Leafs 0 at Boston Bruins 0 | 17:06 - 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, NESN | TD Garden
-- Calgary Flames 0 at New Jersey Devils 0 | 17:05 - 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, MSGSN | Prudential Center
-- Utah Mammoth 0 at Nashville Predators 1 | 18:57 - 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, Scripps Sports, Utah 16, Mammoth+ | Bridgestone Arena
+- Toronto Maple Leafs 1 at Boston Bruins 1 | End of 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, NESN | TD Garden
+- Calgary Flames 1 at New Jersey Devils 0 | End of 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, MSGSN | Prudential Center
+- Utah Mammoth 2 at Nashville Predators 2 | End of 1st | Fri Nov 27, 1:00 PM ET | TV: ESPN+, Scripps Sports, Utah 16, Mammoth+ | Bridgestone Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | 11/27 - 3:00 PM EST | Fri Nov 27, 3:00 PM ET | TV: ESPN+, Scripps Sports, MNMT | Capital One Arena
 - [MY TEAM] Tampa Bay Lightning at Florida Panthers | 11/28 - 6:00 PM EST | Sat Nov 28, 6:00 PM ET | TV: ESPN+, Scripps Sports, The Spot - MTN | Amerant Bank Arena
@@ -104,11 +102,11 @@ Next 7 days, others (first 25):
 Finals (last ~40h):
 - TCU Horned Frogs 27 at Texas Tech Red Raiders 48 | ranks: Texas Tech Red Raiders #11 | Final | Thu Nov 26, 8:00 PM ET | TV: ESPN | Galaxy Stadium
 Live now:
-- Mississippi State Bulldogs 7 at Ole Miss Rebels 6 | ranks: Ole Miss Rebels #22 | 7:07 - 2nd | Fri Nov 27, 12:00 PM ET | TV: ABC | Vaught-Hemingway Stadium
-- Tulsa Golden Hurricane 7 at UTSA Roadrunners 16 | 7:33 - 2nd | Fri Nov 27, 12:00 PM ET | TV: ESPN | Alamodome
-- Buffalo Bulls 7 at Akron Zips 6 | 0:40 - 2nd | Fri Nov 27, 12:00 PM ET | TV: CBSSN | InfoCision Stadium
-- Toledo Rockets 17 at Ohio Bobcats 0 | 9:20 - 2nd | Fri Nov 27, 12:00 PM ET | TV: ESPNU | Peden Stadium
-- Nebraska Cornhuskers 7 at Iowa Hawkeyes 10 | ranks: Iowa Hawkeyes #13, Nebraska Cornhuskers #25 | 5:09 - 2nd | Fri Nov 27, 12:08 PM ET | TV: CBS | Kinnick Stadium
+- Mississippi State Bulldogs 10 at Ole Miss Rebels 6 | ranks: Ole Miss Rebels #22 | Halftime | Fri Nov 27, 12:00 PM ET | TV: ABC | Vaught-Hemingway Stadium
+- Tulsa Golden Hurricane 7 at UTSA Roadrunners 25 | Halftime | Fri Nov 27, 12:00 PM ET | TV: ESPN | Alamodome
+- Buffalo Bulls 7 at Akron Zips 9 | 10:29 - 3rd | Fri Nov 27, 12:00 PM ET | TV: CBSSN | InfoCision Stadium
+- Toledo Rockets 17 at Ohio Bobcats 10 | Halftime | Fri Nov 27, 12:00 PM ET | TV: ESPNU | Peden Stadium
+- Nebraska Cornhuskers 7 at Iowa Hawkeyes 10 | ranks: Iowa Hawkeyes #13, Nebraska Cornhuskers #25 | Halftime | Fri Nov 27, 12:08 PM ET | TV: CBS | Kinnick Stadium
 Next 7 days, my teams:
 - [MY TEAM] Florida Gators at Florida State Seminoles | ranks: Florida Gators #20 | 11/27 - 3:30 PM EST | Fri Nov 27, 3:30 PM ET | TV: ABC | Doak Campbell Stadium
 Next 7 days, others (first 25):
@@ -218,19 +216,17 @@ Finals (last ~40h):
 ## NHL (official schedule API)
 Finals (last ~40h):
 - San Jose Sharks 0 at Anaheim Ducks 7 | OFF | Wed Nov 25, 10:00 PM ET | TV: FOXLA+, Prime Video, NBCSCA | Honda Center
-- Chicago Blackhawks 3 at Seattle Kraken 1 | OFF | Wed Nov 25, 9:40 PM ET | TV: CHSN, Prime Video, KING, KONG | Climate Pledge Arena
-- Montréal Canadiens 0 at Colorado Avalanche 6 | OFF | Wed Nov 25, 9:30 PM ET | TV: TSN2, RDS, ALT, KTVD | Ball Arena
 Live now:
-- Toronto Maple Leafs 0 at Boston Bruins 0 | LIVE | Fri Nov 27, 1:00 PM ET | TV: TVAS, TSN4, NESN | TD Garden
-- Calgary Flames 0 at New Jersey Devils 0 | LIVE | Fri Nov 27, 1:00 PM ET | TV: SN, MSGSN | Prudential Center
-- Utah Mammoth 0 at Nashville Predators 1 | LIVE | Fri Nov 27, 1:00 PM ET | TV: Mammoth+, Utah16, SCRIPPS | Bridgestone Arena
+- Toronto Maple Leafs 1 at Boston Bruins 1 | LIVE | Fri Nov 27, 1:00 PM ET | TV: TVAS, TSN4, NESN | TD Garden
+- Calgary Flames 1 at New Jersey Devils 0 | LIVE | Fri Nov 27, 1:00 PM ET | TV: SN, MSGSN | Prudential Center
+- Utah Mammoth 2 at Nashville Predators 2 | LIVE | Fri Nov 27, 1:00 PM ET | TV: Mammoth+, Utah16, SCRIPPS | Bridgestone Arena
 Next 7 days, my teams:
 - [MY TEAM] Florida Panthers at Washington Capitals | FUT | Fri Nov 27, 3:00 PM ET | TV: MNMT, SCRIPPS | Capital One Arena
 - [MY TEAM] Tampa Bay Lightning at Florida Panthers | FUT | Sat Nov 28, 6:00 PM ET | TV: The Spot, SCRIPPS | Amerant Bank Arena
 - [MY TEAM] Florida Panthers at New York Islanders | FUT | Tue Dec 1, 7:00 PM ET | TV: MSGSN, SCRIPPS | UBS Arena
 - [MY TEAM] Florida Panthers at Toronto Maple Leafs | FUT | Thu Dec 3, 7:00 PM ET | TV: TVAS, TSN4, SCRIPPS | Scotiabank Arena
 Next 7 days, others (first 25):
-- Dallas Stars at St. Louis Blues | FUT | Fri Nov 27, 2:00 PM ET | TV: NHLN, SN+, BN+, Prime Video, STLNHL | Enterprise Center
+- Dallas Stars at St. Louis Blues | PRE | Fri Nov 27, 2:00 PM ET | TV: NHLN, SN+, BN+, Prime Video, STLNHL | Enterprise Center
 - Ottawa Senators at Tampa Bay Lightning | FUT | Fri Nov 27, 3:00 PM ET | TV: TSN5, RDS, The Spot | Benchmark International Arena
 - Vancouver Canucks at Philadelphia Flyers | FUT | Fri Nov 27, 3:00 PM ET | TV: SNP, SN1, NBCSP | Xfinity Mobile Arena
 - Detroit Red Wings at Columbus Blue Jackets | FUT | Fri Nov 27, 3:00 PM ET | TV: DSN, CBJHN, CBJNHL | Nationwide Arena
