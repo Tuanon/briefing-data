@@ -1,13 +1,14 @@
-# Team digest (generated Thu Nov 26, 1:56 PM ET)
+# Team digest (generated Fri Nov 27, 1:11 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
 ## Miami Dolphins (NFL) (ESPN team id 15)
 News (last days, newest first):
-- NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks | Thu Nov 26, 12:49 PM ET | https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms | Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.
-- NFL Week 12 arrivals: Jeffery Simmons leads arrivals ahead of Bears-Lions | Thu Nov 26, 11:52 AM ET | https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
+- NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips | Fri Nov 27, 6:48 AM ET | https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026 | Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.
+- 2027 NFL draft order projections for Round 1, chances for top pick, more | Fri Nov 27, 6:00 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
+- NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills | Thu Nov 26, 7:25 PM ET | https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
+- NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks | Thu Nov 26, 7:24 PM ET | https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms | Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.
 - NFL Week 12 betting odds: Lines and totals for every game | Thu Nov 26, 9:29 AM ET | https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals | Odds, spreads, totals and FPI predictions for every NFL game in Week 12.
-- 2027 NFL draft order projections for Round 1, chances for top pick, more | Thu Nov 26, 8:08 AM ET | https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks | ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.
 - Dolphins playing host to Jets, as the NFL's youngest team remains mindful of rookie wall | Wed Nov 25, 6:48 PM ET | http://www.espn.com/nfl/preview?gameId=401873089 | — The Miami Dolphins have a visible opponent this week. They're playing host to the rival New York Jets on Sunday.
 - NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates | Tue Nov 24, 11:49 AM ET | https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates | How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.
 - NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games | Tue Nov 24, 8:33 AM ET | https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026 | Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.
@@ -15,11 +16,10 @@ News (last days, newest first):
 - NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF' | Mon Nov 23, 7:12 PM ET | https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals | NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.
 - How active NFL players continue to redefine all-time sack list | Mon Nov 23, 10:26 AM ET | https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald | Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.
 - Week 11 NFL highlights: Best plays, moments, touchdowns, more | Sun Nov 22, 11:50 PM ET | https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026 | Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.
-- Bills' defense feasts in 26-9 win over injury-depleted Dolphins | Sun Nov 22, 6:30 PM ET | http://www.espn.com/nfl/recap?gameId=401873070 | — Stingy as Buffalo has been while not allowing a touchdown over the past 15-plus quarters, defensive tackle Deone Walker remains unsatisfied.
 Injuries / player notes (ESPN; 10 of 25 entries shown):
+- JuJu Brents (CB) | Out | Fri Nov 27, 10:40 AM ET | out
 - Jaylin Simpson (S) | Active | Wed Nov 25, 10:23 PM ET | Simpson (knee) was a full participant in Wednesday's practice, David Furones reports.
 - Jared Wayne (WR) | Questionable | Wed Nov 25, 8:21 PM ET | Wayne (quadriceps) didn't practice Wednesday, David Furones of the South Florida Sun Sentinel reports.
-- JuJu Brents (CB) | Questionable | Wed Nov 25, 8:16 PM ET | Brents (neck) did not participate in Wednesday's practice, David Furones of the South Florida Sun Sentinel reports.
 - Jackson Woodard (LB) | Questionable | Wed Nov 25, 4:30 PM ET | questionable
 - Rodney McGraw (DE) | Questionable | Wed Nov 25, 4:30 PM ET | questionable
 - Austin Jackson (OT) | Questionable | Wed Nov 25, 4:29 PM ET | questionable
@@ -30,7 +30,7 @@ Injuries / player notes (ESPN; 10 of 25 entries shown):
 
 ## Miami Heat (NBA) (ESPN team id 14)
 News (last days, newest first):
-- 2026 NBA Cup: Schedule, scores group standings and updates | Thu Nov 26, 9:50 AM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament, including the recent wins by the Celtics and Mavericks.
+- 2026 NBA Cup: Schedule, scores group standings and updates | Fri Nov 27, 9:31 AM ET | https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates | Here's everything you need to know about the fourth annual in-season tournament, including the recent wins by the Celtics and Mavericks.
 - Knicks and Heat meet Friday in NBA Cup group stage | Thu Nov 26, 2:03 AM ET | http://www.espn.com/nba/preview?gameId=401909326 | Miami Heat (10-7, sixth in the Eastern Conference) vs. New York Knicks (12-6, third in the Eastern Conference)
 - Miami Heat vs. Philadelphia 76ers: Game Highlights | Wed Nov 25, 8:11 PM ET | https://www.espn.com/video/clip/_/id/50599568/game-highlights | Miami Heat vs. Philadelphia 76ers: Game Highlights
 - LeBron James has his 1st triple-double for the 76ers in a win over the Heat | Wed Nov 25, 7:42 PM ET | http://www.espn.com/nba/recap?gameId=401909317 | — LeBron James had 25 points, 12 assists and 10 rebounds for his first triple-double with Philadelphia, and Tyrese Maxey scored 30 points to lead the 76ers to a 111-104 victory over the Miami Heat in an NBA Cup game Wed…
@@ -40,11 +40,12 @@ News (last days, newest first):
 - Klay Thompson blows out shoe in Heat's win over Thunder | Sun Nov 22, 9:57 PM ET | https://www.espn.com/nba/story/_/id/50567550/klay-thompson-blows-shoe-heat-thunder | Klay Thompson blew out part of a shoe while defending a fast break in the Heat's game against the Thunder on Sunday night.
 - Adebayo gets triple-double, Heat (without Giannis) top Thunder (without SGA) for 7th straight win | Sun Nov 22, 8:42 PM ET | http://www.espn.com/nba/recap?gameId=401910030 | — Bam Adebayo scored 24 points and had a triple-double, Pelle Larsson scored 21 and the shorthanded Miami Heat beat the very shorthanded Oklahoma City Thunder 123-113 on Sunday night to push their winning streak to seve…
 - Oklahoma City Thunder vs. Miami Heat: Game Highlights | Sun Nov 22, 8:31 PM ET | https://www.espn.com/video/clip/_/id/50568089/game-highlights | Oklahoma City Thunder vs. Miami Heat: Game Highlights
-- Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else | Thu Nov 19, 2:58 PM ET | https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes | The latest entry in the Grand Theft Auto series is tied with "The Legend of Zelda: Ocarina of Time" with a 99 rating on Metacritic.
-Injuries (ESPN list): none listed
+Injuries / player notes (ESPN; 1 of 1 entries shown):
+- Giannis Antetokounmpo (F) | Day-To-Day | Thu Nov 26, 4:15 PM ET | Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.
 
 ## Florida Panthers (NHL) (ESPN team id 26)
 News (last days, newest first):
+- NHL Tonight: Your guide to the all-day, 15-game hockey bonanza on Black Friday | Fri Nov 27, 7:19 AM ET | https://www.espn.com/nhl/story/_/id/50595365/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting | Find game previews, betting intel, broadcast information, stats and highlights here.
 - Aleksander Barkov, Brad Marchand return for Panthers in win vs. Senators | Thu Nov 26, 1:36 PM ET | https://www.espn.com/nhl/story/_/id/50594065/aleksander-barkov-brad-marchand-returning-vs-senators | Aleksander Barkov and Brad Marchand were in the Panthers' lineup together for the first time since the title-clinching game of the 2025 Stanley Cup Final.
 - Florida visits Washington in Eastern Conference action | Thu Nov 26, 4:11 AM ET | http://www.espn.com/nhl/preview?gameId=401892801 | Florida Panthers (14-8-3, in the Atlantic Division) vs. Washington Capitals (11-11, in the Metropolitan Division)
 - Ottawa Senators vs. Florida Panthers: Game Highlights | Wed Nov 25, 10:11 PM ET | https://www.espn.com/video/clip/_/id/50600866/game-highlights | Ottawa Senators vs. Florida Panthers: Game Highlights
@@ -61,6 +62,8 @@ Injuries / player notes (ESPN; 1 of 1 entries shown):
 
 ## Florida Gators (college football) (ESPN team id 57)
 News (last days, newest first):
+- How every 2027 five-star college football prospect will fit | Fri Nov 27, 12:00 PM ET | https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take | There are 23 five-star players in the class, and we scout each one's game for the next level.
+- What rivalries have the biggest stakes? Connelly looks at the end of the season | Fri Nov 27, 9:39 AM ET | https://www.espn.com/college-football/story/_/id/50595179/connelly-rivalry-week-stakes-preview | Among 20 big games, some classic rivalries have fallen down the pecking order.
 - Week 13 Game Day Kickoff: Nothing compares to the outright hatred of a rival | Wed Nov 25, 2:44 PM ET | https://www.espn.com/college-football/story/_/page/gamedaykickoff112526/week-13-top-games-upsets-preview | What to expect in Rivalry Week, from top games and players to teams on upset alert.
 - Top 25 betting lines: USC favored at UCLA, Texas double-digit faves at Texas A&M | Wed Nov 25, 10:00 AM ET | https://www.espn.com/espn/betting/story/_/id/50571004/2026-college-football-week-13-top-25-betting-lines-odds | This week's odds and FPI predictions for UCLA-USC, Texas A&M-Texas and more.
 - Week 12 Anger Index: Indiana dropped how many spots?! | Wed Nov 25, 9:21 AM ET | https://www.espn.com/college-football/story/_/id/50582371/cfp-ranking-2026-anger-index-week-12 | Ranking the teams that should be most upset with the latest CFP rankings.
@@ -71,8 +74,6 @@ News (last days, newest first):
 - No Big Ten football teams in AP top 5 for first time since 2021 | Sun Nov 22, 3:22 PM ET | https://www.espn.com/college-football/story/_/id/50563638/no-big-ten-football-teams-ap-top-5-first-21 | A weekend of Big Ten upsets left the conference without a team in the top five of the AP Top 25 college football poll for the first time since 2021.
 - Who are the winningest college football coaches of all time? | Sat Nov 21, 6:00 PM ET | https://www.espn.com/college-football/story/_/id/39283806/who-winningest-college-football-coaches-all | From Saban to Paterno, there are many legendary college football coaches. Who has the best career record? Check out who has the most wins now.
 - No. 23 Florida takes advantage of a lucky bounce and beats Vanderbilt 34-27 in the Swamp | Sat Nov 21, 5:27 PM ET | http://www.espn.com/ncf/recap?gameId=401856748 | — Florida coach Jon Sumrall will take all the help he can get in his first season in Gainesville.
-- Vanderbilt Commodores vs. Florida Gators: Full Highlights | Sat Nov 21, 4:19 PM ET | https://www.espn.com/video/clip/_/id/50553260/full-highlights | Vanderbilt Commodores vs. Florida Gators: Full Highlights
-- Florida's Aaron Philo: I'm going to lay it on the line every time' | Sat Nov 21, 3:56 PM ET | https://www.espn.com/video/clip/_/id/50553465/going-lay-line-every | After another gutsy performance from Philo, he explains how his competitive spirit drives him to do whatever his Gator teammates need to help them get the win.
 
 ## Chelsea (soccer) (ESPN team id 363)
 News (last days, newest first):
@@ -87,7 +88,6 @@ News (last days, newest first):
 - Sources: Tom Brady buys stake in Chelsea after Birmingham exit | Fri Nov 20, 5:24 PM ET | https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources | Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.
 - Xabi Alonso: João Pedro still not available, whole team needs to step up | Fri Nov 20, 4:41 PM ET | https://www.espn.com/soccer/story/_/id/50541499/joao-pedro-unavailable-chelsea-injuries-team-news | Xabi Alonso said his Chelsea side need to learn to deal with the absence of João Pedro as the Blues struggle for goals in the absence of their injured striker.
 - Tom Brady tops list of athletes who became owners | Fri Nov 20, 3:47 PM ET | https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners | The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.
-- Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him? | Fri Nov 20, 4:01 AM ET | https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea | Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea this season. What's behind his lack of minutes?
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
