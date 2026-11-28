@@ -1,11 +1,10 @@
-# Sports digest (generated Sat Nov 28, 11:53 AM ET)
+# Sports digest (generated Sat Nov 28, 12:28 PM ET)
 
 Source notes: ESPN scoreboard data (unofficial endpoint), official MLB StatsAPI and NHL schedule API. All times are Eastern. [MY TEAM] marks the Dolphins, Panthers, Heat, Gators, Chelsea or Marlins.
 
 ## NFL
 Finals (last ~40h):
 - Denver Broncos 5 at Pittsburgh Steelers 27 | Final | Fri Nov 27, 3:00 PM ET | TV: Prime Video | Acrisure Stadium
-- Kansas City Chiefs 10 at Buffalo Bills 13 | Final | Thu Nov 26, 8:20 PM ET | TV: NBC | Highmark Stadium
 Next 7 days, my teams:
 - [MY TEAM] New York Jets at Miami Dolphins | 11/29 - 1:00 PM EST | Sun Nov 29, 1:00 PM ET | TV: CBS | Hard Rock Stadium
 Next 7 days, others (first 25):
@@ -128,18 +127,18 @@ Finals (last ~40h):
 - Tulsa Golden Hurricane 22 at UTSA Roadrunners 28 | Final | Fri Nov 27, 12:00 PM ET | TV: ESPN | Alamodome
 - Buffalo Bulls 17 at Akron Zips 9 | Final | Fri Nov 27, 12:00 PM ET | TV: CBSSN | InfoCision Stadium
 - Toledo Rockets 34 at Ohio Bobcats 31 | Final | Fri Nov 27, 12:00 PM ET | TV: ESPNU | Peden Stadium
-- TCU Horned Frogs 27 at Texas Tech Red Raiders 48 | ranks: Texas Tech Red Raiders #11 | Final | Thu Nov 26, 8:00 PM ET | TV: ESPN | Galaxy Stadium
+Live now:
+- Notre Dame Fighting Irish 7 at Syracuse Orange 7 | ranks: Notre Dame Fighting Irish #4 | 8:10 - 1st | Sat Nov 28, 12:00 PM ET | TV: ABC | JMA Wireless Dome
+- Boston College Eagles 3 at Miami Hurricanes 0 | ranks: Miami Hurricanes #7 | 6:12 - 1st | Sat Nov 28, 12:00 PM ET | TV: ESPN | Hard Rock Stadium
+- Louisville Cardinals 0 at Kentucky Wildcats 7 | ranks: Louisville Cardinals #19 | 4:39 - 1st | Sat Nov 28, 12:00 PM ET | TV: ESPN2 | Kroger Field
+- Michigan Wolverines 0 at Ohio State Buckeyes 7 | ranks: Ohio State Buckeyes #21 | 8:43 - 1st | Sat Nov 28, 12:00 PM ET | TV: Fox | Ohio Stadium
+- NC State Wolfpack 0 at North Carolina Tar Heels 14 | 3:55 - 1st | Sat Nov 28, 12:00 PM ET | TV: ACC Network | Kenan Stadium
+- UConn Huskies 0 at Wyoming Cowboys 3 | 4:29 - 1st | Sat Nov 28, 12:00 PM ET | TV: FS1 | War Memorial Stadium
+- Navy Midshipmen 0 at Charlotte 49ers 3 | 4:10 - 1st | Sat Nov 28, 12:00 PM ET | TV: ESPN+ | Jerry Richardson Stadium
+- Central Michigan Chippewas 0 at Ball State Cardinals 0 | 5:13 - 1st | Sat Nov 28, 12:00 PM ET | TV: CBSSN | Scheumann Stadium
+- Louisiana Tech Bulldogs 0 at Georgia Southern Eagles 0 | 5:31 - 1st | Sat Nov 28, 12:00 PM ET | TV: ESPNU | Allen E. Paulson Stadium
 Next 7 days: no game for my teams in this league's data
 Next 7 days, others (first 25):
-- Notre Dame Fighting Irish at Syracuse Orange | ranks: Notre Dame Fighting Irish #4 | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ABC | JMA Wireless Dome
-- Boston College Eagles at Miami Hurricanes | ranks: Miami Hurricanes #7 | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ESPN | Hard Rock Stadium
-- Louisville Cardinals at Kentucky Wildcats | ranks: Louisville Cardinals #19 | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ESPN2 | Kroger Field
-- Michigan Wolverines at Ohio State Buckeyes | ranks: Ohio State Buckeyes #21 | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: Fox | Ohio Stadium
-- NC State Wolfpack at North Carolina Tar Heels | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ACC Network | Kenan Stadium
-- UConn Huskies at Wyoming Cowboys | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: FS1 | War Memorial Stadium
-- Navy Midshipmen at Charlotte 49ers | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ESPN+ | Jerry Richardson Stadium
-- Central Michigan Chippewas at Ball State Cardinals | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: CBSSN | Scheumann Stadium
-- Louisiana Tech Bulldogs at Georgia Southern Eagles | 11/28 - 12:00 PM EST | Sat Nov 28, 12:00 PM ET | TV: ESPNU | Allen E. Paulson Stadium
 - Illinois Fighting Illini at Northwestern Wildcats | 11/28 - 12:30 PM EST | Sat Nov 28, 12:30 PM ET | TV: BTN | Ryan Field
 - LSU Tigers at Arkansas Razorbacks | 11/28 - 12:45 PM EST | Sat Nov 28, 12:45 PM ET | TV: SEC Network | Donald W. Reynolds Razorback Stadium
 - Florida Atlantic Owls at East Carolina Pirates | 11/28 - 1:00 PM EST | Sat Nov 28, 1:00 PM ET | TV: ESPN+ | Dowdy-Ficklen Stadium
@@ -156,6 +155,15 @@ Next 7 days, others (first 25):
 - New Mexico State Aggies at Middle Tennessee Blue Raiders | 11/28 - 2:00 PM EST | Sat Nov 28, 2:00 PM ET | TV: ESPN+ | Johnny "Red" Floyd Stadium
 - South Carolina Gamecocks at Clemson Tigers | 11/28 - 3:00 PM EST | Sat Nov 28, 3:00 PM ET | TV: ESPN2 | Memorial Stadium (Clemson, SC)
 - Virginia Cavaliers at Virginia Tech Hokies | 11/28 - 3:00 PM EST | Sat Nov 28, 3:00 PM ET | TV: CW | Lane Stadium
+- Troy Trojans at Arkansas State Red Wolves | 11/28 - 3:00 PM EST | Sat Nov 28, 3:00 PM ET | TV: ESPN+ | Centennial Bank Stadium
+- Georgia Tech Yellow Jackets at Georgia Bulldogs | ranks: Georgia Bulldogs #1 | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: ABC | Sanford Stadium
+- Duke Blue Devils at Wake Forest Demon Deacons | ranks: Wake Forest Demon Deacons #8 | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: ESPN, Disney+ | Allegacy Federal Credit Union Stadium
+- USC Trojans at UCLA Bruins | ranks: UCLA Bruins #9, USC Trojans #15 | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: CBS | Rose Bowl
+- Cincinnati Bearcats at BYU Cougars | ranks: BYU Cougars #10 | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: Fox | LaVell Edwards Stadium
+- SMU Mustangs at Stanford Cardinal | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: ACC Network | Stanford Stadium
+- Penn State Nittany Lions at Maryland Terrapins | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: FS1 | SECU Stadium
+- Tulane Green Wave at South Florida Bulls | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: ESPN+ | Raymond James Stadium
+- UTEP Miners at Northern Illinois Huskies | 11/28 - 3:30 PM EST | Sat Nov 28, 3:30 PM ET | TV: MW+ | Huskie Stadium
 
 ## Premier League
 Finals (last ~40h):
@@ -219,6 +227,7 @@ Next 7 days, others (first 25):
 - Burton Albion at Shrewsbury Town | Scheduled | Sat Dec 5, 10:00 AM ET | The Croud Meadow
 - Barnsley at Wigan Athletic | Scheduled | Sat Dec 5, 10:00 AM ET | DW Stadium
 - Carlisle United at York City | Scheduled | Sat Dec 5, 10:00 AM ET | LNER Community Stadium
+- Leicester City at Dover Athletic | Scheduled | Sat Dec 5, 12:15 PM ET | TV: ESPN+ | Crabble Athletic Ground
 
 ## NHL (official schedule API)
 Finals (last ~40h):

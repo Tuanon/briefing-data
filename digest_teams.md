@@ -1,4 +1,4 @@
-# Team digest (generated Sat Nov 28, 11:53 AM ET)
+# Team digest (generated Sat Nov 28, 12:28 PM ET)
 
 News headlines (filtered to stories tagged with or naming the team) and player notes for my teams from ESPN's unofficial endpoints. ESPN's injury list is really a player-news feed: each entry shows the player's latest note and status, which can lag or differ from the official game-day report, so confirm status with a second source before stating it. Pure stat-line notes are filtered out. 'none listed' can mean no injuries or that the endpoint returned nothing.
 
@@ -87,7 +87,6 @@ News (last days, newest first):
 - Will Mauricio Pochettino start strongly at Man United? What his career stats say | Sun Nov 22, 3:08 AM ET | https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea | Before Mauricio Pochettino leads Manchester United, how did his debuts at his previous teams go?
 - Chelsea in 'fragile moment' as Caicedo injury adds to pain of Leeds rout | Sat Nov 21, 6:00 PM ET | https://www.espn.com/soccer/story/_/id/50554949/chelsea-leeds-united-moises-caicedo-injury-xabi-alonso | Another crisis might be unfolding at Chelsea, just a few months into Xabi Alonso's tenure.
 - Alonso: Chelsea stopped believing after Leeds' equaliser | Sat Nov 21, 2:22 PM ET | https://www.espn.com/video/clip/_/id/50552243/chelsea-stopped-believing-leeds-equaliser | Xabi Alonso explains where it went wrong for Chelsea after a 4-1 defeat against Leeds in the Premier League.
-- Chelsea 1-4 Leeds: Okafor brace powers Farke's side to win - as it happened | Sat Nov 21, 12:23 PM ET | https://www.espn.com/soccer/story/_/id/50548968/chelsea-leeds-united-live-premier-league-updates | Leeds United won at Stamford Bridge for the first time since 1999 as Farke's side leapfrogged Chelsea in the table.
 
 ## Miami Marlins (MLB) (ESPN team id 28)
 News (last days, newest first):
